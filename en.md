@@ -159,6 +159,7 @@ Business & finance
     * [Bitcoin cryptocurrency](https://twitter.com/i/topics/1007360414114435072)
     * [$BTC](https://twitter.com/i/topics/1301195966125494272)
   * [Chainlink cryptocurrency](https://twitter.com/i/topics/1141036644029493249)
+  * [Coinbase](https://twitter.com/i/topics/1370436971940642819)
   * [Dash cryptocurrency](https://twitter.com/i/topics/1006891741532733440)
   * [Decred cryptocurrency](https://twitter.com/i/topics/1139199481608433664)
   * [Dogecoin cryptocurrency](https://twitter.com/i/topics/1139229372198469633)
@@ -290,6 +291,7 @@ Careers
   * [Philosophy](https://twitter.com/i/topics/1047111740322865153)
 * [Job searching & networking](https://twitter.com/i/topics/1197909704803901440)
 * [Marketing](https://twitter.com/i/topics/857879016971186177)
+* [Sound design & soundtracks](https://twitter.com/i/topics/1285715157738373120)
 
 Entertainment
 ==========
@@ -400,6 +402,7 @@ Entertainment
       * [Josephine Langford](https://twitter.com/i/topics/1080537051760517120)
       * [Margot Robbie](https://twitter.com/i/topics/941398370987282432)
     * British actors
+      * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
       * [Benedict Cumberbatch](https://twitter.com/i/topics/897190723153403904)
       * [Daisy Ridley](https://twitter.com/i/topics/909786670311948289)
       * [David Tennant](https://twitter.com/i/topics/974375382861299712)
@@ -547,7 +550,6 @@ Entertainment
       * [Song Hyekyo](https://twitter.com/i/topics/925710885225611265)
       * [Taecyeon](https://twitter.com/i/topics/890278608639410177)
       * [Yoo Seungho](https://twitter.com/i/topics/1063172151912460288)
-  * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
   * Famous comedians
     * [Famous comedians](https://twitter.com/i/topics/1242522851967504385)
     * [Chelsea Handler](https://twitter.com/i/topics/808774812898238464)
@@ -769,6 +771,7 @@ Entertainment
     * Series actors
       * [Series actors](https://twitter.com/i/topics/1303717652246884352)
       * [Angel Locsin](https://twitter.com/i/topics/810910520941215744)
+      * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
       * [Bert Kreischer](https://twitter.com/i/topics/1070726195812032512)
       * [Bob Morley](https://twitter.com/i/topics/897538321630453761)
       * [Brandy Norwood](https://twitter.com/i/topics/1070722401221062658)
@@ -1158,6 +1161,7 @@ Entertainment
     * [Malayalam film industry](https://twitter.com/i/topics/1364917631506022400)
     * [Malayalam cinema actors](https://twitter.com/i/topics/1364931678733406216)
     * [Malayalam cinema news](https://twitter.com/i/topics/1368937900599959554)
+    * [Malayalam cinema technicians](https://twitter.com/i/topics/1369257291426406400)
   * Tamil cinema
     * [Tamil cinema](https://twitter.com/i/topics/1360328997893066753)
     * [Tamil actors](https://twitter.com/i/topics/1360334490913046528)
@@ -1171,6 +1175,7 @@ Entertainment
       * [Film studios](https://twitter.com/i/topics/1286636921934852097)
       * [Studio Ghibli](https://twitter.com/i/topics/1115703486639788032)
     * [Screenwriting](https://twitter.com/i/topics/847869900274016260)
+    * [Sound design & soundtracks](https://twitter.com/i/topics/1285715157738373120)
     * [Storyboarding](https://twitter.com/i/topics/1294020871800029185)
   * Directors, producers & writers
     * [Ava DuVernay](https://twitter.com/i/topics/953280286963384320)
@@ -1243,13 +1248,16 @@ Entertainment
       * Adult animation
         * [Bob's Burgers](https://twitter.com/i/topics/1255600886904045568)
         * [Family Guy](https://twitter.com/i/topics/1255601767376515072)
+        * [Final Space](https://twitter.com/i/topics/1371873532980858882)
         * [Rick and Morty](https://twitter.com/i/topics/1255599434479460352)
         * [South Park](https://twitter.com/i/topics/1263276345091428353)
         * [The Simpsons](https://twitter.com/i/topics/1223191069757562880)
       * British comedy
         * [Ghosts](https://twitter.com/i/topics/1316031677672513537)
       * Dramedy series
+        * [Breeders](https://twitter.com/i/topics/1371879569339248640)
         * [Cobra Kai](https://twitter.com/i/topics/1312121485587226628)
+        * [Country Comfort](https://twitter.com/i/topics/1372227422137974788)
         * [Dickinson](https://twitter.com/i/topics/1346824964800794625)
         * [Emily in Paris](https://twitter.com/i/topics/1313814075961339904)
         * [Fleabag](https://twitter.com/i/topics/1328674696712187906)
@@ -1260,6 +1268,7 @@ Entertainment
         * [Shameless](https://twitter.com/i/topics/1223188681814499330)
         * [Succession](https://twitter.com/i/topics/1288240249630388224)
         * [The Marvelous Mrs. Maisel](https://twitter.com/i/topics/1275355136521453568)
+        * [The Mighty Ducks: Game Changers](https://twitter.com/i/topics/1372627903792357379)
         * [The Rookie](https://twitter.com/i/topics/1291722827268145159)
         * [Truth Seekers](https://twitter.com/i/topics/1321473200945991681)
         * [What We Do in the Shadows](https://twitter.com/i/topics/1288415104862625792)
@@ -1327,7 +1336,7 @@ Entertainment
         * [Celebrity Family Feud](https://twitter.com/i/topics/1315951201926561793)
         * [Jeopardy!](https://twitter.com/i/topics/1262862552519700480)
         * [Supermarket Sweep (US)](https://twitter.com/i/topics/1316445334067802113)
-        * [The Mysery Index](https://twitter.com/i/topics/1323702407952388102)
+        * [The Misery Index](https://twitter.com/i/topics/1323702407952388102)
         * [Wheel of Fortune](https://twitter.com/i/topics/1272458194711805953)
       * Music competition
         * [America's Got Talent](https://twitter.com/i/topics/1263588190180392961)
@@ -1338,6 +1347,7 @@ Entertainment
         * [The Voice (US)](https://twitter.com/i/topics/1223678652023357440)
       * Other competition
         * [Big Brother US](https://twitter.com/i/topics/1223187859395375104)
+        * [Pooch Perfect US](https://twitter.com/i/topics/1372636342203478016)
         * [Shark Tank](https://twitter.com/i/topics/1269757959967408128)
       * Survival competition
         * [Survivor](https://twitter.com/i/topics/1267704593300914176)
@@ -1363,6 +1373,7 @@ Entertainment
         * [Killing Eve](https://twitter.com/i/topics/1255215711644868608)
         * [L.A.'s Finest](https://twitter.com/i/topics/1305893294895853570)
         * [Law & Order: Special Victims Unit](https://twitter.com/i/topics/1223188345737494528)
+        * [Line of Duty](https://twitter.com/i/topics/1372910307715149831)
         * [Lupin](https://twitter.com/i/topics/1350070202927521792)
         * [MacGyver](https://twitter.com/i/topics/1292865423730302976)
         * [Magnum P.I](https://twitter.com/i/topics/1292850305382588422)
@@ -1381,6 +1392,7 @@ Entertainment
         * [The Blacklist](https://twitter.com/i/topics/1291030656546308103)
         * [The Good Lord Bird](https://twitter.com/i/topics/1324314160734195712)
         * [The Sopranos](https://twitter.com/i/topics/1328679353413103616)
+        * [Tyler Perry's Ruthless](https://twitter.com/i/topics/1371779242254495745)
       * Dark drama
         * [30 Coins](https://twitter.com/i/topics/1348645839707598850)
         * [A Teacher](https://twitter.com/i/topics/1323723743806464000)
@@ -1388,6 +1400,7 @@ Entertainment
         * [Better Call Saul](https://twitter.com/i/topics/1255221860851048448)
         * [Big Sky](https://twitter.com/i/topics/1326171412864774144)
         * [Breaking Bad](https://twitter.com/i/topics/1263551484706213889)
+        * [Calls](https://twitter.com/i/topics/1372210414243614726)
         * [Castle](https://twitter.com/i/topics/1286610655265435648)
         * [Chilling Adventures of Sabrina](https://twitter.com/i/topics/1270021897078497283)
         * [Clarice](https://twitter.com/i/topics/1364873437961838592)
@@ -1473,6 +1486,7 @@ Entertainment
       * [Pokémon](https://twitter.com/i/topics/10045599546)
       * [Sesame Street](https://twitter.com/i/topics/1263218608655626240)
       * [Steven Universe](https://twitter.com/i/topics/1263101211156205569)
+      * [Teenage Mutant Ninja Turtles](https://twitter.com/i/topics/1268833161288413185)
       * [The Fresh Prince of Bel-Air](https://twitter.com/i/topics/1270991452797956096)
     * Indian TV
       * [Indian TV](https://twitter.com/i/topics/1315635794531348481)
@@ -1538,8 +1552,10 @@ Entertainment
       * [Charmed](https://twitter.com/i/topics/1293170058810728449)
       * [Debris](https://twitter.com/i/topics/1369588132392230913)
       * [Fate: The Winx Saga](https://twitter.com/i/topics/1362356684719419395)
+      * [Final Space](https://twitter.com/i/topics/1371873532980858882)
       * [Game of Thrones](https://twitter.com/i/topics/1223187925224980482)
       * [His Dark Materials](https://twitter.com/i/topics/1323651721139113985)
+      * [Invincible](https://twitter.com/i/topics/1372621366952816642)
       * [Legacies](https://twitter.com/i/topics/1269778425398431744)
       * [Lucifer](https://twitter.com/i/topics/1275364880959205376)
       * [Manifest](https://twitter.com/i/topics/1269768292937289728)
@@ -1921,6 +1937,7 @@ Gaming
   * [Fortnite](https://twitter.com/i/topics/974285387987169280)
   * [Forza Motorsport](https://twitter.com/i/topics/10041743196)
   * [Gears of War](https://twitter.com/i/topics/988882978871758849)
+  * [Genshin Impact](https://twitter.com/i/topics/1310987643765678083)
   * [Ghost of Tsushima](https://twitter.com/i/topics/1004739234626879495)
   * [Ghost Recon](https://twitter.com/i/topics/10044519358)
   * [Girls' Frontline](https://twitter.com/i/topics/1034883605355360256)
@@ -3605,6 +3622,7 @@ Sports
     * New York Jets
       * [New York Jets](https://twitter.com/i/topics/689566305741967360)
       * [Joe Flacco](https://twitter.com/i/topics/872520807221678080)
+    * [NFL Draft](https://twitter.com/i/topics/1373999048424759299)
     * [NFL players](https://twitter.com/i/topics/1263187885970227200)
     * Philadelphia Eagles
       * [Philadelphia Eagles](https://twitter.com/i/topics/689566314990436352)
@@ -3644,17 +3662,18 @@ Sports
   * [Auto racing](https://twitter.com/i/topics/847900599387430912)
   * Formula 1
     * [Formula 1](https://twitter.com/i/topics/854701577994616832)
-    * [Fernando Alonso](https://twitter.com/i/topics/832536774773575681)
     * Formula 1 teams
       * [Formula 1 teams](https://twitter.com/i/topics/1166408917095550976)
       * [Alfa Romeo Racing](https://twitter.com/i/topics/854717821149786112)
+      * Alpine F1 Team
+        * [Alpine F1 Team](https://twitter.com/i/topics/854715286963929088)
+        * [Fernando Alonso](https://twitter.com/i/topics/832536774773575681)
+      * [Aston Martin Cognizant F1 Team](https://twitter.com/i/topics/1132043423186280448)
       * [McLaren F1](https://twitter.com/i/topics/854719107362467840)
       * Mercedes AMG F1
         * [Mercedes AMG F1](https://twitter.com/i/topics/854709695772217344)
         * [Lewis Hamilton](https://twitter.com/i/topics/809514988247232512)
-      * [Racing Point F1](https://twitter.com/i/topics/1132043423186280448)
-      * [Red Bull Racing](https://twitter.com/i/topics/854711040990248960)
-      * [Renault Sport F1](https://twitter.com/i/topics/854715286963929088)
+      * [Red Bull Racing Honda](https://twitter.com/i/topics/854711040990248960)
       * [Scuderia AlphaTauri](https://twitter.com/i/topics/854714182603755521)
       * [Scuderia Ferrari](https://twitter.com/i/topics/854706572252987392)
       * [Williams Racing](https://twitter.com/i/topics/854713206874427392)
@@ -3874,6 +3893,7 @@ Sports
       * [John Calipari](https://twitter.com/i/topics/834155258574036992)
     * [Louisville Cardinals](https://twitter.com/i/topics/706095571740659713)
     * [LSU Tigers](https://twitter.com/i/topics/706095579449831424)
+    * [March Madness](https://twitter.com/i/topics/1237537595736772608)
     * [Marquette Golden Eagles](https://twitter.com/i/topics/706095697162928129)
     * [Maryland Terrapins](https://twitter.com/i/topics/706095629857005568)
     * [Memphis Tigers](https://twitter.com/i/topics/706095617534078976)
@@ -3947,6 +3967,7 @@ Sports
     * [UConn Huskies](https://twitter.com/i/topics/1166013826749194240)
     * [Villanova Wildcats](https://twitter.com/i/topics/1166137786543431681)
     * [West Virginia Mountaineers](https://twitter.com/i/topics/1166065922248826880)
+    * [Women's March Madness](https://twitter.com/i/topics/1374373087320285191)
   * WNBA
     * [WNBA](https://twitter.com/i/topics/859816871570284544)
     * [Atlanta Dream](https://twitter.com/i/topics/859839097140953088)
@@ -4116,6 +4137,7 @@ Sports
       * [John Calipari](https://twitter.com/i/topics/834155258574036992)
     * [Louisville Cardinals](https://twitter.com/i/topics/706095571740659713)
     * [LSU Tigers](https://twitter.com/i/topics/706095579449831424)
+    * [March Madness](https://twitter.com/i/topics/1237537595736772608)
     * [Marquette Golden Eagles](https://twitter.com/i/topics/706095697162928129)
     * [Maryland Terrapins](https://twitter.com/i/topics/706095629857005568)
     * [Memphis Tigers](https://twitter.com/i/topics/706095617534078976)
@@ -4194,6 +4216,7 @@ Sports
     * [UConn Huskies](https://twitter.com/i/topics/1166013826749194240)
     * [Villanova Wildcats](https://twitter.com/i/topics/1166137786543431681)
     * [West Virginia Mountaineers](https://twitter.com/i/topics/1166065922248826880)
+    * [Women's March Madness](https://twitter.com/i/topics/1374373087320285191)
   * [NCAA Women's Golf](https://twitter.com/i/topics/1293602632116797445)
   * [NCAA Women's Gymnastics](https://twitter.com/i/topics/1298810518463864834)
   * [NCAA Women's Hockey](https://twitter.com/i/topics/1295788042209259520)
@@ -4314,6 +4337,7 @@ Sports
     * Delhi Capitals
       * [Delhi Capitals](https://twitter.com/i/topics/1235922855130304513)
       * [Ajinkya Rahane](https://twitter.com/i/topics/1239606280370569220)
+      * [Axar Patel](https://twitter.com/i/topics/1239638985506316293)
       * [Ravichandran Ashwin](https://twitter.com/i/topics/897829402200776704)
       * [Rishabh Pant](https://twitter.com/i/topics/1239620982643388416)
       * [Shikhar Dhawan](https://twitter.com/i/topics/897829407359770626)
@@ -4327,6 +4351,7 @@ Sports
       * [Mohammed Shami](https://twitter.com/i/topics/897829406671986688)
     * Kolkata Knight Riders
       * [Kolkata Knight Riders](https://twitter.com/i/topics/1235520758471725056)
+      * [Andre Russell](https://twitter.com/i/topics/897829407196237824)
       * [Dinesh Karthik](https://twitter.com/i/topics/1236979957907091456)
       * [Kuldeep Yadav](https://twitter.com/i/topics/1236987966360178688)
       * [Rahul Tripathi](https://twitter.com/i/topics/1237010193054961664)
@@ -4348,6 +4373,7 @@ Sports
       * [Steve Smith](https://twitter.com/i/topics/733774399422128128)
     * Royal Challengers Bangalore
       * [Royal Challengers Bangalore](https://twitter.com/i/topics/1235904901055524864)
+      * [Aaron Finch](https://twitter.com/i/topics/897829405677895681)
       * [AB de Villiers](https://twitter.com/i/topics/897829399889707009)
       * [Devdutt Padikkal](https://twitter.com/i/topics/1238549877409239040)
       * [Mohammed Siraj](https://twitter.com/i/topics/1296820916450557952)
@@ -4363,7 +4389,9 @@ Sports
       * [T Natarajan](https://twitter.com/i/topics/1235625924680282112)
   * Men's national cricket teams
     * [Men's national cricket teams](https://twitter.com/i/topics/1305489951593644033)
-    * [Australia](https://twitter.com/i/topics/897814236600057857)
+    * Australia
+      * [Australia](https://twitter.com/i/topics/897814236600057857)
+      * [Aaron Finch](https://twitter.com/i/topics/897829405677895681)
     * [Bangladesh](https://twitter.com/i/topics/897814280187265025)
     * England
       * [England](https://twitter.com/i/topics/897814268539682816)
@@ -4391,6 +4419,7 @@ Sports
     * [Sri Lanka](https://twitter.com/i/topics/897814258343223296)
     * West Indies
       * [West Indies](https://twitter.com/i/topics/897814257022062592)
+      * [Andre Russell](https://twitter.com/i/topics/897829407196237824)
       * [Chris Gayle](https://twitter.com/i/topics/828655837572837377)
   * Women's national cricket teams
     * [Women's national cricket teams](https://twitter.com/i/topics/1305490054651940864)
@@ -5153,8 +5182,10 @@ Sports
 * [Sporting goods](https://twitter.com/i/topics/1298254626077122560)
 * Sports events
   * [March Madness](https://twitter.com/i/topics/1237537595736772608)
+  * [NFL Draft](https://twitter.com/i/topics/1373999048424759299)
   * [Olympics](https://twitter.com/i/topics/1237760060828213249)
   * [Paralympics](https://twitter.com/i/topics/1300458642202742784)
+  * [Women's March Madness](https://twitter.com/i/topics/1374373087320285191)
 * Sports figures
   * Coaches
     * [Andy Reid](https://twitter.com/i/topics/806182225800622080)
@@ -5348,6 +5379,7 @@ Technology
     * [Bitcoin cryptocurrency](https://twitter.com/i/topics/1007360414114435072)
     * [$BTC](https://twitter.com/i/topics/1301195966125494272)
   * [Chainlink cryptocurrency](https://twitter.com/i/topics/1141036644029493249)
+  * [Coinbase](https://twitter.com/i/topics/1370436971940642819)
   * [Dash cryptocurrency](https://twitter.com/i/topics/1006891741532733440)
   * [Decred cryptocurrency](https://twitter.com/i/topics/1139199481608433664)
   * [Dogecoin cryptocurrency](https://twitter.com/i/topics/1139229372198469633)

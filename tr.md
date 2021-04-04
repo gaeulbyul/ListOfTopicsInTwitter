@@ -14,18 +14,25 @@ Eğlence
   * [Cem Yılmaz](https://twitter.com/i/topics/1367894286612660228)
 * Sinema ve televizyon
   * Dram dizileri
-    * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
+    * Aile draması
+      * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
+      * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
+    * Dram
+      * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
   * Türk dizileri
     * [Türk dizileri](https://twitter.com/i/topics/1287501285290201088)
+    * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
     * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
+    * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
   * Yarışma programları
     * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
 * Ünlüler
-  * Aktörler ve aktrisler
+  * Türk aktörler
+    * [Türk aktörler](https://twitter.com/i/topics/1367227293207126017)
     * [Can Yaman](https://twitter.com/i/topics/1367264100598751233)
     * [Cem Yılmaz](https://twitter.com/i/topics/1367894286612660228)
+    * [Kıvanç Tatlıtuğ](https://twitter.com/i/topics/1361689437382434816)
     * [Çağatay Ulusoy](https://twitter.com/i/topics/1367116541532102663)
-  * [Kıvanç Tatlıtuğ](https://twitter.com/i/topics/1361689437382434816)
 
 Gaming
 ==========
@@ -36,16 +43,22 @@ Gaming
 Haberler
 ==========
 
-* [Teknoloji Haberleri](https://twitter.com/i/topics/840160819388141570)
+* [Teknoloji haberleri](https://twitter.com/i/topics/840160819388141570)
 
-İş Dünyası ve Finans
+İş dünyası ve finans
 ==========
 
-* [İş Dünyası ve Finans](https://twitter.com/i/topics/781974596148793345)
+* [İş dünyası ve finans](https://twitter.com/i/topics/781974596148793345)
+* [Fintech](https://twitter.com/i/topics/1237094778463858688)
+* İş İnsanları
+  * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
 * Kripto paralar
   * [Kripto paralar](https://twitter.com/i/topics/913142676819648512)
-  * [Bitcoin kriptopara](https://twitter.com/i/topics/1007360414114435072)
-  * [Ethereum kriptopara](https://twitter.com/i/topics/1007361429752594432)
+  * [Bitcoin kripto para](https://twitter.com/i/topics/1007360414114435072)
+  * [Ethereum kripto para](https://twitter.com/i/topics/1007361429752594432)
+  * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
+* Yatırım
+  * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 
 Kariyer
 ==========
@@ -127,7 +140,9 @@ Spor
     * [Premier League ](https://twitter.com/i/topics/733756526872006656)
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
     * [Chelsea](https://twitter.com/i/topics/731226204225708033)
-    * [Liverpool FC](https://twitter.com/i/topics/731226219002265600)
+    * Liverpool FC
+      * [Liverpool FC](https://twitter.com/i/topics/731226219002265600)
+      * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
     * [Manchester City](https://twitter.com/i/topics/731226203856637952)
     * [Manchester United](https://twitter.com/i/topics/731226183572934657)
     * [Tottenham Hotspur](https://twitter.com/i/topics/731226239709515778)
@@ -141,10 +156,12 @@ Spor
     * [Süper Lig](https://twitter.com/i/topics/733756526075121664)
     * Beşiktaş J.K.
       * [Beşiktaş J.K.](https://twitter.com/i/topics/731226221703356416)
+      * [Atiba Hutchinson](https://twitter.com/i/topics/733774666704117761)
       * [Cenk Tosun](https://twitter.com/i/topics/733774005392412675)
       * [Cyle Larin](https://twitter.com/i/topics/733774723935395840)
       * [Josef de Souza Dias](https://twitter.com/i/topics/733774283143417856)
       * [Rachid Ghezzal](https://twitter.com/i/topics/733774328077025280)
+      * [Rıdvan Yılmaz](https://twitter.com/i/topics/1068326702378414080)
       * [Vincent Aboubakar](https://twitter.com/i/topics/733774159822520320)
     * Fenerbahçe S.K.
       * [Fenerbahçe S.K.](https://twitter.com/i/topics/1357412483284103168)
@@ -183,7 +200,9 @@ Spor
     * [Chelsea](https://twitter.com/i/topics/731226204225708033)
     * Juventus
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
-    * [Liverpool FC](https://twitter.com/i/topics/731226219002265600)
+    * Liverpool FC
+      * [Liverpool FC](https://twitter.com/i/topics/731226219002265600)
+      * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
     * [Manchester City](https://twitter.com/i/topics/731226203856637952)
 * Tenis
   * Erkek tenisi
@@ -202,13 +221,17 @@ Teknoloji
 ==========
 
 * [Teknoloji](https://twitter.com/i/topics/848920371311001600)
+* [Fintech](https://twitter.com/i/topics/1237094778463858688)
 * Kripto paralar
   * [Kripto paralar](https://twitter.com/i/topics/913142676819648512)
-  * [Bitcoin kriptopara](https://twitter.com/i/topics/1007360414114435072)
-  * [Ethereum kriptopara](https://twitter.com/i/topics/1007361429752594432)
+  * [Bitcoin kripto para](https://twitter.com/i/topics/1007360414114435072)
+  * [Ethereum kripto para](https://twitter.com/i/topics/1007361429752594432)
+  * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Teknoloji endüstrisi
   * [Netflix](https://twitter.com/i/topics/10026367762)
-* [Teknoloji Haberleri](https://twitter.com/i/topics/840160819388141570)
+* [Teknoloji haberleri](https://twitter.com/i/topics/840160819388141570)
+* Teknoloji kişilikleri
+  * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
 
 Yemek
 ==========

@@ -120,14 +120,15 @@ Deportes
     * [Formula 1](https://twitter.com/i/topics/854701577994616832)
     * Equipos de Fórmula 1
       * [Equipos de Fórmula 1](https://twitter.com/i/topics/1166408917095550976)
-      * McLaren F1
-        * [Carlos Sainz](https://twitter.com/i/topics/854999427597062144)
+      * Alpine F1 Team
+        * [Alpine F1 Team](https://twitter.com/i/topics/854715286963929088)
+        * [Fernando Alonso](https://twitter.com/i/topics/832536774773575681)
       * [Mercedes AMG F1](https://twitter.com/i/topics/854709695772217344)
-      * Red Bull Racing
+      * Red Bull Racing Honda
         * [Max Verstappen](https://twitter.com/i/topics/854737200667271168)
-      * [Renault Sport F1](https://twitter.com/i/topics/854715286963929088)
-      * [Scuderia Ferrari](https://twitter.com/i/topics/854706572252987392)
-    * [Fernando Alonso](https://twitter.com/i/topics/832536774773575681)
+      * Scuderia Ferrari
+        * [Scuderia Ferrari](https://twitter.com/i/topics/854706572252987392)
+        * [Carlos Sainz](https://twitter.com/i/topics/854999427597062144)
   * [NASCAR](https://twitter.com/i/topics/852178354279022592)
 * [Ciclismo](https://twitter.com/i/topics/847900751321997312)
 * [Críquet](https://twitter.com/i/topics/897814293395103744)
@@ -197,11 +198,13 @@ Deportes
     * [Boca Juniors](https://twitter.com/i/topics/731226243161411584)
     * [Cerro Porteno](https://twitter.com/i/topics/731226159954829312)
     * [Club Olimpia](https://twitter.com/i/topics/731226176539103234)
+    * [Colo-Colo](https://twitter.com/i/topics/731226216108150784)
     * [Defensor Sporting](https://twitter.com/i/topics/731226179835846656)
     * [Deportivo Lara](https://twitter.com/i/topics/757537065294630912)
     * [Emelec](https://twitter.com/i/topics/731226162530131972)
     * [Godoy Cruz](https://twitter.com/i/topics/731226161783545856)
     * [Huracan](https://twitter.com/i/topics/731226257371758592)
+    * [Independiente del Valle](https://twitter.com/i/topics/731226217760722946)
     * [Junior](https://twitter.com/i/topics/731226255454916609)
     * [L.D.U. Quito](https://twitter.com/i/topics/731226226585567232)
     * [Libertad](https://twitter.com/i/topics/731226211519631360)
@@ -217,8 +220,10 @@ Deportes
     * [Talleres Cordoba](https://twitter.com/i/topics/762974012221693953)
     * [Tolima](https://twitter.com/i/topics/731226233724276736)
     * [U. de Chile](https://twitter.com/i/topics/731226241882193920)
+    * [Universidad Católica](https://twitter.com/i/topics/731226237025161216)
     * [Zamora](https://twitter.com/i/topics/731226203042897925)
   * Copa Sudamericana
+    * [Independiente Santa Fe](https://twitter.com/i/topics/731226208738762753)
     * [Melgar](https://twitter.com/i/topics/731226166254653440)
   * Eredivisie
     * [Ajax](https://twitter.com/i/topics/827104267047571457)
@@ -362,6 +367,7 @@ Deportes
       * [Carlos Salcedo](https://twitter.com/i/topics/733774763064070144)
       * [Nahuel Guzman](https://twitter.com/i/topics/733773938782666754)
     * [Veracruz](https://twitter.com/i/topics/731226233707462657)
+    * [Xolos de Tijuana](https://twitter.com/i/topics/731226165394837504)
   * Ligue 1
     * [Ligue 1](https://twitter.com/i/topics/733756534648274945)
     * PSG
@@ -398,8 +404,10 @@ Deportes
     * Wolves
       * [Raul Jimenez](https://twitter.com/i/topics/733773890766299136)
   * Primera División de Chile
+    * [Colo-Colo](https://twitter.com/i/topics/731226216108150784)
     * [Palestino](https://twitter.com/i/topics/757537066255159299)
     * [U. de Chile](https://twitter.com/i/topics/731226241882193920)
+    * [Universidad Católica](https://twitter.com/i/topics/731226237025161216)
   * [Primera Iberdrola](https://twitter.com/i/topics/1299047199188250624)
   * Selecciones nacionales masculinas de fútbol
     * [Selecciones nacionales masculinas de fútbol](https://twitter.com/i/topics/1100397500890996736)
@@ -537,6 +545,7 @@ Entretenimiento
 * Celebridades
   * Actores
     * Actores británicos
+      * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
       * [Robert Pattinson](https://twitter.com/i/topics/864564607519563776)
       * [Tom Holland](https://twitter.com/i/topics/907607577294364672)
     * Actores norteamericanos
@@ -545,7 +554,6 @@ Entretenimiento
       * [Selena Gomez](https://twitter.com/i/topics/806556845703766016)
       * [Timothée Chalamet](https://twitter.com/i/topics/941395568630251520)
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
-  * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
   * Crushes
     * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
     * [Robert Pattinson](https://twitter.com/i/topics/864564607519563776)
@@ -601,6 +609,7 @@ Entretenimiento
       * [Nicki Minaj](https://twitter.com/i/topics/806590795469836288)
   * Estrellas de TV
     * Actores en series de TV
+      * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
       * [Mario Casas](https://twitter.com/i/topics/832613012485705728)
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
     * Actores en telenovelas
@@ -897,6 +906,7 @@ Música
 
 * [Música](https://twitter.com/i/topics/847524658970636288)
 * C-pop
+  * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
   * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
 * Electrónica y dance
   * [EDM](https://twitter.com/i/topics/849674653945569284)
@@ -915,7 +925,12 @@ Música
     * [Cardi B](https://twitter.com/i/topics/875059424255135744)
     * [Megan Thee Stallion](https://twitter.com/i/topics/1129377028048744449)
     * [Nicki Minaj](https://twitter.com/i/topics/806590795469836288)
-  * [Trap](https://twitter.com/i/topics/1233118510399680514)
+  * Trap
+    * [Trap](https://twitter.com/i/topics/1233118510399680514)
+    * [Bzrp](https://twitter.com/i/topics/1371903634707902464)
+    * [Khea](https://twitter.com/i/topics/1104126414196891648)
+    * [Nicki Nicole](https://twitter.com/i/topics/1371907343399542785)
+    * [Trueno](https://twitter.com/i/topics/1371911295511920640)
 * Indie & alternativo
   * Indie pop
     * [Mon LaFerte](https://twitter.com/i/topics/1002220317060644864)
@@ -966,6 +981,8 @@ Música
     * [BamBam (GOT7)](https://twitter.com/i/topics/892018223213797377)
     * [Jackson (GOT7)](https://twitter.com/i/topics/923628371136847872)
     * [JB (GOT7)](https://twitter.com/i/topics/894972039735398400)
+    * [Mark (GOT7)](https://twitter.com/i/topics/892012685352591360)
+    * [Youngjae (GOT7)](https://twitter.com/i/topics/892019201086414853)
     * [Yugyeom (GOT7)](https://twitter.com/i/topics/894973286085386240)
   * [ITZY](https://twitter.com/i/topics/1136006605483364353)
   * [Loona](https://twitter.com/i/topics/939167651992965121)
@@ -983,23 +1000,39 @@ Música
     * [Minhyuk (Monsta X)](https://twitter.com/i/topics/908748434789638144)
   * NCT
     * [NCT](https://twitter.com/i/topics/897126481884659712)
+    * [CHENLE](https://twitter.com/i/topics/913453215064104960)
+    * [DOYOUNG](https://twitter.com/i/topics/913453553863213056)
+    * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
+    * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
+    * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
+    * [YUTA](https://twitter.com/i/topics/913453859992887296)
   * NCT 127
     * [NCT 127](https://twitter.com/i/topics/910970076802695168)
+    * [CHENLE](https://twitter.com/i/topics/913453215064104960)
+    * [DOYOUNG](https://twitter.com/i/topics/913453553863213056)
+    * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
+    * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
+    * [YUTA](https://twitter.com/i/topics/913453859992887296)
   * NCT Dream
     * [NCT Dream](https://twitter.com/i/topics/910969991196950528)
+    * [CHENLE](https://twitter.com/i/topics/913453215064104960)
+    * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
+    * [JENO](https://twitter.com/i/topics/913453048474640384)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
   * Red Velvet
@@ -1031,6 +1064,7 @@ Música
     * [SuperM](https://twitter.com/i/topics/1167523042529906688)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
     * [KAI](https://twitter.com/i/topics/895348996796858368)
+    * [Mark (GOT7)](https://twitter.com/i/topics/892012685352591360)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
   * TOMORROW X TOGETHER
@@ -1039,6 +1073,7 @@ Música
     * [Huening Kai](https://twitter.com/i/topics/1085290403597668352)
     * [Soobin](https://twitter.com/i/topics/1085290348350324736)
     * [Taehyun](https://twitter.com/i/topics/1085929589124128768)
+    * [Yeonjun](https://twitter.com/i/topics/1083399594313080832)
   * TWICE
     * [TWICE](https://twitter.com/i/topics/894658146135793664)
     * [Chaeyoung](https://twitter.com/i/topics/912768818295877632)
@@ -1052,6 +1087,7 @@ Música
     * [Tzuyu](https://twitter.com/i/topics/912768859215499264)
   * WayV
     * [WayV](https://twitter.com/i/topics/1095439466544607232)
+    * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
   * [Wonho (Monsta X)](https://twitter.com/i/topics/908748404590731264)
 * Música brasileña
@@ -1065,10 +1101,12 @@ Música
     * [Aitana](https://twitter.com/i/topics/1189246025191440385)
     * [Alejandro Fernández](https://twitter.com/i/topics/808385401161281536)
     * [Banda MS](https://twitter.com/i/topics/966774716294873088)
+    * [Farruko](https://twitter.com/i/topics/1130851846166175745)
     * [Karol G](https://twitter.com/i/topics/1003322989276827648)
     * [Lali](https://twitter.com/i/topics/1105087170002345984)
     * [Luis Fonsi](https://twitter.com/i/topics/808372120765874177)
     * [Luis Miguel](https://twitter.com/i/topics/1107735918130024448)
+    * [Piso 21](https://twitter.com/i/topics/1108005709591924736)
     * [RBD](https://twitter.com/i/topics/1146828424951955456)
     * [Reik](https://twitter.com/i/topics/828657749487611907)
     * [Sofia Reyes](https://twitter.com/i/topics/989256441922912256)
@@ -1079,8 +1117,14 @@ Música
     * [Maluma](https://twitter.com/i/topics/887776619246501888)
     * [Mario Bautista](https://twitter.com/i/topics/828653559747006464)
     * [Natti Natasha](https://twitter.com/i/topics/1003308559939956737)
+    * [Piso 21](https://twitter.com/i/topics/1108005709591924736)
     * [Prince Royce](https://twitter.com/i/topics/808385979518025728)
-  * [Trap](https://twitter.com/i/topics/1233118510399680514)
+  * Trap
+    * [Trap](https://twitter.com/i/topics/1233118510399680514)
+    * [Bzrp](https://twitter.com/i/topics/1371903634707902464)
+    * [Khea](https://twitter.com/i/topics/1104126414196891648)
+    * [Nicki Nicole](https://twitter.com/i/topics/1371907343399542785)
+    * [Trueno](https://twitter.com/i/topics/1371911295511920640)
   * Urbano
     * [Urbano](https://twitter.com/i/topics/1099750818985562112)
     * [Nathy Peluso](https://twitter.com/i/topics/1362059303897636869)
@@ -1147,10 +1191,12 @@ Música
     * [Aitana](https://twitter.com/i/topics/1189246025191440385)
     * [Alejandro Fernández](https://twitter.com/i/topics/808385401161281536)
     * [Banda MS](https://twitter.com/i/topics/966774716294873088)
+    * [Farruko](https://twitter.com/i/topics/1130851846166175745)
     * [Karol G](https://twitter.com/i/topics/1003322989276827648)
     * [Lali](https://twitter.com/i/topics/1105087170002345984)
     * [Luis Fonsi](https://twitter.com/i/topics/808372120765874177)
     * [Luis Miguel](https://twitter.com/i/topics/1107735918130024448)
+    * [Piso 21](https://twitter.com/i/topics/1108005709591924736)
     * [RBD](https://twitter.com/i/topics/1146828424951955456)
     * [Reik](https://twitter.com/i/topics/828657749487611907)
     * [Sofia Reyes](https://twitter.com/i/topics/989256441922912256)
