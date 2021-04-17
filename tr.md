@@ -17,13 +17,17 @@ Eğlence
     * Aile draması
       * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
       * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
+      * [Yasak Elma](https://twitter.com/i/topics/1374296052711391235)
     * Dram
+      * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
       * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
   * Türk dizileri
     * [Türk dizileri](https://twitter.com/i/topics/1287501285290201088)
+    * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
     * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
     * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
     * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
+    * [Yasak Elma](https://twitter.com/i/topics/1374296052711391235)
   * Yarışma programları
     * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
 * Ünlüler
@@ -110,6 +114,7 @@ Seyahat
 Spor
 ==========
 
+* [Spor](https://twitter.com/i/topics/847900493514891265)
 * Araba yarışı
   * [Araba yarışı](https://twitter.com/i/topics/847900599387430912)
   * [Formula 1](https://twitter.com/i/topics/854701577994616832)
@@ -123,6 +128,7 @@ Spor
   * [Futbol](https://twitter.com/i/topics/733756536430809088)
   * Erkek millî futbol takımları
     * Arjantin
+      * [Alex de Souza](https://twitter.com/i/topics/1374714051754823680)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
     * Hollandalı futbol oyuncuları
       * [Ryan Babel](https://twitter.com/i/topics/776161899104784384)
@@ -132,6 +138,7 @@ Spor
       * [Oghenekaro Etebo](https://twitter.com/i/topics/757611834832670721)
     * Portekiz
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+    * [Türkiye Milli Futbol Takımı](https://twitter.com/i/topics/1376507190584901633)
   * La Liga
     * [La Liga](https://twitter.com/i/topics/733756520714752000)
     * Barcelona FC
@@ -212,6 +219,7 @@ Spor
     * [Yankı Erel](https://twitter.com/i/topics/1369408612477505536)
   * [Kadın tenisi](https://twitter.com/i/topics/1095424935726469120)
 * Önemli spor figürleri
+  * [Alex de Souza](https://twitter.com/i/topics/1374714051754823680)
   * Spor şahsiyetleri
     * [Cüneyt Çakır](https://twitter.com/i/topics/1364546548021923849)
   * Teknik direktör

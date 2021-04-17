@@ -131,6 +131,7 @@ Entretenimento
       * [Cardi B](https://twitter.com/i/topics/875059424255135744)
       * [Jay Z](https://twitter.com/i/topics/867001809843269633)
       * [Kanye West](https://twitter.com/i/topics/806561823407239169)
+      * [Lil Nas X](https://twitter.com/i/topics/1121835842677305344)
       * [Lizzo](https://twitter.com/i/topics/1117789006916243456)
       * [Megan Thee Stallion](https://twitter.com/i/topics/1129377028048744449)
       * [Nicki Minaj](https://twitter.com/i/topics/806590795469836288)
@@ -141,6 +142,7 @@ Entretenimento
       * [Livia Andrade](https://twitter.com/i/topics/834941780764209153)
       * [Lucero](https://twitter.com/i/topics/810925299625930753)
       * [Marcos Mion](https://twitter.com/i/topics/819200251697344512)
+      * [Sabrina Sato](https://twitter.com/i/topics/834936455378001920)
       * [Tatá Werneck](https://twitter.com/i/topics/810932146227425280)
     * Atores em novelas
       * [Adriana Esteves](https://twitter.com/i/topics/913082511604908032)
@@ -195,7 +197,6 @@ Entretenimento
       * [Kanye West](https://twitter.com/i/topics/806561823407239169)
       * [Kim Kardashian](https://twitter.com/i/topics/806570121959383040)
       * [Kylie Jenner](https://twitter.com/i/topics/806579980960350208)
-  * [Sabrina Sato](https://twitter.com/i/topics/834936455378001920)
 * Comédia
   * [Fabio Porchat](https://twitter.com/i/topics/819540027994611712)
   * [Tatá Werneck](https://twitter.com/i/topics/810932146227425280)
@@ -317,6 +318,8 @@ Entretenimento
       * [The Umbrella Academy](https://twitter.com/i/topics/1273897216051048448)
       * [The Walking Dead](https://twitter.com/i/topics/1223191197377712129)
       * [Wandavision](https://twitter.com/i/topics/1355166374893551619)
+    * Reality TV
+      * [De Férias com o Ex Brasil](https://twitter.com/i/topics/1356952002962485250)
   * [Trailers de filmes & TV](https://twitter.com/i/topics/1333475632651538432)
 * Franquias de entretenimento
   * [Franquias de entretenimento](https://twitter.com/i/topics/1074757527995277313)
@@ -640,6 +643,7 @@ Música
     * [Jay Z](https://twitter.com/i/topics/867001809843269633)
     * [Kanye West](https://twitter.com/i/topics/806561823407239169)
     * [Karol Conka](https://twitter.com/i/topics/889940652728786944)
+    * [Lil Nas X](https://twitter.com/i/topics/1121835842677305344)
     * [Lizzo](https://twitter.com/i/topics/1117789006916243456)
     * [Mano Brown](https://twitter.com/i/topics/1133373474985013248)
     * [Megan Thee Stallion](https://twitter.com/i/topics/1129377028048744449)

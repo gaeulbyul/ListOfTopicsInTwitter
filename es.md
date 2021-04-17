@@ -149,6 +149,7 @@ Deportes
   * [Estadísticas de fútbol](https://twitter.com/i/topics/1283462657194881025)
 * Eventos deportivos
   * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
+  * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
 * Figuras del deporte
   * Entrenadores
     * [Diego Simeone](https://twitter.com/i/topics/733774669057167360)
@@ -520,7 +521,9 @@ Deportes
     * [Lucha Libre](https://twitter.com/i/topics/839544341584474112)
     * [All Elite Wrestling](https://twitter.com/i/topics/1093980140185411584)
     * [Lucha Libre AAA Worldwide](https://twitter.com/i/topics/1100403365291249665)
-    * [WWE](https://twitter.com/i/topics/852587148666589184)
+    * WWE
+      * [WWE](https://twitter.com/i/topics/852587148666589184)
+      * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
   * MMA
     * [MMA](https://twitter.com/i/topics/839543857066848256)
     * [UFC](https://twitter.com/i/topics/852221476711186432)

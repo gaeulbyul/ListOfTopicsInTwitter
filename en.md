@@ -286,7 +286,6 @@ Careers
   * History
     * [History](https://twitter.com/i/topics/1047111583309029381)
     * [Aviation](https://twitter.com/i/topics/1254866831413657601)
-    * [Stamp & coin collection](https://twitter.com/i/topics/847870025721495552)
   * [Mathematics](https://twitter.com/i/topics/1237095288671596545)
   * [Philosophy](https://twitter.com/i/topics/1047111740322865153)
 * [Job searching & networking](https://twitter.com/i/topics/1197909704803901440)
@@ -462,6 +461,7 @@ Entertainment
       * [Anil Kapoor](https://twitter.com/i/topics/1027584961296052225)
       * [Anupam Kher](https://twitter.com/i/topics/808773665261109248)
       * [Anushka Sharma](https://twitter.com/i/topics/1027608164852629504)
+      * [Anushka Shetty](https://twitter.com/i/topics/1361731580578852865)
       * [Asim Riaz](https://twitter.com/i/topics/1282622027027738626)
       * [Chiranjeevi](https://twitter.com/i/topics/1354045977552773121)
       * [Deepika Padukone](https://twitter.com/i/topics/897188610704678912)
@@ -714,6 +714,7 @@ Entertainment
       * [Eminem](https://twitter.com/i/topics/808389766676811780)
       * [Jay Z](https://twitter.com/i/topics/867001809843269633)
       * [Kanye West](https://twitter.com/i/topics/806561823407239169)
+      * [Lil Nas X](https://twitter.com/i/topics/1121835842677305344)
       * [Lizzo](https://twitter.com/i/topics/1117789006916243456)
       * [Megan Thee Stallion](https://twitter.com/i/topics/1129377028048744449)
       * [Nicki Minaj](https://twitter.com/i/topics/806590795469836288)
@@ -981,6 +982,7 @@ Entertainment
   * [Star Trek](https://twitter.com/i/topics/1010220507482865665)
   * [Star Wars](https://twitter.com/i/topics/986247671663898625)
   * [The Witcher](https://twitter.com/i/topics/10045544169)
+  * [The World Ends With You](https://twitter.com/i/topics/951488105931988992)
   * [The X-Files](https://twitter.com/i/topics/1012453973129744385)
   * [Transformers](https://twitter.com/i/topics/1022485839232655360)
   * [Watchmen](https://twitter.com/i/topics/1290636159979155457)
@@ -1088,6 +1090,7 @@ Entertainment
     * [Anil Kapoor](https://twitter.com/i/topics/1027584961296052225)
     * [Anupam Kher](https://twitter.com/i/topics/808773665261109248)
     * [Anushka Sharma](https://twitter.com/i/topics/1027608164852629504)
+    * [Anushka Shetty](https://twitter.com/i/topics/1361731580578852865)
     * [Asim Riaz](https://twitter.com/i/topics/1282622027027738626)
     * [Chiranjeevi](https://twitter.com/i/topics/1354045977552773121)
     * [Deepika Padukone](https://twitter.com/i/topics/897188610704678912)
@@ -1345,6 +1348,7 @@ Entertainment
         * [RuPaul’s Drag Race](https://twitter.com/i/topics/1263210403007324160)
         * [The Masked Singer US](https://twitter.com/i/topics/1255211026548527104)
         * [The Voice (US)](https://twitter.com/i/topics/1223678652023357440)
+        * [Verzuz](https://twitter.com/i/topics/1266451317448294400)
       * Other competition
         * [Big Brother US](https://twitter.com/i/topics/1223187859395375104)
         * [Pooch Perfect US](https://twitter.com/i/topics/1372636342203478016)
@@ -1391,6 +1395,7 @@ Entertainment
         * [SWAT](https://twitter.com/i/topics/1295721266410741760)
         * [The Blacklist](https://twitter.com/i/topics/1291030656546308103)
         * [The Good Lord Bird](https://twitter.com/i/topics/1324314160734195712)
+        * [The Irregulars](https://twitter.com/i/topics/1372605905410301952)
         * [The Sopranos](https://twitter.com/i/topics/1328679353413103616)
         * [Tyler Perry's Ruthless](https://twitter.com/i/topics/1371779242254495745)
       * Dark drama
@@ -1427,6 +1432,7 @@ Entertainment
         * [A Million Little Things](https://twitter.com/i/topics/1301541409770463232)
         * [Eastenders](https://twitter.com/i/topics/1349721308641202177)
         * [Gilmore Girls](https://twitter.com/i/topics/1326649147953274880)
+        * [I Know This Much Is True](https://twitter.com/i/topics/1362088797152808963)
         * [Manifest](https://twitter.com/i/topics/1269768292937289728)
         * [This Is Us](https://twitter.com/i/topics/1263271904447623169)
         * [Unorthodox](https://twitter.com/i/topics/1288386655728988160)
@@ -2018,6 +2024,7 @@ Gaming
   * [The Division](https://twitter.com/i/topics/10044801922)
   * [The Elder Scrolls](https://twitter.com/i/topics/988835124224536576)
   * [The Elder Scrolls Online](https://twitter.com/i/topics/10044801918)
+  * [The Jackbox Party Pack](https://twitter.com/i/topics/1374882420005068800)
   * [The King of Fighters](https://twitter.com/i/topics/10046538487)
   * [The Last of Us](https://twitter.com/i/topics/1004742145515745280)
   * [The Legend of Zelda](https://twitter.com/i/topics/855303327088640000)
@@ -2203,6 +2210,7 @@ Music
     * [Kendrick Lamar](https://twitter.com/i/topics/807285677863759872)
     * [Kid Cudi](https://twitter.com/i/topics/1070725793762820096)
     * [Lil Durk](https://twitter.com/i/topics/885935116240826368)
+    * [Lil Nas X](https://twitter.com/i/topics/1121835842677305344)
     * [Lil Peep](https://twitter.com/i/topics/931123878335676417)
     * [Lil Uzi Vert](https://twitter.com/i/topics/875052382924660736)
     * [Lil Wayne](https://twitter.com/i/topics/806573149533794304)
@@ -3664,19 +3672,41 @@ Sports
     * [Formula 1](https://twitter.com/i/topics/854701577994616832)
     * Formula 1 teams
       * [Formula 1 teams](https://twitter.com/i/topics/1166408917095550976)
-      * [Alfa Romeo Racing](https://twitter.com/i/topics/854717821149786112)
+      * Alfa Romeo Racing
+        * [Alfa Romeo Racing](https://twitter.com/i/topics/854717821149786112)
+        * [Kimi Raikkonen](https://twitter.com/i/topics/854745512683028480)
       * Alpine F1 Team
         * [Alpine F1 Team](https://twitter.com/i/topics/854715286963929088)
+        * [Esteban Ocon](https://twitter.com/i/topics/854748428697346048)
         * [Fernando Alonso](https://twitter.com/i/topics/832536774773575681)
-      * [Aston Martin Cognizant F1 Team](https://twitter.com/i/topics/1132043423186280448)
-      * [McLaren F1](https://twitter.com/i/topics/854719107362467840)
+      * Aston Martin Cognizant F1 Team
+        * [Aston Martin Cognizant F1 Team](https://twitter.com/i/topics/1132043423186280448)
+        * [Lance Stroll](https://twitter.com/i/topics/854990475006099456)
+      * Haas F1 Team
+        * [Haas F1 Team](https://twitter.com/i/topics/854726860848078848)
+        * [Mick Schumacher](https://twitter.com/i/topics/1374805457575972864)
+        * [Nikita Mazepin](https://twitter.com/i/topics/1374801258586927106)
+      * McLaren F1
+        * [McLaren F1](https://twitter.com/i/topics/854719107362467840)
+        * [Daniel Ricciardo](https://twitter.com/i/topics/854736100396367872)
+        * [Lando Norris](https://twitter.com/i/topics/1131979469252509696)
       * Mercedes AMG F1
         * [Mercedes AMG F1](https://twitter.com/i/topics/854709695772217344)
         * [Lewis Hamilton](https://twitter.com/i/topics/809514988247232512)
-      * [Red Bull Racing Honda](https://twitter.com/i/topics/854711040990248960)
-      * [Scuderia AlphaTauri](https://twitter.com/i/topics/854714182603755521)
-      * [Scuderia Ferrari](https://twitter.com/i/topics/854706572252987392)
-      * [Williams Racing](https://twitter.com/i/topics/854713206874427392)
+        * [Valtteri Bottas](https://twitter.com/i/topics/854734647745421312)
+      * Red Bull Racing Honda
+        * [Red Bull Racing Honda](https://twitter.com/i/topics/854711040990248960)
+        * [Sergio Perez](https://twitter.com/i/topics/854747184780025856)
+      * Scuderia AlphaTauri
+        * [Scuderia AlphaTauri](https://twitter.com/i/topics/854714182603755521)
+        * [Pierre Gasly](https://twitter.com/i/topics/1132059848282034176)
+        * [Yuki Tsunoda](https://twitter.com/i/topics/1374775576716664832)
+      * Scuderia Ferrari
+        * [Scuderia Ferrari](https://twitter.com/i/topics/854706572252987392)
+        * [Charles Leclerc](https://twitter.com/i/topics/1034157504689627136)
+      * Williams Racing
+        * [Williams Racing](https://twitter.com/i/topics/854713206874427392)
+        * [George Russell](https://twitter.com/i/topics/1132080773052239872)
   * [Formula E](https://twitter.com/i/topics/967067893673242624)
   * [IndyCar](https://twitter.com/i/topics/839543178482987009)
   * Motorcycle racing
@@ -4322,6 +4352,7 @@ Sports
       * [The Undertaker](https://twitter.com/i/topics/1214980555143385088)
       * [Triple H](https://twitter.com/i/topics/809797897717882880)
       * [Vince McMahon](https://twitter.com/i/topics/956557224175747074)
+      * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
       * [Xavier Woods](https://twitter.com/i/topics/1214978542921867266)
       * [Zelina Vega](https://twitter.com/i/topics/1214258657338089479)
 * Cricket
@@ -4342,13 +4373,6 @@ Sports
       * [Rishabh Pant](https://twitter.com/i/topics/1239620982643388416)
       * [Shikhar Dhawan](https://twitter.com/i/topics/897829407359770626)
       * [Shreyas Iyer](https://twitter.com/i/topics/1239604184795582464)
-    * Kings XI Punjab
-      * [Kings XI Punjab](https://twitter.com/i/topics/1235529051491561474)
-      * [Chris Gayle](https://twitter.com/i/topics/828655837572837377)
-      * [Glenn Maxwell](https://twitter.com/i/topics/897829396681183232)
-      * [K L Rahul](https://twitter.com/i/topics/1237386186978549761)
-      * [Mayank Agarwal](https://twitter.com/i/topics/1237387964499386368)
-      * [Mohammed Shami](https://twitter.com/i/topics/897829406671986688)
     * Kolkata Knight Riders
       * [Kolkata Knight Riders](https://twitter.com/i/topics/1235520758471725056)
       * [Andre Russell](https://twitter.com/i/topics/897829407196237824)
@@ -4364,9 +4388,17 @@ Sports
       * [Rahul Chahar](https://twitter.com/i/topics/1238104576974131201)
       * [Rohit Sharma](https://twitter.com/i/topics/897829397742272512)
       * [Suryakumar Yadav](https://twitter.com/i/topics/1238086553164902400)
+    * Punjab Kings
+      * [Punjab Kings](https://twitter.com/i/topics/1235529051491561474)
+      * [Chris Gayle](https://twitter.com/i/topics/828655837572837377)
+      * [Glenn Maxwell](https://twitter.com/i/topics/897829396681183232)
+      * [K L Rahul](https://twitter.com/i/topics/1237386186978549761)
+      * [Mayank Agarwal](https://twitter.com/i/topics/1237387964499386368)
+      * [Mohammed Shami](https://twitter.com/i/topics/897829406671986688)
     * Rajasthan Royals
       * [Rajasthan Royals](https://twitter.com/i/topics/1235268733154643969)
       * [Ben Stokes](https://twitter.com/i/topics/1202214388997840897)
+      * [David Miller](https://twitter.com/i/topics/897829397389910016)
       * [Jos Buttler](https://twitter.com/i/topics/897829402221756416)
       * [Rahul Tewatia](https://twitter.com/i/topics/1236283382415278080)
       * [Sanju Samson](https://twitter.com/i/topics/1235941112839155713)
@@ -4416,6 +4448,7 @@ Sports
     * South Africa
       * [South Africa](https://twitter.com/i/topics/897814262525042688)
       * [AB de Villiers](https://twitter.com/i/topics/897829399889707009)
+      * [David Miller](https://twitter.com/i/topics/897829397389910016)
     * [Sri Lanka](https://twitter.com/i/topics/897814258343223296)
     * West Indies
       * [West Indies](https://twitter.com/i/topics/897814257022062592)
@@ -4431,6 +4464,7 @@ Sports
       * [India](https://twitter.com/i/topics/1235321887678328832)
       * [Mithali Raj](https://twitter.com/i/topics/1245312847191486464)
     * New Zealand
+      * [New Zealand](https://twitter.com/i/topics/897814255252062208)
       * [Suzie Bates](https://twitter.com/i/topics/1245334856306790401)
 * Cycling
   * [Cycling](https://twitter.com/i/topics/847900751321997312)
@@ -5185,7 +5219,10 @@ Sports
   * [NFL Draft](https://twitter.com/i/topics/1373999048424759299)
   * [Olympics](https://twitter.com/i/topics/1237760060828213249)
   * [Paralympics](https://twitter.com/i/topics/1300458642202742784)
+  * [Super Bowl](https://twitter.com/i/topics/1304458033888505856)
+  * [Tour de France](https://twitter.com/i/topics/1304499179339747328)
   * [Women's March Madness](https://twitter.com/i/topics/1374373087320285191)
+  * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
 * Sports figures
   * Coaches
     * [Andy Reid](https://twitter.com/i/topics/806182225800622080)

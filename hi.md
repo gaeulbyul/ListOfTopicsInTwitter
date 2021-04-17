@@ -26,9 +26,6 @@
   * [क्रिकेट ](https://twitter.com/i/topics/897814293395103744)
   * इंडियन प्रीमियर लीग
     * [इंडियन प्रीमियर लीग](https://twitter.com/i/topics/1225911676215517184)
-    * किंग्स इलेवन पंजाब
-      * [किंग्स इलेवन पंजाब](https://twitter.com/i/topics/1235529051491561474)
-      * [केएल राहुल](https://twitter.com/i/topics/1237386186978549761)
     * कोलकाता नाईट राइडर्स
       * [कोलकाता नाईट राइडर्स](https://twitter.com/i/topics/1235520758471725056)
       * [दिनेश कार्तिक](https://twitter.com/i/topics/1236979957907091456)
@@ -41,6 +38,9 @@
       * [दिल्ली कैपिटल्स](https://twitter.com/i/topics/1235922855130304513)
       * [ऋषभ पंत](https://twitter.com/i/topics/1239620982643388416)
       * [श्रेयस अय्यर](https://twitter.com/i/topics/1239604184795582464)
+    * पंजाब किंग्स
+      * [पंजाब किंग्स](https://twitter.com/i/topics/1235529051491561474)
+      * [केएल राहुल](https://twitter.com/i/topics/1237386186978549761)
     * मुंबई इंडियंस
       * [मुंबई इंडियंस](https://twitter.com/i/topics/1234827966716104708)
       * [ईशान किशन](https://twitter.com/i/topics/1238171732332011520)
