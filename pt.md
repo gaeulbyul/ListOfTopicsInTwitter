@@ -85,6 +85,7 @@ Entretenimento
       * [Timothée Chalamet](https://twitter.com/i/topics/941395568630251520)
       * [Viola Davis](https://twitter.com/i/topics/875071032993783808)
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
+  * [Chay Suede](https://twitter.com/i/topics/1054747383622328320)
   * Comediantes famosos
     * [Fabio Porchat](https://twitter.com/i/topics/819540027994611712)
     * [Tatá Werneck](https://twitter.com/i/topics/810932146227425280)
@@ -459,8 +460,6 @@ Esportes
     * Man Utd
       * [Man Utd](https://twitter.com/i/topics/731226183572934657)
       * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
-    * Tottenham
-      * [José Mourinho](https://twitter.com/i/topics/733774577839439872)
   * Primeira Liga
     * [FC Porto](https://twitter.com/i/topics/731226245392801792)
   * Seleções nacionais masculinas de futebol
@@ -492,11 +491,7 @@ Esportes
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
   * UEFA Europa League
-    * Man Utd
-      * [Man Utd](https://twitter.com/i/topics/731226183572934657)
-      * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
-    * Tottenham
-      * [José Mourinho](https://twitter.com/i/topics/733774577839439872)
+    * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
 * Futebol americano
   * [Futebol americano](https://twitter.com/i/topics/689566306014617600)
   * NFL
@@ -1032,6 +1027,11 @@ Profissões
 ==========
 
 * [ENEM](https://twitter.com/i/topics/1348990807903072266)
+
+Só no Twitter
+==========
+
+* [Tweets virais](https://twitter.com/i/topics/1284234742661963776)
 
 Tecnologia
 ==========

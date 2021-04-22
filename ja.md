@@ -410,8 +410,10 @@
     * イラストレーション
       * [イラストレーション](https://twitter.com/i/topics/847869251595542528)
       * [人気イラストレーター](https://twitter.com/i/topics/1297745907161509888)
+    * [奈良美智](https://twitter.com/i/topics/1375098518482812931)
     * [彫刻](https://twitter.com/i/topics/1046579830823706624)
     * [書道](https://twitter.com/i/topics/1206710758467231744)
+    * [村上隆](https://twitter.com/i/topics/1375101391773954062)
     * [版画](https://twitter.com/i/topics/1299113760322273280)
     * [絵画](https://twitter.com/i/topics/847869659957182464)
   * [写真](https://twitter.com/i/topics/847869714860605440)
@@ -474,11 +476,13 @@
     * [長田庄平](https://twitter.com/i/topics/1333413708685398020)
 * エンタメイベント
   * 映画・テレビイベント
+    * [アカデミー賞](https://twitter.com/i/topics/1222619725877796864)
     * [キングオブコント](https://twitter.com/i/topics/1324842939156103168)
     * [日本アカデミー賞](https://twitter.com/i/topics/1324833929912745984)
     * 映画祭
       * [東京国際映画祭](https://twitter.com/i/topics/1324131360743649281)
   * 音楽イベント
+    * [Japan Jam](https://twitter.com/i/topics/1379459304609095680)
     * [Record Store Day](https://twitter.com/i/topics/1313848563537833987)
     * [グラミー賞](https://twitter.com/i/topics/1299065112913874944)
     * [紅白歌合戦](https://twitter.com/i/topics/1324850959449616384)
@@ -790,6 +794,7 @@
     * [恋愛映画](https://twitter.com/i/topics/856977050619363328)
   * [映画ニュース](https://twitter.com/i/topics/1114213516271964160)
   * 映画・テレビイベント
+    * [アカデミー賞](https://twitter.com/i/topics/1222619725877796864)
     * [キングオブコント](https://twitter.com/i/topics/1324842939156103168)
     * [日本アカデミー賞](https://twitter.com/i/topics/1324833929912745984)
     * 映画祭
@@ -911,10 +916,12 @@
       * [国分太一](https://twitter.com/i/topics/1012405487088726016)
       * [土屋太鳳](https://twitter.com/i/topics/999026239410130944)
       * [坂口健太郎](https://twitter.com/i/topics/849138775116595200)
+      * [夏帆](https://twitter.com/i/topics/1197227361730609152)
       * [多部未華子](https://twitter.com/i/topics/1045051639118229504)
       * [大倉忠義](https://twitter.com/i/topics/1012067613734723584)
       * [大島優子](https://twitter.com/i/topics/844436542798020608)
       * [大泉洋](https://twitter.com/i/topics/1265402655301500928)
+      * [太田基裕](https://twitter.com/i/topics/1070724413522210817)
       * [奥野壮](https://twitter.com/i/topics/1106557169078427649)
       * [小松菜奈](https://twitter.com/i/topics/999015881937113088)
       * [小栗旬](https://twitter.com/i/topics/998997284850253824)
@@ -1107,8 +1114,6 @@
     * [阿部敦](https://twitter.com/i/topics/1070727596881588224)
     * [飯田里穂](https://twitter.com/i/topics/1070723961397248000)
     * [高橋李依](https://twitter.com/i/topics/1084888996415561730)
-  * [夏帆](https://twitter.com/i/topics/1197227361730609152)
-  * [太田基裕](https://twitter.com/i/topics/1070724413522210817)
   * 有名なお笑い芸人
     * [狩野英孝](https://twitter.com/i/topics/1062418434779078656)
 
@@ -1679,6 +1684,11 @@
   * [高校野球](https://twitter.com/i/topics/1372708450820517889)
 * [陸上競技](https://twitter.com/i/topics/1046539629501902848)
 * [馬術・競馬](https://twitter.com/i/topics/847901716024446977)
+
+ツイッターならでは
+==========
+
+* [話題のツイート](https://twitter.com/i/topics/1284234742661963776)
 
 テクノロジー
 ==========
@@ -2725,6 +2735,7 @@
   * [ヴァイオリン](https://twitter.com/i/topics/898269510100164608)
   * [声楽](https://twitter.com/i/topics/1308815844932071424)
 * 音楽イベント
+  * [Japan Jam](https://twitter.com/i/topics/1379459304609095680)
   * [Record Store Day](https://twitter.com/i/topics/1313848563537833987)
   * [グラミー賞](https://twitter.com/i/topics/1299065112913874944)
   * [紅白歌合戦](https://twitter.com/i/topics/1324850959449616384)

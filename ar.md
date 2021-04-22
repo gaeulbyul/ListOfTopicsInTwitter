@@ -2,6 +2,7 @@
 أنيمي ومانغا
 ==========
 
+* [أنمي](https://twitter.com/i/topics/839543165002506240)
 * [كوسبلاي](https://twitter.com/i/topics/1047106191829028865)
 * [كوميكس](https://twitter.com/i/topics/847521144173350912)
 
@@ -48,6 +49,8 @@
 ==========
 
 * [الاقتصاد و الأعمال](https://twitter.com/i/topics/781974596148793345)
+* الاتصالات
+  * [الاتصالات في السعودية](https://twitter.com/i/topics/1381904723482013697)
 * المهن التجارية
   * [محاسبة](https://twitter.com/i/topics/1047535852396507136)
 
@@ -64,10 +67,13 @@
   * المخرجون والمنتجون والكتاب
     * [علي نجم](https://twitter.com/i/topics/1093098222799613952)
   * تلفزيون
+    * [أنمي](https://twitter.com/i/topics/839543165002506240)
+    * [التلفزيون السعودي](https://twitter.com/i/topics/1381929509453111297)
     * [برامج حوارية](https://twitter.com/i/topics/1281312750648479744)
     * خيال علمي / دراما خيالية
       * [صراع العروش](https://twitter.com/i/topics/1223187925224980482)
     * [مسلسلات تركية](https://twitter.com/i/topics/1287501285290201088)
+    * [مسلسلات عربية](https://twitter.com/i/topics/1379438505890246658)
 * الامتيازات الرائجة
   * [دراغون بول](https://twitter.com/i/topics/1026525069474902017)
 * [البودكاست والراديو](https://twitter.com/i/topics/1074758954444513282)
@@ -77,6 +83,7 @@
   * [بوليوود](https://twitter.com/i/topics/1292818305992949761)
 * مشاهير
   * ممثلين سوريين
+    * [قصي خولي](https://twitter.com/i/topics/1092414512576135168)
     * [كندة علوش](https://twitter.com/i/topics/1092413522313506818)
     * [نسرين طافش](https://twitter.com/i/topics/1092416890893348864)
   * ممثلين لبنانيين
@@ -103,6 +110,9 @@
   * [أمن المعلومات](https://twitter.com/i/topics/1047123725525479425)
   * [الأمن السيبراني](https://twitter.com/i/topics/898650876658634752)
 * عالم التكنولوجيا
+  * [عالم التكنولوجيا](https://twitter.com/i/topics/1196446727181500416)
+  * [سبوتيفاي](https://twitter.com/i/topics/10040276669)
+  * [شاهد](https://twitter.com/i/topics/1379767477660311554)
   * [نتفليكس](https://twitter.com/i/topics/10026367762)
 
 السفر
@@ -147,9 +157,12 @@
   * [برج الميزان](https://twitter.com/i/topics/1138886683229806592)
 * الكتابة
   * [أشعار](https://twitter.com/i/topics/1087738701994573824)
+  * [أقوال وحكم](https://twitter.com/i/topics/1242158204751990788)
 * الكتب
   * [أشعار](https://twitter.com/i/topics/1087738701994573824)
   * [المؤلفون](https://twitter.com/i/topics/1166408461485101056)
+* تحريك صور
+  * [أنمي](https://twitter.com/i/topics/839543165002506240)
 * فن
   * [فن](https://twitter.com/i/topics/1265660441822281728)
   * [التصميم الداخلي](https://twitter.com/i/topics/1228032306784305152)
@@ -164,6 +177,7 @@
 المسار المهني
 ==========
 
+* [التعليم](https://twitter.com/i/topics/847546154439000064)
 * [طهاة وهواة طهي](https://twitter.com/i/topics/1091055942249046016)
 * [محاسبة](https://twitter.com/i/topics/1047535852396507136)
 
@@ -198,6 +212,8 @@
   * [نوال الزغبي](https://twitter.com/i/topics/1092463917610070016)
   * [هيفاء وهبي](https://twitter.com/i/topics/1087706059353948161)
   * [يارا](https://twitter.com/i/topics/1092460963284971520)
+* باك ستيج
+  * [سبوتيفاي](https://twitter.com/i/topics/10040276669)
 * بوب كوري
   * [بوب كوري](https://twitter.com/i/topics/888105153038958593)
   * إكسو
@@ -212,6 +228,7 @@
     * [شوقا](https://twitter.com/i/topics/895369555937157120)
   * [توايس](https://twitter.com/i/topics/894658146135793664)
   * [تي إكس تي](https://twitter.com/i/topics/1083397690140971008)
+  * [ذا بويز](https://twitter.com/i/topics/903633998194212864)
   * [ستراي كيدز](https://twitter.com/i/topics/1062427352318173185)
   * سوبر ام
     * [بيون بايك هيون](https://twitter.com/i/topics/895349090703122432)
@@ -220,6 +237,7 @@
   * [غوت سفن](https://twitter.com/i/topics/892035567948505088)
 * [موسيقى العالم](https://twitter.com/i/topics/849684971362988032)
 * موسيقى خليجية
+  * [موسيقى خليجية](https://twitter.com/i/topics/1174045995304247296)
   * [أحلام](https://twitter.com/i/topics/1087675782007185408)
   * [حسين الجسمي](https://twitter.com/i/topics/1092430154805084160)
   * [خالد عبدالرحمن](https://twitter.com/i/topics/1103250640019419136)
@@ -291,9 +309,7 @@
   * الدوري الأوروبي
     * [إيه سي ميلان](https://twitter.com/i/topics/731226162496593920)
     * [باير 04 ليفركوزن](https://twitter.com/i/topics/731226215797784576)
-    * توتنهام هوتسبير
-      * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
-      * [جوزيه مورينيو](https://twitter.com/i/topics/733774577839439872)
+    * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
     * [ليستر سيتي](https://twitter.com/i/topics/731226180259434496)
     * مانشستر يونايتد
       * [مانشستر يونايتد](https://twitter.com/i/topics/731226183572934657)
@@ -332,9 +348,7 @@
       * [أستون فيلا](https://twitter.com/i/topics/731226186269908993)
       * [محمود تريزيجيه](https://twitter.com/i/topics/733774699935588352)
     * [تشيلسي](https://twitter.com/i/topics/731226204225708033)
-    * توتنهام هوتسبير
-      * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
-      * [جوزيه مورينيو](https://twitter.com/i/topics/733774577839439872)
+    * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
     * [شيفيلد يونايتد](https://twitter.com/i/topics/731226218586996737)
     * [ليستر سيتي](https://twitter.com/i/topics/731226180259434496)
     * مانشستر سيتي
@@ -372,7 +386,10 @@
     * نادي الرائد السعودي
       * [نادي الرائد السعودي](https://twitter.com/i/topics/1166367522964131840)
       * [شيكابالا](https://twitter.com/i/topics/733773846495395840)
-    * [نادي النصر السعودي](https://twitter.com/i/topics/731226232654725120)
+    * نادي النصر السعودي
+      * [نادي النصر السعودي](https://twitter.com/i/topics/731226232654725120)
+      * [بيتروس](https://twitter.com/i/topics/733774436889858050)
+      * [عبد الرزاق حمد الله](https://twitter.com/i/topics/733774633665581056)
     * نادي الهلال السعودي
       * [نادي الهلال السعودي](https://twitter.com/i/topics/731226182767640577)
       * [بافيتيمبي غوميز](https://twitter.com/i/topics/1166041452704485376)
@@ -394,7 +411,10 @@
   * دوري أبطال آسيا
     * [دوري أبطال آسيا](https://twitter.com/i/topics/733756527341797376)
     * [نادي الدحيل الرياضي](https://twitter.com/i/topics/731226246240043008)
-    * [نادي النصر السعودي](https://twitter.com/i/topics/731226232654725120)
+    * نادي النصر السعودي
+      * [نادي النصر السعودي](https://twitter.com/i/topics/731226232654725120)
+      * [بيتروس](https://twitter.com/i/topics/733774436889858050)
+      * [عبد الرزاق حمد الله](https://twitter.com/i/topics/733774633665581056)
   * دوري أبطال أوروبا
     * [دوري أبطال أوروبا](https://twitter.com/i/topics/733756536875454464)
     * [أتلتيكو مدريد](https://twitter.com/i/topics/731226217395818496)
@@ -463,3 +483,9 @@
   * [كرة مضرب للرجال](https://twitter.com/i/topics/1151880503659618305)
 * [كرة اليد](https://twitter.com/i/topics/839543534990446592)
 * [كره السله](https://twitter.com/i/topics/706083902411055104)
+
+فقط على تويتر
+==========
+
+* [Funny Tweets](https://twitter.com/i/topics/1291673117010534401)
+* [التغريدات الأكثر إعجابا](https://twitter.com/i/topics/1284234742661963776)

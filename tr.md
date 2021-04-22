@@ -10,26 +10,39 @@ Eğlence
 * [Dijital içerik üreticileri](https://twitter.com/i/topics/839543456678596608)
 * Eğlenceli bayilikleri
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
+* Eğlenceli etkinlikler
+  * [Oscar Ödülleri](https://twitter.com/i/topics/1222619725877796864)
 * Komedi
   * [Cem Yılmaz](https://twitter.com/i/topics/1367894286612660228)
 * Sinema ve televizyon
-  * Dram dizileri
-    * Aile draması
-      * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
-      * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
-      * [Yasak Elma](https://twitter.com/i/topics/1374296052711391235)
-    * Dram
+  * Sinema ve televizyon etkinlikleri
+    * [Oscar Ödülleri](https://twitter.com/i/topics/1222619725877796864)
+  * Televizyon
+    * Dram dizileri
+      * Aile draması
+        * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
+        * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
+        * [Yasak Elma](https://twitter.com/i/topics/1374296052711391235)
+      * Dram
+        * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
+        * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
+    * Komedi TV dizileri
+      * [Menajerimi Ara](https://twitter.com/i/topics/1381202763309228032)
+    * Türk dizileri
+      * [Türk dizileri](https://twitter.com/i/topics/1287501285290201088)
+      * [Camdaki Kız](https://twitter.com/i/topics/1380515191507447817)
       * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
       * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
-  * Türk dizileri
-    * [Türk dizileri](https://twitter.com/i/topics/1287501285290201088)
-    * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
-    * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
-    * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
-    * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
-    * [Yasak Elma](https://twitter.com/i/topics/1374296052711391235)
-  * Yarışma programları
-    * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
+      * [Maraşlı](https://twitter.com/i/topics/1381596237980307459)
+      * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
+      * [Menajerimi Ara](https://twitter.com/i/topics/1381202763309228032)
+      * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
+      * [Sefirin Kızı](https://twitter.com/i/topics/1381213435480862720)
+      * [Sen Çal Kapımı](https://twitter.com/i/topics/1381749495638020098)
+      * [Yasak Elma](https://twitter.com/i/topics/1374296052711391235)
+      * [Çukur](https://twitter.com/i/topics/1381191630389006340)
+    * Yarışma programları
+      * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
 * Ünlüler
   * Türk aktörler
     * [Türk aktörler](https://twitter.com/i/topics/1367227293207126017)
@@ -126,6 +139,10 @@ Spor
   * [NBA](https://twitter.com/i/topics/706083889454813185)
 * Futbol
   * [Futbol](https://twitter.com/i/topics/733756536430809088)
+  * Bundesliga
+    * [Bundesliga](https://twitter.com/i/topics/733756521230667776)
+    * [Bayern Münih](https://twitter.com/i/topics/731226192859172864)
+    * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
   * Erkek millî futbol takımları
     * Arjantin
       * [Alex de Souza](https://twitter.com/i/topics/1374714051754823680)
@@ -142,7 +159,13 @@ Spor
   * La Liga
     * [La Liga](https://twitter.com/i/topics/733756520714752000)
     * Barcelona FC
+      * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * [Real Madrid CF](https://twitter.com/i/topics/731226239898259457)
+  * Ligue 1
+    * LOSC
+      * [Yusuf Yazıcı](https://twitter.com/i/topics/733774690632663040)
+    * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
   * Premier League 
     * [Premier League ](https://twitter.com/i/topics/733756526872006656)
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
@@ -158,6 +181,7 @@ Spor
   * Serie A
     * [Serie A](https://twitter.com/i/topics/733756520261767169)
     * Juventus
+      * [Juventus](https://twitter.com/i/topics/731226195937779713)
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * Süper Lig
     * [Süper Lig](https://twitter.com/i/topics/733756526075121664)
@@ -197,27 +221,38 @@ Spor
       * [Younes Belhanda](https://twitter.com/i/topics/733774219650072576)
   * UEFA Avrupa Ligi
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
+    * LOSC
+      * [Yusuf Yazıcı](https://twitter.com/i/topics/733774690632663040)
     * [Manchester United](https://twitter.com/i/topics/731226183572934657)
     * Sporting CP
       * [Valentin Rosier](https://twitter.com/i/topics/748794240562372608)
     * [Tottenham Hotspur](https://twitter.com/i/topics/731226239709515778)
   * UEFA Şampiyonlar Ligi
+    * [UEFA Şampiyonlar Ligi](https://twitter.com/i/topics/733756536875454464)
     * Barcelona FC
+      * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * [Bayern Münih](https://twitter.com/i/topics/731226192859172864)
+    * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
     * [Chelsea](https://twitter.com/i/topics/731226204225708033)
     * Juventus
+      * [Juventus](https://twitter.com/i/topics/731226195937779713)
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
     * Liverpool FC
       * [Liverpool FC](https://twitter.com/i/topics/731226219002265600)
       * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
     * [Manchester City](https://twitter.com/i/topics/731226203856637952)
+    * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
+    * [Real Madrid CF](https://twitter.com/i/topics/731226239898259457)
 * Tenis
   * Erkek tenisi
     * [Erkek tenisi](https://twitter.com/i/topics/1151880503659618305)
     * [Novak Djokovic](https://twitter.com/i/topics/809505068248494080)
     * [Roger Federer](https://twitter.com/i/topics/809505480577953792)
     * [Yankı Erel](https://twitter.com/i/topics/1369408612477505536)
-  * [Kadın tenisi](https://twitter.com/i/topics/1095424935726469120)
+  * Kadın tenisi
+    * [Kadın tenisi](https://twitter.com/i/topics/1095424935726469120)
+    * [Çağla Büyükakçay](https://twitter.com/i/topics/1369395086736257025)
 * Önemli spor figürleri
   * [Alex de Souza](https://twitter.com/i/topics/1374714051754823680)
   * Spor şahsiyetleri

@@ -910,7 +910,10 @@ Música
 * [Música](https://twitter.com/i/topics/847524658970636288)
 * C-pop
   * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+  * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
   * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
+  * [WINWIN](https://twitter.com/i/topics/913453906297892864)
+  * [Xiaojun (NCT)](https://twitter.com/i/topics/1234477917695987712)
 * Electrónica y dance
   * [EDM](https://twitter.com/i/topics/849674653945569284)
   * [Música electrónica](https://twitter.com/i/topics/849684313704611840)
@@ -931,6 +934,7 @@ Música
   * Trap
     * [Trap](https://twitter.com/i/topics/1233118510399680514)
     * [Bzrp](https://twitter.com/i/topics/1371903634707902464)
+    * [Duki](https://twitter.com/i/topics/1233117440856346624)
     * [Khea](https://twitter.com/i/topics/1104126414196891648)
     * [Nicki Nicole](https://twitter.com/i/topics/1371907343399542785)
     * [Trueno](https://twitter.com/i/topics/1371911295511920640)
@@ -1009,12 +1013,18 @@ Música
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
+    * [JOHNNY (NCT)](https://twitter.com/i/topics/913453767650971650)
     * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+    * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
+    * [TAEIL (NCT)](https://twitter.com/i/topics/913453509072232448)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
+    * [WINWIN](https://twitter.com/i/topics/913453906297892864)
+    * [Xiaojun (NCT)](https://twitter.com/i/topics/1234477917695987712)
     * [YUTA](https://twitter.com/i/topics/913453859992887296)
   * NCT 127
     * [NCT 127](https://twitter.com/i/topics/910970076802695168)
@@ -1024,11 +1034,15 @@ Música
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
+    * [JOHNNY (NCT)](https://twitter.com/i/topics/913453767650971650)
     * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
+    * [TAEIL (NCT)](https://twitter.com/i/topics/913453509072232448)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
+    * [WINWIN](https://twitter.com/i/topics/913453906297892864)
     * [YUTA](https://twitter.com/i/topics/913453859992887296)
   * NCT Dream
     * [NCT Dream](https://twitter.com/i/topics/910969991196950528)
@@ -1036,6 +1050,7 @@ Música
     * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
   * Red Velvet
@@ -1067,6 +1082,7 @@ Música
     * [SuperM](https://twitter.com/i/topics/1167523042529906688)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
     * [KAI](https://twitter.com/i/topics/895348996796858368)
+    * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
     * [Mark (GOT7)](https://twitter.com/i/topics/892012685352591360)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
@@ -1088,10 +1104,15 @@ Música
     * [Nayeon](https://twitter.com/i/topics/912768338748567555)
     * [Sana](https://twitter.com/i/topics/912768584840916992)
     * [Tzuyu](https://twitter.com/i/topics/912768859215499264)
+  * Wanna One
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
   * WayV
     * [WayV](https://twitter.com/i/topics/1095439466544607232)
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+    * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
+    * [WINWIN](https://twitter.com/i/topics/913453906297892864)
+    * [Xiaojun (NCT)](https://twitter.com/i/topics/1234477917695987712)
   * [Wonho (Monsta X)](https://twitter.com/i/topics/908748404590731264)
 * Música brasileña
   * [Anitta](https://twitter.com/i/topics/828635393868206080)
@@ -1125,6 +1146,7 @@ Música
   * Trap
     * [Trap](https://twitter.com/i/topics/1233118510399680514)
     * [Bzrp](https://twitter.com/i/topics/1371903634707902464)
+    * [Duki](https://twitter.com/i/topics/1233117440856346624)
     * [Khea](https://twitter.com/i/topics/1104126414196891648)
     * [Nicki Nicole](https://twitter.com/i/topics/1371907343399542785)
     * [Trueno](https://twitter.com/i/topics/1371911295511920640)
@@ -1270,6 +1292,12 @@ Profesiones
 * [Publicidad](https://twitter.com/i/topics/857878521472888832)
 * Ámbito de estudio
   * [Historia](https://twitter.com/i/topics/1047111583309029381)
+
+Solo en Twitter
+==========
+
+* [Tweets divertidos](https://twitter.com/i/topics/1291673117010534401)
+* [Tweets virales](https://twitter.com/i/topics/1284234742661963776)
 
 Tecnología
 ==========
