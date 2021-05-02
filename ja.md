@@ -247,6 +247,7 @@
 * 特撮
   * [特撮](https://twitter.com/i/topics/1248370550247849988)
   * [ウルトラマン](https://twitter.com/i/topics/1105166418675294208)
+  * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
   * [仮面ライダー](https://twitter.com/i/topics/1207744369144414208)
   * 怪獣
     * [怪獣](https://twitter.com/i/topics/1296035544485392384)
@@ -389,6 +390,7 @@
 * 特撮
   * [特撮](https://twitter.com/i/topics/1248370550247849988)
   * [ウルトラマン](https://twitter.com/i/topics/1105166418675294208)
+  * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
   * [仮面ライダー](https://twitter.com/i/topics/1207744369144414208)
   * 怪獣
     * [怪獣](https://twitter.com/i/topics/1296035544485392384)
@@ -458,16 +460,19 @@
     * [クロちゃん](https://twitter.com/i/topics/1070353703683579909)
     * [タモリ](https://twitter.com/i/topics/1012352840294002689)
     * [チョコレートプラネット](https://twitter.com/i/topics/1062418440969809921)
+    * [ナインティナイン](https://twitter.com/i/topics/1382037590757363712)
     * [井戸田潤](https://twitter.com/i/topics/1062418434779049984)
     * [出川哲朗](https://twitter.com/i/topics/1062418447424843776)
     * [千鳥](https://twitter.com/i/topics/1062418434774859776)
     * [又吉直樹](https://twitter.com/i/topics/1062418441158582272)
     * [小島よしお](https://twitter.com/i/topics/1333407977538088960)
+    * [岡村隆史](https://twitter.com/i/topics/1163552085335404544)
     * [有吉弘行](https://twitter.com/i/topics/810761039801294848)
     * [木村祐一](https://twitter.com/i/topics/1070724836173856768)
     * [松本人志](https://twitter.com/i/topics/810760738297942016)
     * [渡辺直美](https://twitter.com/i/topics/844426451113861120)
     * [狩野英孝](https://twitter.com/i/topics/1062418434779078656)
+    * [矢部浩之](https://twitter.com/i/topics/1382035260532150275)
     * [石田明](https://twitter.com/i/topics/1062418434774822912)
     * [秋山竜次](https://twitter.com/i/topics/1062418434779099138)
     * [笑福亭鶴瓶](https://twitter.com/i/topics/1157337456846364675)
@@ -653,6 +658,7 @@
   * [ラジオ](https://twitter.com/i/topics/1074758954444513282)
   * [TBSラジオ](https://twitter.com/i/topics/1321556636184453120)
   * [オールナイトニッポン](https://twitter.com/i/topics/1207451586999402496)
+  * [ナインティナインのオールナイトニッポン](https://twitter.com/i/topics/1382041863079698433)
   * [ニッポン放送](https://twitter.com/i/topics/1321852725240291331)
   * [ラジオトーク番組](https://twitter.com/i/topics/847527324043968512)
   * [三四郎のオールナイトニッポン0](https://twitter.com/i/topics/1143227915200425984)
@@ -769,6 +775,7 @@
     * 特撮
       * [特撮](https://twitter.com/i/topics/1248370550247849988)
       * [ウルトラマン](https://twitter.com/i/topics/1105166418675294208)
+      * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
       * [仮面ライダー](https://twitter.com/i/topics/1207744369144414208)
       * 怪獣
         * [怪獣](https://twitter.com/i/topics/1296035544485392384)
@@ -1222,6 +1229,7 @@
   * [ギルティギア](https://twitter.com/i/topics/10046538474)
   * [クイズRPG 魔法使いと黒猫のウィズ](https://twitter.com/i/topics/1075168573218123786)
   * [クッキーラン](https://twitter.com/i/topics/1034896453347360768)
+  * [クラッシュ・オブ・クラン](https://twitter.com/i/topics/855317585268662274)
   * [クラッシュ・ロワイヤル](https://twitter.com/i/topics/855318829022367745)
   * [グランツーリスモ](https://twitter.com/i/topics/10041743220)
   * [グランド・セフト・オート](https://twitter.com/i/topics/856568905648578560)
@@ -1320,6 +1328,7 @@
   * [Oculus](https://twitter.com/i/topics/1220854205558034432)
   * [PlayStation 4](https://twitter.com/i/topics/1201628202105335808)
   * [PlayStation 5](https://twitter.com/i/topics/1201630019065274369)
+  * [PlayStation Vita](https://twitter.com/i/topics/1201630855812112384)
   * [Xbox One](https://twitter.com/i/topics/1201627082238742528)
   * [ニンテンドー3DS](https://twitter.com/i/topics/1201620375613788161)
 * ゲーム開発
@@ -1441,8 +1450,10 @@
       * [エデン・アザール](https://twitter.com/i/topics/733774079166046210)
       * [ジネディーヌ・ジダン](https://twitter.com/i/topics/733774359341338625)
   * UEFAヨーロッパリーグ
+    * [ACミラン](https://twitter.com/i/topics/731226162496593920)
     * [AFCアヤックス](https://twitter.com/i/topics/827104267047571457)
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
+    * [Man Utd](https://twitter.com/i/topics/731226183572934657)
     * [トッテナム・ホットスパー](https://twitter.com/i/topics/731226239709515778)
   * エールディヴィジ
     * [AFCアヤックス](https://twitter.com/i/topics/827104267047571457)
@@ -1463,6 +1474,7 @@
       * [槙野智章](https://twitter.com/i/topics/733774344950714369)
   * セリエA 
     * [セリエA ](https://twitter.com/i/topics/733756520261767169)
+    * [ACミラン](https://twitter.com/i/topics/731226162496593920)
     * UCサンプドリア
       * [吉田麻也](https://twitter.com/i/topics/733774795033088001)
     * インテルナツィオナーレ・ミラノ
@@ -1478,6 +1490,7 @@
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
     * Liverpool
       * [ユルゲン・クロップ](https://twitter.com/i/topics/733774752607674369)
+    * [Man Utd](https://twitter.com/i/topics/731226183572934657)
     * [トッテナム・ホットスパー](https://twitter.com/i/topics/731226239709515778)
   * ラ・リーガ
     * [FCバルセロナ](https://twitter.com/i/topics/731226255836598272)
@@ -1492,6 +1505,7 @@
 * [サバイバルゲーム](https://twitter.com/i/topics/1308895460107534337)
 * スポーツイベント
   * [オリンピック](https://twitter.com/i/topics/1237760060828213249)
+  * [五月場所](https://twitter.com/i/topics/1379466037993762816)
   * [全国高等学校野球選手権大会](https://twitter.com/i/topics/1376655892477734913)
   * [選抜高等学校野球大会](https://twitter.com/i/topics/1376649766315024387)
 * スポーツカーレース
@@ -1713,6 +1727,7 @@
     * [pixiv](https://twitter.com/i/topics/1038127846168780800)
     * [Twitter](https://twitter.com/i/topics/10045225402)
   * [Sony](https://twitter.com/i/topics/10026738409)
+  * [Spotify](https://twitter.com/i/topics/10040276669)
   * [Yahoo!](https://twitter.com/i/topics/10027474933)
   * [YouTube](https://twitter.com/i/topics/10029382357)
   * [アドビ](https://twitter.com/i/topics/10027446854)
@@ -2035,7 +2050,6 @@
       * [有機食品](https://twitter.com/i/topics/917866767866671105)
     * [環境主義](https://twitter.com/i/topics/1248631349096767488)
   * [ペット](https://twitter.com/i/topics/852262932607926273)
-  * [ミニ四駆](https://twitter.com/i/topics/1371848748049985536)
   * [リフォーム](https://twitter.com/i/topics/930481874400526336)
   * [建築](https://twitter.com/i/topics/839544211036749824)
   * 手芸・工芸
@@ -2052,6 +2066,7 @@
   * 趣味・収集
     * [フィギュア](https://twitter.com/i/topics/1206704182717104128)
     * [プラモデル](https://twitter.com/i/topics/1206700491654094850)
+    * [ミニ四駆](https://twitter.com/i/topics/1371848748049985536)
     * [人形](https://twitter.com/i/topics/1298798617533100032)
     * [切手・コイン集め](https://twitter.com/i/topics/847870025721495552)
     * [文房具](https://twitter.com/i/topics/1307117889183346689)
@@ -2059,7 +2074,7 @@
     * [骨董品](https://twitter.com/i/topics/1088447781453193225)
 * [デート](https://twitter.com/i/topics/847896430605811712)
 * 季節の行事
-  * [年末年始](https://twitter.com/i/topics/1296381531510849536)
+  * [大晦日](https://twitter.com/i/topics/1296381531510849536)
   * 祝日・伝統的行事
     * [お花見](https://twitter.com/i/topics/1237541021912674304)
 * 家庭
@@ -2078,6 +2093,7 @@
   * [スキューバダイビング](https://twitter.com/i/topics/1235270440752263168)
   * [ハイキング](https://twitter.com/i/topics/1047106825076670464)
   * [ロッククライミング](https://twitter.com/i/topics/847901134601633792)
+* [クルーズ](https://twitter.com/i/topics/849076613077540864)
 * テーマパーク
   * [テーマパーク](https://twitter.com/i/topics/849077981351821312)
   * ディズニーリゾート
@@ -2100,6 +2116,7 @@
     * 国内旅行
       * [国内旅行](https://twitter.com/i/topics/1204826318530994176)
       * [東京ディズニーリゾート](https://twitter.com/i/topics/1037047113312395264)
+    * [韓国旅行](https://twitter.com/i/topics/1307023557151477766)
   * [アフリカ旅行](https://twitter.com/i/topics/1194366763896430592)
   * 北アメリカ旅行
     * アメリカ旅行
@@ -2686,6 +2703,7 @@
   * 音楽会社
     * [音楽会社](https://twitter.com/i/topics/1196457934370172928)
     * [Apple Music](https://twitter.com/i/topics/10040276682)
+    * [Spotify](https://twitter.com/i/topics/10040276669)
     * [ジャニーズ事務所](https://twitter.com/i/topics/1022587446666510336)
 * ヒップホップ
   * [ヒップホップ](https://twitter.com/i/topics/1291184917221535744)

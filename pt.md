@@ -368,8 +368,8 @@ Esportes
   * Corrida de motocicleta
     * [Corrida de motocicleta](https://twitter.com/i/topics/1070062157151166465)
     * [MotoGP](https://twitter.com/i/topics/1046524429172240384)
-  * Formula 1
-    * [Formula 1](https://twitter.com/i/topics/854701577994616832)
+  * Fórmula 1
+    * [Fórmula 1](https://twitter.com/i/topics/854701577994616832)
     * Times de Fórmula 1
       * [Lewis Hamilton](https://twitter.com/i/topics/809514988247232512)
 * Esportes aquáticos
@@ -994,8 +994,8 @@ Música
     * [McFly](https://twitter.com/i/topics/1171409876494381056)
     * [Twenty One Pilots](https://twitter.com/i/topics/819998512926441472)
   * [Rock alternativo](https://twitter.com/i/topics/849684194242338816)
-  * Rock clásico
-    * [Rock clásico](https://twitter.com/i/topics/1108100469778345984)
+  * Rock clássico
+    * [Rock clássico](https://twitter.com/i/topics/1108100469778345984)
     * [The Beatles](https://twitter.com/i/topics/808383834265817088)
   * [Soft rock](https://twitter.com/i/topics/1156962764948008960)
 * Soul
@@ -1031,6 +1031,7 @@ Profissões
 Só no Twitter
 ==========
 
+* [Tweets engraçados](https://twitter.com/i/topics/1291673117010534401)
 * [Tweets virais](https://twitter.com/i/topics/1284234742661963776)
 
 Tecnologia

@@ -32,8 +32,10 @@ Eğlence
       * [Türk dizileri](https://twitter.com/i/topics/1287501285290201088)
       * [Camdaki Kız](https://twitter.com/i/topics/1380515191507447817)
       * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
+      * [Kuruluş Osman](https://twitter.com/i/topics/1383126510412857345)
       * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
       * [Maraşlı](https://twitter.com/i/topics/1381596237980307459)
+      * [Masumiyet](https://twitter.com/i/topics/1383118709573574657)
       * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
       * [Menajerimi Ara](https://twitter.com/i/topics/1381202763309228032)
       * [Sadakatsiz](https://twitter.com/i/topics/1373404326975008769)
@@ -48,6 +50,7 @@ Eğlence
     * [Türk aktörler](https://twitter.com/i/topics/1367227293207126017)
     * [Can Yaman](https://twitter.com/i/topics/1367264100598751233)
     * [Cem Yılmaz](https://twitter.com/i/topics/1367894286612660228)
+    * [Kerem Bürsin](https://twitter.com/i/topics/1383061966789349380)
     * [Kıvanç Tatlıtuğ](https://twitter.com/i/topics/1361689437382434816)
     * [Çağatay Ulusoy](https://twitter.com/i/topics/1367116541532102663)
 
@@ -71,8 +74,8 @@ Haberler
   * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
 * Kripto paralar
   * [Kripto paralar](https://twitter.com/i/topics/913142676819648512)
-  * [Bitcoin kripto para](https://twitter.com/i/topics/1007360414114435072)
-  * [Ethereum kripto para](https://twitter.com/i/topics/1007361429752594432)
+  * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
+  * [Ethereum](https://twitter.com/i/topics/1007361429752594432)
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Yatırım
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
@@ -97,6 +100,11 @@ Müzik
   * [BLACKPINK](https://twitter.com/i/topics/894606843783270401)
   * [BTS](https://twitter.com/i/topics/844438182523383808)
   * [EXO](https://twitter.com/i/topics/889972468953128960)
+
+Sadece Twitter'da
+==========
+
+* [Viral Tweet'ler](https://twitter.com/i/topics/1284234742661963776)
 
 Sanat ve kültür
 ==========
@@ -267,8 +275,8 @@ Teknoloji
 * [Fintech](https://twitter.com/i/topics/1237094778463858688)
 * Kripto paralar
   * [Kripto paralar](https://twitter.com/i/topics/913142676819648512)
-  * [Bitcoin kripto para](https://twitter.com/i/topics/1007360414114435072)
-  * [Ethereum kripto para](https://twitter.com/i/topics/1007361429752594432)
+  * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
+  * [Ethereum](https://twitter.com/i/topics/1007361429752594432)
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Teknoloji endüstrisi
   * [Netflix](https://twitter.com/i/topics/10026367762)
