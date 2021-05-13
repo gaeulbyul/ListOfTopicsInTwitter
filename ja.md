@@ -42,12 +42,14 @@
   * [アニメ](https://twitter.com/i/topics/839543165002506240)
   * [A3!](https://twitter.com/i/topics/1128369738332102656)
   * [BANANA FISH](https://twitter.com/i/topics/1359965919921885184)
+  * [BLEACH](https://twitter.com/i/topics/1169396622020624384)
   * [BURN THE WITCH](https://twitter.com/i/topics/1313545488193351680)
   * [D4DJ](https://twitter.com/i/topics/1319379000918110208)
   * [Free!](https://twitter.com/i/topics/1323379037381685249)
   * [HUNTER×HUNTER](https://twitter.com/i/topics/1268927285739941888)
   * [PUI PUI モルカー](https://twitter.com/i/topics/1351652643538538497)
   * [Re:ゼロから始める異世界体験](https://twitter.com/i/topics/1296957403020189698)
+  * [SK∞ エスケーエイト](https://twitter.com/i/topics/1377690375544954880)
   * [WIXOSS](https://twitter.com/i/topics/1341532019436658689)
   * [あんさんぶるスターズ！！](https://twitter.com/i/topics/855325348233269251)
   * [おそ松さん](https://twitter.com/i/topics/1207732609934974976)
@@ -63,10 +65,14 @@
   * [ウマ娘 プリティーダービー](https://twitter.com/i/topics/1341520686771175424)
   * [オルタンシア・サーガ](https://twitter.com/i/topics/1346259959856545794)
   * [キラッとプリ☆チャン](https://twitter.com/i/topics/1294471305454968832)
+  * [キングダム](https://twitter.com/i/topics/1296269019083767808)
   * [クレヨンしんちゃん](https://twitter.com/i/topics/1012684571387654145)
+  * [ゾンビランドサガ](https://twitter.com/i/topics/1379854103006699521)
+  * [ダンジョンに出会いを求めるのは間違っているだろうか](https://twitter.com/i/topics/1312139783527829505)
   * [ダンボール戦機](https://twitter.com/i/topics/1346256189965836289)
   * [デジモン](https://twitter.com/i/topics/1195361261057232896)
   * [ハイキュー!!](https://twitter.com/i/topics/1154830821708070912)
+  * [フルーツバスケット](https://twitter.com/i/topics/1297313928993619968)
   * [プリティーシリーズ](https://twitter.com/i/topics/1294427893045399554)
   * [プリンセスコネクト!](https://twitter.com/i/topics/1169373709280272384)
   * [プロジェクトセカイ](https://twitter.com/i/topics/1370105546607534081)
@@ -87,13 +93,18 @@
   * [夢王国と眠れる100人の王子様](https://twitter.com/i/topics/1370166334743404547)
   * [富豪刑事 Balance：UNLIMITED](https://twitter.com/i/topics/1297323102557224963)
   * [幽☆遊☆白書](https://twitter.com/i/topics/1359277223933448192)
+  * [文豪ストレイドッグス](https://twitter.com/i/topics/1341539621839093761)
   * [新世紀エヴァンゲリオン](https://twitter.com/i/topics/1010244637770985472)
   * [映像研には手を出すな！](https://twitter.com/i/topics/1248360650184646656)
+  * [東京リベンジャーズ](https://twitter.com/i/topics/1385709625530478592)
   * [東京喰種トーキョーグール](https://twitter.com/i/topics/1288505280884424704)
+  * [涼宮ハルヒ](https://twitter.com/i/topics/1205247603799019520)
+  * [炎炎ノ消防隊](https://twitter.com/i/topics/1162450986121646081)
   * [無職転生 ～異世界行ったら本気だす～](https://twitter.com/i/topics/1370089486512615426)
   * [物語シリーズ](https://twitter.com/i/topics/1114172178935582720)
   * [犬夜叉](https://twitter.com/i/topics/1312167800866177025)
   * [白猫プロジェクト](https://twitter.com/i/topics/855309448759263232)
+  * [約束のネバーランド](https://twitter.com/i/topics/1341527142081818625)
   * [羅小黒戦記](https://twitter.com/i/topics/1369797118517420032)
   * [艦隊これくしょん](https://twitter.com/i/topics/966344390351364097)
   * [転生したらスライムだった件](https://twitter.com/i/topics/1341537671009587201)
@@ -131,7 +142,10 @@
     * [るぅと](https://twitter.com/i/topics/1338605872688242688)
     * [ジェル](https://twitter.com/i/topics/1338602699449716737)
     * 浦島坂田船
+      * [浦島坂田船](https://twitter.com/i/topics/1247211446775111688)
+      * [うらたぬき](https://twitter.com/i/topics/1247215816187072513)
       * [となりの坂田。](https://twitter.com/i/topics/1247216719459782656)
+      * [センラ](https://twitter.com/i/topics/1247219463486758913)
       * [志麻](https://twitter.com/i/topics/1247218249911037952)
     * [莉犬](https://twitter.com/i/topics/1338608076253904900)
   * [西川貴教](https://twitter.com/i/topics/844435284645179392)
@@ -146,8 +160,11 @@
   * [ウェブコミック](https://twitter.com/i/topics/1308511162783334400)
 * [ビジュアルノベル](https://twitter.com/i/topics/1311309260597329921)
 * マンガ
+  * [なかよし](https://twitter.com/i/topics/1309595740293849088)
   * [ウェブコミック](https://twitter.com/i/topics/1308511162783334400)
   * [マンガニュース](https://twitter.com/i/topics/1306270306588217344)
+  * [マーガレット](https://twitter.com/i/topics/1310631272444698627)
+  * [ヤングジャンプ](https://twitter.com/i/topics/1309543420914876417)
   * [ヤングマガジン](https://twitter.com/i/topics/1309573767421554688)
   * [同人誌](https://twitter.com/i/topics/1308499412067393536)
   * 漫画家
@@ -158,6 +175,7 @@
     * [真島ヒロ](https://twitter.com/i/topics/844445194132979712)
     * [石田スイ](https://twitter.com/i/topics/849121960575369216)
   * [週刊少年ジャンプ](https://twitter.com/i/topics/1109139066430210048)
+  * [週刊少年マガジン](https://twitter.com/i/topics/1308854233546895360)
 * [ライトノベル](https://twitter.com/i/topics/1311327182820524032)
 * [人気イラストレーター](https://twitter.com/i/topics/1297745907161509888)
 * 声優
@@ -188,6 +206,7 @@
   * [宮野真守](https://twitter.com/i/topics/1070726185749897216)
   * [小原好美](https://twitter.com/i/topics/1106557129018634241)
   * [小松未可子](https://twitter.com/i/topics/1070715938587078656)
+  * [小林大紀](https://twitter.com/i/topics/1070725809248264192)
   * [小林愛香](https://twitter.com/i/topics/1085255528727511040)
   * [小林裕介](https://twitter.com/i/topics/1070725239477166085)
   * [小野友樹](https://twitter.com/i/topics/1070726531155017729)
@@ -219,6 +238,7 @@
   * [水樹奈々](https://twitter.com/i/topics/1070722404953935875)
   * [水瀬いのり](https://twitter.com/i/topics/1070715913148612614)
   * [江口拓也](https://twitter.com/i/topics/1070725788599635968)
+  * [河西健吾](https://twitter.com/i/topics/1070724832344436736)
   * [津田健次郎](https://twitter.com/i/topics/1070724831400742914)
   * [洲崎綾](https://twitter.com/i/topics/1070722401221005312)
   * [浅沼晋太郎](https://twitter.com/i/topics/1161346885044453376)
@@ -247,12 +267,13 @@
 * 特撮
   * [特撮](https://twitter.com/i/topics/1248370550247849988)
   * [ウルトラマン](https://twitter.com/i/topics/1105166418675294208)
-  * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+  * スーパー戦隊
+    * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+    * [魔進戦隊キラメイジャー](https://twitter.com/i/topics/1294500658159050753)
   * [仮面ライダー](https://twitter.com/i/topics/1207744369144414208)
   * 怪獣
     * [怪獣](https://twitter.com/i/topics/1296035544485392384)
     * [ゴジラ](https://twitter.com/i/topics/1295709217467191297)
-  * [魔進戦隊キラメイジャー](https://twitter.com/i/topics/1294500658159050753)
 
 アート・カルチャー
 ==========
@@ -278,12 +299,14 @@
     * [アニメ](https://twitter.com/i/topics/839543165002506240)
     * [A3!](https://twitter.com/i/topics/1128369738332102656)
     * [BANANA FISH](https://twitter.com/i/topics/1359965919921885184)
+    * [BLEACH](https://twitter.com/i/topics/1169396622020624384)
     * [BURN THE WITCH](https://twitter.com/i/topics/1313545488193351680)
     * [D4DJ](https://twitter.com/i/topics/1319379000918110208)
     * [Free!](https://twitter.com/i/topics/1323379037381685249)
     * [HUNTER×HUNTER](https://twitter.com/i/topics/1268927285739941888)
     * [PUI PUI モルカー](https://twitter.com/i/topics/1351652643538538497)
     * [Re:ゼロから始める異世界体験](https://twitter.com/i/topics/1296957403020189698)
+    * [SK∞ エスケーエイト](https://twitter.com/i/topics/1377690375544954880)
     * [WIXOSS](https://twitter.com/i/topics/1341532019436658689)
     * [あんさんぶるスターズ！！](https://twitter.com/i/topics/855325348233269251)
     * [おそ松さん](https://twitter.com/i/topics/1207732609934974976)
@@ -299,10 +322,14 @@
     * [ウマ娘 プリティーダービー](https://twitter.com/i/topics/1341520686771175424)
     * [オルタンシア・サーガ](https://twitter.com/i/topics/1346259959856545794)
     * [キラッとプリ☆チャン](https://twitter.com/i/topics/1294471305454968832)
+    * [キングダム](https://twitter.com/i/topics/1296269019083767808)
     * [クレヨンしんちゃん](https://twitter.com/i/topics/1012684571387654145)
+    * [ゾンビランドサガ](https://twitter.com/i/topics/1379854103006699521)
+    * [ダンジョンに出会いを求めるのは間違っているだろうか](https://twitter.com/i/topics/1312139783527829505)
     * [ダンボール戦機](https://twitter.com/i/topics/1346256189965836289)
     * [デジモン](https://twitter.com/i/topics/1195361261057232896)
     * [ハイキュー!!](https://twitter.com/i/topics/1154830821708070912)
+    * [フルーツバスケット](https://twitter.com/i/topics/1297313928993619968)
     * [プリティーシリーズ](https://twitter.com/i/topics/1294427893045399554)
     * [プリンセスコネクト!](https://twitter.com/i/topics/1169373709280272384)
     * [プロジェクトセカイ](https://twitter.com/i/topics/1370105546607534081)
@@ -323,13 +350,18 @@
     * [夢王国と眠れる100人の王子様](https://twitter.com/i/topics/1370166334743404547)
     * [富豪刑事 Balance：UNLIMITED](https://twitter.com/i/topics/1297323102557224963)
     * [幽☆遊☆白書](https://twitter.com/i/topics/1359277223933448192)
+    * [文豪ストレイドッグス](https://twitter.com/i/topics/1341539621839093761)
     * [新世紀エヴァンゲリオン](https://twitter.com/i/topics/1010244637770985472)
     * [映像研には手を出すな！](https://twitter.com/i/topics/1248360650184646656)
+    * [東京リベンジャーズ](https://twitter.com/i/topics/1385709625530478592)
     * [東京喰種トーキョーグール](https://twitter.com/i/topics/1288505280884424704)
+    * [涼宮ハルヒ](https://twitter.com/i/topics/1205247603799019520)
+    * [炎炎ノ消防隊](https://twitter.com/i/topics/1162450986121646081)
     * [無職転生 ～異世界行ったら本気だす～](https://twitter.com/i/topics/1370089486512615426)
     * [物語シリーズ](https://twitter.com/i/topics/1114172178935582720)
     * [犬夜叉](https://twitter.com/i/topics/1312167800866177025)
     * [白猫プロジェクト](https://twitter.com/i/topics/855309448759263232)
+    * [約束のネバーランド](https://twitter.com/i/topics/1341527142081818625)
     * [羅小黒戦記](https://twitter.com/i/topics/1369797118517420032)
     * [艦隊これくしょん](https://twitter.com/i/topics/966344390351364097)
     * [転生したらスライムだった件](https://twitter.com/i/topics/1341537671009587201)
@@ -341,10 +373,14 @@
     * [アニメーション映画](https://twitter.com/i/topics/856976559529263104)
     * [羅小黒戦記](https://twitter.com/i/topics/1369797118517420032)
   * アニメ制作会社
+    * [アニメ制作会社](https://twitter.com/i/topics/1339352163508600832)
+    * [ufotable](https://twitter.com/i/topics/1339376895318638592)
     * [スタジオジブリ](https://twitter.com/i/topics/1115703486639788032)
     * [ディズニー](https://twitter.com/i/topics/10037284711)
     * [ピクサー](https://twitter.com/i/topics/1270143733195915264)
+    * [京都アニメーション](https://twitter.com/i/topics/1151834667982528513)
   * アニメ監督・プロデューサー・脚本家
+    * [アニメ監督・プロデューサー・脚本家](https://twitter.com/i/topics/1339352442350125056)
     * [宮崎駿](https://twitter.com/i/topics/1062385593777192960)
     * [手塚治虫](https://twitter.com/i/topics/1339353291902226432)
     * [新海誠](https://twitter.com/i/topics/1132013015690178560)
@@ -359,6 +395,7 @@
 * ダンス
   * [ダンス](https://twitter.com/i/topics/847870201580232704)
   * [バレエ](https://twitter.com/i/topics/1075097515064623104)
+  * [ブレイクダンス](https://twitter.com/i/topics/1075098473207189504)
 * [マジック](https://twitter.com/i/topics/1088503470498279424)
 * 執筆
   * [フリーランスライター](https://twitter.com/i/topics/847869304963858432)
@@ -390,12 +427,13 @@
 * 特撮
   * [特撮](https://twitter.com/i/topics/1248370550247849988)
   * [ウルトラマン](https://twitter.com/i/topics/1105166418675294208)
-  * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+  * スーパー戦隊
+    * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+    * [魔進戦隊キラメイジャー](https://twitter.com/i/topics/1294500658159050753)
   * [仮面ライダー](https://twitter.com/i/topics/1207744369144414208)
   * 怪獣
     * [怪獣](https://twitter.com/i/topics/1296035544485392384)
     * [ゴジラ](https://twitter.com/i/topics/1295709217467191297)
-  * [魔進戦隊キラメイジャー](https://twitter.com/i/topics/1294500658159050753)
 * 舞台・劇場
   * [舞台・劇場](https://twitter.com/i/topics/1047537435855319040)
   * [2.5次元ミュージカル](https://twitter.com/i/topics/1311335947120730112)
@@ -451,6 +489,7 @@
     * [霜降り明星](https://twitter.com/i/topics/1069631754665771009)
     * [麒麟](https://twitter.com/i/topics/1062418434770620416)
   * 漫才師
+    * [Oideyasukoga](https://twitter.com/i/topics/1383083225124278273)
     * [かまいたち](https://twitter.com/i/topics/1062418440969838594)
     * [さまぁ〜ず](https://twitter.com/i/topics/1062418434783293441)
     * [アンジャッシュ](https://twitter.com/i/topics/1062418447424868358)
@@ -461,6 +500,7 @@
     * [タモリ](https://twitter.com/i/topics/1012352840294002689)
     * [チョコレートプラネット](https://twitter.com/i/topics/1062418440969809921)
     * [ナインティナイン](https://twitter.com/i/topics/1382037590757363712)
+    * [ロンドンブーツ1号2号](https://twitter.com/i/topics/1062418434783236098)
     * [井戸田潤](https://twitter.com/i/topics/1062418434779049984)
     * [出川哲朗](https://twitter.com/i/topics/1062418447424843776)
     * [千鳥](https://twitter.com/i/topics/1062418434774859776)
@@ -471,6 +511,7 @@
     * [木村祐一](https://twitter.com/i/topics/1070724836173856768)
     * [松本人志](https://twitter.com/i/topics/810760738297942016)
     * [渡辺直美](https://twitter.com/i/topics/844426451113861120)
+    * [爆笑問題](https://twitter.com/i/topics/1383089479234191366)
     * [狩野英孝](https://twitter.com/i/topics/1062418434779078656)
     * [矢部浩之](https://twitter.com/i/topics/1382035260532150275)
     * [石田明](https://twitter.com/i/topics/1062418434774822912)
@@ -487,6 +528,7 @@
     * 映画祭
       * [東京国際映画祭](https://twitter.com/i/topics/1324131360743649281)
   * 音楽イベント
+    * [音楽イベント](https://twitter.com/i/topics/1286400936550608896)
     * [Japan Jam](https://twitter.com/i/topics/1379459304609095680)
     * [Record Store Day](https://twitter.com/i/topics/1313848563537833987)
     * [グラミー賞](https://twitter.com/i/topics/1299065112913874944)
@@ -501,6 +543,7 @@
   * [B-PROJECT](https://twitter.com/i/topics/1083045528051474432)
   * [BANANA FISH](https://twitter.com/i/topics/1359965919921885184)
   * [BanG Dream!](https://twitter.com/i/topics/1004022548147798016)
+  * [BLEACH](https://twitter.com/i/topics/1169396622020624384)
   * [D4DJ](https://twitter.com/i/topics/1319379000918110208)
   * [DCエクステンデッド・ユニバース](https://twitter.com/i/topics/1080503141345374208)
   * [Free!](https://twitter.com/i/topics/1323379037381685249)
@@ -516,10 +559,12 @@
   * [けものフレンズ](https://twitter.com/i/topics/1004019391393030145)
   * [この素晴らしい世界に祝福を!](https://twitter.com/i/topics/1370163757012316163)
   * [すばらしきこのせかい](https://twitter.com/i/topics/951488105931988992)
+  * [ちびまる子ちゃん](https://twitter.com/i/topics/1205245060079484928)
   * [とある魔術の禁書目録](https://twitter.com/i/topics/1169392703294980102)
   * [はたらく細胞](https://twitter.com/i/topics/1341533879362936832)
   * [ひぐらしのなく頃に](https://twitter.com/i/topics/1311766165065142273)
   * [ゆるキャン△](https://twitter.com/i/topics/1296310920889606144)
+  * [るろうに剣心](https://twitter.com/i/topics/1205516080875065345)
   * [アイ★チュウ](https://twitter.com/i/topics/1346261916218347522)
   * [アイドリッシュセブン](https://twitter.com/i/topics/950400337386528768)
   * [アサルトリリィ](https://twitter.com/i/topics/1311816782835900416)
@@ -529,18 +574,24 @@
   * [ウルトラマン](https://twitter.com/i/topics/1105166418675294208)
   * [オルタンシア・サーガ](https://twitter.com/i/topics/1346259959856545794)
   * [カードキャプターさくら](https://twitter.com/i/topics/1205248311805931520)
+  * [キングダム](https://twitter.com/i/topics/1296269019083767808)
   * [クレヨンしんちゃん](https://twitter.com/i/topics/1012684571387654145)
   * [コードギアス](https://twitter.com/i/topics/1129017411141718016)
   * [ゴジラ](https://twitter.com/i/topics/1295709217467191297)
   * [ゴールデンカムイ](https://twitter.com/i/topics/1151840382751141889)
+  * [サクラ大戦](https://twitter.com/i/topics/1245092440039510017)
   * [ジョジョの奇妙な冒険](https://twitter.com/i/topics/1207454119679553536)
   * [スタンドマイヒーローズ](https://twitter.com/i/topics/1169390844522065920)
   * [スタートレック](https://twitter.com/i/topics/1010220507482865665)
   * [スター・ウォーズ](https://twitter.com/i/topics/986247671663898625)
   * [スパイダーマン](https://twitter.com/i/topics/1012672762442182657)
-  * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+  * スーパー戦隊
+    * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+    * [魔進戦隊キラメイジャー](https://twitter.com/i/topics/1294500658159050753)
   * [ソニック・ザ・ヘッジホッグ](https://twitter.com/i/topics/993952643209773057)
   * [ソードアート・オンライン](https://twitter.com/i/topics/1207748025281466368)
+  * [ゾンビランドサガ](https://twitter.com/i/topics/1379854103006699521)
+  * [ダンジョンに出会いを求めるのは間違っているだろうか](https://twitter.com/i/topics/1312139783527829505)
   * [ダンジョンズ&ドラゴンズ](https://twitter.com/i/topics/1002554571573551104)
   * [ダンボール戦機](https://twitter.com/i/topics/1346256189965836289)
   * [チェンソーマン](https://twitter.com/i/topics/1236052936121151488)
@@ -583,14 +634,18 @@
   * [少女☆歌劇 レヴュースタァライト](https://twitter.com/i/topics/1017115427795681281)
   * [幽☆遊☆白書](https://twitter.com/i/topics/1359277223933448192)
   * [思い、思われ、ふり、ふられ](https://twitter.com/i/topics/1232364649003151360)
+  * [文豪ストレイドッグス](https://twitter.com/i/topics/1341539621839093761)
   * [新世紀エヴァンゲリオン](https://twitter.com/i/topics/1010244637770985472)
   * [映像研には手を出すな！](https://twitter.com/i/topics/1248360650184646656)
   * [東京喰種トーキョーグール](https://twitter.com/i/topics/1288505280884424704)
   * [機動戦士ガンダム](https://twitter.com/i/topics/1022475984325369856)
+  * [涼宮ハルヒ](https://twitter.com/i/topics/1205247603799019520)
+  * [炎炎ノ消防隊](https://twitter.com/i/topics/1162450986121646081)
   * [爆丸バトルブローラーズ](https://twitter.com/i/topics/1281711054909628416)
   * [物語シリーズ](https://twitter.com/i/topics/1114172178935582720)
   * [犬夜叉](https://twitter.com/i/topics/1312167800866177025)
   * [白猫プロジェクト](https://twitter.com/i/topics/855309448759263232)
+  * [約束のネバーランド](https://twitter.com/i/topics/1341527142081818625)
   * [美少女戦士セーラームーン](https://twitter.com/i/topics/1161276700107264001)
   * [聖闘士星矢](https://twitter.com/i/topics/1150794776486170624)
   * [艦隊これくしょん](https://twitter.com/i/topics/966344390351364097)
@@ -616,6 +671,7 @@
     * [バーチャルYouTuber](https://twitter.com/i/topics/1247288073542463488)
     * [キズナアイ](https://twitter.com/i/topics/1040257001886871552)
     * [ミライアカリ](https://twitter.com/i/topics/1040256228989915136)
+    * [葛葉](https://twitter.com/i/topics/1240049426959196160)
     * [電脳少女シロ](https://twitter.com/i/topics/1040308112392019968)
   * ユーチューバー
     * すとろべりーぷりんす
@@ -628,13 +684,18 @@
     * [トミー](https://twitter.com/i/topics/1271500064247037952)
     * [ヒカキン](https://twitter.com/i/topics/844428646483865600)
     * [フィッシャーズ](https://twitter.com/i/topics/1148661869042778112)
+    * [フワちゃん](https://twitter.com/i/topics/1382073057741705217)
     * [ミライアカリ](https://twitter.com/i/topics/1040256228989915136)
     * [加藤純一](https://twitter.com/i/topics/1206680449310871552)
     * [東海オンエア](https://twitter.com/i/topics/1149005874922287104)
     * [水溜りボンド](https://twitter.com/i/topics/1148669618073952256)
     * 浦島坂田船
+      * [浦島坂田船](https://twitter.com/i/topics/1247211446775111688)
+      * [うらたぬき](https://twitter.com/i/topics/1247215816187072513)
       * [となりの坂田。](https://twitter.com/i/topics/1247216719459782656)
+      * [センラ](https://twitter.com/i/topics/1247219463486758913)
       * [志麻](https://twitter.com/i/topics/1247218249911037952)
+    * [葛葉](https://twitter.com/i/topics/1240049426959196160)
     * [虫眼鏡](https://twitter.com/i/topics/1271532869697986560)
     * [那須川天心](https://twitter.com/i/topics/1329851246681878528)
     * [電脳少女シロ](https://twitter.com/i/topics/1040308112392019968)
@@ -651,17 +712,37 @@
     * [るぅと](https://twitter.com/i/topics/1338605872688242688)
     * [ジェル](https://twitter.com/i/topics/1338602699449716737)
     * 浦島坂田船
+      * [浦島坂田船](https://twitter.com/i/topics/1247211446775111688)
+      * [うらたぬき](https://twitter.com/i/topics/1247215816187072513)
       * [となりの坂田。](https://twitter.com/i/topics/1247216719459782656)
+      * [センラ](https://twitter.com/i/topics/1247219463486758913)
       * [志麻](https://twitter.com/i/topics/1247218249911037952)
     * [莉犬](https://twitter.com/i/topics/1338608076253904900)
 * ラジオ
   * [ラジオ](https://twitter.com/i/topics/1074758954444513282)
+  * [Creepy Nutsのオールナイトニッポン0](https://twitter.com/i/topics/1382756663929626624)
+  * [ENHYPENのオールナイトニッポンX](https://twitter.com/i/topics/1382066469836525568)
+  * [SixTONESのオールナイトニッポンサタデースペシャル](https://twitter.com/i/topics/1382755003341754369)
   * [TBSラジオ](https://twitter.com/i/topics/1321556636184453120)
+  * [YOASOBIのオールナイトニッポンX](https://twitter.com/i/topics/1382068687193079810)
+  * [たまむすび](https://twitter.com/i/topics/1382441079568441344)
+  * [ぺこぱのオールナイトニッポンX](https://twitter.com/i/topics/1382079148923899904)
+  * [オードリーのオールナイトニッポン](https://twitter.com/i/topics/1382049814624366593)
   * [オールナイトニッポン](https://twitter.com/i/topics/1207451586999402496)
+  * [ジェーン・スー 生活は踊る](https://twitter.com/i/topics/1382445356575727616)
   * [ナインティナインのオールナイトニッポン](https://twitter.com/i/topics/1382041863079698433)
   * [ニッポン放送](https://twitter.com/i/topics/1321852725240291331)
+  * [ファーストサマーウイカのオールナイトニッポン0](https://twitter.com/i/topics/1382758444529160193)
+  * [フワちゃんのオールナイトニッポンX](https://twitter.com/i/topics/1382071082459439104)
   * [ラジオトーク番組](https://twitter.com/i/topics/847527324043968512)
   * [三四郎のオールナイトニッポン0](https://twitter.com/i/topics/1143227915200425984)
+  * [乃木坂46のオールナイトニッポン](https://twitter.com/i/topics/1382029755118067717)
+  * [佐久間宣行のオールナイトニッポン0](https://twitter.com/i/topics/1382047162217816066)
+  * [垣花正 あなたとハッピー!](https://twitter.com/i/topics/1382771757707194371)
+  * [山里亮太の不毛な議論](https://twitter.com/i/topics/1382359407015563264)
+  * [星野源のオールナイトニッポン](https://twitter.com/i/topics/1382026675236442112)
+  * [菅田将暉のオールナイトニッポン](https://twitter.com/i/topics/1382021368317759488)
+  * [辛坊治郎 ズーム そこまで言うか！](https://twitter.com/i/topics/1382453341767143425)
 * 放送・制作会社
   * [放送・制作会社](https://twitter.com/i/topics/1196447585004736512)
   * [AbemaTV](https://twitter.com/i/topics/989515172690542593)
@@ -675,6 +756,7 @@
   * [ディズニー](https://twitter.com/i/topics/10037284711)
   * [ピクサー](https://twitter.com/i/topics/1270143733195915264)
   * [フジテレビ](https://twitter.com/i/topics/1034889162371911680)
+  * [京都アニメーション](https://twitter.com/i/topics/1151834667982528513)
   * [日本テレビ](https://twitter.com/i/topics/1034887797990027264)
 * 映画・テレビ
   * [映画・テレビ](https://twitter.com/i/topics/1276514328007467008)
@@ -685,12 +767,14 @@
       * [アニメ](https://twitter.com/i/topics/839543165002506240)
       * [A3!](https://twitter.com/i/topics/1128369738332102656)
       * [BANANA FISH](https://twitter.com/i/topics/1359965919921885184)
+      * [BLEACH](https://twitter.com/i/topics/1169396622020624384)
       * [BURN THE WITCH](https://twitter.com/i/topics/1313545488193351680)
       * [D4DJ](https://twitter.com/i/topics/1319379000918110208)
       * [Free!](https://twitter.com/i/topics/1323379037381685249)
       * [HUNTER×HUNTER](https://twitter.com/i/topics/1268927285739941888)
       * [PUI PUI モルカー](https://twitter.com/i/topics/1351652643538538497)
       * [Re:ゼロから始める異世界体験](https://twitter.com/i/topics/1296957403020189698)
+      * [SK∞ エスケーエイト](https://twitter.com/i/topics/1377690375544954880)
       * [WIXOSS](https://twitter.com/i/topics/1341532019436658689)
       * [あんさんぶるスターズ！！](https://twitter.com/i/topics/855325348233269251)
       * [おそ松さん](https://twitter.com/i/topics/1207732609934974976)
@@ -706,10 +790,14 @@
       * [ウマ娘 プリティーダービー](https://twitter.com/i/topics/1341520686771175424)
       * [オルタンシア・サーガ](https://twitter.com/i/topics/1346259959856545794)
       * [キラッとプリ☆チャン](https://twitter.com/i/topics/1294471305454968832)
+      * [キングダム](https://twitter.com/i/topics/1296269019083767808)
       * [クレヨンしんちゃん](https://twitter.com/i/topics/1012684571387654145)
+      * [ゾンビランドサガ](https://twitter.com/i/topics/1379854103006699521)
+      * [ダンジョンに出会いを求めるのは間違っているだろうか](https://twitter.com/i/topics/1312139783527829505)
       * [ダンボール戦機](https://twitter.com/i/topics/1346256189965836289)
       * [デジモン](https://twitter.com/i/topics/1195361261057232896)
       * [ハイキュー!!](https://twitter.com/i/topics/1154830821708070912)
+      * [フルーツバスケット](https://twitter.com/i/topics/1297313928993619968)
       * [プリティーシリーズ](https://twitter.com/i/topics/1294427893045399554)
       * [プリンセスコネクト!](https://twitter.com/i/topics/1169373709280272384)
       * [プロジェクトセカイ](https://twitter.com/i/topics/1370105546607534081)
@@ -730,13 +818,18 @@
       * [夢王国と眠れる100人の王子様](https://twitter.com/i/topics/1370166334743404547)
       * [富豪刑事 Balance：UNLIMITED](https://twitter.com/i/topics/1297323102557224963)
       * [幽☆遊☆白書](https://twitter.com/i/topics/1359277223933448192)
+      * [文豪ストレイドッグス](https://twitter.com/i/topics/1341539621839093761)
       * [新世紀エヴァンゲリオン](https://twitter.com/i/topics/1010244637770985472)
       * [映像研には手を出すな！](https://twitter.com/i/topics/1248360650184646656)
+      * [東京リベンジャーズ](https://twitter.com/i/topics/1385709625530478592)
       * [東京喰種トーキョーグール](https://twitter.com/i/topics/1288505280884424704)
+      * [涼宮ハルヒ](https://twitter.com/i/topics/1205247603799019520)
+      * [炎炎ノ消防隊](https://twitter.com/i/topics/1162450986121646081)
       * [無職転生 ～異世界行ったら本気だす～](https://twitter.com/i/topics/1370089486512615426)
       * [物語シリーズ](https://twitter.com/i/topics/1114172178935582720)
       * [犬夜叉](https://twitter.com/i/topics/1312167800866177025)
       * [白猫プロジェクト](https://twitter.com/i/topics/855309448759263232)
+      * [約束のネバーランド](https://twitter.com/i/topics/1341527142081818625)
       * [羅小黒戦記](https://twitter.com/i/topics/1369797118517420032)
       * [艦隊これくしょん](https://twitter.com/i/topics/966344390351364097)
       * [転生したらスライムだった件](https://twitter.com/i/topics/1341537671009587201)
@@ -745,7 +838,9 @@
       * [魔道祖師](https://twitter.com/i/topics/1369791419427164162)
     * [クイズ番組](https://twitter.com/i/topics/1372667416342192129)
     * コンペ番組
-      * [M-1グランプリ](https://twitter.com/i/topics/1310668700584878081)
+      * [コンペ番組](https://twitter.com/i/topics/1281297135971913728)
+      * その他のコンペ
+        * [M-1グランプリ](https://twitter.com/i/topics/1310668700584878081)
     * テレビドラマ
       * サスペンスドラマ
         * [今際の国のアリス](https://twitter.com/i/topics/1306388564800712704)
@@ -758,9 +853,11 @@
         * [麒麟がくる](https://twitter.com/i/topics/1293294931096698880)
       * [来期のドラマ](https://twitter.com/i/topics/1372672457446879233)
     * トーク番組
+      * [ZIP!](https://twitter.com/i/topics/1294483951843602433)
       * [めざましテレビ](https://twitter.com/i/topics/1293682659860742144)
       * [スッキリ](https://twitter.com/i/topics/1294317401685626881)
     * バラエティ番組
+      * [7.2 新しい別の窓](https://twitter.com/i/topics/1294488935196839937)
       * [GENERATIONS高校TV](https://twitter.com/i/topics/1293296986238496768)
       * [vs嵐](https://twitter.com/i/topics/1294425370465169408)
       * [ヒルナンデス](https://twitter.com/i/topics/1294318104407715847)
@@ -775,13 +872,15 @@
     * 特撮
       * [特撮](https://twitter.com/i/topics/1248370550247849988)
       * [ウルトラマン](https://twitter.com/i/topics/1105166418675294208)
-      * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+      * スーパー戦隊
+        * [スーパー戦隊](https://twitter.com/i/topics/1248382292176670721)
+        * [魔進戦隊キラメイジャー](https://twitter.com/i/topics/1294500658159050753)
       * [仮面ライダー](https://twitter.com/i/topics/1207744369144414208)
       * 怪獣
         * [怪獣](https://twitter.com/i/topics/1296035544485392384)
         * [ゴジラ](https://twitter.com/i/topics/1295709217467191297)
-      * [魔進戦隊キラメイジャー](https://twitter.com/i/topics/1294500658159050753)
     * 音楽番組
+      * [音楽番組](https://twitter.com/i/topics/1293278449495203840)
       * [COUNT DOWN TV](https://twitter.com/i/topics/1293300990947467264)
       * [ミュージックステーション](https://twitter.com/i/topics/1293278101695168512)
   * 映画
@@ -932,6 +1031,7 @@
       * [奥野壮](https://twitter.com/i/topics/1106557169078427649)
       * [小松菜奈](https://twitter.com/i/topics/999015881937113088)
       * [小栗旬](https://twitter.com/i/topics/998997284850253824)
+      * [小池栄子](https://twitter.com/i/topics/1137061042893123584)
       * [小泉萌香](https://twitter.com/i/topics/1070719628005978113)
       * [小澤廉](https://twitter.com/i/topics/1070725229847007233)
       * [小野賢章](https://twitter.com/i/topics/849136790560624640)
@@ -1065,6 +1165,7 @@
     * [宮野真守](https://twitter.com/i/topics/1070726185749897216)
     * [小原好美](https://twitter.com/i/topics/1106557129018634241)
     * [小松未可子](https://twitter.com/i/topics/1070715938587078656)
+    * [小林大紀](https://twitter.com/i/topics/1070725809248264192)
     * [小林愛香](https://twitter.com/i/topics/1085255528727511040)
     * [小林裕介](https://twitter.com/i/topics/1070725239477166085)
     * [小野友樹](https://twitter.com/i/topics/1070726531155017729)
@@ -1096,6 +1197,7 @@
     * [水樹奈々](https://twitter.com/i/topics/1070722404953935875)
     * [水瀬いのり](https://twitter.com/i/topics/1070715913148612614)
     * [江口拓也](https://twitter.com/i/topics/1070725788599635968)
+    * [河西健吾](https://twitter.com/i/topics/1070724832344436736)
     * [津田健次郎](https://twitter.com/i/topics/1070724831400742914)
     * [洲崎綾](https://twitter.com/i/topics/1070722401221005312)
     * [浅沼晋太郎](https://twitter.com/i/topics/1161346885044453376)
@@ -1167,12 +1269,16 @@
   * [eスポーツ](https://twitter.com/i/topics/839544337360801792)
   * eスポーツチーム
     * [DeToNator](https://twitter.com/i/topics/871738652329615360)
+  * eスポーツリーグ
+    * [League of Legends Japan League](https://twitter.com/i/topics/1219796559371497472)
 * PCゲーム
   * [PCゲーム](https://twitter.com/i/topics/1174432578503204864)
   * [Razer](https://twitter.com/i/topics/10042890483)
+* [RTA](https://twitter.com/i/topics/1263237723713724416)
 * [アーケードゲーム](https://twitter.com/i/topics/1201641937502998528)
 * オンラインゲーム
   * [桃太郎電鉄](https://twitter.com/i/topics/1370387811858214914)
+* [クイズ](https://twitter.com/i/topics/1334114759952584705)
 * ゲーム
   * [ゲーム](https://twitter.com/i/topics/1070028159964262400)
   * [#コンパス](https://twitter.com/i/topics/1129021743677337600)
@@ -1219,6 +1325,7 @@
   * [アークナイツ](https://twitter.com/i/topics/1233113060732092416)
   * [ウイニングイレブン](https://twitter.com/i/topics/10041658421)
   * [ウマ娘 プリティーダービー](https://twitter.com/i/topics/1341520686771175424)
+  * [エピックセブン](https://twitter.com/i/topics/1236053789745876992)
   * [エリオスライジングヒーローズ](https://twitter.com/i/topics/1337533267575066624)
   * [エーペックスレジェンズ](https://twitter.com/i/topics/1095327230433972227)
   * [オルタンシア・サーガ](https://twitter.com/i/topics/1346259959856545794)
@@ -1234,6 +1341,7 @@
   * [グランツーリスモ](https://twitter.com/i/topics/10041743220)
   * [グランド・セフト・オート](https://twitter.com/i/topics/856568905648578560)
   * [グランブルーファンタジー](https://twitter.com/i/topics/855324259475836929)
+  * [コード:ドラゴンブラッド](https://twitter.com/i/topics/1282756107799195649)
   * [コール・オブ・デューティ](https://twitter.com/i/topics/10027933222)
   * [サイバーパンク2077](https://twitter.com/i/topics/1005928152298737664)
   * [サガシリーズ](https://twitter.com/i/topics/1234619191694512128)
@@ -1269,6 +1377,7 @@
   * [フォートナイト](https://twitter.com/i/topics/974285387987169280)
   * [フォールガイズ](https://twitter.com/i/topics/1292818086488203264)
   * [ブレイドアンドソウル](https://twitter.com/i/topics/1037752163454279685)
+  * [ブレイブリーデフォルト](https://twitter.com/i/topics/1205325565680476160)
   * [ブロスタ](https://twitter.com/i/topics/1093572965021626373)
   * [プリンセスコネクト!](https://twitter.com/i/topics/1169373709280272384)
   * [プロジェクトセカイ](https://twitter.com/i/topics/1370105546607534081)
@@ -1278,6 +1387,7 @@
   * [ポケモンマスターズ](https://twitter.com/i/topics/1169668960024809473)
   * [マビノギ](https://twitter.com/i/topics/1035275561331875840)
   * [マリオカート](https://twitter.com/i/topics/854953597506695168)
+  * [ミニ四駆超速グランプリ](https://twitter.com/i/topics/1240050509592977408)
   * [メイプルストーリー](https://twitter.com/i/topics/1034496070221324289)
   * [メギド72](https://twitter.com/i/topics/1206686044155863040)
   * [メタルギア](https://twitter.com/i/topics/10041658367)
@@ -1288,6 +1398,7 @@
   * [ライフアフター](https://twitter.com/i/topics/1236067683642179584)
   * [リネージュ](https://twitter.com/i/topics/1092870508608053248)
   * [リーグ・オブ・レジェンド](https://twitter.com/i/topics/10047023523)
+  * [ルーンファクトリー](https://twitter.com/i/topics/1135931486954147840)
   * [レインボーシックス　シージ](https://twitter.com/i/topics/10041743455)
   * [レッド・デッド・リデンプション](https://twitter.com/i/topics/856743947489558528)
   * [共闘ことばRPG コトダマン](https://twitter.com/i/topics/1240056308713189376)
@@ -1302,6 +1413,7 @@
   * [星のカービィ](https://twitter.com/i/topics/1320755235665526786)
   * [東京放課後サモナーズ](https://twitter.com/i/topics/1240048115211632640)
   * [桃太郎電鉄](https://twitter.com/i/topics/1370387811858214914)
+  * [牧場物語](https://twitter.com/i/topics/1135930778569793536)
   * [白猫プロジェクト](https://twitter.com/i/topics/855309448759263232)
   * [禍つヴァールハイト](https://twitter.com/i/topics/1037776668411092992)
   * [第五人格](https://twitter.com/i/topics/1105532158465040384)
@@ -1358,6 +1470,7 @@
     * [デュエル・マスターズ](https://twitter.com/i/topics/1148235989430616064)
     * [ポケモンカードゲーム](https://twitter.com/i/topics/1148209341138235392)
     * [マジック:ザ・ギャザリング](https://twitter.com/i/topics/1031554891251036160)
+    * [遊☆戯☆王カードゲーム](https://twitter.com/i/topics/1287576891545681921)
   * [ボードゲーム](https://twitter.com/i/topics/1148230949382922240)
   * 伝統的なゲーム
     * [伝統的なゲーム](https://twitter.com/i/topics/1175097393290735616)
@@ -1427,18 +1540,24 @@
     * [湘南ベルマーレ](https://twitter.com/i/topics/731226194880823297)
     * [鹿島アントラーズ](https://twitter.com/i/topics/731226178111995904)
   * J2リーグ
+    * [J2リーグ](https://twitter.com/i/topics/733756520261779456)
     * [FC琉球](https://twitter.com/i/topics/731226216959639552)
     * [アビスパ福岡](https://twitter.com/i/topics/731226219409072128)
     * [アルビレックス新潟](https://twitter.com/i/topics/731226167101923328)
+    * [ギラヴァンツ北九州](https://twitter.com/i/topics/731226217391624192)
     * [ジュビロ磐田](https://twitter.com/i/topics/731226211796410369)
     * [ファジアーノ岡山](https://twitter.com/i/topics/768425369502310401)
+    * [ヴァンフォーレ甲府](https://twitter.com/i/topics/731226238161821697)
+    * [京都サンガFC](https://twitter.com/i/topics/731226159925485568)
     * [東京ヴェルディ](https://twitter.com/i/topics/731226234630201344)
     * [松本山雅FC](https://twitter.com/i/topics/1091074970791202816)
+    * [栃木SC](https://twitter.com/i/topics/800783345948889090)
   * UEFAチャンピオンズリーグ
     * [UEFAチャンピオンズリーグ](https://twitter.com/i/topics/733756536875454464)
     * [FCバルセロナ](https://twitter.com/i/topics/731226255836598272)
     * Liverpool
       * [ユルゲン・クロップ](https://twitter.com/i/topics/733774752607674369)
+    * [Man City](https://twitter.com/i/topics/731226203856637952)
     * セビージャFC
       * [久保建英](https://twitter.com/i/topics/862395311058173952)
     * [パリ・サン＝ジェルマン](https://twitter.com/i/topics/731226166627966976)
@@ -1490,9 +1609,11 @@
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
     * Liverpool
       * [ユルゲン・クロップ](https://twitter.com/i/topics/733774752607674369)
+    * [Man City](https://twitter.com/i/topics/731226203856637952)
     * [Man Utd](https://twitter.com/i/topics/731226183572934657)
     * [トッテナム・ホットスパー](https://twitter.com/i/topics/731226239709515778)
   * ラ・リーガ
+    * [ラ・リーガ](https://twitter.com/i/topics/733756520714752000)
     * [FCバルセロナ](https://twitter.com/i/topics/731226255836598272)
     * セビージャFC
       * [久保建英](https://twitter.com/i/topics/862395311058173952)
@@ -1609,6 +1730,7 @@
   * [バレーボール](https://twitter.com/i/topics/847903333297799169)
   * [柳田将洋](https://twitter.com/i/topics/1329960354269470720)
 * パブスポーツ
+  * [クイズ](https://twitter.com/i/topics/1334114759952584705)
   * [ダーツ](https://twitter.com/i/topics/1046541612208144385)
   * [ビリヤード](https://twitter.com/i/topics/1095069812697399296)
 * [ボウリング](https://twitter.com/i/topics/1285699342683082752)
@@ -1702,6 +1824,7 @@
 ツイッターならでは
 ==========
 
+* [人気](https://twitter.com/i/topics/1379479913510490121)
 * [話題のツイート](https://twitter.com/i/topics/1284234742661963776)
 
 テクノロジー
@@ -1755,9 +1878,11 @@
   * [ウェブ開発](https://twitter.com/i/topics/898673391980261376)
   * [オープンソース](https://twitter.com/i/topics/849075430715936768)
 * 仮想通貨
+  * [仮想通貨](https://twitter.com/i/topics/913142676819648512)
   * [イーサリアム仮想通貨](https://twitter.com/i/topics/1007361429752594432)
   * [ビットコイン](https://twitter.com/i/topics/1007360414114435072)
   * [リップル仮想通貨](https://twitter.com/i/topics/1007349748829786112)
+  * [非代替性トークン](https://twitter.com/i/topics/1369311988040355840)
 * 情報セキュリティー
   * [情報セキュリティー](https://twitter.com/i/topics/1047123725525479425)
   * [サイバーセキュリティ](https://twitter.com/i/topics/898650876658634752)
@@ -1790,7 +1915,9 @@
         * [広島県](https://twitter.com/i/topics/1299374938973859840)
         * [広島市](https://twitter.com/i/topics/1299393861593100292)
       * [愛媛県](https://twitter.com/i/topics/1299531843922874368)
-      * [香川県](https://twitter.com/i/topics/1299523432229474304)
+      * 香川県
+        * [香川県](https://twitter.com/i/topics/1299523432229474304)
+        * [高松市](https://twitter.com/i/topics/1299529274001510400)
       * [高知県](https://twitter.com/i/topics/1299534697412743169)
       * [鳥取県](https://twitter.com/i/topics/1299363311385935872)
     * 九州・沖縄
@@ -1801,6 +1928,8 @@
         * [別府市](https://twitter.com/i/topics/1300238576542646277)
         * [大分市](https://twitter.com/i/topics/1300227288563240960)
       * [宮崎県](https://twitter.com/i/topics/1300243323110617088)
+      * [沖縄県](https://twitter.com/i/topics/1300251776709402624)
+      * [熊本県](https://twitter.com/i/topics/1299561068545454080)
       * 福岡県
         * [福岡県](https://twitter.com/i/topics/1299540423858294787)
         * [北九州市](https://twitter.com/i/topics/1299547364416352257)
@@ -1808,6 +1937,7 @@
       * 長崎県
         * [長崎県](https://twitter.com/i/topics/1299554038598434817)
         * [長崎市](https://twitter.com/i/topics/1299557112897392640)
+      * [鹿児島県](https://twitter.com/i/topics/1300247661115662336)
     * 信越・北陸
       * [信越・北陸](https://twitter.com/i/topics/1298331136184082438)
       * 富山県
@@ -1822,7 +1952,9 @@
       * 福井県
         * [福井県](https://twitter.com/i/topics/1298651320644116480)
         * [福井市](https://twitter.com/i/topics/1298655191474950144)
-      * [長野県](https://twitter.com/i/topics/1298659632240422913)
+      * 長野県
+        * [長野県](https://twitter.com/i/topics/1298659632240422913)
+        * [長野市](https://twitter.com/i/topics/1298667711107497984)
     * 北海道・東北
       * [北海道・東北](https://twitter.com/i/topics/1295834272062795776)
       * 北海道
@@ -1840,6 +1972,7 @@
         * [宮城県](https://twitter.com/i/topics/1295841465164165120)
         * [仙台市](https://twitter.com/i/topics/1295919429474062336)
       * 山形県
+        * [山形県](https://twitter.com/i/topics/1295848478103318528)
         * [山形市](https://twitter.com/i/topics/1295931341716905984)
       * 岩手県
         * [岩手県](https://twitter.com/i/topics/1295839137996500993)
@@ -1879,7 +2012,9 @@
         * [大阪府](https://twitter.com/i/topics/1299138554128289793)
         * [堺市](https://twitter.com/i/topics/1299348691036196864)
         * [大阪市](https://twitter.com/i/topics/1299142711623073793)
-      * [奈良県](https://twitter.com/i/topics/1299009162207039488)
+      * 奈良県
+        * [奈良県](https://twitter.com/i/topics/1299009162207039488)
+        * [奈良市](https://twitter.com/i/topics/1299046904517390337)
       * 滋賀県
         * [滋賀県](https://twitter.com/i/topics/1298976203798228997)
         * [大津市](https://twitter.com/i/topics/1298983678681309185)
@@ -1887,21 +2022,27 @@
       * [関東](https://twitter.com/i/topics/1295937299117555712)
       * 千葉県
         * [千葉県](https://twitter.com/i/topics/1296114377788026880)
+        * [千葉市](https://twitter.com/i/topics/1296485385434873857)
         * [船橋市](https://twitter.com/i/topics/1296488485075918848)
       * 埼玉県
         * [埼玉県](https://twitter.com/i/topics/1296111574898233345)
         * [さいたま市](https://twitter.com/i/topics/1296472710185271299)
+        * [川口市](https://twitter.com/i/topics/1296479614848573441)
       * 山梨県
         * [山梨県](https://twitter.com/i/topics/1296140906437869568)
         * [甲府市](https://twitter.com/i/topics/1298326998989672448)
-      * [東京都](https://twitter.com/i/topics/1296116615101026304)
+      * 東京都
+        * [東京都](https://twitter.com/i/topics/1296116615101026304)
+        * [東京のグルメ](https://twitter.com/i/topics/1301521444812144641)
       * 栃木県
         * [栃木県](https://twitter.com/i/topics/1296105363565993984)
         * [宇都宮市](https://twitter.com/i/topics/1296176896665780225)
       * 神奈川県
         * [神奈川県](https://twitter.com/i/topics/1296125123863314433)
+        * [川崎市](https://twitter.com/i/topics/1298295265766469633)
         * [横浜市](https://twitter.com/i/topics/1298310254480863232)
         * [横須賀市](https://twitter.com/i/topics/1298318873729499137)
+        * [相模原市](https://twitter.com/i/topics/1298315237079146496)
       * 群馬県
         * [群馬県](https://twitter.com/i/topics/1296108467350994945)
         * [前橋市](https://twitter.com/i/topics/1296183053396504576)
@@ -1909,6 +2050,7 @@
       * 茨城県
         * [茨城県](https://twitter.com/i/topics/1295937810084458496)
         * [つくば市](https://twitter.com/i/topics/1296149330760368128)
+        * [水戸市](https://twitter.com/i/topics/1296146477148803074)
       * [関東交通情報](https://twitter.com/i/topics/1301924527157309440)
 * 報道機関
   * [NHK](https://twitter.com/i/topics/1034881250840915968)
@@ -1938,15 +2080,18 @@
 * [ベンチャー](https://twitter.com/i/topics/849075881653846016)
 * [マネー](https://twitter.com/i/topics/847888632711061504)
 * 仮想通貨
+  * [仮想通貨](https://twitter.com/i/topics/913142676819648512)
   * [イーサリアム仮想通貨](https://twitter.com/i/topics/1007361429752594432)
   * [ビットコイン](https://twitter.com/i/topics/1007360414114435072)
   * [リップル仮想通貨](https://twitter.com/i/topics/1007349748829786112)
+  * [非代替性トークン](https://twitter.com/i/topics/1369311988040355840)
 * 実業家
   * [実業家](https://twitter.com/i/topics/1166406108623163392)
   * [イーロン・マスク](https://twitter.com/i/topics/808713037230157824)
 * 投資
   * [投資](https://twitter.com/i/topics/847894353708068864)
   * [マーケット](https://twitter.com/i/topics/847894852779900928)
+  * [非代替性トークン](https://twitter.com/i/topics/1369311988040355840)
 * [経済ニュース](https://twitter.com/i/topics/840161214890106880)
 * [起業・経営](https://twitter.com/i/topics/857879302733418496)
 
@@ -1954,6 +2099,7 @@
 ==========
 
 * [ファッション・ビューティー](https://twitter.com/i/topics/1256236649253449729)
+* [ショッピング](https://twitter.com/i/topics/1095391406816784384)
 * ビューティー
   * [ビューティー](https://twitter.com/i/topics/850395585941086209)
   * [サウナ](https://twitter.com/i/topics/1364594897458663425)
@@ -1979,6 +2125,7 @@
     * [カジュアルファッション](https://twitter.com/i/topics/1255971854306562048)
     * [earth music&ecology](https://twitter.com/i/topics/1034899631484821504)
     * [GU](https://twitter.com/i/topics/1034896292722311169)
+    * [ZOZOTOWN](https://twitter.com/i/topics/1044989692368715776)
     * [しまむら](https://twitter.com/i/topics/1168966919472345088)
     * [ユニクロ](https://twitter.com/i/topics/10042847671)
   * [ジュエリー](https://twitter.com/i/topics/845293633259552768)
@@ -2064,6 +2211,7 @@
     * [レシピ](https://twitter.com/i/topics/859532072813158400)
     * [季節の料理](https://twitter.com/i/topics/1316156485664010242)
   * 趣味・収集
+    * [趣味・収集](https://twitter.com/i/topics/1278061468265508864)
     * [フィギュア](https://twitter.com/i/topics/1206704182717104128)
     * [プラモデル](https://twitter.com/i/topics/1206700491654094850)
     * [ミニ四駆](https://twitter.com/i/topics/1371848748049985536)
@@ -2100,6 +2248,7 @@
     * [東京ディズニーリゾート](https://twitter.com/i/topics/1037047113312395264)
   * [ユニバーサルスタジオ](https://twitter.com/i/topics/10037284723)
 * [ホテル](https://twitter.com/i/topics/1197984247270633472)
+* [世界遺産](https://twitter.com/i/topics/1308451535018315778)
 * 交通
   * 自動車
     * [自動車](https://twitter.com/i/topics/847528391163092993)
@@ -2109,7 +2258,10 @@
       * [Honda](https://twitter.com/i/topics/10026301999)
   * [鉄道](https://twitter.com/i/topics/1206695792582414336)
 * [国立公園](https://twitter.com/i/topics/849076824290107392)
+* [旅ブロガー](https://twitter.com/i/topics/1243200890175016960)
+* [旅行ガイド](https://twitter.com/i/topics/1248314888406978560)
 * 目的地
+  * [目的地](https://twitter.com/i/topics/857603051657482241)
   * アジア太平洋旅行
     * [アジア太平洋旅行](https://twitter.com/i/topics/1194367046898733056)
     * [台湾旅行](https://twitter.com/i/topics/1308801514140360705)
@@ -2195,6 +2347,7 @@
   * [BUMP OF CHICKEN](https://twitter.com/i/topics/1106203556208480256)
   * [CHEMISTRY](https://twitter.com/i/topics/1022579835716042752)
   * [CRAZYBOY](https://twitter.com/i/topics/849126324639744002)
+  * [Creepy Nuts](https://twitter.com/i/topics/1382768929295069187)
   * [DA PUMP](https://twitter.com/i/topics/1043142931853373440)
   * Da-iCE
     * [Da-iCE](https://twitter.com/i/topics/1082288067505926144)
@@ -2250,6 +2403,7 @@
   * [UVERworld](https://twitter.com/i/topics/1235253536104964096)
   * [V6](https://twitter.com/i/topics/1022859167546015744)
   * [WANIMA](https://twitter.com/i/topics/1082288067510071297)
+  * [YOASOBI](https://twitter.com/i/topics/1382075171171749891)
   * [あいみょん](https://twitter.com/i/topics/1082288068315344896)
   * [いきものがかり](https://twitter.com/i/topics/1082288067497537536)
   * [きゃりーぱみゅぱみゅ](https://twitter.com/i/topics/808345894013661184)
@@ -2369,6 +2523,7 @@
   * [岸優太](https://twitter.com/i/topics/1045324114209071104)
   * [嵐](https://twitter.com/i/topics/1022861941851582465)
   * [嶋﨑斗亜](https://twitter.com/i/topics/1265696682689220608)
+  * [川尻蓮](https://twitter.com/i/topics/1232766106500091906)
   * [川村壱馬](https://twitter.com/i/topics/1238559401419476992)
   * [川西拓実](https://twitter.com/i/topics/1238537541403336704)
   * [川谷絵音](https://twitter.com/i/topics/1336429248202956800)
@@ -2408,6 +2563,7 @@
   * [櫻井翔](https://twitter.com/i/topics/999008693592113152)
   * [欅坂46](https://twitter.com/i/topics/1022871827196993536)
   * [歌広場淳](https://twitter.com/i/topics/1011705134055809024)
+  * [歌謡曲](https://twitter.com/i/topics/1383099942097473538)
   * [正門良規](https://twitter.com/i/topics/1235325460466130944)
   * [氷川きよし](https://twitter.com/i/topics/1082288067489058820)
   * [永瀬廉](https://twitter.com/i/topics/1042442752716226561)
@@ -2429,6 +2585,7 @@
   * [生駒里奈](https://twitter.com/i/topics/1042440795813425163)
   * [田中樹](https://twitter.com/i/topics/1205566042199576576)
   * [登坂広臣](https://twitter.com/i/topics/844394619513159680)
+  * [白岩瑠姫](https://twitter.com/i/topics/1235251904550068224)
   * [白濱亜嵐](https://twitter.com/i/topics/1267490108137078785)
   * [白石麻衣](https://twitter.com/i/topics/1110928544882806784)
   * [白間美瑠](https://twitter.com/i/topics/1334236698536906752)
@@ -2459,6 +2616,7 @@
   * [西村拓哉](https://twitter.com/i/topics/1265762715148009472)
   * [西畑大吾](https://twitter.com/i/topics/1238545437990113280)
   * [西野カナ](https://twitter.com/i/topics/1082288068319571971)
+  * [豆原一成](https://twitter.com/i/topics/1235249357017899010)
   * [道枝駿佑](https://twitter.com/i/topics/1235631112174448640)
   * [遠藤さくら](https://twitter.com/i/topics/1235607827130941440)
   * [那須雄登](https://twitter.com/i/topics/1238514197903716352)
@@ -2526,6 +2684,7 @@
     * [CIX](https://twitter.com/i/topics/1154815855445737472)
     * [ペ・ジンヨン](https://twitter.com/i/topics/897102960424960000)
   * [DKB](https://twitter.com/i/topics/1241098928168161280)
+  * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
   * EXO
     * [EXO](https://twitter.com/i/topics/889972468953128960)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
@@ -2608,6 +2767,7 @@
   * [TEEN TOP](https://twitter.com/i/topics/897883291226853377)
   * [The Boyz](https://twitter.com/i/topics/903633998194212864)
   * [TOMORROW X TOGETHER](https://twitter.com/i/topics/1083397690140971008)
+  * [TREASURE](https://twitter.com/i/topics/1275168323332800512)
   * TVXQ!
     * [TVXQ!](https://twitter.com/i/topics/900408909290061825)
     * [チャンミン](https://twitter.com/i/topics/900413541211004928)
@@ -2669,7 +2829,10 @@
     * [るぅと](https://twitter.com/i/topics/1338605872688242688)
     * [ジェル](https://twitter.com/i/topics/1338602699449716737)
     * 浦島坂田船
+      * [浦島坂田船](https://twitter.com/i/topics/1247211446775111688)
+      * [うらたぬき](https://twitter.com/i/topics/1247215816187072513)
       * [となりの坂田。](https://twitter.com/i/topics/1247216719459782656)
+      * [センラ](https://twitter.com/i/topics/1247219463486758913)
       * [志麻](https://twitter.com/i/topics/1247218249911037952)
     * [莉犬](https://twitter.com/i/topics/1338608076253904900)
   * [西川貴教](https://twitter.com/i/topics/844435284645179392)
@@ -2687,6 +2850,7 @@
     * [ONE OK ROCK](https://twitter.com/i/topics/844433082732036096)
     * [SUGIZO](https://twitter.com/i/topics/1070731957149921281)
 * [オペラ](https://twitter.com/i/topics/869649977676505088)
+* [カラオケ](https://twitter.com/i/topics/1297717277677166593)
 * [クラシック](https://twitter.com/i/topics/849674563310862337)
 * ソウルミュージック
   * [R&B・ソウル](https://twitter.com/i/topics/849684722695327744)
@@ -2699,6 +2863,7 @@
     * [電子音楽](https://twitter.com/i/topics/849684313704611840)
     * [Perfume](https://twitter.com/i/topics/867717318549225472)
 * バックステージ
+  * [バックステージ](https://twitter.com/i/topics/1288826829634035714)
   * [ボーカリスト](https://twitter.com/i/topics/1290665389047783424)
   * 音楽会社
     * [音楽会社](https://twitter.com/i/topics/1196457934370172928)
@@ -2753,6 +2918,7 @@
   * [ヴァイオリン](https://twitter.com/i/topics/898269510100164608)
   * [声楽](https://twitter.com/i/topics/1308815844932071424)
 * 音楽イベント
+  * [音楽イベント](https://twitter.com/i/topics/1286400936550608896)
   * [Japan Jam](https://twitter.com/i/topics/1379459304609095680)
   * [Record Store Day](https://twitter.com/i/topics/1313848563537833987)
   * [グラミー賞](https://twitter.com/i/topics/1299065112913874944)

@@ -7,9 +7,11 @@ Aktfitas di luar rumah
 Anime & manga
 ==========
 
+* [Anime & manga](https://twitter.com/i/topics/1297951101136732160)
 * Anime
   * [Anime](https://twitter.com/i/topics/839543165002506240)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+  * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
 * [Komik](https://twitter.com/i/topics/847521144173350912)
 
 Berita
@@ -28,22 +30,48 @@ Berita
 * [Berita musik](https://twitter.com/i/topics/1099779369357082624)
 * [Berita olahraga](https://twitter.com/i/topics/840160112325021696)
 * [Berita teknologi](https://twitter.com/i/topics/840160819388141570)
+* [Cuaca](https://twitter.com/i/topics/857083369514876928)
+
+Bisnis & keuangan
+==========
+
+* [Bisnis & keuangan](https://twitter.com/i/topics/781974596148793345)
+
+Fitnes
+==========
+
+* [Fitnes](https://twitter.com/i/topics/847872878041219072)
+
+Hanya di Twitter
+==========
+
+* [Populer](https://twitter.com/i/topics/1379479913510490121)
 
 Hiburan
 ==========
 
 * [Hiburan](https://twitter.com/i/topics/839544274442051584)
+* Acara hiburan
+  * Acara film & tv
+    * [Penghargaan Oscars](https://twitter.com/i/topics/1222619725877796864)
+  * Acara musik
+    * [Penghargaan musik Billboard](https://twitter.com/i/topics/1300503064143486976)
 * Berita hiburan
   * [Berita film](https://twitter.com/i/topics/1114213516271964160)
 * Film & TV
   * [Film & TV](https://twitter.com/i/topics/1276514328007467008)
+  * Acara film & tv
+    * [Penghargaan Oscars](https://twitter.com/i/topics/1222619725877796864)
   * [Berita film](https://twitter.com/i/topics/1114213516271964160)
   * [Film](https://twitter.com/i/topics/1072936713134071808)
   * Televisi
     * Anime
       * [Anime](https://twitter.com/i/topics/839543165002506240)
       * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
-    * [Drama seri Korea](https://twitter.com/i/topics/1346749071000670209)
+      * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+    * Drama seri Korea
+      * [Drama seri Korea](https://twitter.com/i/topics/1346749071000670209)
+      * [Vincenzo](https://twitter.com/i/topics/1365669572825653253)
     * TV di Indonesia
       * [TV di Indonesia](https://twitter.com/i/topics/1332240318406619136)
       * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
@@ -51,44 +79,81 @@ Hiburan
       * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
 * Franchises populer
   * [Franchises populer](https://twitter.com/i/topics/1074757527995277313)
+  * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
   * [Doraemon](https://twitter.com/i/topics/1012681620074053632)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
+  * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
   * [Marvel Universe](https://twitter.com/i/topics/1002576732971384832)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
+* Industri hiburan
+  * [Disney](https://twitter.com/i/topics/10037284711)
 * Komedi
   * [Komedi](https://twitter.com/i/topics/847522909018914820)
   * [Stand up komedian](https://twitter.com/i/topics/1103358583696048128)
 * [Kreator digital](https://twitter.com/i/topics/839543456678596608)
 * [Podcast & radio](https://twitter.com/i/topics/1074758954444513282)
-* [Selebriti](https://twitter.com/i/topics/1095352268046495745)
+* Selebriti
+  * [Selebriti](https://twitter.com/i/topics/1095352268046495745)
+  * Aktor
+    * [Kim Sohyun](https://twitter.com/i/topics/1062819973347729408)
+    * [Kim Yoojung](https://twitter.com/i/topics/1062826720984621056)
+    * [Song Joongki](https://twitter.com/i/topics/925709166341079041)
+    * [Song Kang](https://twitter.com/i/topics/1365659684250685442)
 
-Hobi & keluarga
+Ilmu
 ==========
 
-* [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
+* [Ilmu](https://twitter.com/i/topics/854692455005921281)
+* [Cuaca](https://twitter.com/i/topics/857083369514876928)
+
+Karir
+==========
+
+* [Karir](https://twitter.com/i/topics/847544972781826048)
+* Bidang studi
+  * [Sejarah](https://twitter.com/i/topics/1047111583309029381)
+* [Koki](https://twitter.com/i/topics/1091055942249046016)
+* Pendidikan
+  * [Pendidikan](https://twitter.com/i/topics/847546154439000064)
+  * [Kehidupan mahasiswa](https://twitter.com/i/topics/852219717016141824)
+  * [Lulusan sekolah](https://twitter.com/i/topics/852247095461371904)
+  * [Ujian masuk sekolah](https://twitter.com/i/topics/1188908088570470400)
 
 Makanan
 ==========
 
 * [Makanan](https://twitter.com/i/topics/825047692124442624)
 * [Jajanan kaki lima](https://twitter.com/i/topics/1286732523326717952)
+* [Koki](https://twitter.com/i/topics/1091055942249046016)
 * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
 * Masakan
   * Kuliner Asia
+    * [Kuliner Asia](https://twitter.com/i/topics/1357686092971995137)
     * [Masakan Indonesia](https://twitter.com/i/topics/1331290088903372801)
   * [Makanan cepat saji](https://twitter.com/i/topics/847865239886417922)
 
 Mode & kecantikan
 ==========
 
+* [Mode & kecantikan](https://twitter.com/i/topics/1256236649253449729)
 * [Kecantikan](https://twitter.com/i/topics/850395585941086209)
+* [Mode](https://twitter.com/i/topics/839543390668673024)
 
 Musik
 ==========
 
 * [Musik](https://twitter.com/i/topics/847524658970636288)
+* Acara musik
+  * [Penghargaan musik Billboard](https://twitter.com/i/topics/1300503064143486976)
 * [Berita musik](https://twitter.com/i/topics/1099779369357082624)
+* C-Pop
+  * [C-Pop](https://twitter.com/i/topics/1098263006213881856)
+  * WayV
+    * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+    * [WINWIN](https://twitter.com/i/topics/913453906297892864)
+* Di belakang panggung
+  * [Industri musik](https://twitter.com/i/topics/1196457934370172928)
 * J-pop
   * [J-pop](https://twitter.com/i/topics/810938095772123136)
   * [JKT48](https://twitter.com/i/topics/1177558381017518081)
@@ -97,7 +162,9 @@ Musik
   * [AB6IX](https://twitter.com/i/topics/1137087248803876864)
   * [ASTRO](https://twitter.com/i/topics/899695469646893056)
   * [ATEEZ](https://twitter.com/i/topics/1085295439321001989)
-  * [BIGBANG](https://twitter.com/i/topics/889743747742744577)
+  * BIGBANG
+    * [BIGBANG](https://twitter.com/i/topics/889743747742744577)
+    * [Daesung](https://twitter.com/i/topics/908744234064216064)
   * BLACKPINK
     * [BLACKPINK](https://twitter.com/i/topics/894606843783270401)
     * [JENNIE](https://twitter.com/i/topics/913136751920611329)
@@ -115,14 +182,20 @@ Musik
     * [RM](https://twitter.com/i/topics/895369476488609792)
     * [SUGA](https://twitter.com/i/topics/895369555937157120)
     * [V (BTS)](https://twitter.com/i/topics/895369816558534656)
+  * [Engene](https://twitter.com/i/topics/1384873289177174020)
   * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
   * EXO
     * [EXO](https://twitter.com/i/topics/889972468953128960)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
     * [CHANYEOL](https://twitter.com/i/topics/895348925963550720)
+    * [EXO-L](https://twitter.com/i/topics/1086328074126258176)
     * [SEHUN](https://twitter.com/i/topics/895349145816317952)
-  * [GOT7](https://twitter.com/i/topics/892035567948505088)
+  * GOT7
+    * [GOT7](https://twitter.com/i/topics/892035567948505088)
+    * [iGOT7](https://twitter.com/i/topics/1086359983082549248)
+  * [Highlight](https://twitter.com/i/topics/902544334938972160)
   * [iKON](https://twitter.com/i/topics/894620779194621952)
+  * [ITZY](https://twitter.com/i/topics/1136006605483364353)
   * [IZ*ONE](https://twitter.com/i/topics/1042460886760214529)
   * [Monsta X](https://twitter.com/i/topics/892810724833083392)
   * NCT
@@ -132,12 +205,15 @@ Musik
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
+    * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [NCTzen](https://twitter.com/i/topics/1087760282938572800)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
     * [Sungchan](https://twitter.com/i/topics/1372188740580306950)
     * [TAEIL (NCT)](https://twitter.com/i/topics/913453509072232448)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
+    * [WINWIN](https://twitter.com/i/topics/913453906297892864)
   * NCT 127
     * [NCT 127](https://twitter.com/i/topics/910970076802695168)
     * [DOYOUNG](https://twitter.com/i/topics/913453553863213056)
@@ -145,10 +221,12 @@ Musik
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
     * [TAEIL (NCT)](https://twitter.com/i/topics/913453509072232448)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
+    * [WINWIN](https://twitter.com/i/topics/913453906297892864)
   * NCT Dream
     * [NCT Dream](https://twitter.com/i/topics/910969991196950528)
     * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
@@ -156,19 +234,25 @@ Musik
     * [JENO](https://twitter.com/i/topics/913453048474640384)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
-  * [Red Velvet](https://twitter.com/i/topics/893521261027934208)
+  * [OH MY GIRL](https://twitter.com/i/topics/898615660187602944)
+  * Red Velvet
+    * [Red Velvet](https://twitter.com/i/topics/893521261027934208)
+    * [IRENE](https://twitter.com/i/topics/979015931287429120)
   * SEVENTEEN
     * [SEVENTEEN](https://twitter.com/i/topics/892415136488579072)
     * [Hoshi (SEVENTEEN)](https://twitter.com/i/topics/895382958298644480)
   * [SF9](https://twitter.com/i/topics/900058971918094336)
   * [SHINee](https://twitter.com/i/topics/893165191428321280)
-  * [Stray Kids](https://twitter.com/i/topics/1062427352318173185)
+  * Stray Kids
+    * [Stray Kids](https://twitter.com/i/topics/1062427352318173185)
+    * [Bang Chan](https://twitter.com/i/topics/1138161821947293696)
   * Super Junior
     * [Yesung](https://twitter.com/i/topics/890285712993525761)
   * SuperM
     * [SuperM](https://twitter.com/i/topics/1167523042529906688)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
+  * [The Boyz](https://twitter.com/i/topics/903633998194212864)
   * TOMORROW X TOGETHER
     * [TOMORROW X TOGETHER](https://twitter.com/i/topics/1083397690140971008)
     * [Beomgyu](https://twitter.com/i/topics/1088476866535518208)
@@ -178,6 +262,9 @@ Musik
     * [Yeonjun](https://twitter.com/i/topics/1083399594313080832)
   * [TREASURE](https://twitter.com/i/topics/1275168323332800512)
   * [TWICE](https://twitter.com/i/topics/894658146135793664)
+  * WayV
+    * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+    * [WINWIN](https://twitter.com/i/topics/913453906297892864)
 * Pop
   * [Pop](https://twitter.com/i/topics/810938279801470977)
   * [Agnes Monica](https://twitter.com/i/topics/807320562166992896)
@@ -187,6 +274,8 @@ Olahraga
 ==========
 
 * [Olahraga](https://twitter.com/i/topics/847900493514891265)
+* Acara olahraga
+  * [Olimpiade](https://twitter.com/i/topics/1237760060828213249)
 * [Berita olahraga](https://twitter.com/i/topics/840160112325021696)
 * Bola basket
   * [Bola basket](https://twitter.com/i/topics/706083902411055104)
@@ -212,6 +301,7 @@ Olahraga
     * [Arema FC](https://twitter.com/i/topics/1243184369772032008)
     * [Bali United FC](https://twitter.com/i/topics/1243562325166002176)
     * [Borneo FC](https://twitter.com/i/topics/1243585663678566400)
+    * [Madura United FC](https://twitter.com/i/topics/1244627079670272000)
     * [Persebaya](https://twitter.com/i/topics/1243198073628590085)
     * [Persela FC](https://twitter.com/i/topics/1380107977437290500)
     * [Persib](https://twitter.com/i/topics/1243181582522830848)
@@ -273,24 +363,60 @@ Olahraga
 Perjalanan
 ==========
 
+* [Perjalanan](https://twitter.com/i/topics/839159814991167489)
 * Destinasi
-  * [Perjalanan di Indonesia](https://twitter.com/i/topics/1306606727656210432)
+  * [Destinasi](https://twitter.com/i/topics/857603051657482241)
+  * Perjalanan di Asia Pasifik
+    * [Perjalanan di Asia Pasifik](https://twitter.com/i/topics/1194367046898733056)
+    * [Perjalanan di Indonesia](https://twitter.com/i/topics/1306606727656210432)
 * Transportasi
   * [Otomotif](https://twitter.com/i/topics/847528391163092993)
+
+Permainan
+==========
+
+* [Permainan](https://twitter.com/i/topics/847527650667094017)
+* Video Game
+  * [Video Game](https://twitter.com/i/topics/1070028159964262400)
+  * [Genshin Impact](https://twitter.com/i/topics/1310987643765678083)
+  * [Mobile Legends](https://twitter.com/i/topics/1178803760472064000)
+
+Rumah & keluarga
+==========
+
+* Di rumah
+  * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
+* Keluarga
+  * [Pernikahan](https://twitter.com/i/topics/847896684638097408)
+* [Pacaran](https://twitter.com/i/topics/847896430605811712)
 
 Seni & budaya
 ==========
 
+* [Seni & budaya](https://twitter.com/i/topics/1280550787207147521)
 * Animasi
   * [Animasi](https://twitter.com/i/topics/1192082698568814592)
   * Anime
     * [Anime](https://twitter.com/i/topics/839543165002506240)
     * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+    * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+  * [Menggambar & ilustrasi](https://twitter.com/i/topics/847869251595542528)
+  * Studio animasi
+    * [Disney](https://twitter.com/i/topics/10037284711)
+* [Buku](https://twitter.com/i/topics/847519659179954178)
 * [Komik](https://twitter.com/i/topics/847521144173350912)
+* [Pernikahan](https://twitter.com/i/topics/847896684638097408)
+* [Ramalan bintang](https://twitter.com/i/topics/1068226612380889088)
+* Seni
+  * [Seni](https://twitter.com/i/topics/1265660441822281728)
+  * Seni visual
+    * [Menggambar & ilustrasi](https://twitter.com/i/topics/847869251595542528)
 
 Teknologi
 ==========
 
 * [Teknologi](https://twitter.com/i/topics/848920371311001600)
 * [Berita teknologi](https://twitter.com/i/topics/840160819388141570)
-* [Industri Teknologi](https://twitter.com/i/topics/1196446727181500416)
+* Industri Teknologi
+  * [Industri Teknologi](https://twitter.com/i/topics/1196446727181500416)
+  * [Netflix](https://twitter.com/i/topics/10026367762)

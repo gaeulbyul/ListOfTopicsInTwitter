@@ -1,12 +1,20 @@
 
-Dış mekan
+Bilim
 ==========
 
-* [Kediler](https://twitter.com/i/topics/852263859209478144)
+* [Bilim](https://twitter.com/i/topics/854692455005921281)
+
+Dış mekanlar
+==========
+
+* [Dış mekanlar](https://twitter.com/i/topics/1277995430236680192)
+* Hayvanlar
+  * [Kediler](https://twitter.com/i/topics/852263859209478144)
 
 Eğlence
 ==========
 
+* [Eğlence](https://twitter.com/i/topics/839544274442051584)
 * [Dijital içerik üreticileri](https://twitter.com/i/topics/839543456678596608)
 * Eğlenceli bayilikleri
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
@@ -15,6 +23,7 @@ Eğlence
 * Komedi
   * [Cem Yılmaz](https://twitter.com/i/topics/1367894286612660228)
 * Sinema ve televizyon
+  * [Sinema ve televizyon](https://twitter.com/i/topics/1276514328007467008)
   * Sinema ve televizyon etkinlikleri
     * [Oscar Ödülleri](https://twitter.com/i/topics/1222619725877796864)
   * Televizyon
@@ -30,8 +39,11 @@ Eğlence
       * [Menajerimi Ara](https://twitter.com/i/topics/1381202763309228032)
     * Türk dizileri
       * [Türk dizileri](https://twitter.com/i/topics/1287501285290201088)
+      * [Alev Alev](https://twitter.com/i/topics/1382616814635552770)
       * [Camdaki Kız](https://twitter.com/i/topics/1380515191507447817)
       * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
+      * [Fatma](https://twitter.com/i/topics/1387082127125094400)
+      * [Hercai](https://twitter.com/i/topics/1381909330828554243)
       * [Kuruluş Osman](https://twitter.com/i/topics/1383126510412857345)
       * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
       * [Maraşlı](https://twitter.com/i/topics/1381596237980307459)
@@ -46,8 +58,10 @@ Eğlence
     * Yarışma programları
       * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
 * Ünlüler
-  * Türk aktörler
-    * [Türk aktörler](https://twitter.com/i/topics/1367227293207126017)
+  * Türk oyuncular
+    * [Türk oyuncular](https://twitter.com/i/topics/1367227293207126017)
+    * [Burak Deniz](https://twitter.com/i/topics/1385680765115981825)
+    * [Burcu Biricik](https://twitter.com/i/topics/1387333343411261440)
     * [Can Yaman](https://twitter.com/i/topics/1367264100598751233)
     * [Cem Yılmaz](https://twitter.com/i/topics/1367894286612660228)
     * [Kerem Bürsin](https://twitter.com/i/topics/1383061966789349380)
@@ -70,11 +84,12 @@ Haberler
 
 * [İş dünyası ve finans](https://twitter.com/i/topics/781974596148793345)
 * [Fintech](https://twitter.com/i/topics/1237094778463858688)
-* İş İnsanları
+* İş insanları
   * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
 * Kripto paralar
   * [Kripto paralar](https://twitter.com/i/topics/913142676819648512)
   * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
+  * [Dogecoin](https://twitter.com/i/topics/1139229372198469633)
   * [Ethereum](https://twitter.com/i/topics/1007361429752594432)
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Yatırım
@@ -93,6 +108,7 @@ Moda ve güzellik
 Müzik
 ==========
 
+* [Müzik](https://twitter.com/i/topics/847524658970636288)
 * Hip hop
   * [Rap](https://twitter.com/i/topics/810937888334487552)
 * K-pop
@@ -100,10 +116,12 @@ Müzik
   * [BLACKPINK](https://twitter.com/i/topics/894606843783270401)
   * [BTS](https://twitter.com/i/topics/844438182523383808)
   * [EXO](https://twitter.com/i/topics/889972468953128960)
+* [Türkçe müzik](https://twitter.com/i/topics/1365047666577563651)
 
 Sadece Twitter'da
 ==========
 
+* [Popüler](https://twitter.com/i/topics/1379479913510490121)
 * [Viral Tweet'ler](https://twitter.com/i/topics/1284234742661963776)
 
 Sanat ve kültür
@@ -144,7 +162,12 @@ Spor
   * [EuroLeague](https://twitter.com/i/topics/1250453189012291585)
   * ING Basketbol Süper Ligi
     * [Anadolu Efes S.K.](https://twitter.com/i/topics/1349297285813858306)
-  * [NBA](https://twitter.com/i/topics/706083889454813185)
+  * NBA
+    * [NBA](https://twitter.com/i/topics/706083889454813185)
+    * [Boston Celtics](https://twitter.com/i/topics/706083876595068928)
+    * [Golden State Warriors](https://twitter.com/i/topics/706083886392934400)
+    * [Los Angeles Lakers](https://twitter.com/i/topics/706083845846597632)
+    * [New York Knicks](https://twitter.com/i/topics/706083892525010946)
 * Futbol
   * [Futbol](https://twitter.com/i/topics/733756536430809088)
   * Bundesliga
@@ -166,6 +189,7 @@ Spor
     * [Türkiye Milli Futbol Takımı](https://twitter.com/i/topics/1376507190584901633)
   * La Liga
     * [La Liga](https://twitter.com/i/topics/733756520714752000)
+    * [Atletico Madrid](https://twitter.com/i/topics/731226217395818496)
     * Barcelona FC
       * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
@@ -227,6 +251,7 @@ Spor
       * [Ryan Babel](https://twitter.com/i/topics/776161899104784384)
       * [Sofiane Feghouli](https://twitter.com/i/topics/733773724910915584)
       * [Younes Belhanda](https://twitter.com/i/topics/733774219650072576)
+    * [Trabzonspor](https://twitter.com/i/topics/731226169236852736)
   * UEFA Avrupa Ligi
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
     * LOSC
@@ -237,6 +262,7 @@ Spor
     * [Tottenham Hotspur](https://twitter.com/i/topics/731226239709515778)
   * UEFA Şampiyonlar Ligi
     * [UEFA Şampiyonlar Ligi](https://twitter.com/i/topics/733756536875454464)
+    * [Atletico Madrid](https://twitter.com/i/topics/731226217395818496)
     * Barcelona FC
       * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
@@ -276,6 +302,7 @@ Teknoloji
 * Kripto paralar
   * [Kripto paralar](https://twitter.com/i/topics/913142676819648512)
   * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
+  * [Dogecoin](https://twitter.com/i/topics/1139229372198469633)
   * [Ethereum](https://twitter.com/i/topics/1007361429752594432)
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Teknoloji endüstrisi
@@ -287,4 +314,6 @@ Teknoloji
 Yemek
 ==========
 
-* [Türk mutfağı](https://twitter.com/i/topics/1347213999486615555)
+* [Yemek](https://twitter.com/i/topics/825047692124442624)
+* Dünya mutfakları 
+  * [Türk mutfağı](https://twitter.com/i/topics/1347213999486615555)
