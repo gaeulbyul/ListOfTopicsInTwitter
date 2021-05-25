@@ -10,8 +10,13 @@ Anime & manga
 * [Anime & manga](https://twitter.com/i/topics/1297951101136732160)
 * Anime
   * [Anime](https://twitter.com/i/topics/839543165002506240)
+  * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
+  * [Doraemon](https://twitter.com/i/topics/1012681620074053632)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+  * [Hetalia](https://twitter.com/i/topics/1319391064311033856)
   * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+  * [Naruto](https://twitter.com/i/topics/1136329838350880768)
+* [Illustrator populer](https://twitter.com/i/topics/1297745907161509888)
 * [Komik](https://twitter.com/i/topics/847521144173350912)
 
 Berita
@@ -22,9 +27,16 @@ Berita
     * [Bali](https://twitter.com/i/topics/1359064917827981312)
     * [DI Yogyakarta](https://twitter.com/i/topics/1359091401376452610)
     * [DKI Jakarta](https://twitter.com/i/topics/1359054361029005312)
-    * [Jawa Barat](https://twitter.com/i/topics/1359059702827524099)
+    * Jawa Barat
+      * [Jawa Barat](https://twitter.com/i/topics/1359059702827524099)
+      * [Bandung](https://twitter.com/i/topics/1392040217956143104)
+      * [Bekasi](https://twitter.com/i/topics/1392049828314550272)
+      * [Bogor](https://twitter.com/i/topics/1392047151492997120)
     * [Jawa Tengah](https://twitter.com/i/topics/1359081777835347972)
     * [Jawa Timur](https://twitter.com/i/topics/1359086175101673478)
+    * [Sumatera Barat](https://twitter.com/i/topics/1392054260498456578)
+    * [Sumatera Selatan](https://twitter.com/i/topics/1392060029319016450)
+    * [Sumatera Utara](https://twitter.com/i/topics/1392051970639204355)
 * Berita hiburan
   * [Berita film](https://twitter.com/i/topics/1114213516271964160)
 * [Berita musik](https://twitter.com/i/topics/1099779369357082624)
@@ -45,7 +57,7 @@ Fitnes
 Hanya di Twitter
 ==========
 
-* [Populer](https://twitter.com/i/topics/1379479913510490121)
+* [Anda Mungkin Suka](https://twitter.com/i/topics/1379479913510490121)
 
 Hiburan
 ==========
@@ -63,12 +75,20 @@ Hiburan
   * Acara film & tv
     * [Penghargaan Oscars](https://twitter.com/i/topics/1222619725877796864)
   * [Berita film](https://twitter.com/i/topics/1114213516271964160)
-  * [Film](https://twitter.com/i/topics/1072936713134071808)
+  * Film
+    * [Film](https://twitter.com/i/topics/1072936713134071808)
+    * Film sci & fantasi
+      * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * Televisi
+    * [Televisi](https://twitter.com/i/topics/1072937043393560576)
     * Anime
       * [Anime](https://twitter.com/i/topics/839543165002506240)
+      * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
+      * [Doraemon](https://twitter.com/i/topics/1012681620074053632)
       * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+      * [Hetalia](https://twitter.com/i/topics/1319391064311033856)
       * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+      * [Naruto](https://twitter.com/i/topics/1136329838350880768)
     * Drama seri Korea
       * [Drama seri Korea](https://twitter.com/i/topics/1346749071000670209)
       * [Vincenzo](https://twitter.com/i/topics/1365669572825653253)
@@ -83,6 +103,7 @@ Hiburan
   * [Doraemon](https://twitter.com/i/topics/1012681620074053632)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
+  * [Hetalia](https://twitter.com/i/topics/1319391064311033856)
   * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
   * [Marvel Universe](https://twitter.com/i/topics/1002576732971384832)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
@@ -106,6 +127,7 @@ Ilmu
 
 * [Ilmu](https://twitter.com/i/topics/854692455005921281)
 * [Cuaca](https://twitter.com/i/topics/857083369514876928)
+* [Psikologi](https://twitter.com/i/topics/1129090662622588930)
 
 Karir
 ==========
@@ -149,6 +171,7 @@ Musik
 * [Berita musik](https://twitter.com/i/topics/1099779369357082624)
 * C-Pop
   * [C-Pop](https://twitter.com/i/topics/1098263006213881856)
+  * [Into1](https://twitter.com/i/topics/1390597692212924418)
   * WayV
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
     * [WINWIN](https://twitter.com/i/topics/913453906297892864)
@@ -193,11 +216,14 @@ Musik
   * GOT7
     * [GOT7](https://twitter.com/i/topics/892035567948505088)
     * [iGOT7](https://twitter.com/i/topics/1086359983082549248)
+    * [JB (GOT7)](https://twitter.com/i/topics/894972039735398400)
   * [Highlight](https://twitter.com/i/topics/902544334938972160)
   * [iKON](https://twitter.com/i/topics/894620779194621952)
   * [ITZY](https://twitter.com/i/topics/1136006605483364353)
   * [IZ*ONE](https://twitter.com/i/topics/1042460886760214529)
-  * [Monsta X](https://twitter.com/i/topics/892810724833083392)
+  * Monsta X
+    * [Monsta X](https://twitter.com/i/topics/892810724833083392)
+    * [Minhyuk (Monsta X)](https://twitter.com/i/topics/908748434789638144)
   * NCT
     * [NCT](https://twitter.com/i/topics/897126481884659712)
     * [DOYOUNG](https://twitter.com/i/topics/913453553863213056)
@@ -268,7 +294,10 @@ Musik
 * Pop
   * [Pop](https://twitter.com/i/topics/810938279801470977)
   * [Agnes Monica](https://twitter.com/i/topics/807320562166992896)
-* [Rock](https://twitter.com/i/topics/806571747730341888)
+* Rock
+  * [Rock](https://twitter.com/i/topics/806571747730341888)
+  * Pop rock
+    * [Day6](https://twitter.com/i/topics/897896174614478848)
 
 Olahraga
 ==========
@@ -369,7 +398,9 @@ Perjalanan
   * Perjalanan di Asia Pasifik
     * [Perjalanan di Asia Pasifik](https://twitter.com/i/topics/1194367046898733056)
     * [Perjalanan di Indonesia](https://twitter.com/i/topics/1306606727656210432)
+* [Perjalanan udara](https://twitter.com/i/topics/849076200261603328)
 * Transportasi
+  * [Kereta api](https://twitter.com/i/topics/1206695792582414336)
   * [Otomotif](https://twitter.com/i/topics/847528391163092993)
 
 Permainan
@@ -384,9 +415,11 @@ Permainan
 Rumah & keluarga
 ==========
 
+* [Rumah & keluarga](https://twitter.com/i/topics/847868745150119936)
 * Di rumah
   * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
 * Keluarga
+  * [Parenting](https://twitter.com/i/topics/847547282010497024)
   * [Pernikahan](https://twitter.com/i/topics/847896684638097408)
 * [Pacaran](https://twitter.com/i/topics/847896430605811712)
 
@@ -398,19 +431,30 @@ Seni & budaya
   * [Animasi](https://twitter.com/i/topics/1192082698568814592)
   * Anime
     * [Anime](https://twitter.com/i/topics/839543165002506240)
+    * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
+    * [Doraemon](https://twitter.com/i/topics/1012681620074053632)
     * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+    * [Hetalia](https://twitter.com/i/topics/1319391064311033856)
     * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
-  * [Menggambar & ilustrasi](https://twitter.com/i/topics/847869251595542528)
+    * [Naruto](https://twitter.com/i/topics/1136329838350880768)
+  * Menggambar & ilustrasi
+    * [Menggambar & ilustrasi](https://twitter.com/i/topics/847869251595542528)
+    * [Illustrator populer](https://twitter.com/i/topics/1297745907161509888)
   * Studio animasi
     * [Disney](https://twitter.com/i/topics/10037284711)
 * [Buku](https://twitter.com/i/topics/847519659179954178)
 * [Komik](https://twitter.com/i/topics/847521144173350912)
 * [Pernikahan](https://twitter.com/i/topics/847896684638097408)
 * [Ramalan bintang](https://twitter.com/i/topics/1068226612380889088)
+* Sci-fi & fantasi
+  * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
 * Seni
   * [Seni](https://twitter.com/i/topics/1265660441822281728)
   * Seni visual
-    * [Menggambar & ilustrasi](https://twitter.com/i/topics/847869251595542528)
+    * [Seni visual](https://twitter.com/i/topics/1046577790353428480)
+    * Menggambar & ilustrasi
+      * [Menggambar & ilustrasi](https://twitter.com/i/topics/847869251595542528)
+      * [Illustrator populer](https://twitter.com/i/topics/1297745907161509888)
 
 Teknologi
 ==========

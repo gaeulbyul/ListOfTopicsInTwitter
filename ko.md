@@ -2,8 +2,8 @@
 Only on Twitter
 ==========
 
+* [내가 마음에 들어할 수도 있는 것](https://twitter.com/i/topics/1379479913510490121)
 * [바이럴 트윗](https://twitter.com/i/topics/1284234742661963776)
-* [인기](https://twitter.com/i/topics/1379479913510490121)
 
 게임
 ==========
@@ -327,7 +327,9 @@ Only on Twitter
 에니메·만화
 ==========
 
+* [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
 * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
+* [은혼](https://twitter.com/i/topics/1017779899019378689)
 
 엔터테인먼트
 ==========
@@ -339,8 +341,12 @@ Only on Twitter
   * [은혼](https://twitter.com/i/topics/1017779899019378689)
   * [해리포터](https://twitter.com/i/topics/933033311844286464)
 * 영화・TV
-  * 애니메
+  * TV
+    * [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
     * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
+    * [은혼](https://twitter.com/i/topics/1017779899019378689)
+  * 영화
+    * [해리포터](https://twitter.com/i/topics/933033311844286464)
 * 유명인
   * 방송인
     * [강호동](https://twitter.com/i/topics/1083408757915152385)
@@ -376,6 +382,8 @@ Only on Twitter
 예술・문화
 ==========
 
+* SF
+  * [해리포터](https://twitter.com/i/topics/933033311844286464)
 * 댄스
   * [발레](https://twitter.com/i/topics/1075097515064623104)
 * 미술
@@ -383,7 +391,9 @@ Only on Twitter
 * 애니
   * [드로잉·일러스트](https://twitter.com/i/topics/847869251595542528)
   * 애니메
+    * [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
     * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
+    * [은혼](https://twitter.com/i/topics/1017779899019378689)
 * [연극](https://twitter.com/i/topics/1047537435855319040)
 
 홈·패밀리
