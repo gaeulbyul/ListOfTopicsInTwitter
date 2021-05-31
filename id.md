@@ -17,7 +17,11 @@ Anime & manga
   * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
 * [Illustrator populer](https://twitter.com/i/topics/1297745907161509888)
-* [Komik](https://twitter.com/i/topics/847521144173350912)
+* Komik
+  * [Komik](https://twitter.com/i/topics/847521144173350912)
+  * [Webcomics](https://twitter.com/i/topics/1308511162783334400)
+* Manga
+  * [Webcomics](https://twitter.com/i/topics/1308511162783334400)
 
 Berita
 ==========
@@ -48,6 +52,7 @@ Bisnis & keuangan
 ==========
 
 * [Bisnis & keuangan](https://twitter.com/i/topics/781974596148793345)
+* [Cryptocurrency](https://twitter.com/i/topics/913142676819648512)
 
 Fitnes
 ==========
@@ -121,6 +126,8 @@ Hiburan
     * [Kim Yoojung](https://twitter.com/i/topics/1062826720984621056)
     * [Song Joongki](https://twitter.com/i/topics/925709166341079041)
     * [Song Kang](https://twitter.com/i/topics/1365659684250685442)
+  * Bintang musik
+    * [Ariana Grande](https://twitter.com/i/topics/806557506851848192)
 
 Ilmu
 ==========
@@ -135,9 +142,12 @@ Karir
 * [Karir](https://twitter.com/i/topics/847544972781826048)
 * Bidang studi
   * [Sejarah](https://twitter.com/i/topics/1047111583309029381)
-* [Koki](https://twitter.com/i/topics/1091055942249046016)
+* Koki
+  * [Koki](https://twitter.com/i/topics/1091055942249046016)
+  * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
 * Pendidikan
   * [Pendidikan](https://twitter.com/i/topics/847546154439000064)
+  * [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
   * [Kehidupan mahasiswa](https://twitter.com/i/topics/852219717016141824)
   * [Lulusan sekolah](https://twitter.com/i/topics/852247095461371904)
   * [Ujian masuk sekolah](https://twitter.com/i/topics/1188908088570470400)
@@ -146,8 +156,11 @@ Makanan
 ==========
 
 * [Makanan](https://twitter.com/i/topics/825047692124442624)
+* [Influencer makanan](https://twitter.com/i/topics/1354828883917344768)
 * [Jajanan kaki lima](https://twitter.com/i/topics/1286732523326717952)
-* [Koki](https://twitter.com/i/topics/1091055942249046016)
+* Koki
+  * [Koki](https://twitter.com/i/topics/1091055942249046016)
+  * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
 * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
 * Masakan
   * Kuliner Asia
@@ -174,11 +187,14 @@ Musik
   * [Into1](https://twitter.com/i/topics/1390597692212924418)
   * WayV
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+    * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
+    * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
     * [WINWIN](https://twitter.com/i/topics/913453906297892864)
 * Di belakang panggung
   * [Industri musik](https://twitter.com/i/topics/1196457934370172928)
 * J-pop
   * [J-pop](https://twitter.com/i/topics/810938095772123136)
+  * [Arashi](https://twitter.com/i/topics/1022861941851582465)
   * [JKT48](https://twitter.com/i/topics/1177558381017518081)
 * K-pop
   * [K-pop](https://twitter.com/i/topics/888105153038958593)
@@ -206,13 +222,22 @@ Musik
     * [SUGA](https://twitter.com/i/topics/895369555937157120)
     * [V (BTS)](https://twitter.com/i/topics/895369816558534656)
   * [Engene](https://twitter.com/i/topics/1384873289177174020)
-  * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
+  * ENHYPEN
+    * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
+    * [Sunghoon](https://twitter.com/i/topics/1384855651566845956)
   * EXO
     * [EXO](https://twitter.com/i/topics/889972468953128960)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
     * [CHANYEOL](https://twitter.com/i/topics/895348925963550720)
+    * [CHEN](https://twitter.com/i/topics/895349315563999234)
+    * [D.O.](https://twitter.com/i/topics/895349042850414592)
     * [EXO-L](https://twitter.com/i/topics/1086328074126258176)
+    * [KAI](https://twitter.com/i/topics/895348996796858368)
+    * [Lay Zhang](https://twitter.com/i/topics/916323752002043904)
     * [SEHUN](https://twitter.com/i/topics/895349145816317952)
+    * [SUHO](https://twitter.com/i/topics/895348703812177920)
+    * [XIUMIN](https://twitter.com/i/topics/895349210010206208)
+  * [GFRIEND](https://twitter.com/i/topics/894579285268103168)
   * GOT7
     * [GOT7](https://twitter.com/i/topics/892035567948505088)
     * [iGOT7](https://twitter.com/i/topics/1086359983082549248)
@@ -226,38 +251,51 @@ Musik
     * [Minhyuk (Monsta X)](https://twitter.com/i/topics/908748434789638144)
   * NCT
     * [NCT](https://twitter.com/i/topics/897126481884659712)
+    * [CHENLE](https://twitter.com/i/topics/913453215064104960)
     * [DOYOUNG](https://twitter.com/i/topics/913453553863213056)
     * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
+    * [JOHNNY (NCT)](https://twitter.com/i/topics/913453767650971650)
     * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+    * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [NCTzen](https://twitter.com/i/topics/1087760282938572800)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
     * [Sungchan](https://twitter.com/i/topics/1372188740580306950)
     * [TAEIL (NCT)](https://twitter.com/i/topics/913453509072232448)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
+    * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
     * [WINWIN](https://twitter.com/i/topics/913453906297892864)
+    * [YUTA](https://twitter.com/i/topics/913453859992887296)
   * NCT 127
     * [NCT 127](https://twitter.com/i/topics/910970076802695168)
+    * [CHENLE](https://twitter.com/i/topics/913453215064104960)
     * [DOYOUNG](https://twitter.com/i/topics/913453553863213056)
     * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
     * [JAEHYUN](https://twitter.com/i/topics/913453601267245056)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
+    * [JOHNNY (NCT)](https://twitter.com/i/topics/913453767650971650)
     * [JUNGWOO](https://twitter.com/i/topics/1057661921342582784)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
     * [TAEIL (NCT)](https://twitter.com/i/topics/913453509072232448)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
+    * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
     * [WINWIN](https://twitter.com/i/topics/913453906297892864)
+    * [YUTA](https://twitter.com/i/topics/913453859992887296)
   * NCT Dream
     * [NCT Dream](https://twitter.com/i/topics/910969991196950528)
+    * [CHENLE](https://twitter.com/i/topics/913453215064104960)
     * [HAECHAN](https://twitter.com/i/topics/913453097099214848)
     * [JAEMIN](https://twitter.com/i/topics/913453143018545152)
     * [JENO](https://twitter.com/i/topics/913453048474640384)
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
   * [OH MY GIRL](https://twitter.com/i/topics/898615660187602944)
@@ -272,12 +310,16 @@ Musik
   * Stray Kids
     * [Stray Kids](https://twitter.com/i/topics/1062427352318173185)
     * [Bang Chan](https://twitter.com/i/topics/1138161821947293696)
+    * [Han (Stray Kids)](https://twitter.com/i/topics/1138162841515487232)
   * Super Junior
     * [Yesung](https://twitter.com/i/topics/890285712993525761)
   * SuperM
     * [SuperM](https://twitter.com/i/topics/1167523042529906688)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
+    * [KAI](https://twitter.com/i/topics/895348996796858368)
+    * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
     * [TAEYONG](https://twitter.com/i/topics/913453813847097345)
+    * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
   * [The Boyz](https://twitter.com/i/topics/903633998194212864)
   * TOMORROW X TOGETHER
     * [TOMORROW X TOGETHER](https://twitter.com/i/topics/1083397690140971008)
@@ -288,12 +330,17 @@ Musik
     * [Yeonjun](https://twitter.com/i/topics/1083399594313080832)
   * [TREASURE](https://twitter.com/i/topics/1275168323332800512)
   * [TWICE](https://twitter.com/i/topics/894658146135793664)
+  * Wanna One
+    * [JISUNG](https://twitter.com/i/topics/913453270156247040)
   * WayV
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
+    * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
+    * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
     * [WINWIN](https://twitter.com/i/topics/913453906297892864)
 * Pop
   * [Pop](https://twitter.com/i/topics/810938279801470977)
   * [Agnes Monica](https://twitter.com/i/topics/807320562166992896)
+  * [Ariana Grande](https://twitter.com/i/topics/806557506851848192)
 * Rock
   * [Rock](https://twitter.com/i/topics/806571747730341888)
   * Pop rock
@@ -304,7 +351,12 @@ Olahraga
 
 * [Olahraga](https://twitter.com/i/topics/847900493514891265)
 * Acara olahraga
+  * Kejuaraan Eropa UEFA
+    * [Kejuaraan Eropa UEFA](https://twitter.com/i/topics/1384518599562301449)
+    * Portugal
+      * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * [Olimpiade](https://twitter.com/i/topics/1237760060828213249)
+  * [Piala Dunia FIFA](https://twitter.com/i/topics/1304474187961044993)
 * [Berita olahraga](https://twitter.com/i/topics/840160112325021696)
 * Bola basket
   * [Bola basket](https://twitter.com/i/topics/706083902411055104)
@@ -317,6 +369,10 @@ Olahraga
     * [Bundesliga](https://twitter.com/i/topics/733756521230667776)
     * [Bayern Munich](https://twitter.com/i/topics/731226192859172864)
     * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
+  * Kejuaraan Eropa UEFA
+    * [Kejuaraan Eropa UEFA](https://twitter.com/i/topics/1384518599562301449)
+    * Portugal
+      * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * La Liga
     * [La Liga](https://twitter.com/i/topics/733756520714752000)
     * FC Barcelona
@@ -363,15 +419,21 @@ Olahraga
     * [West Ham](https://twitter.com/i/topics/731226245824815104)
   * Ligue 1
     * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
+  * [Piala Dunia FIFA](https://twitter.com/i/topics/1304474187961044993)
   * Serie A
     * [Serie A](https://twitter.com/i/topics/733756520261767169)
     * [AC Milan](https://twitter.com/i/topics/731226162496593920)
     * [AS Roma](https://twitter.com/i/topics/731226219417460736)
     * [Atalanta BC](https://twitter.com/i/topics/731226167089332224)
     * [Inter Milan](https://twitter.com/i/topics/731226185535881216)
-    * [Juventus](https://twitter.com/i/topics/731226195937779713)
+    * Juventus
+      * [Juventus](https://twitter.com/i/topics/731226195937779713)
+      * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * Tim nasional sepak bola pria
-    * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * Argentina
+      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * Portugal
+      * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * UEFA Champions League
     * [UEFA Champions League](https://twitter.com/i/topics/733756536875454464)
     * [Atalanta BC](https://twitter.com/i/topics/731226167089332224)
@@ -381,7 +443,9 @@ Olahraga
     * FC Barcelona
       * [FC Barcelona](https://twitter.com/i/topics/731226255836598272)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
-    * [Juventus](https://twitter.com/i/topics/731226195937779713)
+    * Juventus
+      * [Juventus](https://twitter.com/i/topics/731226195937779713)
+      * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
     * [Liverpool FC](https://twitter.com/i/topics/731226219002265600)
     * [Manchester City](https://twitter.com/i/topics/731226203856637952)
     * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
@@ -393,6 +457,7 @@ Perjalanan
 ==========
 
 * [Perjalanan](https://twitter.com/i/topics/839159814991167489)
+* [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
 * Destinasi
   * [Destinasi](https://twitter.com/i/topics/857603051657482241)
   * Perjalanan di Asia Pasifik
@@ -443,7 +508,9 @@ Seni & budaya
   * Studio animasi
     * [Disney](https://twitter.com/i/topics/10037284711)
 * [Buku](https://twitter.com/i/topics/847519659179954178)
-* [Komik](https://twitter.com/i/topics/847521144173350912)
+* Komik
+  * [Komik](https://twitter.com/i/topics/847521144173350912)
+  * [Webcomics](https://twitter.com/i/topics/1308511162783334400)
 * [Pernikahan](https://twitter.com/i/topics/847896684638097408)
 * [Ramalan bintang](https://twitter.com/i/topics/1068226612380889088)
 * Sci-fi & fantasi
@@ -461,6 +528,7 @@ Teknologi
 
 * [Teknologi](https://twitter.com/i/topics/848920371311001600)
 * [Berita teknologi](https://twitter.com/i/topics/840160819388141570)
+* [Cryptocurrency](https://twitter.com/i/topics/913142676819648512)
 * Industri Teknologi
   * [Industri Teknologi](https://twitter.com/i/topics/1196446727181500416)
   * [Netflix](https://twitter.com/i/topics/10026367762)

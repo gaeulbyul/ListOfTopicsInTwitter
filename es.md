@@ -22,6 +22,7 @@ Anime & manga
   * [Dragon Ball](https://twitter.com/i/topics/1026525069474902017)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * [Hunter × Hunter](https://twitter.com/i/topics/1268927285739941888)
+  * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
   * [Neon Genesis Evangelion ](https://twitter.com/i/topics/1010244637770985472)
   * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
@@ -41,6 +42,7 @@ Arte & cultura
     * [Dragon Ball](https://twitter.com/i/topics/1026525069474902017)
     * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
     * [Hunter × Hunter](https://twitter.com/i/topics/1268927285739941888)
+    * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
     * [Naruto](https://twitter.com/i/topics/1136329838350880768)
     * [Neon Genesis Evangelion ](https://twitter.com/i/topics/1010244637770985472)
     * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
@@ -48,8 +50,12 @@ Arte & cultura
   * [Dibujo & ilustración](https://twitter.com/i/topics/847869251595542528)
   * [Películas de animación](https://twitter.com/i/topics/856976559529263104)
 * Arte
-  * [Dibujo & ilustración](https://twitter.com/i/topics/847869251595542528)
-  * [Escultura](https://twitter.com/i/topics/1046579830823706624)
+  * [Arte](https://twitter.com/i/topics/1265660441822281728)
+  * Artes visuales
+    * [Artes visuales](https://twitter.com/i/topics/1046577790353428480)
+    * [Dibujo & ilustración](https://twitter.com/i/topics/847869251595542528)
+    * [Escultura](https://twitter.com/i/topics/1046579830823706624)
+  * [Fotografía](https://twitter.com/i/topics/847869714860605440)
 * Ciencia ficción & fantasía
   * [Ciencia ficción & fantasía](https://twitter.com/i/topics/847869772129685504)
   * [Libros de ficción & fantasía](https://twitter.com/i/topics/859533542962757633)
@@ -68,6 +74,7 @@ Arte & cultura
 * Libros
   * [Libros de ficción & fantasía](https://twitter.com/i/topics/859533542962757633)
 * Teatro
+  * [Musicales](https://twitter.com/i/topics/1035186638777802752)
   * [Ópera](https://twitter.com/i/topics/869649977676505088)
 
 Ciencia
@@ -95,6 +102,7 @@ Comida
 * Gastronomía
   * [Gastronomía](https://twitter.com/i/topics/831530561680191490)
   * [Inspiración culinaria](https://twitter.com/i/topics/859532072813158400)
+  * [Videos de cocina](https://twitter.com/i/topics/1358731844930338817)
 * [Veganismo](https://twitter.com/i/topics/860145749463506944)
 
 Deportes
@@ -109,6 +117,7 @@ Deportes
     * [NBA](https://twitter.com/i/topics/706083889454813185)
     * Dallas Mavericks
       * [Luka Doncic](https://twitter.com/i/topics/1009176403676299265)
+    * [Denver Nuggets](https://twitter.com/i/topics/706083895200985088)
     * Golden State Warriors
       * [Golden State Warriors](https://twitter.com/i/topics/706083886392934400)
       * [Stephen Curry](https://twitter.com/i/topics/809849103983071232)
@@ -128,6 +137,7 @@ Deportes
   * MLB
     * [MLB](https://twitter.com/i/topics/769193602169704448)
     * [Boston Red Sox](https://twitter.com/i/topics/769193570636959745)
+    * [Jugadores de MLB](https://twitter.com/i/topics/1265721336841646081)
     * [New York Yankees](https://twitter.com/i/topics/769193717450153985)
 * Carreras de coches
   * [Carreras de coches](https://twitter.com/i/topics/847900599387430912)
@@ -224,7 +234,7 @@ Deportes
     * [Grêmio](https://twitter.com/i/topics/731226257736667136)
     * [Internacional](https://twitter.com/i/topics/731226243165650951)
     * [Palmeiras](https://twitter.com/i/topics/731226238551883776)
-    * [Santose](https://twitter.com/i/topics/731226248316231681)
+    * [Santos](https://twitter.com/i/topics/731226248316231681)
     * [São Paulo](https://twitter.com/i/topics/731226240728735744)
   * Campeonato Europeo de la UEFA
     * España
@@ -269,6 +279,8 @@ Deportes
     * [Universidad Católica](https://twitter.com/i/topics/731226237025161216)
     * [Zamora](https://twitter.com/i/topics/731226203042897925)
   * Copa Sudamericana
+    * [Coquimbo](https://twitter.com/i/topics/1207272620254621696)
+    * [Deportivo Cali](https://twitter.com/i/topics/731226235792031744)
     * [Independiente Santa Fe](https://twitter.com/i/topics/731226208738762753)
     * [Melgar](https://twitter.com/i/topics/731226166254653440)
   * Eredivisie
@@ -294,7 +306,9 @@ Deportes
       * [Ousmane Dembele](https://twitter.com/i/topics/733774411136831489)
       * [Sergi Roberto](https://twitter.com/i/topics/733773937339817984)
     * [Celta Vigo](https://twitter.com/i/topics/731226217760755712)
+    * [Cádiz CF](https://twitter.com/i/topics/731226203445592064)
     * [Eibar](https://twitter.com/i/topics/731226172072165378)
+    * [Elche CF](https://twitter.com/i/topics/731226167068348416)
     * [Huesca](https://twitter.com/i/topics/731226246546251778)
     * [Levante](https://twitter.com/i/topics/731226165780746240)
     * Real Betis
@@ -426,6 +440,7 @@ Deportes
     * DC United
       * [Edison Flores](https://twitter.com/i/topics/733773893844930560)
     * Inter Miami CF
+      * [Inter Miami CF](https://twitter.com/i/topics/1206970782150037506)
       * [Rodolfo Pizarro](https://twitter.com/i/topics/733774420964036608)
     * LA Galaxy
       * [Javier Hernandez](https://twitter.com/i/topics/733774267658067969)
@@ -446,6 +461,7 @@ Deportes
       * [Bernardo Silva](https://twitter.com/i/topics/733773906872426496)
       * [Pep Guardiola](https://twitter.com/i/topics/733774535133028352)
     * [Man Utd](https://twitter.com/i/topics/731226183572934657)
+    * [Southampton](https://twitter.com/i/topics/731226213864202241)
     * Tottenham
       * [Gareth Bale](https://twitter.com/i/topics/733774612949934080)
       * [Sergio Reguilon](https://twitter.com/i/topics/788913196098740225)
@@ -734,8 +750,11 @@ Entretenimiento
   * [Eventos de entretenimiento](https://twitter.com/i/topics/1286400579602796544)
   * Eventos de cine y televisión
     * [Globos de Oro](https://twitter.com/i/topics/1296820925640278016)
+    * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Premios Óscar](https://twitter.com/i/topics/1222619725877796864)
   * Eventos musicales
+    * [Eventos musicales](https://twitter.com/i/topics/1286400936550608896)
+    * [Billboard Music Awards](https://twitter.com/i/topics/1300503064143486976)
     * [Eurovision](https://twitter.com/i/topics/1389585940369199109)
     * [Grammy Latino](https://twitter.com/i/topics/1299067830768345088)
     * [Grammys](https://twitter.com/i/topics/1299065112913874944)
@@ -749,20 +768,21 @@ Entretenimiento
   * Harry Potter
     * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
     * [Potterheads](https://twitter.com/i/topics/1272990394536431616)
-  * [Hombre Araña](https://twitter.com/i/topics/1012672762442182657)
   * [Hunter × Hunter](https://twitter.com/i/topics/1268927285739941888)
+  * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
   * [Neon Genesis Evangelion ](https://twitter.com/i/topics/1010244637770985472)
   * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
   * [Pokémon](https://twitter.com/i/topics/10045599546)
   * [Sonic the Hedgehog](https://twitter.com/i/topics/993952643209773057)
+  * [Spider-Man](https://twitter.com/i/topics/1012672762442182657)
   * [Star Wars](https://twitter.com/i/topics/986247671663898625)
   * [Universo extendido de DC](https://twitter.com/i/topics/1080503141345374208)
   * [Universo Marvel](https://twitter.com/i/topics/1002576732971384832)
 * Noticias de entretenimiento
   * [Familia real](https://twitter.com/i/topics/1098692833333014528)
-  * Noticias de Cine
-    * [Noticias de Cine](https://twitter.com/i/topics/1114213516271964160)
+  * Noticias de cine
+    * [Noticias de cine](https://twitter.com/i/topics/1114213516271964160)
     * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
     * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
 * Películas & TV
@@ -775,9 +795,10 @@ Entretenimiento
     * [Stephen King](https://twitter.com/i/topics/811359363235397632)
   * Eventos de cine y televisión
     * [Globos de Oro](https://twitter.com/i/topics/1296820925640278016)
+    * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Premios Óscar](https://twitter.com/i/topics/1222619725877796864)
-  * Noticias de Cine
-    * [Noticias de Cine](https://twitter.com/i/topics/1114213516271964160)
+  * Noticias de cine
+    * [Noticias de cine](https://twitter.com/i/topics/1114213516271964160)
     * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
     * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
   * Noticias de TV
@@ -785,10 +806,12 @@ Entretenimiento
     * [Tráilers de TV](https://twitter.com/i/topics/1338549867514187777)
   * Películas
     * [Películas](https://twitter.com/i/topics/1072936713134071808)
+    * [Documentales](https://twitter.com/i/topics/856976742166048769)
+    * [Musicales](https://twitter.com/i/topics/1035186638777802752)
     * [Peliculas historicas](https://twitter.com/i/topics/1290284517027012611)
     * Películas de acción
       * [Películas de acción](https://twitter.com/i/topics/856976360337661952)
-      * [Hombre Araña](https://twitter.com/i/topics/1012672762442182657)
+      * [Spider-Man](https://twitter.com/i/topics/1012672762442182657)
     * [Películas de animación](https://twitter.com/i/topics/856976559529263104)
     * Películas de ciencia-ficción & fantasía
       * [Películas de ciencia-ficción & fantasía](https://twitter.com/i/topics/856977093191647233)
@@ -799,9 +822,8 @@ Entretenimiento
       * [Star Wars](https://twitter.com/i/topics/986247671663898625)
     * [Películas de comedia](https://twitter.com/i/topics/856976685916237824)
     * [Películas de drama](https://twitter.com/i/topics/856976804749258752)
-    * [Películas de suspenso](https://twitter.com/i/topics/1273705270707843075)
+    * [Películas de suspense](https://twitter.com/i/topics/1273705270707843075)
     * [Películas de terror](https://twitter.com/i/topics/856976955819794432)
-    * [Películas documentales](https://twitter.com/i/topics/856976742166048769)
     * [Películas festivas](https://twitter.com/i/topics/1014165623587258368)
   * Televisión
     * [Televisión](https://twitter.com/i/topics/1072937043393560576)
@@ -811,6 +833,7 @@ Entretenimiento
       * [Dragon Ball](https://twitter.com/i/topics/1026525069474902017)
       * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
       * [Hunter × Hunter](https://twitter.com/i/topics/1268927285739941888)
+      * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
       * [Naruto](https://twitter.com/i/topics/1136329838350880768)
       * [Neon Genesis Evangelion ](https://twitter.com/i/topics/1010244637770985472)
       * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
@@ -824,11 +847,6 @@ Entretenimiento
       * [The Umbrella Academy](https://twitter.com/i/topics/1273897216051048448)
       * [The Walking Dead](https://twitter.com/i/topics/1223191197377712129)
       * [Wandavision](https://twitter.com/i/topics/1355166374893551619)
-    * Programas de comedia
-      * Series de comedia dramática 
-        * [Emily in Paris](https://twitter.com/i/topics/1313814075961339904)
-      * Sitcoms
-        * [Friends](https://twitter.com/i/topics/1263277663868710912)
     * Programas de competición
       * Competición atlética
         * [Exatlón México](https://twitter.com/i/topics/1299893952552685570)
@@ -846,7 +864,15 @@ Entretenimiento
       * Concurso de moda
         * [Drag Race España](https://twitter.com/i/topics/1392479952570699788)
         * [RuPaul's Drag Race](https://twitter.com/i/topics/1263210403007324160)
-    * Programas de drama
+    * Reality TV
+      * [La Isla de las Tentaciones](https://twitter.com/i/topics/1356685310839595009)
+    * [Series Coreanas](https://twitter.com/i/topics/1346749071000670209)
+    * Series de comedia
+      * Series de comedia dramática 
+        * [Emily in Paris](https://twitter.com/i/topics/1313814075961339904)
+      * Sitcoms
+        * [Friends](https://twitter.com/i/topics/1263277663868710912)
+    * Series de drama
       * Drama adolescente
         * [Riverdale](https://twitter.com/i/topics/1223188511358013440)
       * Drama familiar
@@ -860,9 +886,6 @@ Entretenimiento
         * [Los Bridgerton](https://twitter.com/i/topics/1326545845483827205)
       * Dramas policíacos
         * [La Casa de Papel](https://twitter.com/i/topics/1255912442166603776)
-    * Reality TV
-      * [La Isla de las Tentaciones](https://twitter.com/i/topics/1356685310839595009)
-    * [Series Coreanas](https://twitter.com/i/topics/1346749071000670209)
     * [Series turcas](https://twitter.com/i/topics/1287501285290201088)
   * [Tráilers de películas & TV](https://twitter.com/i/topics/1333475632651538432)
 * Podcasts & radio
@@ -880,10 +903,14 @@ Gaming
 * Consolas de videojuegos
   * [Consolas de videojuegos](https://twitter.com/i/topics/1070028376662888448)
   * [Nintendo Switch](https://twitter.com/i/topics/856739783577554949)
+  * [PlayStation 4](https://twitter.com/i/topics/1201628202105335808)
+  * [PlayStation 5](https://twitter.com/i/topics/1201630019065274369)
 * Esports
   * [Esports](https://twitter.com/i/topics/839544337360801792)
   * Equipos de esports
+    * [Equipos de esports](https://twitter.com/i/topics/1272667111932878848)
     * [All Knights](https://twitter.com/i/topics/1346167163128672256)
+    * [Furious Gaming](https://twitter.com/i/topics/1346457228690116611)
     * [G2 Esports](https://twitter.com/i/topics/857293696676405248)
     * [Isurus Esports](https://twitter.com/i/topics/1179029936394268674)
     * [Rainbow7](https://twitter.com/i/topics/1305560217837473792)
@@ -892,6 +919,7 @@ Gaming
   * Jugadores de Esports
     * [Werlyb](https://twitter.com/i/topics/1081301599203389440)
   * Ligas de esports
+    * [eLiga MX](https://twitter.com/i/topics/1253408766466207745)
     * [Liga Latinoamérica de League of Legends](https://twitter.com/i/topics/1346106521399087111)
 * Industria de juegos
   * [Industria de juegos](https://twitter.com/i/topics/1070028312276127746)
@@ -990,6 +1018,7 @@ Hogar & familia
   * Gastronomía
     * [Gastronomía](https://twitter.com/i/topics/831530561680191490)
     * [Inspiración culinaria](https://twitter.com/i/topics/859532072813158400)
+    * [Videos de cocina](https://twitter.com/i/topics/1358731844930338817)
   * [Pets](https://twitter.com/i/topics/852262932607926273)
   * Vida ecológica
     * [Ecologismo](https://twitter.com/i/topics/1248631349096767488)
@@ -1021,6 +1050,8 @@ Música
   * [EDM](https://twitter.com/i/topics/849674653945569284)
   * [Música electrónica](https://twitter.com/i/topics/849684313704611840)
 * Eventos musicales
+  * [Eventos musicales](https://twitter.com/i/topics/1286400936550608896)
+  * [Billboard Music Awards](https://twitter.com/i/topics/1300503064143486976)
   * [Eurovision](https://twitter.com/i/topics/1389585940369199109)
   * [Grammy Latino](https://twitter.com/i/topics/1299067830768345088)
   * [Grammys](https://twitter.com/i/topics/1299065112913874944)
@@ -1236,6 +1267,7 @@ Música
     * [Aitana](https://twitter.com/i/topics/1189246025191440385)
     * [Alejandro Fernández](https://twitter.com/i/topics/808385401161281536)
     * [Banda MS](https://twitter.com/i/topics/966774716294873088)
+    * [Blas Cantó](https://twitter.com/i/topics/1393221116424974337)
     * [Farruko](https://twitter.com/i/topics/1130851846166175745)
     * [Karol G](https://twitter.com/i/topics/1003322989276827648)
     * [Lali](https://twitter.com/i/topics/1105087170002345984)
@@ -1337,6 +1369,7 @@ Música
     * [Aitana](https://twitter.com/i/topics/1189246025191440385)
     * [Alejandro Fernández](https://twitter.com/i/topics/808385401161281536)
     * [Banda MS](https://twitter.com/i/topics/966774716294873088)
+    * [Blas Cantó](https://twitter.com/i/topics/1393221116424974337)
     * [Farruko](https://twitter.com/i/topics/1130851846166175745)
     * [Karol G](https://twitter.com/i/topics/1003322989276827648)
     * [Lali](https://twitter.com/i/topics/1105087170002345984)
@@ -1402,8 +1435,8 @@ Noticias
 * [Clima](https://twitter.com/i/topics/857083369514876928)
 * Noticias de entretenimiento
   * [Familia real](https://twitter.com/i/topics/1098692833333014528)
-  * Noticias de Cine
-    * [Noticias de Cine](https://twitter.com/i/topics/1114213516271964160)
+  * Noticias de cine
+    * [Noticias de cine](https://twitter.com/i/topics/1114213516271964160)
     * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
     * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
 * [Noticias de games](https://twitter.com/i/topics/1034501001544257536)
@@ -1451,6 +1484,7 @@ Viaje
 
 * [Viaje](https://twitter.com/i/topics/839159814991167489)
 * [Desarrollo del lenguaje](https://twitter.com/i/topics/852226935044194304)
+* [Destinos](https://twitter.com/i/topics/857603051657482241)
 * [Parques nacionales](https://twitter.com/i/topics/849076824290107392)
 * Transporte
   * [Motocicletas ](https://twitter.com/i/topics/847528885138870272)

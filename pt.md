@@ -13,6 +13,7 @@ Anime & manga
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
   * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
   * [Pokémon](https://twitter.com/i/topics/10045599546)
+* [Mangá](https://twitter.com/i/topics/1283453704088084480)
 * [Quadrinhos](https://twitter.com/i/topics/847521144173350912)
 
 Arte & cultura
@@ -35,6 +36,7 @@ Arte & cultura
     * [Disney](https://twitter.com/i/topics/10037284711)
   * [Filmes de animação](https://twitter.com/i/topics/856976559529263104)
 * Arte
+  * [Arte](https://twitter.com/i/topics/1265660441822281728)
   * [Artes visuais](https://twitter.com/i/topics/1046577790353428480)
 * Ficção científica & fantasia
   * Harry Potter
@@ -260,9 +262,12 @@ Entretenimento
   * [Eventos de entretenimento](https://twitter.com/i/topics/1286400579602796544)
   * Eventos de cinema e TV
     * [Globo de Ouro](https://twitter.com/i/topics/1296820925640278016)
+    * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Oscars ](https://twitter.com/i/topics/1222619725877796864)
   * Eventos de música
     * [Billboard Music Awards](https://twitter.com/i/topics/1300503064143486976)
+    * Festivais
+      * [Lollapalooza](https://twitter.com/i/topics/1300845972356964355)
     * [Grammy Latino](https://twitter.com/i/topics/1299067830768345088)
     * [Grammys](https://twitter.com/i/topics/1299065112913874944)
     * [MTV Miaw](https://twitter.com/i/topics/1296501479021244416)
@@ -274,16 +279,17 @@ Entretenimento
     * [Patty Jenkins](https://twitter.com/i/topics/972174052868603904)
   * Eventos de cinema e TV
     * [Globo de Ouro](https://twitter.com/i/topics/1296820925640278016)
+    * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Oscars ](https://twitter.com/i/topics/1222619725877796864)
   * Filmes
     * [Filmes](https://twitter.com/i/topics/1072936713134071808)
+    * [Documentários](https://twitter.com/i/topics/856976742166048769)
     * [Filmes de animação](https://twitter.com/i/topics/856976559529263104)
     * Filmes de ação
       * [Filmes de ação](https://twitter.com/i/topics/856976360337661952)
-      * [Homem - Aranha](https://twitter.com/i/topics/1012672762442182657)
+      * [Homem-Aranha](https://twitter.com/i/topics/1012672762442182657)
     * [Filmes de comédia](https://twitter.com/i/topics/856976685916237824)
     * [Filmes de crime](https://twitter.com/i/topics/1287840544744329216)
-    * [Filmes de documentário](https://twitter.com/i/topics/856976742166048769)
     * [Filmes de drama](https://twitter.com/i/topics/856976804749258752)
     * Filmes de ficção científica & fantasia
       * [Filmes de ficção científica & fantasia](https://twitter.com/i/topics/856977093191647233)
@@ -326,12 +332,15 @@ Entretenimento
       * [Vincenzo](https://twitter.com/i/topics/1365669572825653253)
     * Família & nostalgia
       * [Bob Esponja Calça Quadrada](https://twitter.com/i/topics/1012677353971912704)
+      * [iCarly](https://twitter.com/i/topics/1263518555561050112)
       * [Pokémon](https://twitter.com/i/topics/10045599546)
       * [Steven Universe](https://twitter.com/i/topics/1263101211156205569)
     * Novelas
       * [Novelas](https://twitter.com/i/topics/1098601487213576192)
       * [Malhação](https://twitter.com/i/topics/1356949905382678530)
     * Programas de competição
+      * Competição de culinária
+        * [Mestre do Sabor](https://twitter.com/i/topics/1392956597089931265)
       * Competição de moda
         * [Competição de moda](https://twitter.com/i/topics/1281298037831135233)
         * [RuPaul’s Drag Race](https://twitter.com/i/topics/1263210403007324160)
@@ -347,7 +356,26 @@ Entretenimento
           * Estrelas do Big Brother Brasil
             * [Estrelas do Big Brother Brasil](https://twitter.com/i/topics/1354796903951601669)
             * [Sabrina Sato](https://twitter.com/i/topics/834936455378001920)
-    * Programas de comédia
+    * Programas de ficção científica & fantasia
+      * [American Horror Story](https://twitter.com/i/topics/1223187794899505152)
+      * [Falcão e o Soldado Invernal](https://twitter.com/i/topics/1366350280120365059)
+      * [Game of Thrones](https://twitter.com/i/topics/1223187925224980482)
+      * [Lucifer](https://twitter.com/i/topics/1275364880959205376)
+      * [Sombra e Ossos](https://twitter.com/i/topics/1382325321077116928)
+      * [Stranger Things](https://twitter.com/i/topics/1223187634983292929)
+      * [Supernatural](https://twitter.com/i/topics/1223188748201934850)
+      * [Teen Wolf](https://twitter.com/i/topics/1267819024559161348)
+      * [The Mandalorian](https://twitter.com/i/topics/1223189789354053632)
+      * [The Umbrella Academy](https://twitter.com/i/topics/1273897216051048448)
+      * [The Walking Dead](https://twitter.com/i/topics/1223191197377712129)
+      * [Wandavision](https://twitter.com/i/topics/1355166374893551619)
+    * Reality TV
+      * [Reality TV](https://twitter.com/i/topics/847523721065537536)
+      * Reality de romance
+        * [Power Couple Brasil](https://twitter.com/i/topics/1390024724185456641)
+      * Reality show sem script
+        * [De Férias com o Ex Brasil](https://twitter.com/i/topics/1356952002962485250)
+    * Séries de comédia
       * Comédias de escritório
         * [Brooklyn Nine-Nine](https://twitter.com/i/topics/1223678020487016449)
       * Sitcoms
@@ -355,7 +383,7 @@ Entretenimento
       * Séries de comédia dramática 
         * [Cobra Kai](https://twitter.com/i/topics/1312121485587226628)
         * [Emily in Paris](https://twitter.com/i/topics/1313814075961339904)
-    * Programas de drama
+    * Séries de drama
       * Drama adolescente
         * [Elite](https://twitter.com/i/topics/1271360267478155264)
         * [Riverdale](https://twitter.com/i/topics/1223188511358013440)
@@ -383,24 +411,6 @@ Entretenimento
         * [Lovecraft Country](https://twitter.com/i/topics/1358746329384538112)
         * [O Gambito da Rainha](https://twitter.com/i/topics/1321104029368242178)
         * [The Handmaid's Tale](https://twitter.com/i/topics/1223188191072542720)
-    * Programas de ficção científica & fantasia
-      * [American Horror Story](https://twitter.com/i/topics/1223187794899505152)
-      * [Game of Thrones](https://twitter.com/i/topics/1223187925224980482)
-      * [Lucifer](https://twitter.com/i/topics/1275364880959205376)
-      * [Sombra e Ossos](https://twitter.com/i/topics/1382325321077116928)
-      * [Stranger Things](https://twitter.com/i/topics/1223187634983292929)
-      * [Supernatural](https://twitter.com/i/topics/1223188748201934850)
-      * [Teen Wolf](https://twitter.com/i/topics/1267819024559161348)
-      * [The Mandalorian](https://twitter.com/i/topics/1223189789354053632)
-      * [The Umbrella Academy](https://twitter.com/i/topics/1273897216051048448)
-      * [The Walking Dead](https://twitter.com/i/topics/1223191197377712129)
-      * [Wandavision](https://twitter.com/i/topics/1355166374893551619)
-    * Reality TV
-      * [Reality TV](https://twitter.com/i/topics/847523721065537536)
-      * Reality de romance
-        * [Power Couple Brasil](https://twitter.com/i/topics/1390024724185456641)
-      * Reality show sem script
-        * [De Férias com o Ex Brasil](https://twitter.com/i/topics/1356952002962485250)
     * [Séries turcas](https://twitter.com/i/topics/1287501285290201088)
   * [Trailers de filmes & TV](https://twitter.com/i/topics/1333475632651538432)
 * Franquias de entretenimento
@@ -412,7 +422,7 @@ Entretenimento
   * Harry Potter
     * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
     * [Potterheads](https://twitter.com/i/topics/1272990394536431616)
-  * [Homem - Aranha](https://twitter.com/i/topics/1012672762442182657)
+  * [Homem-Aranha](https://twitter.com/i/topics/1012672762442182657)
   * [Hunter × Hunter](https://twitter.com/i/topics/1268927285739941888)
   * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
@@ -442,6 +452,7 @@ Esportes
   * [Basquete](https://twitter.com/i/topics/706083902411055104)
   * NBA
     * [NBA](https://twitter.com/i/topics/706083889454813185)
+    * [Dallas Mavericks](https://twitter.com/i/topics/706083860862218242)
     * [Golden State Warriors](https://twitter.com/i/topics/706083886392934400)
     * [Jogadores da NBA](https://twitter.com/i/topics/1265692717071265792)
     * Los Angeles Clippers
@@ -449,6 +460,7 @@ Esportes
     * Los Angeles Lakers
       * [Los Angeles Lakers](https://twitter.com/i/topics/706083845846597632)
       * [LeBron James](https://twitter.com/i/topics/788447816561467392)
+    * [New York Knicks](https://twitter.com/i/topics/706083892525010946)
 * [Ciclismo](https://twitter.com/i/topics/847900751321997312)
 * Corrida automobilística
   * [Corrida automobilística](https://twitter.com/i/topics/847900599387430912)
@@ -467,7 +479,7 @@ Esportes
   * [Estatísticas de futebol](https://twitter.com/i/topics/1283462657194881025)
 * Eventos esportivos
   * [Draft da NFL](https://twitter.com/i/topics/1373999048424759299)
-  * UEFA European Championship
+  * Liga Europa da UEFA
     * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
 * Figuras no esporte
   * Jornalistas esportivos
@@ -537,6 +549,8 @@ Esportes
     * Real Madrid
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
+  * Liga Europa da UEFA
+    * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * Ligue 1
     * [Ligue 1](https://twitter.com/i/topics/733756534648274945)
     * Paris Saint-Germain
@@ -554,8 +568,11 @@ Esportes
     * Man Utd
       * [Man Utd](https://twitter.com/i/topics/731226183572934657)
       * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
+    * [Southampton](https://twitter.com/i/topics/731226213864202241)
   * Primeira Liga
     * [FC Porto](https://twitter.com/i/topics/731226245392801792)
+    * [SL Benfica](https://twitter.com/i/topics/731226171661115392)
+  * [Recopa Sul-Americana](https://twitter.com/i/topics/1229439140527083537)
   * Seleções nacionais masculinas de futebol
     * Argentina
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
@@ -587,9 +604,10 @@ Esportes
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
   * UEFA Europa League
-    * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
-  * UEFA European Championship
-    * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+    * Man Utd
+      * [Man Utd](https://twitter.com/i/topics/731226183572934657)
+      * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
+    * [SL Benfica](https://twitter.com/i/topics/731226171661115392)
 * Futebol americano
   * [Futebol americano](https://twitter.com/i/topics/689566306014617600)
   * NFL
@@ -634,6 +652,7 @@ Gaming
     * [CBLOL](https://twitter.com/i/topics/1215000572325027840)
     * [Liga Brasileira de Free Fire](https://twitter.com/i/topics/1291754839144148994)
   * Times de esports
+    * [Times de esports](https://twitter.com/i/topics/1272667111932878848)
     * [Cruzeiro e-Sports](https://twitter.com/i/topics/1293170541830926339)
     * [Flamengo](https://twitter.com/i/topics/1115272951723511808)
     * [Furia Esports](https://twitter.com/i/topics/1116034906793041920)
@@ -726,12 +745,16 @@ Música
 ==========
 
 * [Música](https://twitter.com/i/topics/847524658970636288)
+* Bastidores
+  * [Indústria da música](https://twitter.com/i/topics/1196457934370172928)
 * C-pop
   * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
   * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
   * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
 * Eventos de música
   * [Billboard Music Awards](https://twitter.com/i/topics/1300503064143486976)
+  * Festivais
+    * [Lollapalooza](https://twitter.com/i/topics/1300845972356964355)
   * [Grammy Latino](https://twitter.com/i/topics/1299067830768345088)
   * [Grammys](https://twitter.com/i/topics/1299065112913874944)
   * [MTV Miaw](https://twitter.com/i/topics/1296501479021244416)
@@ -739,6 +762,7 @@ Música
 * Folk & acustica
   * [Indie folk](https://twitter.com/i/topics/1293245104971378688)
 * Hip hop
+  * [Hip hop](https://twitter.com/i/topics/1291184917221535744)
   * Rap
     * [Rap](https://twitter.com/i/topics/810937888334487552)
     * [Cardi B](https://twitter.com/i/topics/875059424255135744)

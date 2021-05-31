@@ -68,6 +68,8 @@
   * [الاتصالات](https://twitter.com/i/topics/1047536606880514049)
   * [الاتصالات في السعودية](https://twitter.com/i/topics/1381904723482013697)
 * [الخدمات المالية](https://twitter.com/i/topics/781974596794716162)
+* العملة المعماة
+  * [عملة معماة بيتكوين](https://twitter.com/i/topics/1007360414114435072)
 * المهن التجارية
   * [اعلانات](https://twitter.com/i/topics/857878521472888832)
   * [تسويق](https://twitter.com/i/topics/857879016971186177)
@@ -132,6 +134,7 @@
       * [رامز جلال](https://twitter.com/i/topics/1135905305244520449)
       * [رانيا يوسف](https://twitter.com/i/topics/1100409372839075840)
       * [صلاح عبدالله](https://twitter.com/i/topics/1100400925154336769)
+      * [عادل امام](https://twitter.com/i/topics/1100413134890627072)
       * [عمرو وأكد](https://twitter.com/i/topics/1092384062856032256)
       * [عمرو يوسف](https://twitter.com/i/topics/1100406668590870529)
       * [منى زكي](https://twitter.com/i/topics/1092382811510591488)
@@ -146,9 +149,12 @@
 * أمن المعلومات
   * [أمن المعلومات](https://twitter.com/i/topics/1047123725525479425)
   * [الأمن السيبراني](https://twitter.com/i/topics/898650876658634752)
+* العملة المعماة
+  * [عملة معماة بيتكوين](https://twitter.com/i/topics/1007360414114435072)
 * عالم التكنولوجيا
   * [عالم التكنولوجيا](https://twitter.com/i/topics/1196446727181500416)
   * [أبل](https://twitter.com/i/topics/10026364281)
+  * [أندرويد](https://twitter.com/i/topics/10026820777)
   * [سبوتيفاي](https://twitter.com/i/topics/10040276669)
   * [شاهد](https://twitter.com/i/topics/1379767477660311554)
   * [نتفليكس](https://twitter.com/i/topics/10026367762)
@@ -158,10 +164,11 @@
 ==========
 
 * [السفر](https://twitter.com/i/topics/839159814991167489)
+* أماكن السفر
+  * [الفنادق](https://twitter.com/i/topics/1197984247270633472)
 * أماكن للسفر
   * [السفر الى مصر](https://twitter.com/i/topics/1309071316146765824)
   * [السياحة في المملكة العربية السعودية](https://twitter.com/i/topics/1309067522738511872)
-* [الفنادق](https://twitter.com/i/topics/1197984247270633472)
 * [المتاحف](https://twitter.com/i/topics/1095348424499593216)
 * وسائل النقل
   * [ماركات السيارات](https://twitter.com/i/topics/1196845866138533888)
@@ -201,6 +208,7 @@
   * [برج الثور](https://twitter.com/i/topics/1138835583474601990)
   * [برج الجوزاء](https://twitter.com/i/topics/1138860889631629312)
   * [برج الحمل](https://twitter.com/i/topics/1138831355654037504)
+  * [برج الحوت](https://twitter.com/i/topics/1138893080310927362)
   * [برج السرطان](https://twitter.com/i/topics/1138864492526297093)
   * [برج العذراء](https://twitter.com/i/topics/1138874019820662784)
   * [برج العقرب](https://twitter.com/i/topics/1138888237630386177)
@@ -214,6 +222,7 @@
   * المؤلفون
     * [المؤلفون](https://twitter.com/i/topics/1166408461485101056)
     * [روائيون سعوديون](https://twitter.com/i/topics/1287456707304554496)
+* [المسرح](https://twitter.com/i/topics/1047537435855319040)
 * تحريك صور
   * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
   * [دراغون بول](https://twitter.com/i/topics/1026525069474902017)
@@ -233,7 +242,9 @@
 اللياقه البدنيه
 ==========
 
-* [ركوب الدراجات](https://twitter.com/i/topics/847900751321997312)
+* [اللياقه البدنيه](https://twitter.com/i/topics/847872878041219072)
+* التمرين الهوائي
+  * [ركوب الدراجات](https://twitter.com/i/topics/847900751321997312)
 
 المسار المهني
 ==========
