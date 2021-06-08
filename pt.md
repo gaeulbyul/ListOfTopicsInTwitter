@@ -106,6 +106,7 @@ Entretenimento
       * [Elizabeth Olsen](https://twitter.com/i/topics/996442292297777152)
       * [Emma Stone](https://twitter.com/i/topics/824665782927765504)
       * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
+      * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
       * [Scarlett Johansson](https://twitter.com/i/topics/955923297119514624)
       * Selena Gomez
         * [Selena Gomez](https://twitter.com/i/topics/806556845703766016)
@@ -199,6 +200,7 @@ Entretenimento
       * [Taís Araujo](https://twitter.com/i/topics/999695574881337344)
     * Atores em séries de TV
       * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
+      * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
       * [Pedro Pascal](https://twitter.com/i/topics/1070725240295051264)
       * [Viola Davis](https://twitter.com/i/topics/875071032993783808)
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
@@ -265,6 +267,7 @@ Entretenimento
     * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Oscars ](https://twitter.com/i/topics/1222619725877796864)
   * Eventos de música
+    * [Eventos de música](https://twitter.com/i/topics/1286400936550608896)
     * [Billboard Music Awards](https://twitter.com/i/topics/1300503064143486976)
     * Festivais
       * [Lollapalooza](https://twitter.com/i/topics/1300845972356964355)
@@ -478,9 +481,11 @@ Esportes
 * Estatísticas de esportes
   * [Estatísticas de futebol](https://twitter.com/i/topics/1283462657194881025)
 * Eventos esportivos
+  * [Copa América](https://twitter.com/i/topics/1304491707317141504)
   * [Draft da NFL](https://twitter.com/i/topics/1373999048424759299)
   * Liga Europa da UEFA
     * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+  * [Olimpíadas](https://twitter.com/i/topics/1237760060828213249)
 * Figuras no esporte
   * Jornalistas esportivos
     * [Jorge Sampaoli](https://twitter.com/i/topics/733774733049626625)
@@ -565,8 +570,8 @@ Esportes
     * [Premier League](https://twitter.com/i/topics/733756526872006656)
     * [Liverpool](https://twitter.com/i/topics/731226219002265600)
     * [Man City](https://twitter.com/i/topics/731226203856637952)
-    * Man Utd
-      * [Man Utd](https://twitter.com/i/topics/731226183572934657)
+    * Manchester United
+      * [Manchester United](https://twitter.com/i/topics/731226183572934657)
       * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
     * [Southampton](https://twitter.com/i/topics/731226213864202241)
   * Primeira Liga
@@ -604,8 +609,8 @@ Esportes
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
   * UEFA Europa League
-    * Man Utd
-      * [Man Utd](https://twitter.com/i/topics/731226183572934657)
+    * Manchester United
+      * [Manchester United](https://twitter.com/i/topics/731226183572934657)
       * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
     * [SL Benfica](https://twitter.com/i/topics/731226171661115392)
 * Futebol americano
@@ -646,11 +651,16 @@ Gaming
 * Consoles de video game
   * [Consoles de video game](https://twitter.com/i/topics/1070028376662888448)
   * [Nintendo Switch](https://twitter.com/i/topics/856739783577554949)
+  * [PlayStation 4](https://twitter.com/i/topics/1201628202105335808)
+  * [PlayStation 5](https://twitter.com/i/topics/1201630019065274369)
+  * [Xbox One](https://twitter.com/i/topics/1201627082238742528)
 * Esports
   * [Esports](https://twitter.com/i/topics/839544337360801792)
   * Ligas de esports
+    * [Ligas de esports](https://twitter.com/i/topics/1272667416061861888)
     * [CBLOL](https://twitter.com/i/topics/1215000572325027840)
     * [Liga Brasileira de Free Fire](https://twitter.com/i/topics/1291754839144148994)
+    * [VALORANT Champions Tour](https://twitter.com/i/topics/1366454810371743744)
   * Times de esports
     * [Times de esports](https://twitter.com/i/topics/1272667111932878848)
     * [Cruzeiro e-Sports](https://twitter.com/i/topics/1293170541830926339)
@@ -668,7 +678,7 @@ Gaming
     * [Team Liquid](https://twitter.com/i/topics/857262971797385216)
     * [Vorax](https://twitter.com/i/topics/1346160095994867712)
 * Eventos de games
-  * [Liga Brasileira de Free Fire](https://twitter.com/i/topics/1291754839144148994)
+  * [E3](https://twitter.com/i/topics/1394757814229168128)
 * Indústria de gaming
   * [Indústria de gaming](https://twitter.com/i/topics/1070028312276127746)
   * [Nintendo](https://twitter.com/i/topics/10026713294)
@@ -700,6 +710,7 @@ Gaming
   * [Dota](https://twitter.com/i/topics/10047025713)
   * [FIFA](https://twitter.com/i/topics/856558577950916608)
   * [Fortnite](https://twitter.com/i/topics/974285387987169280)
+  * [Garena Free Fire](https://twitter.com/i/topics/1205097911257714688)
   * [Gears of War](https://twitter.com/i/topics/988882978871758849)
   * [Gran Turismo](https://twitter.com/i/topics/10041743220)
   * [Halo](https://twitter.com/i/topics/10024663350)
@@ -752,6 +763,7 @@ Música
   * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
   * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
 * Eventos de música
+  * [Eventos de música](https://twitter.com/i/topics/1286400936550608896)
   * [Billboard Music Awards](https://twitter.com/i/topics/1300503064143486976)
   * Festivais
     * [Lollapalooza](https://twitter.com/i/topics/1300845972356964355)
@@ -1101,6 +1113,7 @@ Música
     * [Krystian Wang](https://twitter.com/i/topics/1183810362790928386)
     * [Lamar Morris](https://twitter.com/i/topics/1183809876356501505)
     * [Noah Urrea](https://twitter.com/i/topics/1183813257825378304)
+  * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
   * One Direction
     * [One Direction](https://twitter.com/i/topics/806570452055257088)
     * [Directioners](https://twitter.com/i/topics/1277981847524306945)
@@ -1182,6 +1195,7 @@ Notícias
 * [Notícias sobre gaming](https://twitter.com/i/topics/1034501001544257536)
 * [Notícias sobre música](https://twitter.com/i/topics/1099779369357082624)
 * Últimas notícias
+  * [COVID-19](https://twitter.com/i/topics/1220701888179359745)
   * [ENEM](https://twitter.com/i/topics/1348990807903072266)
 
 Profissões

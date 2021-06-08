@@ -254,6 +254,7 @@
   * [土岐隼一](https://twitter.com/i/topics/1070725242467667969)
   * [堀江瞬](https://twitter.com/i/topics/1070725804600901632)
   * [大塚明夫](https://twitter.com/i/topics/1070726181673033728)
+  * [大塚紗英](https://twitter.com/i/topics/1106288123082792960)
   * [大橋彩香](https://twitter.com/i/topics/1070722404052135938)
   * [安元洋貴](https://twitter.com/i/topics/1070724834303205377)
   * [宮野真守](https://twitter.com/i/topics/1070726185749897216)
@@ -576,26 +577,7 @@
 * [エンターテインメント](https://twitter.com/i/topics/839544274442051584)
 * お笑い
   * [お笑い](https://twitter.com/i/topics/847522909018914820)
-  * 漫才
-    * [漫才](https://twitter.com/i/topics/1206683942893445120)
-    * [ANZEN漫才](https://twitter.com/i/topics/1328790108376481792)
-    * [あばれる君](https://twitter.com/i/topics/1062418441162747905)
-    * [くっきー](https://twitter.com/i/topics/1062418434783236096)
-    * [ちゅうえい](https://twitter.com/i/topics/1333427351795818499)
-    * [ノブ](https://twitter.com/i/topics/1328373584964636672)
-    * [亜生](https://twitter.com/i/topics/1330928942065152000)
-    * [向井慧](https://twitter.com/i/topics/1330962375151742976)
-    * [和牛](https://twitter.com/i/topics/1328411266474393601)
-    * [大村朋宏](https://twitter.com/i/topics/1330932043702628352)
-    * [小籔千豊](https://twitter.com/i/topics/1272931410836250629)
-    * [岩井勇気](https://twitter.com/i/topics/1330943201440452608)
-    * [川西賢志郎](https://twitter.com/i/topics/1328784791542538240)
-    * [昴生](https://twitter.com/i/topics/1333476623048327168)
-    * [水田信二](https://twitter.com/i/topics/1328787591852802048)
-    * [粗品](https://twitter.com/i/topics/1333405208815104006)
-    * [霜降り明星](https://twitter.com/i/topics/1069631754665771009)
-    * [麒麟](https://twitter.com/i/topics/1062418434770620416)
-  * 漫才師
+  * お笑い芸人
     * [Oideyasukoga](https://twitter.com/i/topics/1383083225124278273)
     * [かまいたち](https://twitter.com/i/topics/1062418440969838594)
     * [さまぁ〜ず](https://twitter.com/i/topics/1062418434783293441)
@@ -628,6 +610,25 @@
     * [藤井隆](https://twitter.com/i/topics/1333429738103218178)
     * [藤森慎吾](https://twitter.com/i/topics/1062418441158590464)
     * [長田庄平](https://twitter.com/i/topics/1333413708685398020)
+  * 漫才
+    * [漫才](https://twitter.com/i/topics/1206683942893445120)
+    * [ANZEN漫才](https://twitter.com/i/topics/1328790108376481792)
+    * [あばれる君](https://twitter.com/i/topics/1062418441162747905)
+    * [くっきー](https://twitter.com/i/topics/1062418434783236096)
+    * [ちゅうえい](https://twitter.com/i/topics/1333427351795818499)
+    * [ノブ](https://twitter.com/i/topics/1328373584964636672)
+    * [亜生](https://twitter.com/i/topics/1330928942065152000)
+    * [向井慧](https://twitter.com/i/topics/1330962375151742976)
+    * [和牛](https://twitter.com/i/topics/1328411266474393601)
+    * [大村朋宏](https://twitter.com/i/topics/1330932043702628352)
+    * [小籔千豊](https://twitter.com/i/topics/1272931410836250629)
+    * [岩井勇気](https://twitter.com/i/topics/1330943201440452608)
+    * [川西賢志郎](https://twitter.com/i/topics/1328784791542538240)
+    * [昴生](https://twitter.com/i/topics/1333476623048327168)
+    * [水田信二](https://twitter.com/i/topics/1328787591852802048)
+    * [粗品](https://twitter.com/i/topics/1333405208815104006)
+    * [霜降り明星](https://twitter.com/i/topics/1069631754665771009)
+    * [麒麟](https://twitter.com/i/topics/1062418434770620416)
 * エンタメイベント
   * 映画・テレビイベント
     * [アカデミー賞](https://twitter.com/i/topics/1222619725877796864)
@@ -862,21 +863,22 @@
   * [週末ノオト](https://twitter.com/i/topics/1382438410904739840)
 * 放送・制作会社
   * [放送・制作会社](https://twitter.com/i/topics/1196447585004736512)
-  * [AbemaTV](https://twitter.com/i/topics/989515172690542593)
-  * [GYAO!](https://twitter.com/i/topics/1034893208998752256)
-  * [TBSテレビ](https://twitter.com/i/topics/1034890409514655745)
-  * [TOKYO MX](https://twitter.com/i/topics/1034891798785617920)
-  * [WOWOW](https://twitter.com/i/topics/1273679509321945088)
-  * [サンリオ](https://twitter.com/i/topics/1038116841485303808)
-  * [テレビ朝日](https://twitter.com/i/topics/1034874547688730624)
-  * [テレビ東京](https://twitter.com/i/topics/1034877896068816896)
-  * [ディズニー](https://twitter.com/i/topics/10037284711)
-  * [ピクサー](https://twitter.com/i/topics/1270143733195915264)
-  * [フジテレビ](https://twitter.com/i/topics/1034889162371911680)
-  * [京都アニメーション](https://twitter.com/i/topics/1151834667982528513)
-  * [吉本興業](https://twitter.com/i/topics/1035255226717036544)
-  * [日本テレビ](https://twitter.com/i/topics/1034887797990027264)
-  * [朝日放送](https://twitter.com/i/topics/1390380548095238149)
+  * エンターテイメント会社
+    * [サンリオ](https://twitter.com/i/topics/1038116841485303808)
+    * [ディズニー](https://twitter.com/i/topics/10037284711)
+    * [吉本興業](https://twitter.com/i/topics/1035255226717036544)
+  * テレビ局
+    * [AbemaTV](https://twitter.com/i/topics/989515172690542593)
+    * [TBSテレビ](https://twitter.com/i/topics/1034890409514655745)
+    * [TOKYO MX](https://twitter.com/i/topics/1034891798785617920)
+    * [WOWOW](https://twitter.com/i/topics/1273679509321945088)
+    * [テレビ朝日](https://twitter.com/i/topics/1034874547688730624)
+    * [テレビ東京](https://twitter.com/i/topics/1034877896068816896)
+    * [フジテレビ](https://twitter.com/i/topics/1034889162371911680)
+    * [日本テレビ](https://twitter.com/i/topics/1034887797990027264)
+    * [朝日放送](https://twitter.com/i/topics/1390380548095238149)
+  * 動画配信サービス
+    * [GYAO!](https://twitter.com/i/topics/1034893208998752256)
 * 映画・テレビ
   * [映画・テレビ](https://twitter.com/i/topics/1276514328007467008)
   * テレビ
@@ -1007,6 +1009,8 @@
       * [コンペ番組](https://twitter.com/i/topics/1281297135971913728)
       * その他のコンペ
         * [M-1グランプリ](https://twitter.com/i/topics/1310668700584878081)
+      * 音楽関係会社
+        * [PRODUCE 101 JAPAN](https://twitter.com/i/topics/1395526998877818882)
     * テレビドラマ
       * サスペンスドラマ
         * [今際の国のアリス](https://twitter.com/i/topics/1306388564800712704)
@@ -1069,6 +1073,7 @@
     * 音楽番組
       * [音楽番組](https://twitter.com/i/topics/1293278449495203840)
       * [COUNT DOWN TV](https://twitter.com/i/topics/1293300990947467264)
+      * [PRODUCE 101 JAPAN](https://twitter.com/i/topics/1395526998877818882)
       * [ミュージックステーション](https://twitter.com/i/topics/1293278101695168512)
   * 映画
     * [映画](https://twitter.com/i/topics/1072936713134071808)
@@ -1362,6 +1367,7 @@
     * [土岐隼一](https://twitter.com/i/topics/1070725242467667969)
     * [堀江瞬](https://twitter.com/i/topics/1070725804600901632)
     * [大塚明夫](https://twitter.com/i/topics/1070726181673033728)
+    * [大塚紗英](https://twitter.com/i/topics/1106288123082792960)
     * [大橋彩香](https://twitter.com/i/topics/1070722404052135938)
     * [安元洋貴](https://twitter.com/i/topics/1070724834303205377)
     * [宮野真守](https://twitter.com/i/topics/1070726185749897216)
@@ -1624,6 +1630,7 @@
   * [ルーンファクトリー](https://twitter.com/i/topics/1135931486954147840)
   * [レインボーシックス　シージ](https://twitter.com/i/topics/10041743455)
   * [レッド・デッド・リデンプション](https://twitter.com/i/topics/856743947489558528)
+  * [ロケットリーグ](https://twitter.com/i/topics/1135913559727067136)
   * [二ノ国](https://twitter.com/i/topics/1309249239180926976)
   * [共闘ことばRPG コトダマン](https://twitter.com/i/topics/1240056308713189376)
   * [剣と魔法のログレス](https://twitter.com/i/topics/855321166193467392)
@@ -1859,6 +1866,7 @@
     * [パリ・サン＝ジェルマン](https://twitter.com/i/topics/731226166627966976)
 * [サバイバルゲーム](https://twitter.com/i/topics/1308895460107534337)
 * スポーツイベント
+  * [スポーツイベント](https://twitter.com/i/topics/1286401121641103360)
   * UEFA欧州選手権
     * [クリスティアーノ・ロナウド](https://twitter.com/i/topics/733774146434269186)
   * [オリンピック](https://twitter.com/i/topics/1237760060828213249)
@@ -1895,6 +1903,7 @@
     * [大久保嘉人](https://twitter.com/i/topics/733774534554226688)
     * [浅田真央](https://twitter.com/i/topics/1242130127917445120)
     * [鈴木明子](https://twitter.com/i/topics/1329961476832993281)
+    * [長州力](https://twitter.com/i/topics/1299410099195187200)
 * [ソフトテニス](https://twitter.com/i/topics/1308508757819678720)
 * [ソフトボール](https://twitter.com/i/topics/1046542544715173888)
 * テニス
@@ -1983,13 +1992,8 @@
   * [卓球男子](https://twitter.com/i/topics/1242834576788951047)
 * 格闘技
   * [格闘技](https://twitter.com/i/topics/1047520229192912896)
-  * ボクシング
-    * [ボクシング](https://twitter.com/i/topics/847900861074292736)
-    * 男子ボクシング
-      * [男子ボクシング](https://twitter.com/i/topics/1164893579346452483)
-      * [井上尚弥](https://twitter.com/i/topics/1329859405450416129)
-  * レスリング
-    * [レスリング](https://twitter.com/i/topics/839544341584474112)
+  * プロレス
+    * [プロレス](https://twitter.com/i/topics/839544341584474112)
     * [AEW](https://twitter.com/i/topics/1093980140185411584)
     * [WWE](https://twitter.com/i/topics/852587148666589184)
     * 新日本プロレスリング
@@ -1999,6 +2003,12 @@
       * [棚橋弘至](https://twitter.com/i/topics/1331655527999303680)
       * [鈴木みのる](https://twitter.com/i/topics/1333556594374688769)
       * [飯伏幸太](https://twitter.com/i/topics/1333557638471184384)
+    * [有名プロレスラー](https://twitter.com/i/topics/1383063549619019786)
+  * ボクシング
+    * [ボクシング](https://twitter.com/i/topics/847900861074292736)
+    * 男子ボクシング
+      * [男子ボクシング](https://twitter.com/i/topics/1164893579346452483)
+      * [井上尚弥](https://twitter.com/i/topics/1329859405450416129)
   * 武道・武術
     * [武道・武術](https://twitter.com/i/topics/847901828964466688)
     * [柔道](https://twitter.com/i/topics/1067867511612354561)
@@ -2450,6 +2460,7 @@
     * [料理](https://twitter.com/i/topics/831530561680191490)
     * [インスタント食品](https://twitter.com/i/topics/1316807632011718656)
     * [パン・お菓子作り](https://twitter.com/i/topics/846772834588229632)
+    * [パン作り](https://twitter.com/i/topics/1300728181041713152)
     * [レシピ](https://twitter.com/i/topics/859532072813158400)
     * [季節の料理](https://twitter.com/i/topics/1316156485664010242)
     * [料理動画](https://twitter.com/i/topics/1358731844930338817)
@@ -2612,6 +2623,7 @@
   * [Hey! Say! JUMP](https://twitter.com/i/topics/1022585249304178688)
   * [HiHi Jets](https://twitter.com/i/topics/1232741109589143552)
   * [HKT48](https://twitter.com/i/topics/1123591199200120839)
+  * [JO1](https://twitter.com/i/topics/1205555414575665153)
   * [KAT-TUN](https://twitter.com/i/topics/1022590760971952128)
   * [King & Prince](https://twitter.com/i/topics/1022594073801052163)
   * [KinKi Kids](https://twitter.com/i/topics/1022591833103192064)
@@ -3017,7 +3029,9 @@
     * [テヨン](https://twitter.com/i/topics/913453813847097345)
   * [TEEN TOP](https://twitter.com/i/topics/897883291226853377)
   * [The Boyz](https://twitter.com/i/topics/903633998194212864)
-  * [TOMORROW X TOGETHER](https://twitter.com/i/topics/1083397690140971008)
+  * TOMORROW X TOGETHER
+    * [TOMORROW X TOGETHER](https://twitter.com/i/topics/1083397690140971008)
+    * [ボムギュ](https://twitter.com/i/topics/1088476866535518208)
   * [TREASURE](https://twitter.com/i/topics/1275168323332800512)
   * TVXQ!
     * [TVXQ!](https://twitter.com/i/topics/900408909290061825)
@@ -3089,6 +3103,7 @@
     * [莉犬](https://twitter.com/i/topics/1338608076253904900)
   * [西川貴教](https://twitter.com/i/topics/844435284645179392)
 * インディーズ・オルタナティヴ
+  * [インディーズ・オルタナティヴ](https://twitter.com/i/topics/1293191811561709575)
   * インディーロック
     * [インディーロック](https://twitter.com/i/topics/849684394923016192)
     * [KANA-BOON](https://twitter.com/i/topics/867753868515459073)
@@ -3190,11 +3205,11 @@
 * グルメ情報
   * [グルメ情報](https://twitter.com/i/topics/1193991001892745216)
   * アジアのグルメ情報
+    * [インド料理](https://twitter.com/i/topics/1307145687067291649)
     * [中華料理](https://twitter.com/i/topics/860136866950950912)
     * 日本料理
       * [日本料理](https://twitter.com/i/topics/860141411483635712)
       * [ラーメン](https://twitter.com/i/topics/1232780326058876928)
-  * [インド料理](https://twitter.com/i/topics/1307145687067291649)
   * ファストフード
     * [ファストフード](https://twitter.com/i/topics/847865239886417922)
     * [マクドナルド](https://twitter.com/i/topics/10026319212)
@@ -3207,6 +3222,7 @@
   * [料理](https://twitter.com/i/topics/831530561680191490)
   * [インスタント食品](https://twitter.com/i/topics/1316807632011718656)
   * [パン・お菓子作り](https://twitter.com/i/topics/846772834588229632)
+  * [パン作り](https://twitter.com/i/topics/1300728181041713152)
   * [レシピ](https://twitter.com/i/topics/859532072813158400)
   * [季節の料理](https://twitter.com/i/topics/1316156485664010242)
   * [料理動画](https://twitter.com/i/topics/1358731844930338817)
@@ -3223,3 +3239,4 @@
   * コーヒー
     * [コーヒー](https://twitter.com/i/topics/1235272242193285120)
     * [スターバックス](https://twitter.com/i/topics/10026514830)
+    * [ラテ・アート](https://twitter.com/i/topics/1395077484278804482)

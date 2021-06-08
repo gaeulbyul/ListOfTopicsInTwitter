@@ -36,9 +36,13 @@ Berita
       * [Bandung](https://twitter.com/i/topics/1392040217956143104)
       * [Bekasi](https://twitter.com/i/topics/1392049828314550272)
       * [Bogor](https://twitter.com/i/topics/1392047151492997120)
+      * [Depok](https://twitter.com/i/topics/1395018137158836226)
     * [Jawa Tengah](https://twitter.com/i/topics/1359081777835347972)
     * [Jawa Timur](https://twitter.com/i/topics/1359086175101673478)
-    * [Sumatera Barat](https://twitter.com/i/topics/1392054260498456578)
+    * [Sulawesi Selatan](https://twitter.com/i/topics/1394940089965285377)
+    * Sumatera Barat
+      * [Sumatera Barat](https://twitter.com/i/topics/1392054260498456578)
+      * [Padang](https://twitter.com/i/topics/1395033403578150913)
     * [Sumatera Selatan](https://twitter.com/i/topics/1392060029319016450)
     * [Sumatera Utara](https://twitter.com/i/topics/1392051970639204355)
 * Berita hiburan
@@ -122,8 +126,10 @@ Hiburan
 * Selebriti
   * [Selebriti](https://twitter.com/i/topics/1095352268046495745)
   * Aktor
+    * [Kim Seonho](https://twitter.com/i/topics/1394591748567965700)
     * [Kim Sohyun](https://twitter.com/i/topics/1062819973347729408)
     * [Kim Yoojung](https://twitter.com/i/topics/1062826720984621056)
+    * [Lee Je-hoon](https://twitter.com/i/topics/1394598354559008770)
     * [Song Joongki](https://twitter.com/i/topics/925709166341079041)
     * [Song Kang](https://twitter.com/i/topics/1365659684250685442)
   * Bintang musik

@@ -190,6 +190,7 @@ Deportes
     * Portugal
       * [Bernardo Silva](https://twitter.com/i/topics/733773906872426496)
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+  * [Copa América](https://twitter.com/i/topics/1304491707317141504)
   * [Draft de la NFL](https://twitter.com/i/topics/1373999048424759299)
   * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
   * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
@@ -209,7 +210,6 @@ Deportes
     * [Michael Jordan](https://twitter.com/i/topics/996394628726251521)
     * [Valentino Rossi](https://twitter.com/i/topics/809799760269848576)
   * Periodistas deportivos
-    * [Alessandro Del Piero](https://twitter.com/i/topics/827186341746126848)
     * [Guti](https://twitter.com/i/topics/832605642707738624)
     * [Jorge Sampaoli](https://twitter.com/i/topics/733774733049626625)
     * [MisterChip (Alexis)](https://twitter.com/i/topics/832592300102410242)
@@ -460,7 +460,7 @@ Deportes
       * [Man City](https://twitter.com/i/topics/731226203856637952)
       * [Bernardo Silva](https://twitter.com/i/topics/733773906872426496)
       * [Pep Guardiola](https://twitter.com/i/topics/733774535133028352)
-    * [Man Utd](https://twitter.com/i/topics/731226183572934657)
+    * [Manchester United](https://twitter.com/i/topics/731226183572934657)
     * [Southampton](https://twitter.com/i/topics/731226213864202241)
     * Tottenham
       * [Gareth Bale](https://twitter.com/i/topics/733774612949934080)
@@ -536,7 +536,7 @@ Deportes
     * [UEFA Europa League](https://twitter.com/i/topics/733756530479140864)
     * [Ajax](https://twitter.com/i/topics/827104267047571457)
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
-    * [Man Utd](https://twitter.com/i/topics/731226183572934657)
+    * [Manchester United](https://twitter.com/i/topics/731226183572934657)
     * Milán
       * [Milán](https://twitter.com/i/topics/731226162496593920)
       * [Zlatan Ibrahimovic](https://twitter.com/i/topics/733773808478232577)
@@ -621,6 +621,7 @@ Entretenimiento
     * Actores norteamericanos
       * [Emma Stone](https://twitter.com/i/topics/824665782927765504)
       * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
+      * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
       * Selena Gomez
         * [Selena Gomez](https://twitter.com/i/topics/806556845703766016)
         * [Selenators](https://twitter.com/i/topics/1277988593609277440)
@@ -697,6 +698,7 @@ Entretenimiento
     * Actores en series de TV
       * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
       * [Mario Casas](https://twitter.com/i/topics/832613012485705728)
+      * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
     * Actores en telenovelas
       * [Alfonso Herrera](https://twitter.com/i/topics/1060263443624681472)
@@ -905,6 +907,8 @@ Gaming
   * [Nintendo Switch](https://twitter.com/i/topics/856739783577554949)
   * [PlayStation 4](https://twitter.com/i/topics/1201628202105335808)
   * [PlayStation 5](https://twitter.com/i/topics/1201630019065274369)
+  * [Xbox One](https://twitter.com/i/topics/1201627082238742528)
+  * [Xbox Series X](https://twitter.com/i/topics/1205553794106281985)
 * Esports
   * [Esports](https://twitter.com/i/topics/839544337360801792)
   * Equipos de esports
@@ -919,8 +923,12 @@ Gaming
   * Jugadores de Esports
     * [Werlyb](https://twitter.com/i/topics/1081301599203389440)
   * Ligas de esports
+    * [Ligas de esports](https://twitter.com/i/topics/1272667416061861888)
     * [eLiga MX](https://twitter.com/i/topics/1253408766466207745)
     * [Liga Latinoamérica de League of Legends](https://twitter.com/i/topics/1346106521399087111)
+    * [VALORANT Champions Tour](https://twitter.com/i/topics/1366454810371743744)
+* Eventos de gaming
+  * [E3](https://twitter.com/i/topics/1394757814229168128)
 * Industria de juegos
   * [Industria de juegos](https://twitter.com/i/topics/1070028312276127746)
   * [Bethesda](https://twitter.com/i/topics/981177780950855682)
@@ -979,6 +987,7 @@ Gaming
   * [Five Nights at Freddy's](https://twitter.com/i/topics/856562205210198020)
   * [Football Manager](https://twitter.com/i/topics/1263430865079554048)
   * [Fortnite](https://twitter.com/i/topics/974285387987169280)
+  * [Garena Free Fire](https://twitter.com/i/topics/1205097911257714688)
   * [Gears of War](https://twitter.com/i/topics/988882978871758849)
   * [Ghost of Tsushima](https://twitter.com/i/topics/1004739234626879495)
   * [God of War](https://twitter.com/i/topics/10044917017)
@@ -1353,6 +1362,7 @@ Música
   * [Mario Bautista](https://twitter.com/i/topics/828653559747006464)
   * [Miley Cyrus](https://twitter.com/i/topics/806567740949438464)
   * [Natti Natasha](https://twitter.com/i/topics/1003308559939956737)
+  * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
   * One Direction
     * [One Direction](https://twitter.com/i/topics/806570452055257088)
     * [Directioners](https://twitter.com/i/topics/1277981847524306945)
