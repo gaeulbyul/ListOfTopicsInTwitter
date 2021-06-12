@@ -70,9 +70,12 @@
     * [रविंद्र जडेजा](https://twitter.com/i/topics/897829396681080832)
     * [रोहित शर्मा](https://twitter.com/i/topics/897829397742272512)
     * [विराट कोहली](https://twitter.com/i/topics/809501049715163136)
+* खेल-कुद प्रतियोगिता
+  * [ओलम्पिक खेल](https://twitter.com/i/topics/1237760060828213249)
 * प्रसिद्ध खिलाडी
   * [सचिन तेंदुलकर](https://twitter.com/i/topics/809500398058762240)
 * फ़ुटबॉल
+  * [फ़ुटबॉल](https://twitter.com/i/topics/733756536430809088)
   * [इंडियन सुपर लीग](https://twitter.com/i/topics/1098967470033911809)
 * [हॉकी](https://twitter.com/i/topics/829003678765821984)
 
@@ -142,6 +145,7 @@
     * [फ़िल्में](https://twitter.com/i/topics/1072936713134071808)
     * [बॉलीवुड फ़िल्में](https://twitter.com/i/topics/856976624268345345)
 * भारतीय सिनेमा
+  * [भारतीय सिनेमा](https://twitter.com/i/topics/1360327768957804546)
   * भारतीय अभिनेता
     * [भारतीय अभिनेता](https://twitter.com/i/topics/1303714482015756288)
     * [अक्षय कुमार](https://twitter.com/i/topics/1020046356008714240)
@@ -253,6 +257,7 @@
       * [देहरादून](https://twitter.com/i/topics/1333805800217669632)
     * कर्नाटक
       * [बेंगलुरु](https://twitter.com/i/topics/1294318440673468416)
+    * [केरल](https://twitter.com/i/topics/1334521844569792516)
     * [गुजरात](https://twitter.com/i/topics/1308839315871424513)
     * [गोवा ](https://twitter.com/i/topics/1333777581640859649)
     * छत्तीसगढ़
@@ -261,6 +266,9 @@
     * झारखण्ड
       * [झारखण्ड](https://twitter.com/i/topics/1331239516032573440)
       * [राँची](https://twitter.com/i/topics/1331634705435746305)
+    * तेलंगाना
+      * [तेलंगाना](https://twitter.com/i/topics/1334187860593758209)
+      * [हैदराबाद](https://twitter.com/i/topics/1334217983388831745)
     * [दिल्ली](https://twitter.com/i/topics/1291807561822253057)
     * पंजाब
       * [पंजाब](https://twitter.com/i/topics/1318573028704284673)

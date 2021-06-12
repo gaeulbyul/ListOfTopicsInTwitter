@@ -150,7 +150,8 @@ Karir
   * [Sejarah](https://twitter.com/i/topics/1047111583309029381)
 * Koki
   * [Koki](https://twitter.com/i/topics/1091055942249046016)
-  * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
+  * Koki TV
+    * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
 * Pendidikan
   * [Pendidikan](https://twitter.com/i/topics/847546154439000064)
   * [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
@@ -166,13 +167,12 @@ Makanan
 * [Jajanan kaki lima](https://twitter.com/i/topics/1286732523326717952)
 * Koki
   * [Koki](https://twitter.com/i/topics/1091055942249046016)
-  * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
+  * Koki TV
+    * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
+* [Makanan cepat saji](https://twitter.com/i/topics/847865239886417922)
 * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
 * Masakan
-  * Kuliner Asia
-    * [Kuliner Asia](https://twitter.com/i/topics/1357686092971995137)
-    * [Masakan Indonesia](https://twitter.com/i/topics/1331290088903372801)
-  * [Makanan cepat saji](https://twitter.com/i/topics/847865239886417922)
+  * [Masakan Indonesia](https://twitter.com/i/topics/1331290088903372801)
 
 Mode & kecantikan
 ==========
@@ -359,6 +359,10 @@ Olahraga
 * Acara olahraga
   * Kejuaraan Eropa UEFA
     * [Kejuaraan Eropa UEFA](https://twitter.com/i/topics/1384518599562301449)
+    * Jerman
+      * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
+    * Perancis
+      * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
     * Portugal
       * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * [Olimpiade](https://twitter.com/i/topics/1237760060828213249)
@@ -377,6 +381,10 @@ Olahraga
     * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
   * Kejuaraan Eropa UEFA
     * [Kejuaraan Eropa UEFA](https://twitter.com/i/topics/1384518599562301449)
+    * Jerman
+      * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
+    * Perancis
+      * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
     * Portugal
       * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * La Liga
@@ -438,6 +446,10 @@ Olahraga
   * Tim nasional sepak bola pria
     * Argentina
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * Jerman
+      * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
+    * Perancis
+      * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
     * Portugal
       * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * UEFA Champions League
