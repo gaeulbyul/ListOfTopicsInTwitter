@@ -181,6 +181,7 @@ Deportes
 * Eventos deportivos
   * [Abierto de Francia](https://twitter.com/i/topics/1304494995273969665)
   * Campeonato Europeo de la UEFA
+    * [Campeonato Europeo de la UEFA](https://twitter.com/i/topics/1384518599562301449)
     * Alemania
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Bélgica
@@ -207,8 +208,15 @@ Deportes
       * [Bernardo Silva](https://twitter.com/i/topics/733773906872426496)
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
+  * [Copa Mundial Masculina de la FIFA](https://twitter.com/i/topics/1304474187961044993)
   * [Draft de la NFL](https://twitter.com/i/topics/1373999048424759299)
-  * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
+  * Juegos Olímpicos
+    * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
+    * [Fútbol olímpico](https://twitter.com/i/topics/1392945361518403584)
+    * [Gimnasia olímpica](https://twitter.com/i/topics/1390298740691329027)
+    * [Karate olímpico](https://twitter.com/i/topics/1392945665068572673)
+    * [Taekwondo olímpico](https://twitter.com/i/topics/1392946428415074304)
+  * [Tour de Francia](https://twitter.com/i/topics/1304499179339747328)
   * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
 * Figuras del deporte
   * Entrenadores
@@ -253,6 +261,7 @@ Deportes
     * [Santos](https://twitter.com/i/topics/731226248316231681)
     * [São Paulo](https://twitter.com/i/topics/731226240728735744)
   * Campeonato Europeo de la UEFA
+    * [Campeonato Europeo de la UEFA](https://twitter.com/i/topics/1384518599562301449)
     * Alemania
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Bélgica
@@ -310,6 +319,7 @@ Deportes
     * [U. de Chile](https://twitter.com/i/topics/731226241882193920)
     * [Universidad Católica](https://twitter.com/i/topics/731226237025161216)
     * [Zamora](https://twitter.com/i/topics/731226203042897925)
+  * [Copa Mundial Masculina de la FIFA](https://twitter.com/i/topics/1304474187961044993)
   * Copa Sudamericana
     * [Coquimbo](https://twitter.com/i/topics/1207272620254621696)
     * [Deportivo Cali](https://twitter.com/i/topics/731226235792031744)
@@ -513,7 +523,9 @@ Deportes
       * [Argentina](https://twitter.com/i/topics/731226234080788481)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Paulo Dybala](https://twitter.com/i/topics/733774625088278529)
+    * [Bolivia](https://twitter.com/i/topics/731226172470616064)
     * Brasil
+      * [Brasil](https://twitter.com/i/topics/731226216192081920)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
     * Bélgica
       * [Eden Hazard](https://twitter.com/i/topics/733774079166046210)
@@ -527,6 +539,7 @@ Deportes
       * [James Rodriguez](https://twitter.com/i/topics/733774528728289280)
     * Costa Rica
       * [Keylor Navas](https://twitter.com/i/topics/733774331923206144)
+    * [Ecuador](https://twitter.com/i/topics/731226210710102016)
     * España
       * [Alvaro Morata](https://twitter.com/i/topics/733774524194283520)
       * [Koke](https://twitter.com/i/topics/733773763481718784)
@@ -545,6 +558,7 @@ Deportes
     * Países Bajos
       * [Jasper Cillessen](https://twitter.com/i/topics/733774525897146368)
     * Perú
+      * [Perú](https://twitter.com/i/topics/731226259280158722)
       * [Edison Flores](https://twitter.com/i/topics/733773893844930560)
     * Polonia
       * [Robert Lewandowski](https://twitter.com/i/topics/733773741813960704)
@@ -689,9 +703,11 @@ Entretenimiento
     * Actores norteamericanos
       * [Ben Affleck](https://twitter.com/i/topics/810937913395417088)
       * [Cole Sprouse](https://twitter.com/i/topics/809514671728267264)
+      * [Dylan O'Brien](https://twitter.com/i/topics/809437236773064705)
       * [Elizabeth Olsen](https://twitter.com/i/topics/996442292297777152)
       * [Emma Stone](https://twitter.com/i/topics/824665782927765504)
       * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
+      * [Lili Reinhart](https://twitter.com/i/topics/1057750569698308096)
       * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
       * [Sabrina Carpenter](https://twitter.com/i/topics/1031637917343526917)
       * Selena Gomez
@@ -706,6 +722,7 @@ Entretenimiento
     * [Cole Sprouse](https://twitter.com/i/topics/809514671728267264)
     * [Josephine Langford](https://twitter.com/i/topics/1080537051760517120)
     * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
+    * [Lili Reinhart](https://twitter.com/i/topics/1057750569698308096)
     * [Robert Pattinson](https://twitter.com/i/topics/864564607519563776)
     * Selena Gomez
       * [Selena Gomez](https://twitter.com/i/topics/806556845703766016)
@@ -718,11 +735,13 @@ Entretenimiento
     * Actores de Hollywood
       * [Ben Affleck](https://twitter.com/i/topics/810937913395417088)
       * [Chris Hemsworth](https://twitter.com/i/topics/806573713877413888)
+      * [Dylan O'Brien](https://twitter.com/i/topics/809437236773064705)
       * [Elizabeth Olsen](https://twitter.com/i/topics/996442292297777152)
       * [Jennifer Lopez](https://twitter.com/i/topics/834935473512468480)
       * [Josephine Langford](https://twitter.com/i/topics/1080537051760517120)
       * [Kate Winslet](https://twitter.com/i/topics/894557136960667648)
       * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
+      * [Lili Reinhart](https://twitter.com/i/topics/1057750569698308096)
       * [Robert Pattinson](https://twitter.com/i/topics/864564607519563776)
       * [Sebastian Stan](https://twitter.com/i/topics/996442877780639744)
       * [Timothée Chalamet](https://twitter.com/i/topics/941395568630251520)
@@ -784,6 +803,8 @@ Entretenimiento
     * Actores en series de TV
       * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
       * [Cole Sprouse](https://twitter.com/i/topics/809514671728267264)
+      * [Dylan O'Brien](https://twitter.com/i/topics/809437236773064705)
+      * [Lili Reinhart](https://twitter.com/i/topics/1057750569698308096)
       * [Mario Casas](https://twitter.com/i/topics/832613012485705728)
       * [Olivia Rodrigo](https://twitter.com/i/topics/1348607324269596673)
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
@@ -838,6 +859,8 @@ Entretenimiento
 * Eventos de entretenimiento
   * [Eventos de entretenimiento](https://twitter.com/i/topics/1286400579602796544)
   * Eventos de cine y televisión
+    * Festivales de cine
+      * [Festival de Cannes](https://twitter.com/i/topics/1298178090057703424)
     * [Globos de Oro](https://twitter.com/i/topics/1296820925640278016)
     * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Premios Óscar](https://twitter.com/i/topics/1222619725877796864)
@@ -847,6 +870,7 @@ Entretenimiento
     * [Eurovision](https://twitter.com/i/topics/1389585940369199109)
     * [Grammy Latino](https://twitter.com/i/topics/1299067830768345088)
     * [Grammys](https://twitter.com/i/topics/1299065112913874944)
+    * [MTV Miaw](https://twitter.com/i/topics/1296501479021244416)
     * [MTV Video Music Awards](https://twitter.com/i/topics/1288908932858011648)
 * Franquicias de entretenimiento
   * [Franquicias de entretenimiento](https://twitter.com/i/topics/1074757527995277313)
@@ -885,6 +909,8 @@ Entretenimiento
     * [Shonda Rhimes](https://twitter.com/i/topics/897083035325038593)
     * [Stephen King](https://twitter.com/i/topics/811359363235397632)
   * Eventos de cine y televisión
+    * Festivales de cine
+      * [Festival de Cannes](https://twitter.com/i/topics/1298178090057703424)
     * [Globos de Oro](https://twitter.com/i/topics/1296820925640278016)
     * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Premios Óscar](https://twitter.com/i/topics/1222619725877796864)
@@ -1157,6 +1183,7 @@ Música
   * [Eurovision](https://twitter.com/i/topics/1389585940369199109)
   * [Grammy Latino](https://twitter.com/i/topics/1299067830768345088)
   * [Grammys](https://twitter.com/i/topics/1299065112913874944)
+  * [MTV Miaw](https://twitter.com/i/topics/1296501479021244416)
   * [MTV Video Music Awards](https://twitter.com/i/topics/1288908932858011648)
 * Folk y acústica
   * [Folk](https://twitter.com/i/topics/884775851589419008)
@@ -1222,7 +1249,9 @@ Música
     * [RM](https://twitter.com/i/topics/895369476488609792)
     * [SUGA](https://twitter.com/i/topics/895369555937157120)
     * [V (BTS)](https://twitter.com/i/topics/895369816558534656)
+  * [CRAVITY](https://twitter.com/i/topics/1275163018888806400)
   * [Dream Catcher](https://twitter.com/i/topics/902573287963672578)
+  * [Engene](https://twitter.com/i/topics/1384873289177174020)
   * ENHYPEN
     * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
     * [Sunghoon](https://twitter.com/i/topics/1384855651566845956)
@@ -1493,6 +1522,7 @@ Música
     * [Little Monsters](https://twitter.com/i/topics/1280546942808846336)
   * [Lana Del Rey](https://twitter.com/i/topics/807296959065137152)
   * [Little Mix](https://twitter.com/i/topics/807316447500193792)
+  * [Lorde](https://twitter.com/i/topics/807326243070701568)
   * [Lucero](https://twitter.com/i/topics/810925299625930753)
   * [Madison Beer](https://twitter.com/i/topics/1171418278104719365)
   * [Maite Perroni](https://twitter.com/i/topics/828652820114993152)
@@ -1597,6 +1627,9 @@ Noticias
 * [Noticias de games](https://twitter.com/i/topics/1034501001544257536)
 * [Noticias de música](https://twitter.com/i/topics/1099779369357082624)
 * [Noticias de tecnología](https://twitter.com/i/topics/840160819388141570)
+* Últimas noticias
+  * [COVID-19: expertos en salud](https://twitter.com/i/topics/1251670280021225473)
+  * [COVID-19: medios y periodistas](https://twitter.com/i/topics/1251676278064705536)
 
 Profesiones
 ==========

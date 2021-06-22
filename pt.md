@@ -38,6 +38,7 @@ Arte & cultura
 * Arte
   * [Arte](https://twitter.com/i/topics/1265660441822281728)
   * [Artes visuais](https://twitter.com/i/topics/1046577790353428480)
+  * [Fotografia](https://twitter.com/i/topics/847869714860605440)
 * Ficção científica & fantasia
   * Harry Potter
     * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
@@ -103,7 +104,11 @@ Entretenimento
       * [ Song Kang](https://twitter.com/i/topics/1365659684250685442)
       * [Hwang Inyeop](https://twitter.com/i/topics/1351589697500319744)
       * [Lee Jongsuk](https://twitter.com/i/topics/1062471916345221120)
+      * [Lee Minho](https://twitter.com/i/topics/1062470834751557632)
       * [Moon Gayoung](https://twitter.com/i/topics/1351590417997828096)
+      * [Nam Joo-hyuk](https://twitter.com/i/topics/1354522980626227203)
+      * [Park Bogum](https://twitter.com/i/topics/1062468047120683009)
+      * [Park Seo-joon](https://twitter.com/i/topics/1070726201252036608)
       * [Song Joongki](https://twitter.com/i/topics/925709166341079041)
       * [Taecyeon](https://twitter.com/i/topics/890278608639410177)
     * Atores norte-americanos
@@ -124,6 +129,7 @@ Entretenimento
       * [Viola Davis](https://twitter.com/i/topics/875071032993783808)
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
     * Atores turcos
+      * [Hande Erçel](https://twitter.com/i/topics/1390722148197535747)
       * [Kerem Bursin](https://twitter.com/i/topics/1383061966789349380)
   * Comediantes famosos
     * [Fabio Porchat](https://twitter.com/i/topics/819540027994611712)
@@ -284,6 +290,8 @@ Entretenimento
 * Eventos de entretenimento
   * [Eventos de entretenimento](https://twitter.com/i/topics/1286400579602796544)
   * Eventos de cinema e TV
+    * Festivais de cinema
+      * [Festival de Cannes](https://twitter.com/i/topics/1298178090057703424)
     * [Globo de Ouro](https://twitter.com/i/topics/1296820925640278016)
     * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Oscars ](https://twitter.com/i/topics/1222619725877796864)
@@ -302,6 +310,8 @@ Entretenimento
     * [Diretores, Produtores & Escritores](https://twitter.com/i/topics/1166410125994708993)
     * [Patty Jenkins](https://twitter.com/i/topics/972174052868603904)
   * Eventos de cinema e TV
+    * Festivais de cinema
+      * [Festival de Cannes](https://twitter.com/i/topics/1298178090057703424)
     * [Globo de Ouro](https://twitter.com/i/topics/1296820925640278016)
     * [MTV Movie Awards](https://twitter.com/i/topics/1392951576910700544)
     * [Oscars ](https://twitter.com/i/topics/1222619725877796864)
@@ -503,13 +513,19 @@ Esportes
   * [Estatísticas de futebol](https://twitter.com/i/topics/1283462657194881025)
 * Eventos esportivos
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
+  * [Copa do Mundo de Futebol Masculino FIFA](https://twitter.com/i/topics/1304474187961044993)
   * [Draft da NFL](https://twitter.com/i/topics/1373999048424759299)
   * Liga Europa da UEFA
+    * [Liga Europa da UEFA](https://twitter.com/i/topics/1384518599562301449)
     * Alemanha
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Portugal
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
-  * [Olimpíadas](https://twitter.com/i/topics/1237760060828213249)
+  * Olimpíadas
+    * [Olimpíadas](https://twitter.com/i/topics/1237760060828213249)
+    * [Ginástica Olímpica](https://twitter.com/i/topics/1390298740691329027)
+    * [Judô Olímpico](https://twitter.com/i/topics/1392945588853886977)
+    * [Voleibol Olímpico](https://twitter.com/i/topics/1390337859480014848)
 * Figuras no esporte
   * Jornalistas esportivos
     * [Jorge Sampaoli](https://twitter.com/i/topics/733774733049626625)
@@ -563,6 +579,7 @@ Esportes
     * [Atlético GO](https://twitter.com/i/topics/731226242301628416)
     * [Coritiba](https://twitter.com/i/topics/731226225381756930)
     * [Goias](https://twitter.com/i/topics/731226259015901184)
+  * [Copa do Mundo de Futebol Masculino FIFA](https://twitter.com/i/topics/1304474187961044993)
   * [Copa do Nordeste](https://twitter.com/i/topics/1186384493541646336)
   * Copa Libertadores
     * [Copa Libertadores](https://twitter.com/i/topics/733756533759082498)
@@ -580,6 +597,7 @@ Esportes
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
   * Liga Europa da UEFA
+    * [Liga Europa da UEFA](https://twitter.com/i/topics/1384518599562301449)
     * Alemanha
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Portugal
@@ -611,14 +629,23 @@ Esportes
     * Alemanha
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Argentina
+      * [Argentina](https://twitter.com/i/topics/731226234080788481)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * [Bolívia](https://twitter.com/i/topics/731226172470616064)
     * Brasil
       * [Brasil](https://twitter.com/i/topics/731226216192081920)
       * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
       * [Gabriel Barbosa](https://twitter.com/i/topics/733774560827301888)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
+    * [Chile](https://twitter.com/i/topics/731226172063776768)
+    * [Colômbia](https://twitter.com/i/topics/731226252128882688)
+    * [Equador](https://twitter.com/i/topics/731226210710102016)
+    * [Paraguai](https://twitter.com/i/topics/731226254767054849)
+    * [Peru](https://twitter.com/i/topics/731226259280158722)
     * Portugal
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+    * [Uruguai](https://twitter.com/i/topics/731226258135089152)
+    * [Venezuela](https://twitter.com/i/topics/731226216980586496)
   * Serie A
     * [Serie A](https://twitter.com/i/topics/733756520261767169)
     * Juventus
@@ -704,6 +731,7 @@ Gaming
     * [KaBuM! e-Sports](https://twitter.com/i/topics/1116019143289888768)
     * [LOUD Esports](https://twitter.com/i/topics/1293180097382322181)
     * [Made In Brazil](https://twitter.com/i/topics/1037060335075618819)
+    * [Netshoes Miners](https://twitter.com/i/topics/1400452626316103681)
     * [Ninjas in Pyjamas](https://twitter.com/i/topics/871732482961326080)
     * [paiN Gaming](https://twitter.com/i/topics/995036673581895680)
     * [RED Canids Kalunga](https://twitter.com/i/topics/1293232837378768897)
@@ -1041,6 +1069,7 @@ Música
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
     * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
+  * [Weki Meki](https://twitter.com/i/topics/902254925693935619)
   * [WJSN](https://twitter.com/i/topics/900366692206886912)
   * [Wonho (Monsta X)](https://twitter.com/i/topics/908748404590731264)
 * Música do Brasil
@@ -1124,6 +1153,7 @@ Música
   * Beyoncé
     * [Beyoncé](https://twitter.com/i/topics/806592879661445120)
     * [Beyhive](https://twitter.com/i/topics/1272966788897058816)
+  * [blackbear](https://twitter.com/i/topics/1252328882218209280)
   * [Britney Spears](https://twitter.com/i/topics/804412689682337796)
   * [Bruno Mars](https://twitter.com/i/topics/806573953195986944)
   * [Charli XCX](https://twitter.com/i/topics/885602209618051072)
@@ -1208,6 +1238,7 @@ Música
     * [RBD](https://twitter.com/i/topics/1146828424951955456)
   * [Rihanna](https://twitter.com/i/topics/806558580715311104)
   * [Sabina Hidalgo](https://twitter.com/i/topics/1183801938032201728)
+  * [Sam Smith](https://twitter.com/i/topics/807325707835576321)
   * [Sandy e Junior](https://twitter.com/i/topics/1105814344955097089)
   * [Sandy Leah](https://twitter.com/i/topics/828639101611958272)
   * [Savannah Clarke](https://twitter.com/i/topics/1367098871365521423)
@@ -1249,6 +1280,7 @@ Música
   * [Rock alternativo](https://twitter.com/i/topics/849684194242338816)
   * Rock clássico
     * [Rock clássico](https://twitter.com/i/topics/1108100469778345984)
+    * [Led Zeppelin](https://twitter.com/i/topics/1364233917935460362)
     * [The Beatles](https://twitter.com/i/topics/808383834265817088)
   * [Soft rock](https://twitter.com/i/topics/1156962764948008960)
 * Soul
