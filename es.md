@@ -6,6 +6,7 @@ Actividades al aire libre
   * [Gatos](https://twitter.com/i/topics/852263859209478144)
   * [Perros](https://twitter.com/i/topics/853980498816679937)
   * [Pets](https://twitter.com/i/topics/852262932607926273)
+  * [Pájaros](https://twitter.com/i/topics/857678661352251392)
 * [Ecologismo](https://twitter.com/i/topics/1248631349096767488)
 * [Escalada](https://twitter.com/i/topics/847901134601633792)
 * [Naturaleza](https://twitter.com/i/topics/1103294729079349250)
@@ -175,6 +176,24 @@ Deportes
     * [Michigan State Spartans](https://twitter.com/i/topics/898269218193326081)
 * Desportos aquáticos
   * [Surf](https://twitter.com/i/topics/847902992321753088)
+* Esports
+  * [Esports](https://twitter.com/i/topics/839544337360801792)
+  * Equipos de esports
+    * [Equipos de esports](https://twitter.com/i/topics/1272667111932878848)
+    * [All Knights](https://twitter.com/i/topics/1346167163128672256)
+    * [Furious Gaming](https://twitter.com/i/topics/1346457228690116611)
+    * [G2 Esports](https://twitter.com/i/topics/857293696676405248)
+    * [Isurus Esports](https://twitter.com/i/topics/1179029936394268674)
+    * [Rainbow7](https://twitter.com/i/topics/1305560217837473792)
+    * [Team Heretics](https://twitter.com/i/topics/1089999549202980864)
+    * [XTEN Esports](https://twitter.com/i/topics/1346453739243073539)
+  * Jugadores de Esports
+    * [Werlyb](https://twitter.com/i/topics/1081301599203389440)
+  * Ligas de esports
+    * [Ligas de esports](https://twitter.com/i/topics/1272667416061861888)
+    * [eLiga MX](https://twitter.com/i/topics/1253408766466207745)
+    * [Liga Latinoamérica de League of Legends](https://twitter.com/i/topics/1346106521399087111)
+    * [VALORANT Champions Tour](https://twitter.com/i/topics/1366454810371743744)
 * Estadísticas deportivas
   * [Estadísticas deportivas](https://twitter.com/i/topics/1283448166507937792)
   * [Estadísticas de fútbol](https://twitter.com/i/topics/1283462657194881025)
@@ -212,10 +231,19 @@ Deportes
   * [Draft de la NFL](https://twitter.com/i/topics/1373999048424759299)
   * Juegos Olímpicos
     * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
+    * [Atletismo olímpico](https://twitter.com/i/topics/1390302799515185159)
+    * [Baloncesto olímpico](https://twitter.com/i/topics/1390331651188682753)
+    * [Balonmano olímpico](https://twitter.com/i/topics/1390689133094342662)
+    * [Ciclismo olimpico](https://twitter.com/i/topics/1392944904611930114)
     * [Fútbol olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Gimnasia olímpica](https://twitter.com/i/topics/1390298740691329027)
+    * [Judo olímpico](https://twitter.com/i/topics/1392945588853886977)
     * [Karate olímpico](https://twitter.com/i/topics/1392945665068572673)
+    * [Natación artística olímpica](https://twitter.com/i/topics/1392944123217276929)
+    * [Rugby olímpico](https://twitter.com/i/topics/1392945858140770308)
     * [Taekwondo olímpico](https://twitter.com/i/topics/1392946428415074304)
+    * [Tiro olimpico](https://twitter.com/i/topics/1392946020170944517)
+    * [Triatlón olimpico](https://twitter.com/i/topics/1392946515652407296)
   * [Tour de Francia](https://twitter.com/i/topics/1304499179339747328)
   * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
 * Figuras del deporte
@@ -697,10 +725,13 @@ Entretenimiento
       * [Tom Holland](https://twitter.com/i/topics/907607577294364672)
     * Actores coreanos
       * [Kim Hyunjoong](https://twitter.com/i/topics/1062471325984256000)
+      * [Lee Je-hoon](https://twitter.com/i/topics/1394598354559008770)
       * [Lee Minho](https://twitter.com/i/topics/1062470834751557632)
+      * [Park Seojoon](https://twitter.com/i/topics/1062826205345341440)
     * Actores indios
       * [Shehnaaz Kaur Gill](https://twitter.com/i/topics/1270337060797202433)
     * Actores norteamericanos
+      * [Anne Hathaway](https://twitter.com/i/topics/943141146108162048)
       * [Ben Affleck](https://twitter.com/i/topics/810937913395417088)
       * [Cole Sprouse](https://twitter.com/i/topics/809514671728267264)
       * [Dylan O'Brien](https://twitter.com/i/topics/809437236773064705)
@@ -733,6 +764,7 @@ Entretenimiento
   * Estrellas de cine
     * [Estrellas de cine](https://twitter.com/i/topics/1303714924477128704)
     * Actores de Hollywood
+      * [Anne Hathaway](https://twitter.com/i/topics/943141146108162048)
       * [Ben Affleck](https://twitter.com/i/topics/810937913395417088)
       * [Chris Hemsworth](https://twitter.com/i/topics/806573713877413888)
       * [Dylan O'Brien](https://twitter.com/i/topics/809437236773064705)
@@ -750,6 +782,7 @@ Entretenimiento
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
     * [Estrellas de los 90](https://twitter.com/i/topics/1303718501731901443)
     * Nominados a los Oscar
+      * [Anne Hathaway](https://twitter.com/i/topics/943141146108162048)
       * [Ben Affleck](https://twitter.com/i/topics/810937913395417088)
       * [Emma Stone](https://twitter.com/i/topics/824665782927765504)
       * [Kate Winslet](https://twitter.com/i/topics/894557136960667648)
@@ -1159,6 +1192,7 @@ Moda & belleza
   * [Moda de diseñador](https://twitter.com/i/topics/1255950086699315200)
   * Modelos de moda
     * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
+  * [Revistas de moda](https://twitter.com/i/topics/1255877953726017536)
 
 Música
 ==========
@@ -1251,9 +1285,9 @@ Música
     * [V (BTS)](https://twitter.com/i/topics/895369816558534656)
   * [CRAVITY](https://twitter.com/i/topics/1275163018888806400)
   * [Dream Catcher](https://twitter.com/i/topics/902573287963672578)
-  * [Engene](https://twitter.com/i/topics/1384873289177174020)
   * ENHYPEN
     * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
+    * [Engene](https://twitter.com/i/topics/1384873289177174020)
     * [Sunghoon](https://twitter.com/i/topics/1384855651566845956)
   * [EVERGLOW](https://twitter.com/i/topics/1137087033568927744)
   * EXO
@@ -1275,6 +1309,7 @@ Música
     * [iGOT7](https://twitter.com/i/topics/1086359983082549248)
     * [Jackson (GOT7)](https://twitter.com/i/topics/923628371136847872)
     * [JB (GOT7)](https://twitter.com/i/topics/894972039735398400)
+    * [Jinyoung (GOT7)](https://twitter.com/i/topics/892016410284535812)
     * [Mark (GOT7)](https://twitter.com/i/topics/892012685352591360)
     * [Youngjae (GOT7)](https://twitter.com/i/topics/892019201086414853)
     * [Yugyeom (GOT7)](https://twitter.com/i/topics/894973286085386240)
@@ -1384,6 +1419,7 @@ Música
     * [Super Junior](https://twitter.com/i/topics/890283144368148480)
     * [Choi Siwon](https://twitter.com/i/topics/890263034316193792)
     * [Donghae](https://twitter.com/i/topics/890266523264204800)
+    * [Eunhyuk](https://twitter.com/i/topics/894952378822033408)
     * [Kyuhyun](https://twitter.com/i/topics/890308994685849600)
     * [Shindong](https://twitter.com/i/topics/890306719129100289)
     * [Yesung](https://twitter.com/i/topics/890285712993525761)

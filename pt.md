@@ -55,9 +55,11 @@ Atividades ao ar livre
 
 * [Ambientalismo](https://twitter.com/i/topics/1248631349096767488)
 * Animais
+  * [Animais](https://twitter.com/i/topics/839543325212319744)
   * [Cachorros](https://twitter.com/i/topics/853980498816679937)
   * [Gatos](https://twitter.com/i/topics/852263859209478144)
   * [Pets](https://twitter.com/i/topics/852262932607926273)
+  * [Vida marinha](https://twitter.com/i/topics/1129086092202860544)
 * [Natureza](https://twitter.com/i/topics/1103294729079349250)
 * [Surfe](https://twitter.com/i/topics/847902992321753088)
 
@@ -93,6 +95,7 @@ Entretenimento
   * Atores
     * [Atores](https://twitter.com/i/topics/1303715075421646849)
     * Atores australianos
+      * [Josephine Langford](https://twitter.com/i/topics/1080537051760517120)
       * [Margot Robbie](https://twitter.com/i/topics/941398370987282432)
     * Atores britânicos
       * [Anya Taylor-Joy](https://twitter.com/i/topics/955512577164853248)
@@ -108,10 +111,11 @@ Entretenimento
       * [Moon Gayoung](https://twitter.com/i/topics/1351590417997828096)
       * [Nam Joo-hyuk](https://twitter.com/i/topics/1354522980626227203)
       * [Park Bogum](https://twitter.com/i/topics/1062468047120683009)
-      * [Park Seo-joon](https://twitter.com/i/topics/1070726201252036608)
+      * [Park Seojoon](https://twitter.com/i/topics/1062826205345341440)
       * [Song Joongki](https://twitter.com/i/topics/925709166341079041)
       * [Taecyeon](https://twitter.com/i/topics/890278608639410177)
     * Atores norte-americanos
+      * [Andrew Garfield](https://twitter.com/i/topics/824613606935273473)
       * [Brie Larson](https://twitter.com/i/topics/895305680768253952)
       * [Cole Sprouse](https://twitter.com/i/topics/809514671728267264)
       * [Dylan O'Brien](https://twitter.com/i/topics/809437236773064705)
@@ -136,6 +140,7 @@ Entretenimento
     * [Tatá Werneck](https://twitter.com/i/topics/810932146227425280)
   * Crushes
     * [Cole Sprouse](https://twitter.com/i/topics/809514671728267264)
+    * [Josephine Langford](https://twitter.com/i/topics/1080537051760517120)
     * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
     * [Lili Reinhart](https://twitter.com/i/topics/1057750569698308096)
     * [Robert Pattinson](https://twitter.com/i/topics/864564607519563776)
@@ -234,12 +239,14 @@ Entretenimento
   * Estrelas do cinema
     * [Estrelas do cinema](https://twitter.com/i/topics/1303714924477128704)
     * Atores de Hollywood
+      * [Andrew Garfield](https://twitter.com/i/topics/824613606935273473)
       * [Benedict Cumberbatch](https://twitter.com/i/topics/897190723153403904)
       * [Brie Larson](https://twitter.com/i/topics/895305680768253952)
       * [Chris Hemsworth](https://twitter.com/i/topics/806573713877413888)
       * [Dylan O'Brien](https://twitter.com/i/topics/809437236773064705)
       * [Elizabeth Olsen](https://twitter.com/i/topics/996442292297777152)
       * [Jennifer Lopez](https://twitter.com/i/topics/834935473512468480)
+      * [Josephine Langford](https://twitter.com/i/topics/1080537051760517120)
       * [Kristen Stewart](https://twitter.com/i/topics/950771583479570432)
       * [Lili Reinhart](https://twitter.com/i/topics/1057750569698308096)
       * [Margot Robbie](https://twitter.com/i/topics/941398370987282432)
@@ -362,6 +369,7 @@ Entretenimento
     * Doramas
       * [Doramas](https://twitter.com/i/topics/1346749071000670209)
       * [Love Alarm](https://twitter.com/i/topics/1365649351553347586)
+      * [My Roommate is a Gumiho](https://twitter.com/i/topics/1404796791032143872)
       * [True Beauty](https://twitter.com/i/topics/1351594312698482694)
       * [Vincenzo](https://twitter.com/i/topics/1365669572825653253)
     * Família & nostalgia
@@ -509,6 +517,30 @@ Esportes
   * [Surfe](https://twitter.com/i/topics/847902992321753088)
 * Esportes de bar
   * [Poquer](https://twitter.com/i/topics/847902254875131904)
+* Esports
+  * [Esports](https://twitter.com/i/topics/839544337360801792)
+  * Ligas de esports
+    * [Ligas de esports](https://twitter.com/i/topics/1272667416061861888)
+    * [CBLOL](https://twitter.com/i/topics/1215000572325027840)
+    * [Liga Brasileira de Free Fire](https://twitter.com/i/topics/1291754839144148994)
+    * [VALORANT Champions Tour](https://twitter.com/i/topics/1366454810371743744)
+  * Times de esports
+    * [Times de esports](https://twitter.com/i/topics/1272667111932878848)
+    * [Cruzeiro e-Sports](https://twitter.com/i/topics/1293170541830926339)
+    * [Flamengo](https://twitter.com/i/topics/1115272951723511808)
+    * [Furia Esports](https://twitter.com/i/topics/1116034906793041920)
+    * [INTZ](https://twitter.com/i/topics/1115299615719342083)
+    * [KaBuM! e-Sports](https://twitter.com/i/topics/1116019143289888768)
+    * [LOUD Esports](https://twitter.com/i/topics/1293180097382322181)
+    * [Made In Brazil](https://twitter.com/i/topics/1037060335075618819)
+    * [Netshoes Miners](https://twitter.com/i/topics/1400452626316103681)
+    * [Ninjas in Pyjamas](https://twitter.com/i/topics/871732482961326080)
+    * [paiN Gaming](https://twitter.com/i/topics/995036673581895680)
+    * [RED Canids Kalunga](https://twitter.com/i/topics/1293232837378768897)
+    * [Rensga Esports](https://twitter.com/i/topics/1346158996843945984)
+    * [SK Gaming](https://twitter.com/i/topics/859526611938320384)
+    * [Team Liquid](https://twitter.com/i/topics/857262971797385216)
+    * [Vorax](https://twitter.com/i/topics/1346160095994867712)
 * Estatísticas de esportes
   * [Estatísticas de futebol](https://twitter.com/i/topics/1283462657194881025)
 * Eventos esportivos
@@ -523,8 +555,14 @@ Esportes
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * Olimpíadas
     * [Olimpíadas](https://twitter.com/i/topics/1237760060828213249)
+    * [Atletismo Olímpico](https://twitter.com/i/topics/1390302799515185159)
+    * [Basquete Olímpico](https://twitter.com/i/topics/1390331651188682753)
+    * [Futebol Olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Ginástica Olímpica](https://twitter.com/i/topics/1390298740691329027)
     * [Judô Olímpico](https://twitter.com/i/topics/1392945588853886977)
+    * [Karatê Olímpico](https://twitter.com/i/topics/1392945665068572673)
+    * [Natação Olímpica](https://twitter.com/i/topics/1392946342394167301)
+    * [Tiro com Arco Olímpico](https://twitter.com/i/topics/1390293773754638338)
     * [Voleibol Olímpico](https://twitter.com/i/topics/1390337859480014848)
 * Figuras no esporte
   * Jornalistas esportivos
@@ -785,6 +823,7 @@ Gaming
   * [Pokémon GO](https://twitter.com/i/topics/855314515612782594)
   * [Rainbow Six Siege](https://twitter.com/i/topics/10041743455)
   * [Resident Evil](https://twitter.com/i/topics/10045383005)
+  * [Rocket League](https://twitter.com/i/topics/1135913559727067136)
   * [Super Mario](https://twitter.com/i/topics/854952148374663168)
   * [The Last of Us](https://twitter.com/i/topics/1004742145515745280)
   * [The Legend of Zelda](https://twitter.com/i/topics/855303327088640000)
@@ -813,6 +852,7 @@ Moda & beleza
   * [Moda de designer](https://twitter.com/i/topics/1255950086699315200)
   * Modelos de moda
     * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
+  * [Revista de moda](https://twitter.com/i/topics/1255877953726017536)
 
 Música
 ==========
@@ -914,6 +954,7 @@ Música
   * [Dream Catcher](https://twitter.com/i/topics/902573287963672578)
   * ENHYPEN
     * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
+    * [Engene](https://twitter.com/i/topics/1384873289177174020)
     * [Sunghoon](https://twitter.com/i/topics/1384855651566845956)
   * [EVERGLOW](https://twitter.com/i/topics/1137087033568927744)
   * EXO
@@ -936,6 +977,7 @@ Música
     * [iGOT7](https://twitter.com/i/topics/1086359983082549248)
     * [Jackson (GOT7)](https://twitter.com/i/topics/923628371136847872)
     * [JB (GOT7)](https://twitter.com/i/topics/894972039735398400)
+    * [Jinyoung (GOT7)](https://twitter.com/i/topics/892016410284535812)
     * [Mark (GOT7)](https://twitter.com/i/topics/892012685352591360)
     * [Youngjae (GOT7)](https://twitter.com/i/topics/892019201086414853)
     * [Yugyeom (GOT7)](https://twitter.com/i/topics/894973286085386240)
@@ -1100,6 +1142,7 @@ Música
     * [Gilberto Gil](https://twitter.com/i/topics/935976893504880641)
     * [Liniker](https://twitter.com/i/topics/733774203854295040)
     * [Maria Bethânia](https://twitter.com/i/topics/1199055647796412416)
+    * [Marisa Monte](https://twitter.com/i/topics/1403355190078496768)
     * [Seu Jorge](https://twitter.com/i/topics/1070731911314604032)
   * Pagode
     * [Pagode](https://twitter.com/i/topics/888152475064123392)
@@ -1190,6 +1233,7 @@ Música
   * Katy Perry
     * [Katy Perry](https://twitter.com/i/topics/806223011049185280)
     * [KatyCats](https://twitter.com/i/topics/1331939263865188352)
+  * [Kylie Minogue](https://twitter.com/i/topics/1216799371838152704)
   * Lady Gaga
     * [Lady Gaga](https://twitter.com/i/topics/806227321669591040)
     * [Little Monsters](https://twitter.com/i/topics/1280546942808846336)
@@ -1207,6 +1251,7 @@ Música
   * [Madison Beer](https://twitter.com/i/topics/1171418278104719365)
   * [Madonna](https://twitter.com/i/topics/828569893595262976)
   * [Mariah Carey](https://twitter.com/i/topics/807282549479251969)
+  * [Maroon 5](https://twitter.com/i/topics/806592365112627201)
   * [Miley Cyrus](https://twitter.com/i/topics/806567740949438464)
   * [Mélanie Thomas](https://twitter.com/i/topics/1367097984245133317)
   * [Natti Natasha](https://twitter.com/i/topics/1003308559939956737)
@@ -1260,7 +1305,9 @@ Música
   * [Rock](https://twitter.com/i/topics/806571747730341888)
   * Hard rock
     * [Scorpions](https://twitter.com/i/topics/1174318441177567237)
-  * [Heavy metal](https://twitter.com/i/topics/849684649840214020)
+  * Heavy metal
+    * [Heavy metal](https://twitter.com/i/topics/849684649840214020)
+    * [Metallica](https://twitter.com/i/topics/808371711657656320)
   * Indie rock
     * [Indie rock](https://twitter.com/i/topics/849684394923016192)
     * [YUNGBLUD](https://twitter.com/i/topics/1399379569849749513)

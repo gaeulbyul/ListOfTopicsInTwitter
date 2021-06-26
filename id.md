@@ -227,9 +227,9 @@ Musik
     * [RM](https://twitter.com/i/topics/895369476488609792)
     * [SUGA](https://twitter.com/i/topics/895369555937157120)
     * [V (BTS)](https://twitter.com/i/topics/895369816558534656)
-  * [Engene](https://twitter.com/i/topics/1384873289177174020)
   * ENHYPEN
     * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
+    * [Engene](https://twitter.com/i/topics/1384873289177174020)
     * [Sunghoon](https://twitter.com/i/topics/1384855651566845956)
   * EXO
     * [EXO](https://twitter.com/i/topics/889972468953128960)

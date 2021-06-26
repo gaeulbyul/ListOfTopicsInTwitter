@@ -313,6 +313,11 @@ Only on Twitter
 스포츠
 ==========
 
+* e스포츠
+  * e스포츠
+    * [Team One](https://twitter.com/i/topics/927940232573468675)
+  * e스포츠 리그
+    * [LoL 챔피언스 코리아](https://twitter.com/i/topics/1219800632996982784)
 * 스포츠인
   * [김연아](https://twitter.com/i/topics/907688166907191297)
 * 축구

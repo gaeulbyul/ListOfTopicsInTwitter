@@ -302,7 +302,8 @@
   * [هيفاء وهبي](https://twitter.com/i/topics/1087706059353948161)
   * [يارا](https://twitter.com/i/topics/1092460963284971520)
 * باك ستيج
-  * [سبوتيفاي](https://twitter.com/i/topics/10040276669)
+  * خدمة بث الموسيقى
+    * [سبوتيفاي](https://twitter.com/i/topics/10040276669)
 * بوب كوري
   * [بوب كوري](https://twitter.com/i/topics/888105153038958593)
   * [آيكون](https://twitter.com/i/topics/894620779194621952)
