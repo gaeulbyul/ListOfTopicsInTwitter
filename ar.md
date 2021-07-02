@@ -82,11 +82,15 @@
 ==========
 
 * [الترفيه](https://twitter.com/i/topics/839544274442051584)
+* Entertainment industry
+  * [نتفليكس](https://twitter.com/i/topics/10026367762)
 * أخبار ترفيهية
   * [أخبار ترفيهية](https://twitter.com/i/topics/840160477514612736)
   * [اخبار الافلام](https://twitter.com/i/topics/1114213516271964160)
 * الافلام والتلفزيون
   * [الافلام والتلفزيون](https://twitter.com/i/topics/1276514328007467008)
+  * TV streaming services
+    * [نتفليكس](https://twitter.com/i/topics/10026367762)
   * أحداث السينما والتلفزيون
     * [الأوسكار](https://twitter.com/i/topics/1222619725877796864)
   * [اخبار الافلام](https://twitter.com/i/topics/1114213516271964160)
@@ -171,6 +175,8 @@
   * [شاهد](https://twitter.com/i/topics/1379767477660311554)
   * [نتفليكس](https://twitter.com/i/topics/10026367762)
   * [هواوي](https://twitter.com/i/topics/10029202046)
+  * [وسائل التواصل الاجتماعي](https://twitter.com/i/topics/1196446161223028736)
+  * [يوتيوب](https://twitter.com/i/topics/10029382357)
 
 السفر
 ==========

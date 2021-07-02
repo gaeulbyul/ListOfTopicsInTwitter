@@ -106,6 +106,8 @@ Hiburan
       * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
     * TV drama
       * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
+  * TV streaming services
+    * [Netflix](https://twitter.com/i/topics/10026367762)
 * Franchises populer
   * [Franchises populer](https://twitter.com/i/topics/1074757527995277313)
   * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
@@ -117,11 +119,18 @@ Hiburan
   * [Marvel Universe](https://twitter.com/i/topics/1002576732971384832)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
 * Industri hiburan
-  * [Disney](https://twitter.com/i/topics/10037284711)
+  * Perusahaan hiburan
+    * [Disney](https://twitter.com/i/topics/10037284711)
+  * TV streaming services
+    * [Netflix](https://twitter.com/i/topics/10026367762)
 * Komedi
   * [Komedi](https://twitter.com/i/topics/847522909018914820)
   * [Stand up komedian](https://twitter.com/i/topics/1103358583696048128)
-* [Kreator digital](https://twitter.com/i/topics/839543456678596608)
+* Kreator digital
+  * [Kreator digital](https://twitter.com/i/topics/839543456678596608)
+  * [Instagram influencers](https://twitter.com/i/topics/1293666530111008769)
+  * [Virtual YouTuber](https://twitter.com/i/topics/1247288073542463488)
+  * [Youtuber](https://twitter.com/i/topics/1293615037932646400)
 * [Podcast & radio](https://twitter.com/i/topics/1074758954444513282)
 * Selebriti
   * [Selebriti](https://twitter.com/i/topics/1095352268046495745)
@@ -549,4 +558,6 @@ Teknologi
 * [Cryptocurrency](https://twitter.com/i/topics/913142676819648512)
 * Industri Teknologi
   * [Industri Teknologi](https://twitter.com/i/topics/1196446727181500416)
+  * Media sosial
+    * [Twitter](https://twitter.com/i/topics/10045225402)
   * [Netflix](https://twitter.com/i/topics/10026367762)
