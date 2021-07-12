@@ -377,6 +377,7 @@ Entretenimento
   * Serviços de streaming de TV
     * [Serviços de streaming de TV](https://twitter.com/i/topics/1397573214239289349)
     * [Amazon Prime Video](https://twitter.com/i/topics/10045512584)
+    * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [Globoplay](https://twitter.com/i/topics/1407400842030850057)
     * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
     * [Netflix](https://twitter.com/i/topics/10026367762)
@@ -530,6 +531,7 @@ Entretenimento
   * Serviços de streaming de TV
     * [Serviços de streaming de TV](https://twitter.com/i/topics/1397573214239289349)
     * [Amazon Prime Video](https://twitter.com/i/topics/10045512584)
+    * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [Globoplay](https://twitter.com/i/topics/1407400842030850057)
     * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
     * [Netflix](https://twitter.com/i/topics/10026367762)
@@ -612,13 +614,18 @@ Esportes
     * [Olimpíadas](https://twitter.com/i/topics/1237760060828213249)
     * [Atletismo Olímpico](https://twitter.com/i/topics/1390302799515185159)
     * [Basquete Olímpico](https://twitter.com/i/topics/1390331651188682753)
+    * [Boxe Olímpico](https://twitter.com/i/topics/1390392525299490817)
     * [Futebol Olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Ginástica Olímpica](https://twitter.com/i/topics/1390298740691329027)
     * [Hipismo Olímpico](https://twitter.com/i/topics/1392945083654180864)
     * [Judô Olímpico](https://twitter.com/i/topics/1392945588853886977)
     * [Karatê Olímpico](https://twitter.com/i/topics/1392945665068572673)
     * [Natação Olímpica](https://twitter.com/i/topics/1392946342394167301)
+    * [Seleção olímpica da Espanha](https://twitter.com/i/topics/1407053491894308870)
+    * [Seleção olímpica do Brasil](https://twitter.com/i/topics/1407042278997184514)
+    * [Seleção olímpica do México](https://twitter.com/i/topics/1407047852048621569)
     * [Tiro com Arco Olímpico](https://twitter.com/i/topics/1390293773754638338)
+    * [Tênis olímpico](https://twitter.com/i/topics/1390697594955833350)
     * [Voleibol Olímpico](https://twitter.com/i/topics/1390337859480014848)
 * Figuras no esporte
   * Jornalistas esportivos
@@ -841,6 +848,7 @@ Gaming
     * [Team Liquid](https://twitter.com/i/topics/857262971797385216)
     * [Vorax Liberty](https://twitter.com/i/topics/1346160095994867712)
 * Eventos de games
+  * [Eventos de games](https://twitter.com/i/topics/1291094662682271744)
   * [E3](https://twitter.com/i/topics/1394757814229168128)
 * Indústria de gaming
   * [Indústria de gaming](https://twitter.com/i/topics/1070028312276127746)
@@ -1483,6 +1491,7 @@ Viagem
 ==========
 
 * [Viagem](https://twitter.com/i/topics/839159814991167489)
+* [Museus](https://twitter.com/i/topics/1095348424499593216)
 * Transporte
   * [Marcas de automóveis](https://twitter.com/i/topics/1196845866138533888)
 * [Viagem aérea](https://twitter.com/i/topics/849076200261603328)

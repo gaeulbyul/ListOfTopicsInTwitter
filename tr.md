@@ -35,9 +35,9 @@ Eğlence
 * [Dijital içerik üreticileri](https://twitter.com/i/topics/839543456678596608)
 * [Eğlence haberleri](https://twitter.com/i/topics/840160477514612736)
 * Eğlence sektörü
-  * [Televizyon kanalları](https://twitter.com/i/topics/1397572953194196998)
-  * TV streaming services
+  * Dijital yayın platformları
     * [Netflix](https://twitter.com/i/topics/10026367762)
+  * [Televizyon kanalları](https://twitter.com/i/topics/1397572953194196998)
 * Eğlenceli etkinlikler
   * Müzik etkinlikleri
     * [Eurovision](https://twitter.com/i/topics/1389585940369199109)
@@ -55,6 +55,8 @@ Eğlence
     * [Loki](https://twitter.com/i/topics/1380084686442045442)
 * Sinema ve televizyon
   * [Sinema ve televizyon](https://twitter.com/i/topics/1276514328007467008)
+  * Dijital yayın platformları
+    * [Netflix](https://twitter.com/i/topics/10026367762)
   * Kamera arkası
     * [IMDb](https://twitter.com/i/topics/1286398220520665089)
   * Sinema
@@ -125,8 +127,6 @@ Eğlence
       * [Çukur](https://twitter.com/i/topics/1381191630389006340)
     * Yarışma programları
       * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
-  * TV streaming services
-    * [Netflix](https://twitter.com/i/topics/10026367762)
 * Ünlüler
   * [Ünlüler](https://twitter.com/i/topics/1095352268046495745)
   * Aktörler ve aktrisler
@@ -395,8 +395,11 @@ Spor
     * [Hırvatistan](https://twitter.com/i/topics/731226259695357952)
     * İngiltere
       * [İngiltere](https://twitter.com/i/topics/731226163788402688)
+      * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
       * [Harry Kane](https://twitter.com/i/topics/733773774323994624)
+      * [Jordan Pickford](https://twitter.com/i/topics/733774566342823936)
       * [Kalvin Phillips](https://twitter.com/i/topics/733773766258393088)
+      * [Kieran Trippier](https://twitter.com/i/topics/733774381508222976)
       * [Mason Mount](https://twitter.com/i/topics/889797387132166144)
       * [Phil Foden](https://twitter.com/i/topics/806350960108785664)
       * [Raheem Sterling](https://twitter.com/i/topics/733774473199915008)
@@ -477,6 +480,7 @@ Spor
     * [La Liga](https://twitter.com/i/topics/733756520714752000)
     * Atletico Madrid
       * [Atletico Madrid](https://twitter.com/i/topics/731226217395818496)
+      * [Kieran Trippier](https://twitter.com/i/topics/733774381508222976)
       * [Luis Suarez](https://twitter.com/i/topics/733774441520340992)
     * Barcelona FC
       * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
@@ -509,6 +513,8 @@ Spor
       * [Jorginho](https://twitter.com/i/topics/733774154906755072)
       * [Mason Mount](https://twitter.com/i/topics/889797387132166144)
       * [Thomas Tuchel](https://twitter.com/i/topics/733774336121700353)
+    * Everton
+      * [Jordan Pickford](https://twitter.com/i/topics/733774566342823936)
     * Leeds United
       * [Kalvin Phillips](https://twitter.com/i/topics/733773766258393088)
     * Leicester City
@@ -533,6 +539,8 @@ Spor
       * [Harry Kane](https://twitter.com/i/topics/733773774323994624)
     * West Bromwich Albion
       * [Okay Yokuşlu](https://twitter.com/i/topics/733773900413206528)
+    * West Ham United
+      * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
   * Primeira Liga
     * [Valentin Rosier](https://twitter.com/i/topics/748794240562372608)
   * Serie A
@@ -651,8 +659,11 @@ Spor
     * [Hırvatistan](https://twitter.com/i/topics/731226259695357952)
     * İngiltere
       * [İngiltere](https://twitter.com/i/topics/731226163788402688)
+      * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
       * [Harry Kane](https://twitter.com/i/topics/733773774323994624)
+      * [Jordan Pickford](https://twitter.com/i/topics/733774566342823936)
       * [Kalvin Phillips](https://twitter.com/i/topics/733773766258393088)
+      * [Kieran Trippier](https://twitter.com/i/topics/733774381508222976)
       * [Mason Mount](https://twitter.com/i/topics/889797387132166144)
       * [Phil Foden](https://twitter.com/i/topics/806350960108785664)
       * [Raheem Sterling](https://twitter.com/i/topics/733774473199915008)
@@ -757,6 +768,7 @@ Spor
     * [UEFA Şampiyonlar Ligi](https://twitter.com/i/topics/733756536875454464)
     * Atletico Madrid
       * [Atletico Madrid](https://twitter.com/i/topics/731226217395818496)
+      * [Kieran Trippier](https://twitter.com/i/topics/733774381508222976)
       * [Luis Suarez](https://twitter.com/i/topics/733774441520340992)
     * Barcelona FC
       * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
@@ -828,9 +840,11 @@ Spor
       * [Serap Özçelik Arapoğlu](https://twitter.com/i/topics/1401294396801261568)
       * [Taha Akgül](https://twitter.com/i/topics/1397165539328360458)
     * [Olimpik Badminton](https://twitter.com/i/topics/1390314931963133955)
+    * [Olimpik Basketbol](https://twitter.com/i/topics/1390331651188682753)
     * [Olimpik Boks](https://twitter.com/i/topics/1390392525299490817)
     * [Olimpik Cimnastik](https://twitter.com/i/topics/1390298740691329027)
     * [Olimpik Eskrim](https://twitter.com/i/topics/1390693400827949059)
+    * [Olimpik Güreş](https://twitter.com/i/topics/1392946816426020864)
     * [Olimpik Halter](https://twitter.com/i/topics/1392946744896360450)
     * [Olimpik Judo](https://twitter.com/i/topics/1392945588853886977)
     * [Olimpik Karate](https://twitter.com/i/topics/1392945665068572673)
@@ -867,8 +881,11 @@ Spor
     * [Hırvatistan](https://twitter.com/i/topics/731226259695357952)
     * İngiltere
       * [İngiltere](https://twitter.com/i/topics/731226163788402688)
+      * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
       * [Harry Kane](https://twitter.com/i/topics/733773774323994624)
+      * [Jordan Pickford](https://twitter.com/i/topics/733774566342823936)
       * [Kalvin Phillips](https://twitter.com/i/topics/733773766258393088)
+      * [Kieran Trippier](https://twitter.com/i/topics/733774381508222976)
       * [Mason Mount](https://twitter.com/i/topics/889797387132166144)
       * [Phil Foden](https://twitter.com/i/topics/806350960108785664)
       * [Raheem Sterling](https://twitter.com/i/topics/733774473199915008)

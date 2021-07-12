@@ -88,6 +88,8 @@ Hiburan
     * [Film](https://twitter.com/i/topics/1072936713134071808)
     * Film sci & fantasi
       * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
+  * Layanan streaming TV
+    * [Netflix](https://twitter.com/i/topics/10026367762)
   * Televisi
     * [Televisi](https://twitter.com/i/topics/1072937043393560576)
     * Anime
@@ -106,8 +108,6 @@ Hiburan
       * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
     * TV drama
       * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
-  * TV streaming services
-    * [Netflix](https://twitter.com/i/topics/10026367762)
 * Franchises populer
   * [Franchises populer](https://twitter.com/i/topics/1074757527995277313)
   * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
@@ -119,10 +119,10 @@ Hiburan
   * [Marvel Universe](https://twitter.com/i/topics/1002576732971384832)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
 * Industri hiburan
+  * Layanan streaming TV
+    * [Netflix](https://twitter.com/i/topics/10026367762)
   * Perusahaan hiburan
     * [Disney](https://twitter.com/i/topics/10037284711)
-  * TV streaming services
-    * [Netflix](https://twitter.com/i/topics/10026367762)
 * Komedi
   * [Komedi](https://twitter.com/i/topics/847522909018914820)
   * [Stand up komedian](https://twitter.com/i/topics/1103358583696048128)

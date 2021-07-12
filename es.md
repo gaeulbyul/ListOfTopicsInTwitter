@@ -249,15 +249,20 @@ Deportes
     * [Balonmano olímpico](https://twitter.com/i/topics/1390689133094342662)
     * [Buceo olímpico](https://twitter.com/i/topics/1392138213544796164)
     * [Ciclismo olimpico](https://twitter.com/i/topics/1392944904611930114)
+    * [Equipo olímpico de Argentina](https://twitter.com/i/topics/1407038572574609412)
+    * [Equipo olímpico de Colombia](https://twitter.com/i/topics/1407045007459053569)
+    * [Equipo olímpico de España](https://twitter.com/i/topics/1407053491894308870)
     * [Fútbol olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Gimnasia olímpica](https://twitter.com/i/topics/1390298740691329027)
     * [Judo olímpico](https://twitter.com/i/topics/1392945588853886977)
     * [Karate olímpico](https://twitter.com/i/topics/1392945665068572673)
     * [Natación artística olímpica](https://twitter.com/i/topics/1392944123217276929)
+    * [Polo acuático olímpico](https://twitter.com/i/topics/1392946593809133568)
     * [Rugby olímpico](https://twitter.com/i/topics/1392945858140770308)
     * [Taekwondo olímpico](https://twitter.com/i/topics/1392946428415074304)
     * [Tiro olimpico](https://twitter.com/i/topics/1392946020170944517)
     * [Triatlón olimpico](https://twitter.com/i/topics/1392946515652407296)
+    * [Voleibol de playa olímpico](https://twitter.com/i/topics/1390387866321055744)
   * [Tour de Francia](https://twitter.com/i/topics/1304499179339747328)
   * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
 * Figuras del deporte
@@ -880,6 +885,7 @@ Entretenimiento
       * [Nick Jonas](https://twitter.com/i/topics/807290712509120516)
     * Hadids
       * [Hadids](https://twitter.com/i/topics/1303719199928233989)
+      * [Bella Hadid](https://twitter.com/i/topics/846376381428654080)
       * [Dua Lipa](https://twitter.com/i/topics/870297323053527040)
       * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
       * [Zayn Malik](https://twitter.com/i/topics/806575584386039808)
@@ -964,7 +970,9 @@ Entretenimiento
     * [ESPN](https://twitter.com/i/topics/10041116731)
   * Servicios de streaming de TV
     * [Servicios de streaming de TV](https://twitter.com/i/topics/1397573214239289349)
+    * [Amazon Prime Video](https://twitter.com/i/topics/10045512584)
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
+    * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
     * [Netflix](https://twitter.com/i/topics/10026367762)
 * Noticias de entretenimiento
   * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
@@ -1013,7 +1021,9 @@ Entretenimiento
     * [Películas festivas](https://twitter.com/i/topics/1014165623587258368)
   * Servicios de streaming de TV
     * [Servicios de streaming de TV](https://twitter.com/i/topics/1397573214239289349)
+    * [Amazon Prime Video](https://twitter.com/i/topics/10045512584)
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
+    * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
     * [Netflix](https://twitter.com/i/topics/10026367762)
   * Televisión
     * [Televisión](https://twitter.com/i/topics/1072937043393560576)
@@ -1249,6 +1259,7 @@ Moda & belleza
   * [Moda](https://twitter.com/i/topics/839543390668673024)
   * [Moda de diseñador](https://twitter.com/i/topics/1255950086699315200)
   * Modelos de moda
+    * [Bella Hadid](https://twitter.com/i/topics/846376381428654080)
     * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
     * [Hailey Bieber](https://twitter.com/i/topics/846390663105003520)
   * [Revistas de moda](https://twitter.com/i/topics/1255877953726017536)
@@ -1595,6 +1606,7 @@ Música
   * Demi Lovato
     * [Demi Lovato](https://twitter.com/i/topics/806558143396253696)
     * [Lovatics](https://twitter.com/i/topics/1272984821132713984)
+  * [Doja Cat](https://twitter.com/i/topics/1222908639268098048)
   * [Dua Lipa](https://twitter.com/i/topics/870297323053527040)
   * [Dulce Maria](https://twitter.com/i/topics/819529219700965379)
   * [Ed Sheeran](https://twitter.com/i/topics/806574853163618304)

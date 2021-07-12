@@ -194,6 +194,10 @@ Arts & culture
 * Comics
   * [Comics](https://twitter.com/i/topics/847521144173350912)
   * [Webcomics](https://twitter.com/i/topics/1308511162783334400)
+* Cultural history
+  * [The 70s](https://twitter.com/i/topics/1369617520496308224)
+  * [The 80s](https://twitter.com/i/topics/1369635434196725763)
+  * [The 90s](https://twitter.com/i/topics/1369639427002175488)
 * Dance
   * [Dance](https://twitter.com/i/topics/847870201580232704)
   * [Ballet](https://twitter.com/i/topics/1075097515064623104)
@@ -264,7 +268,6 @@ Business & finance
 ==========
 
 * [Business & finance](https://twitter.com/i/topics/781974596148793345)
-* [Amazon](https://twitter.com/i/topics/10026792024)
 * [Business media](https://twitter.com/i/topics/1273235874533085189)
 * Business news
   * [Business news](https://twitter.com/i/topics/840161214890106880)
@@ -292,6 +295,8 @@ Business & finance
     * [SEO](https://twitter.com/i/topics/849075738321932288)
   * [Product management](https://twitter.com/i/topics/1272638612547362816)
 * [Business research](https://twitter.com/i/topics/1276239544963088384)
+* Businesses
+  * [Amazon](https://twitter.com/i/topics/10026792024)
 * Cryptocurrencies
   * [Cryptocurrencies](https://twitter.com/i/topics/913142676819648512)
   * [Ada cryptocurrency](https://twitter.com/i/topics/1007356280296488961)
@@ -1280,6 +1285,7 @@ Entertainment
   * [Coyote Peterson](https://twitter.com/i/topics/1156987628991868929)
   * [Crash Course](https://twitter.com/i/topics/1159143771734306816)
   * [Everyday Astronaut](https://twitter.com/i/topics/1158753053660471296)
+  * [FaZe Rug](https://twitter.com/i/topics/1138890139063611392)
   * Gaming content creators
     * [Gaming content creators](https://twitter.com/i/topics/1287879055191052288)
     * [Alanah Pearce](https://twitter.com/i/topics/1329172843691610112)
@@ -1441,6 +1447,7 @@ Entertainment
       * [Coachella](https://twitter.com/i/topics/1237759782708101120)
       * [Lollapalooza](https://twitter.com/i/topics/1300845972356964355)
     * [Record Store Day](https://twitter.com/i/topics/1313848563537833987)
+  * [San Diego Comic-Con](https://twitter.com/i/topics/1298181941208875009)
 * Entertainment franchises
   * [Entertainment franchises](https://twitter.com/i/topics/1074757527995277313)
   * [Ace Attorney](https://twitter.com/i/topics/1275559202270769152)
@@ -1468,6 +1475,7 @@ Entertainment
   * [Godzilla](https://twitter.com/i/topics/1295709217467191297)
   * [Golden Kamuy](https://twitter.com/i/topics/1151840382751141889)
   * [Grandmaster of Demonic Cultivation](https://twitter.com/i/topics/1369791419427164162)
+  * [Guardians of the Galaxy](https://twitter.com/i/topics/1404157516758458369)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * [Hetalia](https://twitter.com/i/topics/1319391064311033856)
@@ -1543,6 +1551,8 @@ Entertainment
     * [Showtime](https://twitter.com/i/topics/10037586413)
     * [Starz](https://twitter.com/i/topics/10037586465)
     * [The CW](https://twitter.com/i/topics/1405802086973927428)
+    * [TNT](https://twitter.com/i/topics/10044592006)
+    * [Travel Channel](https://twitter.com/i/topics/10045212593)
     * [USA Network](https://twitter.com/i/topics/10044591959)
   * TV streaming services
     * [TV streaming services](https://twitter.com/i/topics/1397573214239289349)
@@ -2517,6 +2527,7 @@ Food
     * [European cuisine](https://twitter.com/i/topics/1359137684623556608)
     * [French cuisine](https://twitter.com/i/topics/860139936065888256)
   * Mexican cuisine
+    * [Burritos](https://twitter.com/i/topics/825062173839798273)
     * [Tacos](https://twitter.com/i/topics/825062383580176386)
 * [Dinner](https://twitter.com/i/topics/1006588737344507905)
 * Drinks
@@ -2531,6 +2542,7 @@ Food
   * [Fast food](https://twitter.com/i/topics/847865239886417922)
   * [Burgers](https://twitter.com/i/topics/825052673749577728)
   * [French fries](https://twitter.com/i/topics/825055891908988929)
+  * [Hot dogs](https://twitter.com/i/topics/842071370108293120)
   * [McDonald's](https://twitter.com/i/topics/10026319212)
   * [Sonic Drive-In](https://twitter.com/i/topics/10026428621)
 * Food industry
@@ -2787,6 +2799,7 @@ Gaming
     * [Yassuo](https://twitter.com/i/topics/1220867620347367425)
 * [Gaming news](https://twitter.com/i/topics/1034501001544257536)
 * Gaming retail
+  * [Gaming retail](https://twitter.com/i/topics/1392975566253424640)
   * [GameStop](https://twitter.com/i/topics/1354885514906624003)
   * [Video game deals](https://twitter.com/i/topics/1392981579773792257)
 * [Mobile gaming](https://twitter.com/i/topics/847527946864607232)
@@ -2815,6 +2828,7 @@ Gaming
 * Video games
   * [Video games](https://twitter.com/i/topics/1070028159964262400)
   * [Ace Attorney](https://twitter.com/i/topics/1275559202270769152)
+  * [Advance Wars](https://twitter.com/i/topics/1404866513543196672)
   * [Among Us](https://twitter.com/i/topics/1308398176978698241)
   * [Angry Birds](https://twitter.com/i/topics/10045599560)
   * [Animal Crossing](https://twitter.com/i/topics/992498112978534400)
@@ -2844,6 +2858,7 @@ Gaming
   * [Counter-Strike](https://twitter.com/i/topics/10045347491)
   * [Crash Bandicoot](https://twitter.com/i/topics/1205258667441803264)
   * [Cyberpunk 2077](https://twitter.com/i/topics/1005928152298737664)
+  * [Danganronpa](https://twitter.com/i/topics/1404838450520465412)
   * [Dark Souls](https://twitter.com/i/topics/10044774920)
   * [Darksiders](https://twitter.com/i/topics/1017071538657419264)
   * [Days Gone](https://twitter.com/i/topics/10044917019)
@@ -3076,6 +3091,7 @@ Music
     * [Mnet](https://twitter.com/i/topics/1056969395472293888)
     * Music streaming service
       * [Music streaming service](https://twitter.com/i/topics/1405172481590140933)
+      * [Amazon Music](https://twitter.com/i/topics/10051910929)
       * [Apple Music](https://twitter.com/i/topics/10040276682)
       * [Spotify](https://twitter.com/i/topics/10040276669)
       * [YouTube Music](https://twitter.com/i/topics/10046033376)
@@ -4487,10 +4503,12 @@ Outdoors
   * [Animals](https://twitter.com/i/topics/839543325212319744)
   * [Cats](https://twitter.com/i/topics/852263859209478144)
   * [Dogs](https://twitter.com/i/topics/853980498816679937)
+  * [Gorillas](https://twitter.com/i/topics/1398310165821104134)
   * [Horses](https://twitter.com/i/topics/852669187348549632)
   * Marine life
     * [Marine life](https://twitter.com/i/topics/1129086092202860544)
     * [Sharks](https://twitter.com/i/topics/1243205598633590784)
+  * [Orangutans](https://twitter.com/i/topics/1332259591971749888)
   * [Pets](https://twitter.com/i/topics/852262932607926273)
   * [Rabbits](https://twitter.com/i/topics/1326539256244838401)
   * Reptiles
@@ -6025,6 +6043,7 @@ Sports
     * [Reading FC Women](https://twitter.com/i/topics/1299010600819757061)
     * [Tottenham Hotspur Women](https://twitter.com/i/topics/1299013064067432453)
     * [West Ham United Women](https://twitter.com/i/topics/1299026725255303168)
+  * [FIFA World Cup](https://twitter.com/i/topics/1304474187961044993)
   * Indian Super League
     * [Indian Super League](https://twitter.com/i/topics/1098967470033911809)
     * [ATK Mohun Bagan](https://twitter.com/i/topics/1331955127767289857)
@@ -7162,6 +7181,8 @@ Sports
   * [Boston Marathon](https://twitter.com/i/topics/1397993285361147904)
   * [CONCACAF Gold Cup](https://twitter.com/i/topics/733756524527411201)
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
+  * [FIFA Women's World Cup](https://twitter.com/i/topics/1304480511344009217)
+  * [FIFA World Cup](https://twitter.com/i/topics/1304474187961044993)
   * [French Open](https://twitter.com/i/topics/1304494995273969665)
   * [Invictus Games](https://twitter.com/i/topics/1398016997640654849)
   * [March Madness](https://twitter.com/i/topics/1237537595736772608)
@@ -7173,6 +7194,7 @@ Sports
   * [NHL Draft](https://twitter.com/i/topics/1397974024056020992)
   * Olympics
     * [Olympics](https://twitter.com/i/topics/1237760060828213249)
+    * [Canada Olympic Team](https://twitter.com/i/topics/1400530139130130433)
     * [Olympic 3x3 Basketball](https://twitter.com/i/topics/1390003427585892355)
     * Olympic athletes
       * [Canelo Alvarez](https://twitter.com/i/topics/884468523396767745)
@@ -7187,6 +7209,7 @@ Sports
     * [Olympic Cycling](https://twitter.com/i/topics/1392944904611930114)
     * [Olympic Diving](https://twitter.com/i/topics/1392138213544796164)
     * [Olympic Equestrian](https://twitter.com/i/topics/1392945083654180864)
+    * [Olympic Golf](https://twitter.com/i/topics/1390398789777690625)
     * [Olympic Gymnastics](https://twitter.com/i/topics/1390298740691329027)
     * [Olympic Karate](https://twitter.com/i/topics/1392945665068572673)
     * [Olympic Pentathlon](https://twitter.com/i/topics/1391867835551342592)
@@ -7207,6 +7230,8 @@ Sports
     * [Olympic Water Polo](https://twitter.com/i/topics/1392946593809133568)
     * [Olympic Weightlifting](https://twitter.com/i/topics/1392946744896360450)
     * [Olympic Wrestling](https://twitter.com/i/topics/1392946816426020864)
+    * [Team GB](https://twitter.com/i/topics/1405128651218198531)
+    * [USA Olympic Team](https://twitter.com/i/topics/765574746096275459)
   * [Open Championship](https://twitter.com/i/topics/1375096298437627907)
   * [Paralympics](https://twitter.com/i/topics/1300458642202742784)
   * [Ryder Cup](https://twitter.com/i/topics/1397986562621599744)
@@ -7741,9 +7766,33 @@ Travel
   * [Hiking](https://twitter.com/i/topics/1047106825076670464)
   * [Road trips](https://twitter.com/i/topics/1286280675755081728)
   * [Rock climbing](https://twitter.com/i/topics/847901134601633792)
-* [Air travel](https://twitter.com/i/topics/849076200261603328)
+* Air travel
+  * [Air travel](https://twitter.com/i/topics/849076200261603328)
+  * [Aer Lingus](https://twitter.com/i/topics/865158033101291520)
+  * [Air Canada](https://twitter.com/i/topics/937691041880092677)
+  * [AirFrance](https://twitter.com/i/topics/865153694274174977)
+  * [American Airlines](https://twitter.com/i/topics/10026787832)
+  * [British Airways](https://twitter.com/i/topics/10043811468)
+  * [Delta Airlines](https://twitter.com/i/topics/10026292620)
+  * [EasyJet](https://twitter.com/i/topics/865148593673355264)
+  * [Emirates Airline](https://twitter.com/i/topics/10042996485)
+  * [Etihad Airways](https://twitter.com/i/topics/865155861311664129)
+  * [Icelandair](https://twitter.com/i/topics/865157398758957056)
+  * [JetBlue](https://twitter.com/i/topics/10027558576)
+  * [KLM](https://twitter.com/i/topics/10043811482)
+  * [Lufthansa](https://twitter.com/i/topics/10043811491)
+  * [Qantas Airways](https://twitter.com/i/topics/10042980093)
+  * [Qatar Airways](https://twitter.com/i/topics/1103690297861537794)
+  * [Singapore Airlines](https://twitter.com/i/topics/865159399978934272)
+  * [Southwest Airlines](https://twitter.com/i/topics/10026467901)
+  * [Turkish Airlines](https://twitter.com/i/topics/865154676961853441)
+  * [United Airlines](https://twitter.com/i/topics/10027412598)
 * [Business travel](https://twitter.com/i/topics/849076412346580992)
-* [Cruise travel](https://twitter.com/i/topics/849076613077540864)
+* Cruise travel
+  * [Cruise travel](https://twitter.com/i/topics/849076613077540864)
+  * [Carnival Cruise Line](https://twitter.com/i/topics/10026727591)
+  * [Princess Cruises](https://twitter.com/i/topics/10028654909)
+  * [Royal Caribbean](https://twitter.com/i/topics/10026470802)
 * Destinations
   * [Destinations](https://twitter.com/i/topics/857603051657482241)
   * [Africa travel](https://twitter.com/i/topics/1194366763896430592)
