@@ -56,6 +56,8 @@ Bisnis & keuangan
 ==========
 
 * [Bisnis & keuangan](https://twitter.com/i/topics/781974596148793345)
+* Business professions
+  * [Marketing](https://twitter.com/i/topics/857879016971186177)
 * [Cryptocurrency](https://twitter.com/i/topics/913142676819648512)
 
 Fitnes
@@ -89,6 +91,8 @@ Hiburan
     * Film sci & fantasi
       * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * Layanan streaming TV
+    * [Layanan streaming TV](https://twitter.com/i/topics/1397573214239289349)
+    * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [Netflix](https://twitter.com/i/topics/10026367762)
   * Televisi
     * [Televisi](https://twitter.com/i/topics/1072937043393560576)
@@ -103,6 +107,8 @@ Hiburan
     * Drama seri Korea
       * [Drama seri Korea](https://twitter.com/i/topics/1346749071000670209)
       * [Vincenzo](https://twitter.com/i/topics/1365669572825653253)
+    * Sci-fi & fantasy TV
+      * [Loki](https://twitter.com/i/topics/1380084686442045442)
     * TV di Indonesia
       * [TV di Indonesia](https://twitter.com/i/topics/1332240318406619136)
       * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
@@ -116,10 +122,14 @@ Hiburan
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * [Hetalia](https://twitter.com/i/topics/1319391064311033856)
   * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
-  * [Marvel Universe](https://twitter.com/i/topics/1002576732971384832)
+  * Marvel Universe
+    * [Marvel Universe](https://twitter.com/i/topics/1002576732971384832)
+    * [Loki](https://twitter.com/i/topics/1380084686442045442)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
 * Industri hiburan
   * Layanan streaming TV
+    * [Layanan streaming TV](https://twitter.com/i/topics/1397573214239289349)
+    * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [Netflix](https://twitter.com/i/topics/10026367762)
   * Perusahaan hiburan
     * [Disney](https://twitter.com/i/topics/10037284711)
@@ -135,12 +145,15 @@ Hiburan
 * Selebriti
   * [Selebriti](https://twitter.com/i/topics/1095352268046495745)
   * Aktor
-    * [Kim Seonho](https://twitter.com/i/topics/1394591748567965700)
-    * [Kim Sohyun](https://twitter.com/i/topics/1062819973347729408)
-    * [Kim Yoojung](https://twitter.com/i/topics/1062826720984621056)
-    * [Lee Je-hoon](https://twitter.com/i/topics/1394598354559008770)
-    * [Song Joongki](https://twitter.com/i/topics/925709166341079041)
-    * [Song Kang](https://twitter.com/i/topics/1365659684250685442)
+    * [Aktor](https://twitter.com/i/topics/1303715075421646849)
+    * Aktor Korea
+      * [Aktor Korea](https://twitter.com/i/topics/1303714639205642241)
+      * [Kim Seonho](https://twitter.com/i/topics/1394591748567965700)
+      * [Kim Sohyun](https://twitter.com/i/topics/1062819973347729408)
+      * [Kim Yoojung](https://twitter.com/i/topics/1062826720984621056)
+      * [Lee Je-hoon](https://twitter.com/i/topics/1394598354559008770)
+      * [Song Joongki](https://twitter.com/i/topics/925709166341079041)
+      * [Song Kang](https://twitter.com/i/topics/1365659684250685442)
   * Bintang musik
     * [Ariana Grande](https://twitter.com/i/topics/806557506851848192)
 
@@ -161,8 +174,10 @@ Karir
   * [Koki](https://twitter.com/i/topics/1091055942249046016)
   * Koki TV
     * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
+* [Marketing](https://twitter.com/i/topics/857879016971186177)
 * Pendidikan
   * [Pendidikan](https://twitter.com/i/topics/847546154439000064)
+  * [Belajar](https://twitter.com/i/topics/1397979707723845641)
   * [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
   * [Kehidupan mahasiswa](https://twitter.com/i/topics/852219717016141824)
   * [Lulusan sekolah](https://twitter.com/i/topics/852247095461371904)
@@ -327,6 +342,8 @@ Musik
     * [Bang Chan](https://twitter.com/i/topics/1138161821947293696)
     * [Han (Stray Kids)](https://twitter.com/i/topics/1138162841515487232)
   * Super Junior
+    * [Super Junior](https://twitter.com/i/topics/890283144368148480)
+    * [Kyuhyun](https://twitter.com/i/topics/890308994685849600)
     * [Yesung](https://twitter.com/i/topics/890285712993525761)
   * SuperM
     * [SuperM](https://twitter.com/i/topics/1167523042529906688)
@@ -352,6 +369,7 @@ Musik
     * [LUCAS (NCT)](https://twitter.com/i/topics/1088473497846800384)
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
     * [WINWIN](https://twitter.com/i/topics/913453906297892864)
+  * [Wonpil](https://twitter.com/i/topics/926124097767010304)
 * Pop
   * [Pop](https://twitter.com/i/topics/810938279801470977)
   * [Agnes Monica](https://twitter.com/i/topics/807320562166992896)
@@ -366,15 +384,29 @@ Olahraga
 
 * [Olahraga](https://twitter.com/i/topics/847900493514891265)
 * Acara olahraga
+  * [Acara olahraga](https://twitter.com/i/topics/1286401121641103360)
   * Kejuaraan Eropa UEFA
     * [Kejuaraan Eropa UEFA](https://twitter.com/i/topics/1384518599562301449)
+    * [Belgia](https://twitter.com/i/topics/731226169207455744)
+    * [Denmark](https://twitter.com/i/topics/731226203034542080)
+    * [Inggris](https://twitter.com/i/topics/731226163788402688)
+    * [Itali](https://twitter.com/i/topics/731226194067103744)
     * Jerman
+      * [Jerman](https://twitter.com/i/topics/731226244096741376)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Perancis
+      * [Perancis](https://twitter.com/i/topics/731226231832633344)
       * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
     * Portugal
+      * [Portugal](https://twitter.com/i/topics/731226180674715648)
       * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
-  * [Olimpiade](https://twitter.com/i/topics/1237760060828213249)
+    * [Republik Ceko](https://twitter.com/i/topics/731226184348880897)
+    * [Spanyol](https://twitter.com/i/topics/731226180259446784)
+    * [Swiss](https://twitter.com/i/topics/731226253282312192)
+    * [Ukraina](https://twitter.com/i/topics/731226241089445888)
+  * Olimpiade
+    * [Olimpiade](https://twitter.com/i/topics/1237760060828213249)
+    * [Olympic Badminton](https://twitter.com/i/topics/1390314931963133955)
   * [Piala Dunia FIFA](https://twitter.com/i/topics/1304474187961044993)
 * [Berita olahraga](https://twitter.com/i/topics/840160112325021696)
 * Bola basket
@@ -390,12 +422,23 @@ Olahraga
     * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
   * Kejuaraan Eropa UEFA
     * [Kejuaraan Eropa UEFA](https://twitter.com/i/topics/1384518599562301449)
+    * [Belgia](https://twitter.com/i/topics/731226169207455744)
+    * [Denmark](https://twitter.com/i/topics/731226203034542080)
+    * [Inggris](https://twitter.com/i/topics/731226163788402688)
+    * [Itali](https://twitter.com/i/topics/731226194067103744)
     * Jerman
+      * [Jerman](https://twitter.com/i/topics/731226244096741376)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Perancis
+      * [Perancis](https://twitter.com/i/topics/731226231832633344)
       * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
     * Portugal
+      * [Portugal](https://twitter.com/i/topics/731226180674715648)
       * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+    * [Republik Ceko](https://twitter.com/i/topics/731226184348880897)
+    * [Spanyol](https://twitter.com/i/topics/731226180259446784)
+    * [Swiss](https://twitter.com/i/topics/731226253282312192)
+    * [Ukraina](https://twitter.com/i/topics/731226241089445888)
   * La Liga
     * [La Liga](https://twitter.com/i/topics/733756520714752000)
     * FC Barcelona
@@ -453,14 +496,26 @@ Olahraga
       * [Juventus](https://twitter.com/i/topics/731226195937779713)
       * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * Tim nasional sepak bola pria
+    * [Tim nasional sepak bola pria](https://twitter.com/i/topics/1100397500890996736)
     * Argentina
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * [Belgia](https://twitter.com/i/topics/731226169207455744)
+    * [Denmark](https://twitter.com/i/topics/731226203034542080)
+    * [Inggris](https://twitter.com/i/topics/731226163788402688)
+    * [Itali](https://twitter.com/i/topics/731226194067103744)
     * Jerman
+      * [Jerman](https://twitter.com/i/topics/731226244096741376)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
     * Perancis
+      * [Perancis](https://twitter.com/i/topics/731226231832633344)
       * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
     * Portugal
+      * [Portugal](https://twitter.com/i/topics/731226180674715648)
       * [Christiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+    * [Republik Ceko](https://twitter.com/i/topics/731226184348880897)
+    * [Spanyol](https://twitter.com/i/topics/731226180259446784)
+    * [Swiss](https://twitter.com/i/topics/731226253282312192)
+    * [Ukraina](https://twitter.com/i/topics/731226241089445888)
   * UEFA Champions League
     * [UEFA Champions League](https://twitter.com/i/topics/733756536875454464)
     * [Atalanta BC](https://twitter.com/i/topics/731226167089332224)
@@ -509,6 +564,7 @@ Rumah & keluarga
 
 * [Rumah & keluarga](https://twitter.com/i/topics/847868745150119936)
 * Di rumah
+  * [Belajar](https://twitter.com/i/topics/1397979707723845641)
   * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
 * Keluarga
   * [Parenting](https://twitter.com/i/topics/847547282010497024)
@@ -559,5 +615,6 @@ Teknologi
 * Industri Teknologi
   * [Industri Teknologi](https://twitter.com/i/topics/1196446727181500416)
   * Media sosial
+    * [Media sosial](https://twitter.com/i/topics/1196446161223028736)
     * [Twitter](https://twitter.com/i/topics/10045225402)
   * [Netflix](https://twitter.com/i/topics/10026367762)

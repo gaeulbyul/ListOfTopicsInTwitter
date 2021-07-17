@@ -709,6 +709,7 @@ Entertainment
       * [Jackie Shroff](https://twitter.com/i/topics/1083108287157919745)
       * [Jacqueline Fernandez](https://twitter.com/i/topics/810929021387051008)
       * [Jasmin bhasin](https://twitter.com/i/topics/1334625995937050626)
+      * [Jayam Ravi](https://twitter.com/i/topics/1395087062286540800)
       * [John Abraham](https://twitter.com/i/topics/1083107519164178432)
       * [Kajal Aggarwal](https://twitter.com/i/topics/1276553414617382912)
       * [Kajol](https://twitter.com/i/topics/1275409137115860992)
@@ -731,6 +732,7 @@ Entertainment
       * [N T Rama Rao Jr](https://twitter.com/i/topics/1276537052192899072)
       * [Nagarjuna Akkineni](https://twitter.com/i/topics/1389956282514219012)
       * [Nandamuri Balakrishna](https://twitter.com/i/topics/1402932459453353987)
+      * [Nani](https://twitter.com/i/topics/1408501647853047810)
       * [Nithin Reddy](https://twitter.com/i/topics/1389954647306113027)
       * [Nivetha Thomas](https://twitter.com/i/topics/1395070329014259714)
       * [Pankaj Tripathi](https://twitter.com/i/topics/1045695265301094401)
@@ -894,6 +896,7 @@ Entertainment
     * [Victoria Justice](https://twitter.com/i/topics/809486738519269376)
   * [Holly Robinson Peete](https://twitter.com/i/topics/1070719614160592896)
   * [Hugh Grant](https://twitter.com/i/topics/946077541864914944)
+  * [Huma Qureshi](https://twitter.com/i/topics/1275093189087555585)
   * [Jaboukie Young-White](https://twitter.com/i/topics/1061029022757351424)
   * [Jameela Jamil](https://twitter.com/i/topics/1035559474159730688)
   * [Jason Bateman](https://twitter.com/i/topics/950116886024404992)
@@ -1684,6 +1687,7 @@ Entertainment
     * [Jackie Shroff](https://twitter.com/i/topics/1083108287157919745)
     * [Jacqueline Fernandez](https://twitter.com/i/topics/810929021387051008)
     * [Jasmin bhasin](https://twitter.com/i/topics/1334625995937050626)
+    * [Jayam Ravi](https://twitter.com/i/topics/1395087062286540800)
     * [John Abraham](https://twitter.com/i/topics/1083107519164178432)
     * [Kajal Aggarwal](https://twitter.com/i/topics/1276553414617382912)
     * [Kajol](https://twitter.com/i/topics/1275409137115860992)
@@ -1706,6 +1710,7 @@ Entertainment
     * [N T Rama Rao Jr](https://twitter.com/i/topics/1276537052192899072)
     * [Nagarjuna Akkineni](https://twitter.com/i/topics/1389956282514219012)
     * [Nandamuri Balakrishna](https://twitter.com/i/topics/1402932459453353987)
+    * [Nani](https://twitter.com/i/topics/1408501647853047810)
     * [Nithin Reddy](https://twitter.com/i/topics/1389954647306113027)
     * [Nivetha Thomas](https://twitter.com/i/topics/1395070329014259714)
     * [Pankaj Tripathi](https://twitter.com/i/topics/1045695265301094401)
@@ -1764,6 +1769,8 @@ Entertainment
     * [Tamil cinema news](https://twitter.com/i/topics/1360342343614820353)
     * [Tamil cinema technicians](https://twitter.com/i/topics/1361717558714396675)
     * [Tamil directors, producers & writers](https://twitter.com/i/topics/1360338472138010626)
+  * Telugu cinema
+    * [Telugu actors](https://twitter.com/i/topics/1404435718038978564)
 * Movies & TV
   * [Movies & TV](https://twitter.com/i/topics/1276514328007467008)
   * Behind the scenes
@@ -2210,6 +2217,7 @@ Entertainment
       * Romance reality
         * [90 Day Fiancé](https://twitter.com/i/topics/1255224832989343744)
         * [Love Island UK](https://twitter.com/i/topics/1223188430865092608)
+        * [Love Island USA](https://twitter.com/i/topics/1410948621055324162)
         * [Married at First Sight](https://twitter.com/i/topics/1269748152107585536)
         * [Southern Charm](https://twitter.com/i/topics/1321462655274549249)
         * The Bachelor
@@ -2529,6 +2537,7 @@ Food
   * Mexican cuisine
     * [Burritos](https://twitter.com/i/topics/825062173839798273)
     * [Tacos](https://twitter.com/i/topics/825062383580176386)
+* [Cupcakes](https://twitter.com/i/topics/825058372705624064)
 * [Dinner](https://twitter.com/i/topics/1006588737344507905)
 * Drinks
   * Coffee
@@ -4455,6 +4464,7 @@ News
       * Uttar Pradesh
         * [Uttar Pradesh](https://twitter.com/i/topics/1305899135346724864)
         * [Agra](https://twitter.com/i/topics/1306647778580336640)
+        * [Gorakhpur](https://twitter.com/i/topics/1392490022037716998)
         * [Kanpur](https://twitter.com/i/topics/1306569684452483072)
         * [Lucknow](https://twitter.com/i/topics/1306242991795793920)
         * [Prayagraj](https://twitter.com/i/topics/1306658721821417473)
@@ -5621,6 +5631,7 @@ Sports
       * [Jade Cargill](https://twitter.com/i/topics/1363970268826243078)
       * [Jon Moxley](https://twitter.com/i/topics/854420508204449792)
       * [Kenny Omega](https://twitter.com/i/topics/941334928322527232)
+      * [Malakai Black](https://twitter.com/i/topics/1202675095673524224)
       * [Matt Hardy](https://twitter.com/i/topics/1241012959393927170)
       * [Orange Cassidy](https://twitter.com/i/topics/1241041447186354177)
       * [Paul Wight](https://twitter.com/i/topics/1070726196793495553)
@@ -5635,7 +5646,6 @@ Sports
       * [John Cena](https://twitter.com/i/topics/809511048487145472)
       * [Steve Austin](https://twitter.com/i/topics/847508464574242816)
       * [The Undertaker](https://twitter.com/i/topics/1214980555143385088)
-      * [Zelina Vega](https://twitter.com/i/topics/1214258657338089479)
     * Impact! Wrestling
       * [Impact! Wrestling](https://twitter.com/i/topics/1268285151059931137)
       * [Gail Kim](https://twitter.com/i/topics/1070723478322503680)
@@ -5644,7 +5654,6 @@ Sports
     * WWE
       * [WWE](https://twitter.com/i/topics/852587148666589184)
       * [AJ Styles](https://twitter.com/i/topics/852250805671305216)
-      * [Aleister Black](https://twitter.com/i/topics/1202675095673524224)
       * [Alexa Bliss](https://twitter.com/i/topics/915270093755392000)
       * [Angelo Dawkins](https://twitter.com/i/topics/1202679372596989952)
       * [Asuka](https://twitter.com/i/topics/1202680986317639680)
@@ -5695,6 +5704,7 @@ Sports
       * [Vince McMahon](https://twitter.com/i/topics/956557224175747074)
       * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
       * [Xavier Woods](https://twitter.com/i/topics/1214978542921867266)
+      * [Zelina Vega](https://twitter.com/i/topics/1214258657338089479)
 * Cricket
   * [Cricket](https://twitter.com/i/topics/897814293395103744)
   * Indian Premier League
@@ -5828,7 +5838,11 @@ Sports
     * [England](https://twitter.com/i/topics/1235324488079699968)
     * India
       * [India](https://twitter.com/i/topics/1235321887678328832)
+      * [Deepti Sharma](https://twitter.com/i/topics/1405897525890994180)
+      * [Harmanpreet Kaur](https://twitter.com/i/topics/1245435991705276416)
       * [Mithali Raj](https://twitter.com/i/topics/1245312847191486464)
+      * [Shafali Verma](https://twitter.com/i/topics/1235355880402481152)
+      * [Smriti Mandhana](https://twitter.com/i/topics/1245421888479715328)
     * New Zealand
       * [New Zealand](https://twitter.com/i/topics/897814255252062208)
       * [Suzie Bates](https://twitter.com/i/topics/1245334856306790401)
@@ -5959,7 +5973,11 @@ Sports
       * [RB Leipzig stats](https://twitter.com/i/topics/1292092810338820100)
   * Campeonato Brasileiro
     * [Dani Alves](https://twitter.com/i/topics/733774048124014593)
-  * [CONCACAF Gold Cup](https://twitter.com/i/topics/733756524527411201)
+  * CONCACAF Gold Cup
+    * [CONCACAF Gold Cup](https://twitter.com/i/topics/733756524527411201)
+    * USA
+      * [USA](https://twitter.com/i/topics/731226163138289665)
+      * [Christian Pulisic](https://twitter.com/i/topics/733774043476713472)
   * [CONCACAF Nations League](https://twitter.com/i/topics/1402272241895628800)
   * Copa Libertadores
     * [Copa Libertadores](https://twitter.com/i/topics/733756533759082498)
@@ -7179,7 +7197,11 @@ Sports
 * Sports events
   * [Sports events](https://twitter.com/i/topics/1286401121641103360)
   * [Boston Marathon](https://twitter.com/i/topics/1397993285361147904)
-  * [CONCACAF Gold Cup](https://twitter.com/i/topics/733756524527411201)
+  * CONCACAF Gold Cup
+    * [CONCACAF Gold Cup](https://twitter.com/i/topics/733756524527411201)
+    * USA
+      * [USA](https://twitter.com/i/topics/731226163138289665)
+      * [Christian Pulisic](https://twitter.com/i/topics/733774043476713472)
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
   * [FIFA Women's World Cup](https://twitter.com/i/topics/1304480511344009217)
   * [FIFA World Cup](https://twitter.com/i/topics/1304474187961044993)
@@ -7194,11 +7216,15 @@ Sports
   * [NHL Draft](https://twitter.com/i/topics/1397974024056020992)
   * Olympics
     * [Olympics](https://twitter.com/i/topics/1237760060828213249)
+    * [Australia Olympic team](https://twitter.com/i/topics/1405175536133894149)
     * [Canada Olympic Team](https://twitter.com/i/topics/1400530139130130433)
+    * [India Olympic Team](https://twitter.com/i/topics/1408486577420918787)
+    * [Ireland Olympic team](https://twitter.com/i/topics/1408519292337803264)
     * [Olympic 3x3 Basketball](https://twitter.com/i/topics/1390003427585892355)
     * Olympic athletes
       * [Canelo Alvarez](https://twitter.com/i/topics/884468523396767745)
       * [Dina Asher-Smith](https://twitter.com/i/topics/1205950864860446720)
+      * [Hideki Matsuyama](https://twitter.com/i/topics/821451760870883328)
       * [Max Whitlock](https://twitter.com/i/topics/1246117542050971650)
     * [Olympic Badminton](https://twitter.com/i/topics/1390314931963133955)
     * [Olympic Baseball](https://twitter.com/i/topics/1390328075775184900)
@@ -7206,12 +7232,15 @@ Sports
     * [Olympic Beach volleyball](https://twitter.com/i/topics/1390387866321055744)
     * [Olympic BMX](https://twitter.com/i/topics/1392944716241530881)
     * [Olympic Boxing](https://twitter.com/i/topics/1390392525299490817)
+    * [Olympic Canoeing](https://twitter.com/i/topics/1392944362166710272)
     * [Olympic Cycling](https://twitter.com/i/topics/1392944904611930114)
     * [Olympic Diving](https://twitter.com/i/topics/1392138213544796164)
     * [Olympic Equestrian](https://twitter.com/i/topics/1392945083654180864)
     * [Olympic Golf](https://twitter.com/i/topics/1390398789777690625)
     * [Olympic Gymnastics](https://twitter.com/i/topics/1390298740691329027)
+    * [Olympic Handball](https://twitter.com/i/topics/1390689133094342662)
     * [Olympic Karate](https://twitter.com/i/topics/1392945665068572673)
+    * [Olympic Mountain Biking](https://twitter.com/i/topics/1392944816728600576)
     * [Olympic Pentathlon](https://twitter.com/i/topics/1391867835551342592)
     * [Olympic Rowing](https://twitter.com/i/topics/1391865981748715521)
     * [Olympic Rugby](https://twitter.com/i/topics/1392945858140770308)
@@ -7230,6 +7259,7 @@ Sports
     * [Olympic Water Polo](https://twitter.com/i/topics/1392946593809133568)
     * [Olympic Weightlifting](https://twitter.com/i/topics/1392946744896360450)
     * [Olympic Wrestling](https://twitter.com/i/topics/1392946816426020864)
+    * [Saudi Arabia Olympic Team](https://twitter.com/i/topics/1409068276026515461)
     * [Team GB](https://twitter.com/i/topics/1405128651218198531)
     * [USA Olympic Team](https://twitter.com/i/topics/765574746096275459)
   * [Open Championship](https://twitter.com/i/topics/1375096298437627907)
@@ -7713,6 +7743,7 @@ Technology
   * [Apple](https://twitter.com/i/topics/10026364281)
   * [Dell](https://twitter.com/i/topics/10026364236)
   * [Google](https://twitter.com/i/topics/10026378521)
+  * [Huawei](https://twitter.com/i/topics/10029202046)
   * [Hulu](https://twitter.com/i/topics/10026371049)
   * [IBM](https://twitter.com/i/topics/10026325466)
   * [Intel](https://twitter.com/i/topics/10026332285)

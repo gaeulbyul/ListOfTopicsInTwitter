@@ -241,6 +241,8 @@ Deportes
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
   * [Copa Mundial Masculina de la FIFA](https://twitter.com/i/topics/1304474187961044993)
+  * Copa Oro de la Concacaf
+    * [Keylor Navas](https://twitter.com/i/topics/733774331923206144)
   * [Draft de la NFL](https://twitter.com/i/topics/1373999048424759299)
   * Juegos Olímpicos
     * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
@@ -250,15 +252,20 @@ Deportes
     * [Buceo olímpico](https://twitter.com/i/topics/1392138213544796164)
     * [Ciclismo olimpico](https://twitter.com/i/topics/1392944904611930114)
     * [Equipo olímpico de Argentina](https://twitter.com/i/topics/1407038572574609412)
+    * [Equipo olímpico de Brasil](https://twitter.com/i/topics/1407042278997184514)
     * [Equipo olímpico de Colombia](https://twitter.com/i/topics/1407045007459053569)
     * [Equipo olímpico de España](https://twitter.com/i/topics/1407053491894308870)
     * [Fútbol olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Gimnasia olímpica](https://twitter.com/i/topics/1390298740691329027)
+    * [Hockey sobre césped olímpico](https://twitter.com/i/topics/1392945498223353856)
     * [Judo olímpico](https://twitter.com/i/topics/1392945588853886977)
     * [Karate olímpico](https://twitter.com/i/topics/1392945665068572673)
     * [Natación artística olímpica](https://twitter.com/i/topics/1392944123217276929)
+    * [Piragüismo olímpico](https://twitter.com/i/topics/1392944362166710272)
     * [Polo acuático olímpico](https://twitter.com/i/topics/1392946593809133568)
+    * [Remo olímpico](https://twitter.com/i/topics/1391865981748715521)
     * [Rugby olímpico](https://twitter.com/i/topics/1392945858140770308)
+    * [Softbol olímpico](https://twitter.com/i/topics/1392949361781272576)
     * [Taekwondo olímpico](https://twitter.com/i/topics/1392946428415074304)
     * [Tiro olimpico](https://twitter.com/i/topics/1392946020170944517)
     * [Triatlón olimpico](https://twitter.com/i/topics/1392946515652407296)
@@ -369,6 +376,8 @@ Deportes
     * [Universidad Católica](https://twitter.com/i/topics/731226237025161216)
     * [Zamora](https://twitter.com/i/topics/731226203042897925)
   * [Copa Mundial Masculina de la FIFA](https://twitter.com/i/topics/1304474187961044993)
+  * Copa Oro de la Concacaf
+    * [Keylor Navas](https://twitter.com/i/topics/733774331923206144)
   * Copa Sudamericana
     * [Copa Sudamericana](https://twitter.com/i/topics/733756521184526336)
     * [Coquimbo](https://twitter.com/i/topics/1207272620254621696)
@@ -890,6 +899,7 @@ Entretenimiento
       * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
       * [Zayn Malik](https://twitter.com/i/topics/806575584386039808)
     * Kardashian-Jenner
+      * [Kardashian-Jenner](https://twitter.com/i/topics/1303718958520889345)
       * [Kim Kardashian](https://twitter.com/i/topics/806570121959383040)
 * Creadores digitales
   * [Creadores digitales](https://twitter.com/i/topics/839543456678596608)
@@ -974,6 +984,7 @@ Entretenimiento
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
     * [Netflix](https://twitter.com/i/topics/10026367762)
+    * [Paramount Plus](https://twitter.com/i/topics/1353783294551179264)
 * Noticias de entretenimiento
   * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
   * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
@@ -1025,6 +1036,7 @@ Entretenimiento
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
     * [Netflix](https://twitter.com/i/topics/10026367762)
+    * [Paramount Plus](https://twitter.com/i/topics/1353783294551179264)
   * Televisión
     * [Televisión](https://twitter.com/i/topics/1072937043393560576)
     * Anime
