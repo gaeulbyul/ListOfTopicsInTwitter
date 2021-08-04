@@ -22,6 +22,7 @@
   * [أخبار العالم](https://twitter.com/i/topics/840159616101044224)
   * الشرق الأوسط
     * [الرياض](https://twitter.com/i/topics/1392455584188796931)
+* [أخبار العلوم](https://twitter.com/i/topics/1003939054914715648)
 * [أخبار الموسيقى](https://twitter.com/i/topics/1099779369357082624)
 * أخبار ترفيهية
   * [أخبار ترفيهية](https://twitter.com/i/topics/840160477514612736)
@@ -37,6 +38,7 @@
   * [الشطرنج](https://twitter.com/i/topics/847869150353440768)
 * ألعاب الفيديو
   * [ألعاب الفيديو](https://twitter.com/i/topics/1070028159964262400)
+  * [باتلفيلد](https://twitter.com/i/topics/10027963394)
   * [ببجي](https://twitter.com/i/topics/961618132874883072)
   * [ديث ستراندنغ](https://twitter.com/i/topics/1004737991498072064)
   * [ريزدنت إيفل](https://twitter.com/i/topics/10045383005)
@@ -51,9 +53,11 @@
 * وحدات التحكم في الألعاب
   * [وحدات التحكم في الألعاب](https://twitter.com/i/topics/1070028376662888448)
   * [إكس بوكس سيريس إكس](https://twitter.com/i/topics/1205553794106281985)
+  * [إكس بوكس ون](https://twitter.com/i/topics/1201627082238742528)
   * [بلاي ستيشن 5](https://twitter.com/i/topics/1201630019065274369)
+  * [نينتندو سويتش](https://twitter.com/i/topics/856739783577554949)
 
-الأنشطة الخارجية
+الأنشطة الخارجية والطبيعة
 ==========
 
 * الحيوانات
@@ -71,6 +75,7 @@
   * [الاتصالات في السعودية](https://twitter.com/i/topics/1381904723482013697)
 * [الخدمات المالية](https://twitter.com/i/topics/781974596794716162)
 * العملات الرقمية
+  * [العملات الرقمية](https://twitter.com/i/topics/913142676819648512)
   * [عملة معماة بيتكوين](https://twitter.com/i/topics/1007360414114435072)
 * المهن التجارية
   * [اعلانات](https://twitter.com/i/topics/857878521472888832)
@@ -94,7 +99,11 @@
   * أحداث السينما والتلفزيون
     * [الأوسكار](https://twitter.com/i/topics/1222619725877796864)
   * [اخبار الافلام](https://twitter.com/i/topics/1114213516271964160)
-  * [الافلام](https://twitter.com/i/topics/1072936713134071808)
+  * الافلام
+    * [الافلام](https://twitter.com/i/topics/1072936713134071808)
+    * أفلام الاكشن والمغامرة
+      * [سبايدرمان](https://twitter.com/i/topics/1012672762442182657)
+    * [أفلام رعب](https://twitter.com/i/topics/856976955819794432)
   * المخرجون والمنتجون والكتاب
     * [علي نجم](https://twitter.com/i/topics/1093098222799613952)
   * تلفزيون
@@ -111,8 +120,11 @@
     * [مسلسلات تركية](https://twitter.com/i/topics/1287501285290201088)
     * [مسلسلات عربية](https://twitter.com/i/topics/1379438505890246658)
 * الامتيازات الرائجة
+  * [الامتيازات الرائجة](https://twitter.com/i/topics/1074757527995277313)
   * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
   * [دراغون بول](https://twitter.com/i/topics/1026525069474902017)
+  * [سبايدرمان](https://twitter.com/i/topics/1012672762442182657)
+  * [عالم مارفل السينمائي](https://twitter.com/i/topics/1002576732971384832)
   * [ناروتو](https://twitter.com/i/topics/1136329838350880768)
 * البودكاست والراديو
   * [البودكاست والراديو](https://twitter.com/i/topics/1074758954444513282)
@@ -130,7 +142,9 @@
 * مشاهير
   * [مشاهير](https://twitter.com/i/topics/1095352268046495745)
   * [ملحنون عرب](https://twitter.com/i/topics/1287408407343845377)
-  * ممثلين حسب مكان الولادة
+  * ممثلين
+    * [ممثلين](https://twitter.com/i/topics/1303715075421646849)
+    * [ممثلين أتراك](https://twitter.com/i/topics/1367227293207126017)
     * ممثلين سعوديين
       * [ناصر القصبي](https://twitter.com/i/topics/1092359813017661440)
     * ممثلين سوريين
@@ -150,11 +164,18 @@
       * [عادل امام](https://twitter.com/i/topics/1100413134890627072)
       * [عمرو وأكد](https://twitter.com/i/topics/1092384062856032256)
       * [عمرو يوسف](https://twitter.com/i/topics/1100406668590870529)
+      * [منة شلبي](https://twitter.com/i/topics/1100410811233689600)
       * [منى زكي](https://twitter.com/i/topics/1092382811510591488)
+      * [مي كساب](https://twitter.com/i/topics/1092423614488489984)
       * [هند صبري](https://twitter.com/i/topics/1092386333308313601)
       * [ياسمين صبري](https://twitter.com/i/topics/1288064446800125952)
+      * [يسرا](https://twitter.com/i/topics/1139193352937562113)
   * نجوم التلفزيون
+    * [بتال القوس](https://twitter.com/i/topics/1096453876935356416)
     * [تركي العجمة](https://twitter.com/i/topics/1100038579156205568)
+  * نجوم الموسيقى
+    * [تايلور سويفت](https://twitter.com/i/topics/806225270591995904)
+    * [ريانا](https://twitter.com/i/topics/806558580715311104)
 
 التكنولوجيا
 ==========
@@ -165,6 +186,7 @@
   * [أمن المعلومات](https://twitter.com/i/topics/1047123725525479425)
   * [الأمن السيبراني](https://twitter.com/i/topics/898650876658634752)
 * العملات الرقمية
+  * [العملات الرقمية](https://twitter.com/i/topics/913142676819648512)
   * [عملة معماة بيتكوين](https://twitter.com/i/topics/1007360414114435072)
 * [برمجة الكمبيوتر](https://twitter.com/i/topics/848921413196984320)
 * عالم التكنولوجيا
@@ -173,6 +195,7 @@
   * [أندرويد](https://twitter.com/i/topics/10026820777)
   * [سبوتيفاي](https://twitter.com/i/topics/10040276669)
   * [شاهد](https://twitter.com/i/topics/1379767477660311554)
+  * [مايكروسوفت](https://twitter.com/i/topics/10027232467)
   * [نتفليكس](https://twitter.com/i/topics/10026367762)
   * [هواوي](https://twitter.com/i/topics/10029202046)
   * [وسائل التواصل الاجتماعي](https://twitter.com/i/topics/1196446161223028736)
@@ -207,6 +230,7 @@
 ==========
 
 * [العلوم](https://twitter.com/i/topics/854692455005921281)
+* [أخبار العلوم](https://twitter.com/i/topics/1003939054914715648)
 * [الطقس](https://twitter.com/i/topics/857083369514876928)
 * [الفضاء](https://twitter.com/i/topics/847899255880564736)
 * [جغرافيا](https://twitter.com/i/topics/857080369035661312)
@@ -231,6 +255,7 @@
   * [برج العذراء](https://twitter.com/i/topics/1138874019820662784)
   * [برج العقرب](https://twitter.com/i/topics/1138888237630386177)
   * [برج الميزان](https://twitter.com/i/topics/1138886683229806592)
+  * [علم التنجيم](https://twitter.com/i/topics/1102600979491381248)
 * الكتابة
   * [أشعار](https://twitter.com/i/topics/1087738701994573824)
   * [أقوال وحكم](https://twitter.com/i/topics/1242158204751990788)
@@ -272,6 +297,8 @@
 * [التعليم](https://twitter.com/i/topics/847546154439000064)
 * [تسويق](https://twitter.com/i/topics/857879016971186177)
 * [طهاة وهواة طهي](https://twitter.com/i/topics/1091055942249046016)
+* مجالات الدراسة
+  * [الفلسفة](https://twitter.com/i/topics/1047111740322865153)
 * [محاسبة](https://twitter.com/i/topics/1047535852396507136)
 
 المنزل والأسرة
@@ -291,8 +318,11 @@
   * [أصالة نصري](https://twitter.com/i/topics/1092466027391143937)
   * [إليسا](https://twitter.com/i/topics/1087679731095359488)
   * [بلقيس فتحي](https://twitter.com/i/topics/1092431926072291328)
+  * [تايلور سويفت](https://twitter.com/i/topics/806225270591995904)
+  * [جاستن بيبر](https://twitter.com/i/topics/806225938505572352)
   * [راغب علامة](https://twitter.com/i/topics/1088081360995020800)
   * [رامي عياش](https://twitter.com/i/topics/1100430008319827969)
+  * [ريانا](https://twitter.com/i/topics/806558580715311104)
   * [سميرة سعيد](https://twitter.com/i/topics/1100423400449687558)
   * [صابر الرباعي](https://twitter.com/i/topics/1100421426593509376)
   * [عمرو دياب](https://twitter.com/i/topics/1087683324913475587)
@@ -312,6 +342,7 @@
     * [سبوتيفاي](https://twitter.com/i/topics/10040276669)
 * بوب كوري
   * [بوب كوري](https://twitter.com/i/topics/888105153038958593)
+  * [ATEEZ](https://twitter.com/i/topics/1085295439321001989)
   * [آيكون](https://twitter.com/i/topics/894620779194621952)
   * إكسو
     * [إكسو](https://twitter.com/i/topics/889972468953128960)
@@ -410,6 +441,9 @@
     * [دبليو دبليو إي](https://twitter.com/i/topics/852587148666589184)
 * [ركوب الدراجات](https://twitter.com/i/topics/847900751321997312)
 * [سباق الخيل والفروسية](https://twitter.com/i/topics/847901716024446977)
+* سباق سيارات
+  * [سباق سيارات](https://twitter.com/i/topics/847900599387430912)
+  * [فورمولا 1](https://twitter.com/i/topics/854701577994616832)
 * شخصيات رياضية
   * أيقونات رياضية
     * [أيقونات رياضية](https://twitter.com/i/topics/1202239681422774272)
@@ -560,6 +594,7 @@
       * [نادي النصر السعودي](https://twitter.com/i/topics/731226232654725120)
       * [بيتروس](https://twitter.com/i/topics/733774436889858050)
       * [عبد الرزاق حمد الله](https://twitter.com/i/topics/733774633665581056)
+      * [عبدالرحمن البيشي](https://twitter.com/i/topics/1346691230814486533)
     * نادي الهلال السعودي
       * [نادي الهلال السعودي](https://twitter.com/i/topics/731226182767640577)
       * [أندريه كاريو](https://twitter.com/i/topics/733774514123771905)
@@ -612,6 +647,8 @@
       * [نادي النصر السعودي](https://twitter.com/i/topics/731226232654725120)
       * [بيتروس](https://twitter.com/i/topics/733774436889858050)
       * [عبد الرزاق حمد الله](https://twitter.com/i/topics/733774633665581056)
+      * [عبدالرحمن البيشي](https://twitter.com/i/topics/1346691230814486533)
+  * [دوري أبطال أفريقيا](https://twitter.com/i/topics/1401970397856210960)
   * دوري أبطال أوروبا
     * [دوري أبطال أوروبا](https://twitter.com/i/topics/733756536875454464)
     * [أتلتيكو مدريد](https://twitter.com/i/topics/731226217395818496)
@@ -709,7 +746,9 @@
   * [كره السله](https://twitter.com/i/topics/706083902411055104)
   * إن بي أي
     * [إن بي أي](https://twitter.com/i/topics/706083889454813185)
-    * [لوس أنجلوس ليكرز](https://twitter.com/i/topics/706083845846597632)
+    * لوس أنجلوس ليكرز
+      * [لوس أنجلوس ليكرز](https://twitter.com/i/topics/706083845846597632)
+      * [ليبرون جيمس](https://twitter.com/i/topics/788447816561467392)
 
 فقط على تويتر
 ==========

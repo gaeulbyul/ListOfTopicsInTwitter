@@ -3,6 +3,8 @@ Anime & manga
 ==========
 
 * [Anime & manga](https://twitter.com/i/topics/1297951101136732160)
+* Anime
+  * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
 
 Bilim
 ==========
@@ -13,7 +15,9 @@ Bilim
   * [Deprem](https://twitter.com/i/topics/1307153406289612800)
 * [Psikoloji](https://twitter.com/i/topics/1129090662622588930)
 * Uzay
-  * [NASA](https://twitter.com/i/topics/872802352448667648)
+  * [Uzay](https://twitter.com/i/topics/847899255880564736)
+  * Uzay ajansları ve şirketleri
+    * [NASA](https://twitter.com/i/topics/872802352448667648)
 
 Dış mekanlar
 ==========
@@ -53,9 +57,11 @@ Eğlence
   * [Cem Yılmaz](https://twitter.com/i/topics/1367894286612660228)
 * Medya franchise'ları
   * [Medya franchise'ları](https://twitter.com/i/topics/1074757527995277313)
+  * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * Marvel Sinematik Evreni
     * [Loki](https://twitter.com/i/topics/1380084686442045442)
+  * [Star Wars](https://twitter.com/i/topics/986247671663898625)
 * Sinema ve televizyon
   * [Sinema ve televizyon](https://twitter.com/i/topics/1276514328007467008)
   * Dijital yayın platformları
@@ -68,6 +74,7 @@ Eğlence
     * [Bağımsız filmler](https://twitter.com/i/topics/869912745935740928)
     * Fantastik bilim kurgu filmleri
       * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
+      * [Star Wars](https://twitter.com/i/topics/986247671663898625)
   * Sinema ve televizyon etkinlikleri
     * Film festivalleri
       * [Cannes Film Festivali](https://twitter.com/i/topics/1298178090057703424)
@@ -75,6 +82,8 @@ Eğlence
     * [Oscar Ödülleri](https://twitter.com/i/topics/1222619725877796864)
   * Televizyon
     * [Televizyon](https://twitter.com/i/topics/1072937043393560576)
+    * Anime
+      * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
     * [Bilgi yarışmaları](https://twitter.com/i/topics/1372667416342192129)
     * Dram dizileri
       * Aile draması
@@ -118,6 +127,7 @@ Eğlence
       * [Kefaret](https://twitter.com/i/topics/1399128380084133891)
       * [Kuruluş Osman](https://twitter.com/i/topics/1383126510412857345)
       * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
+      * [Leyla ile Mecnun](https://twitter.com/i/topics/1417964112252792832)
       * [Maraşlı](https://twitter.com/i/topics/1381596237980307459)
       * [Masumiyet](https://twitter.com/i/topics/1383118709573574657)
       * [Masumlar Apartmanı](https://twitter.com/i/topics/1369792456162635778)
@@ -132,13 +142,18 @@ Eğlence
       * [Yasak Elma](https://twitter.com/i/topics/1374296052711391235)
       * [Çukur](https://twitter.com/i/topics/1381191630389006340)
     * Yarışma programları
-      * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
+      * Hayatta kalma yarışı
+        * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
+      * Yemek yarışması
+        * [MasterChef Türkiye](https://twitter.com/i/topics/1374328745100673024)
+        * [Şef Akademi](https://twitter.com/i/topics/1413391450323132417)
 * Ünlüler
   * [Ünlüler](https://twitter.com/i/topics/1095352268046495745)
   * Aktörler ve aktrisler
     * [Ahsen Eroğlu](https://twitter.com/i/topics/1395165277969534977)
     * [Alina Boz](https://twitter.com/i/topics/1392140714679537723)
     * [Alperen Durmaz](https://twitter.com/i/topics/1396833121895555074)
+    * [Aras Bulut İynemli](https://twitter.com/i/topics/1414573540846706689)
     * [Aras Bulut İynemli](https://twitter.com/i/topics/1390713673115586566)
     * [Bensu Soral](https://twitter.com/i/topics/1405127292850823170)
     * [Berker Güven](https://twitter.com/i/topics/1390303533103153164)
@@ -158,6 +173,7 @@ Eğlence
     * [Farah Zeynep Abdullah](https://twitter.com/i/topics/1369786189528457221)
     * [Halil İbrahim Ceyhan](https://twitter.com/i/topics/1400051373966729225)
     * [Hande Erçel](https://twitter.com/i/topics/1390722148197535747)
+    * [İbrahim Çelikkol](https://twitter.com/i/topics/1392125476534034434)
     * [Kerem Bürsin](https://twitter.com/i/topics/1383061966789349380)
     * [Kubilay Aka](https://twitter.com/i/topics/1405112685260275714)
     * [Kıvanç Tatlıtuğ](https://twitter.com/i/topics/1361689437382434816)
@@ -169,6 +185,8 @@ Eğlence
     * [Özge Özpirinçci](https://twitter.com/i/topics/1394778655146921985)
   * Ünlü aileler
     * [Zayn Malik](https://twitter.com/i/topics/806575584386039808)
+  * Ünlü müzisyenler
+    * [Rihanna](https://twitter.com/i/topics/806558580715311104)
 
 Fitness
 ==========
@@ -180,9 +198,22 @@ Gaming
 
 * [Gaming](https://twitter.com/i/topics/847527650667094017)
 * [E-spor](https://twitter.com/i/topics/839544337360801792)
+* [Gaming haberleri](https://twitter.com/i/topics/1034501001544257536)
+* Oyun geliştirme
+  * [Oyun geliştirme](https://twitter.com/i/topics/1070028312276127746)
+  * [PlayStation](https://twitter.com/i/topics/10027048853)
+  * [Ubisoft](https://twitter.com/i/topics/10026653538)
+  * [Xbox](https://twitter.com/i/topics/10027048851)
 * Oyun konsolları
   * [Oyun konsolları](https://twitter.com/i/topics/1070028376662888448)
   * [PlayStation 5](https://twitter.com/i/topics/1201630019065274369)
+* Video oyunları
+  * [Video oyunları](https://twitter.com/i/topics/1070028159964262400)
+  * [Battlefield](https://twitter.com/i/topics/10027963394)
+  * [CSGO](https://twitter.com/i/topics/10045347491)
+  * [Genshin Impact](https://twitter.com/i/topics/1310987643765678083)
+  * [League of Legends](https://twitter.com/i/topics/10047023523)
+  * [World of Warcraft](https://twitter.com/i/topics/10044802030)
 
 Haberler
 ==========
@@ -192,6 +223,7 @@ Haberler
   * [COVID-19: Medya ve basın mensupları](https://twitter.com/i/topics/1251676278064705536)
   * [COVID-19: Sağlık profesyonelleri](https://twitter.com/i/topics/1251670280021225473)
 * [Eğlence haberleri](https://twitter.com/i/topics/840160477514612736)
+* [Gaming haberleri](https://twitter.com/i/topics/1034501001544257536)
 * Hava durumu
   * [Hava durumu](https://twitter.com/i/topics/857083369514876928)
   * [Deprem](https://twitter.com/i/topics/1307153406289612800)
@@ -215,6 +247,7 @@ Haberler
   * [Hisse ve endeksler](https://twitter.com/i/topics/847894852779900928)
   * Kripto para borsaları
     * [Kripto para borsaları](https://twitter.com/i/topics/1390680741206368263)
+    * [Binance](https://twitter.com/i/topics/1372588659346612225)
     * [Coinbase](https://twitter.com/i/topics/1370436971940642819)
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 
@@ -240,13 +273,20 @@ Müzik
   * [Rap](https://twitter.com/i/topics/810937888334487552)
 * K-pop
   * [K-pop](https://twitter.com/i/topics/888105153038958593)
-  * [BLACKPINK](https://twitter.com/i/topics/894606843783270401)
+  * [ATEEZ](https://twitter.com/i/topics/1085295439321001989)
+  * BLACKPINK
+    * [BLACKPINK](https://twitter.com/i/topics/894606843783270401)
+    * [LISA](https://twitter.com/i/topics/913136867872145408)
   * BTS
     * [BTS](https://twitter.com/i/topics/844438182523383808)
     * [BTS ARMY](https://twitter.com/i/topics/1086308747654266880)
+    * [j-hope](https://twitter.com/i/topics/895369682240196608)
     * [Jimin](https://twitter.com/i/topics/895369773998948352)
     * [Jin](https://twitter.com/i/topics/895369606746873856)
     * [Jungkook](https://twitter.com/i/topics/895369861504749568)
+    * [RM (BTS)](https://twitter.com/i/topics/895369476488609792)
+    * [SUGA](https://twitter.com/i/topics/895369555937157120)
+    * [V (BTS)](https://twitter.com/i/topics/895369816558534656)
   * EXO
     * [EXO](https://twitter.com/i/topics/889972468953128960)
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
@@ -254,8 +294,19 @@ Müzik
     * [Lay Zhang](https://twitter.com/i/topics/916323752002043904)
   * [GOT7](https://twitter.com/i/topics/892035567948505088)
   * [NCT](https://twitter.com/i/topics/897126481884659712)
-  * [SEVENTEEN](https://twitter.com/i/topics/892415136488579072)
-  * [Stray Kids](https://twitter.com/i/topics/1062427352318173185)
+  * SEVENTEEN
+    * [SEVENTEEN](https://twitter.com/i/topics/892415136488579072)
+    * [Dogyeom (SEVENTEEN)](https://twitter.com/i/topics/895383010979201025)
+    * [Jeonghan (SEVENTEEN)](https://twitter.com/i/topics/898657464580624384)
+    * [Mingyu (SEVENTEEN)](https://twitter.com/i/topics/895383058743869440)
+    * [S.COUPS (SEVENTEEN)](https://twitter.com/i/topics/895381336239652865)
+    * [Seungkwan (SEVENTEEN)](https://twitter.com/i/topics/898650097201758208)
+    * [The8 (SEVENTEEN)](https://twitter.com/i/topics/898648853053751300)
+    * [Vernon (SEVENTEEN)](https://twitter.com/i/topics/898650658655490048)
+    * [WOOZI (SEVENTEEN)](https://twitter.com/i/topics/898657628963749888)
+  * Stray Kids
+    * [Stray Kids](https://twitter.com/i/topics/1062427352318173185)
+    * [Hyunjin (Stray Kids)](https://twitter.com/i/topics/1138162752579547136)
   * SuperM
     * [BAEKHYUN](https://twitter.com/i/topics/895349090703122432)
   * [TOMORROW X TOGETHER](https://twitter.com/i/topics/1083397690140971008)
@@ -269,12 +320,15 @@ Müzik
   * [Murat Boz](https://twitter.com/i/topics/1395122950039240704)
   * One Direction
     * [Zayn Malik](https://twitter.com/i/topics/806575584386039808)
+  * [Rihanna](https://twitter.com/i/topics/806558580715311104)
+  * [Zeynep Bastık](https://twitter.com/i/topics/1413102550555922443)
 * Türkçe müzik
   * [Türkçe müzik](https://twitter.com/i/topics/1365047666577563651)
   * [Aleyna Tilki](https://twitter.com/i/topics/1365107399573471235)
   * [Can Bonomo](https://twitter.com/i/topics/1394599720736022528)
   * [Murat Boz](https://twitter.com/i/topics/1395122950039240704)
   * [Tarkan](https://twitter.com/i/topics/1397999277310312449)
+  * [Zeynep Bastık](https://twitter.com/i/topics/1413102550555922443)
 
 Sadece Twitter'da
 ==========
@@ -286,12 +340,15 @@ Sanat ve kültür
 ==========
 
 * [Sanat ve kültür](https://twitter.com/i/topics/1280550787207147521)
+* Animasyon
+  * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
 * Edebiyat ve kitaplar
   * [Edebiyat ve kitaplar](https://twitter.com/i/topics/847519659179954178)
   * Yazarlar
     * [Vedat Milor](https://twitter.com/i/topics/1367983667218280448)
 * Fantastik bilim kurgu
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
+  * [Star Wars](https://twitter.com/i/topics/986247671663898625)
 * Horoskop
   * [Horoskop](https://twitter.com/i/topics/1068226612380889088)
   * [Akrep burcu](https://twitter.com/i/topics/1138888237630386177)
@@ -909,8 +966,8 @@ Spor
       * [Vedat Muriqi](https://twitter.com/i/topics/748794265094938626)
   * Çin Süper Ligi
     * [Marek Hamsik](https://twitter.com/i/topics/733774339821068289)
-* [Spor istatistikleri](https://twitter.com/i/topics/1283448166507937792)
-* Spor müsabakaları
+* Spor etkinlikleri
+  * [Spor etkinlikleri](https://twitter.com/i/topics/1286401121641103360)
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
   * [EuroLeague Final Four](https://twitter.com/i/topics/1389996253405093889)
   * [FIFA Dünya Kupası](https://twitter.com/i/topics/1304474187961044993)
@@ -921,34 +978,52 @@ Spor
     * Olimpik atletler
       * [Adem Asil](https://twitter.com/i/topics/1400818486713016324)
       * [Ahmet Önder](https://twitter.com/i/topics/1398574440586248195)
+      * [Alican Kaynar](https://twitter.com/i/topics/1401309755642040320)
+      * [Berke Saka](https://twitter.com/i/topics/1410017144910147586)
+      * [Buse Naz Çakıroğlu](https://twitter.com/i/topics/1397162455705350145)
       * [Busenaz Sürmeneli](https://twitter.com/i/topics/1397158922071379968)
       * [Eda Erdem](https://twitter.com/i/topics/1401354985749639169)
       * [Eda Tuğsuz](https://twitter.com/i/topics/1401291825751552003)
       * [Emre Sakçı](https://twitter.com/i/topics/1401317854574649346)
+      * [Esra Yıldız](https://twitter.com/i/topics/1401670114911522818)
       * [Ferhat Arıcan](https://twitter.com/i/topics/1400727558853861376)
+      * [Hatice Kübra İlgün](https://twitter.com/i/topics/1401319827420061697)
+      * [İbrahim Çolak](https://twitter.com/i/topics/1397226508385615873)
       * [İrem Karamete](https://twitter.com/i/topics/1397164450768035850)
+      * [Kerem Kamal](https://twitter.com/i/topics/1401360594083614722)
       * [Meltem Hocaoğlu Akyol](https://twitter.com/i/topics/1401300328033648641)
+      * [Merve Tuncel](https://twitter.com/i/topics/1410017144914411526)
       * [Mete Gazoz](https://twitter.com/i/topics/1401583028997038082)
+      * [Nafia Kuş](https://twitter.com/i/topics/1401319971196575744)
       * [Naz Aydemir Akyol](https://twitter.com/i/topics/1401677165347762180)
       * [Nazlı Savranbaşı](https://twitter.com/i/topics/1400818858437464065)
       * [Nur Tatar](https://twitter.com/i/topics/1401319442731048960)
+      * [Okyanus Arıkan](https://twitter.com/i/topics/1401827751032594436)
+      * [Onat Kazaklı](https://twitter.com/i/topics/1401667736795680769)
       * [Onur Cavit Biriz](https://twitter.com/i/topics/1401928626442960900)
       * [Ramil Guliyev](https://twitter.com/i/topics/1401340680232792064)
+      * [Rıza Kayaalp](https://twitter.com/i/topics/1397176670692339713)
       * [Serap Özçelik Arapoğlu](https://twitter.com/i/topics/1401294396801261568)
       * [Taha Akgül](https://twitter.com/i/topics/1397165539328360458)
       * [Yasemin Adar](https://twitter.com/i/topics/1401362471219122178)
       * [Yasemin Can](https://twitter.com/i/topics/1401825587392520193)
       * [Yasemin Ecem Anagöz](https://twitter.com/i/topics/1401657384620019713)
+      * [Özkan Baltacı](https://twitter.com/i/topics/1401225525448699905)
+      * [Ümitcan Güreş](https://twitter.com/i/topics/1401316363986112513)
+    * [Olimpik Atıcılık](https://twitter.com/i/topics/1392946020170944517)
     * [Olimpik Badminton](https://twitter.com/i/topics/1390314931963133955)
     * [Olimpik Basketbol](https://twitter.com/i/topics/1390331651188682753)
+    * [Olimpik Bisiklet](https://twitter.com/i/topics/1392944904611930114)
     * [Olimpik Boks](https://twitter.com/i/topics/1390392525299490817)
     * [Olimpik Cimnastik](https://twitter.com/i/topics/1390298740691329027)
     * [Olimpik Eskrim](https://twitter.com/i/topics/1390693400827949059)
     * [Olimpik Futbol](https://twitter.com/i/topics/1392945361518403584)
     * [Olimpik Güreş](https://twitter.com/i/topics/1392946816426020864)
     * [Olimpik Halter](https://twitter.com/i/topics/1392946744896360450)
+    * [Olimpik Hentbol](https://twitter.com/i/topics/1390689133094342662)
     * [Olimpik Judo](https://twitter.com/i/topics/1392945588853886977)
     * [Olimpik Karate](https://twitter.com/i/topics/1392945665068572673)
+    * [Olimpik Kürek](https://twitter.com/i/topics/1391865981748715521)
     * [Olimpik Masa Tenisi](https://twitter.com/i/topics/1390700779233705985)
     * [Olimpik Modern Pentatlon](https://twitter.com/i/topics/1391867835551342592)
     * [Olimpik Okçuluk](https://twitter.com/i/topics/1390293773754638338)
@@ -957,6 +1032,7 @@ Spor
     * [Olimpik Voleybol](https://twitter.com/i/topics/1390337859480014848)
     * [Olimpik Yelken](https://twitter.com/i/topics/1392945932916826113)
     * [Olimpik Yüzme](https://twitter.com/i/topics/1392946342394167301)
+    * [Türkiye Olimpiyat Takımı](https://twitter.com/i/topics/1414956998630678528)
   * Paralimpik Oyunları
     * [Paralimpik Oyunları](https://twitter.com/i/topics/1300458642202742784)
     * [Yasmani Copello Escobar](https://twitter.com/i/topics/1401653690847490049)
@@ -1079,6 +1155,7 @@ Spor
       * [Çekya](https://twitter.com/i/topics/731226184348880897)
       * [Patrik Schick](https://twitter.com/i/topics/733774056869089282)
   * [Wimbledon](https://twitter.com/i/topics/1398025938214952960)
+* [Spor istatistikleri](https://twitter.com/i/topics/1283448166507937792)
 * Tenis
   * [Tenis](https://twitter.com/i/topics/847903248933502976)
   * Erkek tenisi
@@ -1092,7 +1169,10 @@ Spor
     * [Çağla Büyükakçay](https://twitter.com/i/topics/1369395086736257025)
 * Voleybol
   * [Voleybol](https://twitter.com/i/topics/847903333297799169)
-  * [A Milli Kadın Voleybol Takımı](https://twitter.com/i/topics/1401688793585885186)
+  * Filenin Sultanları
+    * [Filenin Sultanları](https://twitter.com/i/topics/1401688793585885186)
+    * [Eda Erdem](https://twitter.com/i/topics/1401354985749639169)
+    * [Naz Aydemir Akyol](https://twitter.com/i/topics/1401677165347762180)
 * Önemli spor figürleri
   * Spor şahsiyetleri
     * [Alex de Souza](https://twitter.com/i/topics/1374714051754823680)
@@ -1119,6 +1199,7 @@ Teknoloji
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Teknoloji endüstrisi
   * [Apple](https://twitter.com/i/topics/10026364281)
+  * [Microsoft](https://twitter.com/i/topics/10027232467)
   * [Netflix](https://twitter.com/i/topics/10026367762)
 * [Teknoloji haberleri](https://twitter.com/i/topics/840160819388141570)
 * Teknoloji kişilikleri

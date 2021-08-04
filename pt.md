@@ -68,7 +68,10 @@ Atividades ao ar livre
   * [Pets](https://twitter.com/i/topics/852262932607926273)
   * [Vida marinha](https://twitter.com/i/topics/1129086092202860544)
 * [Natureza](https://twitter.com/i/topics/1103294729079349250)
-* [Surfe](https://twitter.com/i/topics/847902992321753088)
+* Surfe
+  * [Surfe](https://twitter.com/i/topics/847902992321753088)
+  * [Gabriel Medina](https://twitter.com/i/topics/849685868067422209)
+  * [Italo Ferreira](https://twitter.com/i/topics/1202326616719781888)
 
 Ciência
 ==========
@@ -331,6 +334,7 @@ Entretenimento
     * [Grammys](https://twitter.com/i/topics/1299065112913874944)
     * [MTV Miaw](https://twitter.com/i/topics/1296501479021244416)
     * [MTV Video Music Awards](https://twitter.com/i/topics/1288908932858011648)
+  * [San Diego Comic-Con](https://twitter.com/i/topics/1298181941208875009)
 * Filmes & TV
   * [Filmes & TV](https://twitter.com/i/topics/1276514328007467008)
   * Diretores, Produtores & Escritores
@@ -571,7 +575,8 @@ Esportes
     * Times de Fórmula 1
       * [Lewis Hamilton](https://twitter.com/i/topics/809514988247232512)
 * Esportes aquáticos
-  * [Surfe](https://twitter.com/i/topics/847902992321753088)
+  * [Gabriel Medina](https://twitter.com/i/topics/849685868067422209)
+  * [Italo Ferreira](https://twitter.com/i/topics/1202326616719781888)
 * Esportes de bar
   * [Poquer](https://twitter.com/i/topics/847902254875131904)
 * Esports
@@ -612,10 +617,23 @@ Esportes
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
   * Olimpíadas
     * [Olimpíadas](https://twitter.com/i/topics/1237760060828213249)
+    * Atletas Olímpicos
+      * [Debinha](https://twitter.com/i/topics/1113911488538861568)
+      * [Douglas Souza](https://twitter.com/i/topics/1410017176627539969)
+      * [Formiga](https://twitter.com/i/topics/1113910699531440128)
+      * [Gabriel Medina](https://twitter.com/i/topics/849685868067422209)
+      * [Gabriela Guimarães](https://twitter.com/i/topics/1410017176623345665)
+      * [Italo Ferreira](https://twitter.com/i/topics/1202326616719781888)
+      * [Leticia Bufoni](https://twitter.com/i/topics/1395735310831546368)
+      * [Marta](https://twitter.com/i/topics/1037771925236342784)
+      * [Mayra Aguiar](https://twitter.com/i/topics/1410024761137131521)
+      * [Rebeca Andrade](https://twitter.com/i/topics/1410001644058660865)
     * [Atletismo Olímpico](https://twitter.com/i/topics/1390302799515185159)
     * [Basquete Olímpico](https://twitter.com/i/topics/1390331651188682753)
+    * [Beisebol Olímpico](https://twitter.com/i/topics/1390328075775184900)
     * [Boxe Olímpico](https://twitter.com/i/topics/1390392525299490817)
     * [Canoagem Olímpica](https://twitter.com/i/topics/1392944362166710272)
+    * [Esgrima Olímpica](https://twitter.com/i/topics/1390693400827949059)
     * [Futebol Olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Ginástica Olímpica](https://twitter.com/i/topics/1390298740691329027)
     * [Handebol Olímpico](https://twitter.com/i/topics/1390689133094342662)
@@ -624,11 +642,18 @@ Esportes
     * [Karatê Olímpico](https://twitter.com/i/topics/1392945665068572673)
     * [Mergulho Olímpico](https://twitter.com/i/topics/1392138213544796164)
     * [Natação Olímpica](https://twitter.com/i/topics/1392946342394167301)
+    * [Remo Olímpico](https://twitter.com/i/topics/1391865981748715521)
+    * [Seleção olímpica da Argentina](https://twitter.com/i/topics/1407038572574609412)
     * [Seleção olímpica da Espanha](https://twitter.com/i/topics/1407053491894308870)
     * [Seleção olímpica do Brasil](https://twitter.com/i/topics/1407042278997184514)
     * [Seleção olímpica do México](https://twitter.com/i/topics/1407047852048621569)
+    * [Skate Olímpico](https://twitter.com/i/topics/1392946117726261251)
+    * [Softball Olímpico](https://twitter.com/i/topics/1392949361781272576)
+    * [Taekwondo Olímpico](https://twitter.com/i/topics/1392946428415074304)
     * [Tiro com Arco Olímpico](https://twitter.com/i/topics/1390293773754638338)
+    * [Tênis de Mesa Olímpico](https://twitter.com/i/topics/1390700779233705985)
     * [Tênis olímpico](https://twitter.com/i/topics/1390697594955833350)
+    * [Vela Olímpica](https://twitter.com/i/topics/1392945932916826113)
     * [Voleibol Olímpico](https://twitter.com/i/topics/1390337859480014848)
 * Figuras no esporte
   * Jornalistas esportivos
@@ -640,7 +665,10 @@ Esportes
     * [Kobe Bryant](https://twitter.com/i/topics/809497120285696001)
 * Futebol
   * [Futebol](https://twitter.com/i/topics/733756536430809088)
-  * [Bundesliga](https://twitter.com/i/topics/733756521230667776)
+  * Bundesliga
+    * [Bundesliga](https://twitter.com/i/topics/733756521230667776)
+    * Hertha Berlin
+      * [Matheus Cunha](https://twitter.com/i/topics/881538345913819137)
   * Campeonato Brasileiro
     * [Campeonato Brasileiro](https://twitter.com/i/topics/733756530479112192)
     * [América MG](https://twitter.com/i/topics/731226212836597760)
@@ -714,6 +742,8 @@ Esportes
       * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
   * [MLS](https://twitter.com/i/topics/733756531309613057)
+  * NWSL
+    * [Marta](https://twitter.com/i/topics/1037771925236342784)
   * Paulista, Serie A1
     * [Paulista, Serie A1](https://twitter.com/i/topics/733756523671756800)
     * [Ponte Preta SP](https://twitter.com/i/topics/731226240716169216)
@@ -731,7 +761,12 @@ Esportes
     * [SL Benfica](https://twitter.com/i/topics/731226171661115392)
     * [Sporting CP](https://twitter.com/i/topics/731226229802569728)
   * [Recopa Sul-Americana](https://twitter.com/i/topics/1229439140527083537)
-  * [Seleções nacionais de futebol feminino](https://twitter.com/i/topics/1244994257850531840)
+  * Seleções nacionais de futebol feminino
+    * [Seleções nacionais de futebol feminino](https://twitter.com/i/topics/1244994257850531840)
+    * Seleção Brasileira Feminina de Futebol
+      * [Debinha](https://twitter.com/i/topics/1113911488538861568)
+      * [Formiga](https://twitter.com/i/topics/1113910699531440128)
+      * [Marta](https://twitter.com/i/topics/1037771925236342784)
   * Seleções nacionais masculinas de futebol
     * Alemanha
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)

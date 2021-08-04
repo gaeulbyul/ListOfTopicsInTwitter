@@ -145,6 +145,8 @@ Deportes
       * [Ricky Rubio](https://twitter.com/i/topics/809849115592929280)
     * New Orleans Pelicans
       * [Zion Williamson](https://twitter.com/i/topics/999896801011380229)
+    * Portland Trail Blazers
+      * [Pau Gasol](https://twitter.com/i/topics/809849108663894017)
 * [Balonmano](https://twitter.com/i/topics/839543534990446592)
 * Béisbol
   * [Béisbol](https://twitter.com/i/topics/769193663230468096)
@@ -222,6 +224,7 @@ Deportes
       * [Thibaut Courtois](https://twitter.com/i/topics/733773997557456896)
     * España
       * [Alvaro Morata](https://twitter.com/i/topics/733774524194283520)
+      * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
       * [Koke](https://twitter.com/i/topics/733773763481718784)
       * [Marcos Llorente](https://twitter.com/i/topics/733774574349737984)
       * [Sergio Reguilon](https://twitter.com/i/topics/788913196098740225)
@@ -246,10 +249,21 @@ Deportes
   * [Draft de la NFL](https://twitter.com/i/topics/1373999048424759299)
   * Juegos Olímpicos
     * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
+    * Atletas Olímpicos
+      * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
+      * [Diego Schwartzman](https://twitter.com/i/topics/1314526149309919233)
+      * [Lydia Valentín](https://twitter.com/i/topics/1397189448618545152)
+      * [Mireia Belmonte](https://twitter.com/i/topics/1396922665571520513)
+      * [Pau Gasol](https://twitter.com/i/topics/809849108663894017)
+      * [Sandra Sánchez](https://twitter.com/i/topics/1397192798860808192)
+      * [Saúl Craviotto](https://twitter.com/i/topics/1396923582060503041)
     * [Atletismo olímpico](https://twitter.com/i/topics/1390302799515185159)
     * [Baloncesto olímpico](https://twitter.com/i/topics/1390331651188682753)
     * [Balonmano olímpico](https://twitter.com/i/topics/1390689133094342662)
+    * [BMX olímpico](https://twitter.com/i/topics/1392944716241530881)
+    * [Boxeo olímpico](https://twitter.com/i/topics/1390392525299490817)
     * [Buceo olímpico](https://twitter.com/i/topics/1392138213544796164)
+    * [Bádminton olímpico](https://twitter.com/i/topics/1390314931963133955)
     * [Ciclismo olimpico](https://twitter.com/i/topics/1392944904611930114)
     * [Equipo olímpico de Argentina](https://twitter.com/i/topics/1407038572574609412)
     * [Equipo olímpico de Brasil](https://twitter.com/i/topics/1407042278997184514)
@@ -257,19 +271,27 @@ Deportes
     * [Equipo olímpico de España](https://twitter.com/i/topics/1407053491894308870)
     * [Fútbol olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Gimnasia olímpica](https://twitter.com/i/topics/1390298740691329027)
+    * [Halterofilia olímpica](https://twitter.com/i/topics/1392946744896360450)
     * [Hockey sobre césped olímpico](https://twitter.com/i/topics/1392945498223353856)
     * [Judo olímpico](https://twitter.com/i/topics/1392945588853886977)
     * [Karate olímpico](https://twitter.com/i/topics/1392945665068572673)
     * [Natación artística olímpica](https://twitter.com/i/topics/1392944123217276929)
+    * [Natación olímpica](https://twitter.com/i/topics/1392946342394167301)
     * [Piragüismo olímpico](https://twitter.com/i/topics/1392944362166710272)
     * [Polo acuático olímpico](https://twitter.com/i/topics/1392946593809133568)
     * [Remo olímpico](https://twitter.com/i/topics/1391865981748715521)
     * [Rugby olímpico](https://twitter.com/i/topics/1392945858140770308)
+    * [Skate olímpico](https://twitter.com/i/topics/1392946117726261251)
     * [Softbol olímpico](https://twitter.com/i/topics/1392949361781272576)
+    * [Surf olímpico](https://twitter.com/i/topics/1392946273741725700)
     * [Taekwondo olímpico](https://twitter.com/i/topics/1392946428415074304)
+    * [Tenis olímpico](https://twitter.com/i/topics/1390697594955833350)
+    * [Tiro al arco olímpico](https://twitter.com/i/topics/1390293773754638338)
     * [Tiro olimpico](https://twitter.com/i/topics/1392946020170944517)
     * [Triatlón olimpico](https://twitter.com/i/topics/1392946515652407296)
+    * [Vela olímpica](https://twitter.com/i/topics/1392945932916826113)
     * [Voleibol de playa olímpico](https://twitter.com/i/topics/1390387866321055744)
+    * [Voleibol olímpico](https://twitter.com/i/topics/1390337859480014848)
   * [Tour de Francia](https://twitter.com/i/topics/1304499179339747328)
   * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
 * Figuras del deporte
@@ -304,6 +326,8 @@ Deportes
       * [Bayern de Múnich](https://twitter.com/i/topics/731226192859172864)
       * [Robert Lewandowski](https://twitter.com/i/topics/733773741813960704)
     * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
+    * RB Leipzig
+      * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
   * Campeonato Brasileño
     * [Campeonato Brasileño](https://twitter.com/i/topics/733756530479112192)
     * Atletico MG
@@ -326,6 +350,7 @@ Deportes
       * [Thibaut Courtois](https://twitter.com/i/topics/733773997557456896)
     * España
       * [Alvaro Morata](https://twitter.com/i/topics/733774524194283520)
+      * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
       * [Koke](https://twitter.com/i/topics/733773763481718784)
       * [Marcos Llorente](https://twitter.com/i/topics/733774574349737984)
       * [Sergio Reguilon](https://twitter.com/i/topics/788913196098740225)
@@ -484,6 +509,8 @@ Deportes
       * [Keylor Navas](https://twitter.com/i/topics/733774331923206144)
       * [Kylian Mbappe](https://twitter.com/i/topics/733774119699779584)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
+    * RB Leipzig
+      * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
     * Real Madrid
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Eden Hazard](https://twitter.com/i/topics/733774079166046210)
@@ -529,6 +556,25 @@ Deportes
       * [Nahuel Guzman](https://twitter.com/i/topics/733773938782666754)
     * [Veracruz](https://twitter.com/i/topics/731226233707462657)
     * [Xolos de Tijuana](https://twitter.com/i/topics/731226165394837504)
+  * Liga Profesional de Fútbol Argentina
+    * [Liga Profesional de Fútbol Argentina](https://twitter.com/i/topics/733756539220070400)
+    * [Argentinos Jrs](https://twitter.com/i/topics/731226185561038848)
+    * [Atletico Tucuman](https://twitter.com/i/topics/731226166623797248)
+    * [Banfield](https://twitter.com/i/topics/731226260265783296)
+    * [Club Atlético Unión](https://twitter.com/i/topics/731226222512865280)
+    * [Colon](https://twitter.com/i/topics/731226237402644482)
+    * [Defensa y Justicia](https://twitter.com/i/topics/731226204989100032)
+    * Estudiantes
+      * [Estudiantes](https://twitter.com/i/topics/731226182771867648)
+      * [Javier Mascherano](https://twitter.com/i/topics/733774476689571841)
+    * [Gimnasia LP](https://twitter.com/i/topics/731226240112197632)
+    * [Independiente](https://twitter.com/i/topics/731226182398578689)
+    * [Lanus](https://twitter.com/i/topics/731226167923990528)
+    * [Newell's Old Boys](https://twitter.com/i/topics/731226262853685249)
+    * [Patronato](https://twitter.com/i/topics/731226172072202244)
+    * [Racing C. Avellaneda](https://twitter.com/i/topics/731226223284641794)
+    * [Tigre](https://twitter.com/i/topics/731226208738795520)
+    * [Vélez Sarsfield](https://twitter.com/i/topics/731226207925067777)
   * Ligue 1
     * [Ligue 1](https://twitter.com/i/topics/733756534648274945)
     * PSG
@@ -601,6 +647,7 @@ Deportes
     * [Ecuador](https://twitter.com/i/topics/731226210710102016)
     * España
       * [Alvaro Morata](https://twitter.com/i/topics/733774524194283520)
+      * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
       * [Koke](https://twitter.com/i/topics/733773763481718784)
       * [Marcos Llorente](https://twitter.com/i/topics/733774574349737984)
       * [Sergio Reguilon](https://twitter.com/i/topics/788913196098740225)
@@ -644,25 +691,6 @@ Deportes
       * [Milán](https://twitter.com/i/topics/731226162496593920)
       * [Zlatan Ibrahimovic](https://twitter.com/i/topics/733773808478232577)
     * [Napoli](https://twitter.com/i/topics/731226162530127872)
-  * Superliga Argentina
-    * [Superliga Argentina](https://twitter.com/i/topics/733756539220070400)
-    * [Argentinos Jrs](https://twitter.com/i/topics/731226185561038848)
-    * [Atletico Tucuman](https://twitter.com/i/topics/731226166623797248)
-    * [Banfield](https://twitter.com/i/topics/731226260265783296)
-    * [Club Atlético Unión](https://twitter.com/i/topics/731226222512865280)
-    * [Colon](https://twitter.com/i/topics/731226237402644482)
-    * [Defensa y Justicia](https://twitter.com/i/topics/731226204989100032)
-    * Estudiantes
-      * [Estudiantes](https://twitter.com/i/topics/731226182771867648)
-      * [Javier Mascherano](https://twitter.com/i/topics/733774476689571841)
-    * [Gimnasia LP](https://twitter.com/i/topics/731226240112197632)
-    * [Independiente](https://twitter.com/i/topics/731226182398578689)
-    * [Lanus](https://twitter.com/i/topics/731226167923990528)
-    * [Newell's Old Boys](https://twitter.com/i/topics/731226262853685249)
-    * [Patronato](https://twitter.com/i/topics/731226172072202244)
-    * [Racing C. Avellaneda](https://twitter.com/i/topics/731226223284641794)
-    * [Tigre](https://twitter.com/i/topics/731226208738795520)
-    * [Vélez Sarsfield](https://twitter.com/i/topics/731226207925067777)
   * UEFA Europa League
     * [UEFA Europa League](https://twitter.com/i/topics/733756530479140864)
     * [Ajax](https://twitter.com/i/topics/827104267047571457)
@@ -735,6 +763,7 @@ Deportes
     * [Garbine Muguruza](https://twitter.com/i/topics/864596397789663232)
   * Tenis masculino
     * [Tenis masculino](https://twitter.com/i/topics/1151880503659618305)
+    * [Diego Schwartzman](https://twitter.com/i/topics/1314526149309919233)
     * [Novak Djokovic](https://twitter.com/i/topics/809505068248494080)
     * [Rafael Nadal](https://twitter.com/i/topics/809498405894373376)
     * [Roger Federer](https://twitter.com/i/topics/809505480577953792)
