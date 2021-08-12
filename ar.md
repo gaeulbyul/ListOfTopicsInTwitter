@@ -22,12 +22,16 @@
   * [أخبار العالم](https://twitter.com/i/topics/840159616101044224)
   * الشرق الأوسط
     * [الرياض](https://twitter.com/i/topics/1392455584188796931)
+    * [جدة](https://twitter.com/i/topics/1420034252935098369)
 * [أخبار العلوم](https://twitter.com/i/topics/1003939054914715648)
 * [أخبار الموسيقى](https://twitter.com/i/topics/1099779369357082624)
 * أخبار ترفيهية
   * [أخبار ترفيهية](https://twitter.com/i/topics/840160477514612736)
   * [اخبار الافلام](https://twitter.com/i/topics/1114213516271964160)
 * [الطقس](https://twitter.com/i/topics/857083369514876928)
+* القصص الإخبارية الجارية
+  * [كوفيد -19: الإعلام والصحفيون](https://twitter.com/i/topics/1251676278064705536)
+  * [كوفيد -19: الحكومات والمسؤولون الحكوميون](https://twitter.com/i/topics/1251674336542380033)
 
 الألعاب
 ==========
@@ -38,6 +42,8 @@
   * [الشطرنج](https://twitter.com/i/topics/847869150353440768)
 * ألعاب الفيديو
   * [ألعاب الفيديو](https://twitter.com/i/topics/1070028159964262400)
+  * [أبيكس ليجندز](https://twitter.com/i/topics/1095327230433972227)
+  * [إله الحرب](https://twitter.com/i/topics/10044917017)
   * [باتلفيلد](https://twitter.com/i/topics/10027963394)
   * [ببجي](https://twitter.com/i/topics/961618132874883072)
   * [ديث ستراندنغ](https://twitter.com/i/topics/1004737991498072064)
@@ -48,6 +54,7 @@
   * [كول أوف ديوتي](https://twitter.com/i/topics/10027933222)
 * [المؤثرين في الألعاب](https://twitter.com/i/topics/1146103171086819328)
 * تطوير الألعاب
+  * [تطوير الألعاب](https://twitter.com/i/topics/1070028312276127746)
   * [اكس بوكس](https://twitter.com/i/topics/10027048851)
   * [بلاي ستيشن](https://twitter.com/i/topics/10027048853)
 * وحدات التحكم في الألعاب
@@ -60,6 +67,7 @@
 الأنشطة الخارجية والطبيعة
 ==========
 
+* [الأنشطة الخارجية والطبيعة](https://twitter.com/i/topics/1277995430236680192)
 * الحيوانات
   * [الحيوانات](https://twitter.com/i/topics/839543325212319744)
   * [الخيل](https://twitter.com/i/topics/852669187348549632)
@@ -106,13 +114,16 @@
     * [أفلام رعب](https://twitter.com/i/topics/856976955819794432)
   * المخرجون والمنتجون والكتاب
     * [علي نجم](https://twitter.com/i/topics/1093098222799613952)
+    * [مالك نجر](https://twitter.com/i/topics/1131130132771401728)
   * تلفزيون
     * أنمي
       * [أنمي](https://twitter.com/i/topics/839543165002506240)
       * [Attack on Titan](https://twitter.com/i/topics/1151828991109505025)
       * [دراغون بول](https://twitter.com/i/topics/1026525069474902017)
       * [ناروتو](https://twitter.com/i/topics/1136329838350880768)
-    * [التلفزيون السعودي](https://twitter.com/i/topics/1381929509453111297)
+    * التلفزيون السعودي
+      * [التلفزيون السعودي](https://twitter.com/i/topics/1381929509453111297)
+      * [برامج رياضية سعودية](https://twitter.com/i/topics/1287395734925406214)
     * [برامج حوارية](https://twitter.com/i/topics/1281312750648479744)
     * خيال علمي / دراما خيالية
       * [الموتى السائرون](https://twitter.com/i/topics/1223191197377712129)
@@ -144,6 +155,8 @@
   * [ملحنون عرب](https://twitter.com/i/topics/1287408407343845377)
   * ممثلين
     * [ممثلين](https://twitter.com/i/topics/1303715075421646849)
+    * الممثلين الأمريكيين
+      * [سيلينا غوميز](https://twitter.com/i/topics/806556845703766016)
     * [ممثلين أتراك](https://twitter.com/i/topics/1367227293207126017)
     * ممثلين سعوديين
       * [ناصر القصبي](https://twitter.com/i/topics/1092359813017661440)
@@ -173,9 +186,12 @@
   * نجوم التلفزيون
     * [بتال القوس](https://twitter.com/i/topics/1096453876935356416)
     * [تركي العجمة](https://twitter.com/i/topics/1100038579156205568)
+  * نجوم الشوق
+    * [سيلينا غوميز](https://twitter.com/i/topics/806556845703766016)
   * نجوم الموسيقى
     * [تايلور سويفت](https://twitter.com/i/topics/806225270591995904)
     * [ريانا](https://twitter.com/i/topics/806558580715311104)
+    * [سيلينا غوميز](https://twitter.com/i/topics/806556845703766016)
 
 التكنولوجيا
 ==========
@@ -225,6 +241,7 @@
 * مشروبات
   * [شاي](https://twitter.com/i/topics/850450940213592064)
   * [قهوة](https://twitter.com/i/topics/1235272242193285120)
+* [وجبات سريعة](https://twitter.com/i/topics/847865239886417922)
 
 العلوم
 ==========
@@ -296,8 +313,9 @@
 * [اعلانات](https://twitter.com/i/topics/857878521472888832)
 * [التعليم](https://twitter.com/i/topics/847546154439000064)
 * [تسويق](https://twitter.com/i/topics/857879016971186177)
-* [طهاة وهواة طهي](https://twitter.com/i/topics/1091055942249046016)
 * مجالات الدراسة
+  * [التاريخ](https://twitter.com/i/topics/1047111583309029381)
+  * [الرياضيات](https://twitter.com/i/topics/1237095288671596545)
   * [الفلسفة](https://twitter.com/i/topics/1047111740322865153)
 * [محاسبة](https://twitter.com/i/topics/1047535852396507136)
 
@@ -318,12 +336,14 @@
   * [أصالة نصري](https://twitter.com/i/topics/1092466027391143937)
   * [إليسا](https://twitter.com/i/topics/1087679731095359488)
   * [بلقيس فتحي](https://twitter.com/i/topics/1092431926072291328)
+  * [تامر حسني](https://twitter.com/i/topics/1092455264828088320)
   * [تايلور سويفت](https://twitter.com/i/topics/806225270591995904)
   * [جاستن بيبر](https://twitter.com/i/topics/806225938505572352)
   * [راغب علامة](https://twitter.com/i/topics/1088081360995020800)
   * [رامي عياش](https://twitter.com/i/topics/1100430008319827969)
   * [ريانا](https://twitter.com/i/topics/806558580715311104)
   * [سميرة سعيد](https://twitter.com/i/topics/1100423400449687558)
+  * [سيلينا غوميز](https://twitter.com/i/topics/806556845703766016)
   * [صابر الرباعي](https://twitter.com/i/topics/1100421426593509376)
   * [عمرو دياب](https://twitter.com/i/topics/1087683324913475587)
   * [كارول سماحة‎](https://twitter.com/i/topics/1092462802688565248)
@@ -336,6 +356,7 @@
   * [نجوى كرم](https://twitter.com/i/topics/1087687818816569344)
   * [نوال الزغبي](https://twitter.com/i/topics/1092463917610070016)
   * [هيفاء وهبي](https://twitter.com/i/topics/1087706059353948161)
+  * [وائل كفوري)](https://twitter.com/i/topics/1092459705379696640)
   * [يارا](https://twitter.com/i/topics/1092460963284971520)
 * باك ستيج
   * خدمة بث الموسيقى
@@ -399,35 +420,53 @@
     * [عطور](https://twitter.com/i/topics/856559465000091648)
     * [العطور](https://twitter.com/i/topics/855110667916918784)
 * [التسوق](https://twitter.com/i/topics/1095391406816784384)
-* [الموضة](https://twitter.com/i/topics/839543390668673024)
+* الموضة
+  * [الموضة](https://twitter.com/i/topics/839543390668673024)
+  * [فساتين](https://twitter.com/i/topics/845290255997530114)
 
 رياضة
 ==========
 
 * [رياضة](https://twitter.com/i/topics/847900493514891265)
 * أحداث رياضية
+  * [أحداث رياضية](https://twitter.com/i/topics/1286401121641103360)
   * بطولة أمم أوروبا
     * [بطولة أمم أوروبا](https://twitter.com/i/topics/1384518599562301449)
     * ألمانيا
       * [توني كروس](https://twitter.com/i/topics/733774448533233665)
     * إنجلترا
+      * [جيدون سانشو](https://twitter.com/i/topics/888393291682652161)
       * [رحيم ستيرلينغ](https://twitter.com/i/topics/733774473199915008)
       * [ماركوس راشفورد](https://twitter.com/i/topics/733774012434677760)
     * اسبانيا
       * [ألفارو موراتا](https://twitter.com/i/topics/733774524194283520)
+      * [جوردي ألبا](https://twitter.com/i/topics/733774068994834436)
       * [سيرجيو بوسكيتس](https://twitter.com/i/topics/733773962967048192)
     * البرتغال
       * [كريستيانو رونالدو](https://twitter.com/i/topics/733774146434269186)
     * بلجيكا
       * [تيبو كورتوا](https://twitter.com/i/topics/733773997557456896)
     * فرنسا
+      * [أنطوان غريزمان](https://twitter.com/i/topics/733774361048424448)
+      * [بول بوغبا](https://twitter.com/i/topics/733774467583746049)
+      * [رافاييل فاران](https://twitter.com/i/topics/828568057970712576)
       * [كريم بنزيما](https://twitter.com/i/topics/733774405948448768)
       * [كيليان مبابي](https://twitter.com/i/topics/733774119699779584)
     * كرواتيا
       * [لوكا مودريتش](https://twitter.com/i/topics/733774652439302144)
+    * ويلز
+      * [غاريث بيل](https://twitter.com/i/topics/733774612949934080)
   * دورة الالعاب الاولمبية
     * [دورة الالعاب الاولمبية](https://twitter.com/i/topics/1237760060828213249)
+    * [التايكوندو الاولمبية](https://twitter.com/i/topics/1392946428415074304)
+    * [الجودو الاولمبية](https://twitter.com/i/topics/1392945588853886977)
+    * [الرماية الاولمبية](https://twitter.com/i/topics/1392946020170944517)
+    * [الرماية الاولمبية](https://twitter.com/i/topics/1390293773754638338)
+    * [تنس الطاولة الاولمبية](https://twitter.com/i/topics/1390700779233705985)
+    * [كرة الطائرة الأولمبية](https://twitter.com/i/topics/1390337859480014848)
+    * [كرة القدم الاولمبية](https://twitter.com/i/topics/1392945361518403584)
     * [كرة المضرب الأولمبية](https://twitter.com/i/topics/1390697594955833350)
+  * [راسلمينيا](https://twitter.com/i/topics/1376548378075492355)
   * [رولان غاروس](https://twitter.com/i/topics/1304494995273969665)
   * [كوبا أمريكا](https://twitter.com/i/topics/1304491707317141504)
 * [أخبار الرياضة](https://twitter.com/i/topics/840160112325021696)
@@ -438,7 +477,9 @@
   * [الرياضات القتالية](https://twitter.com/i/topics/1047520229192912896)
   * مصارعة
     * [مصارعة](https://twitter.com/i/topics/839544341584474112)
-    * [دبليو دبليو إي](https://twitter.com/i/topics/852587148666589184)
+    * دبليو دبليو إي
+      * [دبليو دبليو إي](https://twitter.com/i/topics/852587148666589184)
+      * [راسلمينيا](https://twitter.com/i/topics/1376548378075492355)
 * [ركوب الدراجات](https://twitter.com/i/topics/847900751321997312)
 * [سباق الخيل والفروسية](https://twitter.com/i/topics/847901716024446977)
 * سباق سيارات
@@ -450,6 +491,7 @@
     * [احمد الشمراني](https://twitter.com/i/topics/1106153061502717953)
     * [احمد شوبير](https://twitter.com/i/topics/1100341493208834054)
     * [حازم إمام](https://twitter.com/i/topics/1100344385462358016)
+    * [رونالدينيو](https://twitter.com/i/topics/809824842329387008)
     * [سامي الجابر](https://twitter.com/i/topics/1096486207842709504)
     * [عبدالعزيز بن تركي الفيصل](https://twitter.com/i/topics/1095798103397941248)
     * [عفيفي](https://twitter.com/i/topics/1100345831327129600)
@@ -467,8 +509,11 @@
     * [خالد الشنيف](https://twitter.com/i/topics/1096449134461018113)
     * [خالد القحطاني](https://twitter.com/i/topics/1147090512215592960)
     * [خالد بيومي](https://twitter.com/i/topics/1100342960036564992)
+    * [خلف ملفي](https://twitter.com/i/topics/1106172005764620290)
+    * [سامي القرشي](https://twitter.com/i/topics/1133306703825367040)
     * [عادل التويجري](https://twitter.com/i/topics/1096494338563960832)
     * [عامر عبدالله المري](https://twitter.com/i/topics/1096479723528413184)
+    * [عبدالعزيز المريسل](https://twitter.com/i/topics/1185146238271803394)
     * [عبدالله الحنيان](https://twitter.com/i/topics/1096496441072046080)
     * [عبدالمحسن الجحلان](https://twitter.com/i/topics/1096489872020262912)
     * [عصام الشوالي](https://twitter.com/i/topics/1100001479807520769)
@@ -476,6 +521,7 @@
     * [فارس عوض](https://twitter.com/i/topics/1096448278806257664)
     * [فهد الروقي](https://twitter.com/i/topics/1106173127795531776)
     * [فهد العتيبي](https://twitter.com/i/topics/1096446989510750208)
+    * [ماجد الشيباني](https://twitter.com/i/topics/1148156276011962368)
     * [محمد البكيري](https://twitter.com/i/topics/1096455010693435393)
     * [محمد الذايدي](https://twitter.com/i/topics/1096491371873988608)
     * [محمد عواد](https://twitter.com/i/topics/1102960032012918784)
@@ -493,14 +539,20 @@
     * [الدوري الألماني الدرجة الأولى](https://twitter.com/i/topics/733756521230667776)
     * [باير 04 ليفركوزن](https://twitter.com/i/topics/731226215797784576)
     * [بايرن ميونخ](https://twitter.com/i/topics/731226192859172864)
-    * [بوروسيا دورتموند](https://twitter.com/i/topics/731226218155016192)
+    * بوروسيا دورتموند
+      * [بوروسيا دورتموند](https://twitter.com/i/topics/731226218155016192)
+      * [جيدون سانشو](https://twitter.com/i/topics/888393291682652161)
   * الدوري الأوروبي
     * [إيه سي ميلان](https://twitter.com/i/topics/731226162496593920)
     * [باير 04 ليفركوزن](https://twitter.com/i/topics/731226215797784576)
-    * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
+    * توتنهام هوتسبير
+      * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
+      * [غاريث بيل](https://twitter.com/i/topics/733774612949934080)
     * [ليستر سيتي](https://twitter.com/i/topics/731226180259434496)
     * مانشستر يونايتد
       * [مانشستر يونايتد](https://twitter.com/i/topics/731226183572934657)
+      * [أنتوني مارسيال](https://twitter.com/i/topics/733773978586648576)
+      * [بول بوغبا](https://twitter.com/i/topics/733774467583746049)
       * [ماركوس راشفورد](https://twitter.com/i/topics/733774012434677760)
     * نادي أرسنال
       * [نادي أرسنال](https://twitter.com/i/topics/731226241894752257)
@@ -516,6 +568,8 @@
       * [إيسكو](https://twitter.com/i/topics/733774287480328192)
       * [توني كروس](https://twitter.com/i/topics/733774448533233665)
       * [تيبو كورتوا](https://twitter.com/i/topics/733773997557456896)
+      * [رافاييل فاران](https://twitter.com/i/topics/828568057970712576)
+      * [رودريغو غوس](https://twitter.com/i/topics/926943888018833408)
       * [زين الدين زيدان](https://twitter.com/i/topics/733774359341338625)
       * [سيرخيو راموس](https://twitter.com/i/topics/733774138054037504)
       * [كاسيميرو](https://twitter.com/i/topics/733773745114861568)
@@ -528,6 +582,8 @@
       * [إيفان راكيتيتش](https://twitter.com/i/topics/733774447895666688)
     * نادي برشلونة
       * [نادي برشلونة](https://twitter.com/i/topics/731226255836598272)
+      * [أنطوان غريزمان](https://twitter.com/i/topics/733774361048424448)
+      * [جوردي ألبا](https://twitter.com/i/topics/733774068994834436)
       * [جيرارد بيكيه](https://twitter.com/i/topics/733774580649594880)
       * [سيرجيو بوسكيتس](https://twitter.com/i/topics/733773962967048192)
       * [صامويل أومتيتي](https://twitter.com/i/topics/733773755470618624)
@@ -542,7 +598,9 @@
     * تشيلسي
       * [تشيلسي](https://twitter.com/i/topics/731226204225708033)
       * [حكيم زياش](https://twitter.com/i/topics/733773914317299712)
-    * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
+    * توتنهام هوتسبير
+      * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
+      * [غاريث بيل](https://twitter.com/i/topics/733774612949934080)
     * [شيفيلد يونايتد](https://twitter.com/i/topics/731226218586996737)
     * [كريستال بالاس](https://twitter.com/i/topics/731226211519582208)
     * [ليدز يونايتد](https://twitter.com/i/topics/731226232184954880)
@@ -554,6 +612,8 @@
       * [رياض محرز](https://twitter.com/i/topics/733774568595185664)
     * مانشستر يونايتد
       * [مانشستر يونايتد](https://twitter.com/i/topics/731226183572934657)
+      * [أنتوني مارسيال](https://twitter.com/i/topics/733773978586648576)
+      * [بول بوغبا](https://twitter.com/i/topics/733774467583746049)
       * [ماركوس راشفورد](https://twitter.com/i/topics/733774012434677760)
     * نادي أرسنال
       * [نادي أرسنال](https://twitter.com/i/topics/731226241894752257)
@@ -603,6 +663,7 @@
       * [سلمان الفرج](https://twitter.com/i/topics/733774544830238720)
       * [عبد الله المعيوف](https://twitter.com/i/topics/733774116029763585)
       * [على البليهي](https://twitter.com/i/topics/899683230126792704)
+      * [محمد البريك](https://twitter.com/i/topics/733774699927232513)
       * [هتان باهبري](https://twitter.com/i/topics/748794209658806272)
       * [ياسر الشهراني](https://twitter.com/i/topics/733774827455008769)
     * [نادي ضمك السعودي](https://twitter.com/i/topics/1166370173898522625)
@@ -626,20 +687,27 @@
     * ألمانيا
       * [توني كروس](https://twitter.com/i/topics/733774448533233665)
     * إنجلترا
+      * [جيدون سانشو](https://twitter.com/i/topics/888393291682652161)
       * [رحيم ستيرلينغ](https://twitter.com/i/topics/733774473199915008)
       * [ماركوس راشفورد](https://twitter.com/i/topics/733774012434677760)
     * اسبانيا
       * [ألفارو موراتا](https://twitter.com/i/topics/733774524194283520)
+      * [جوردي ألبا](https://twitter.com/i/topics/733774068994834436)
       * [سيرجيو بوسكيتس](https://twitter.com/i/topics/733773962967048192)
     * البرتغال
       * [كريستيانو رونالدو](https://twitter.com/i/topics/733774146434269186)
     * بلجيكا
       * [تيبو كورتوا](https://twitter.com/i/topics/733773997557456896)
     * فرنسا
+      * [أنطوان غريزمان](https://twitter.com/i/topics/733774361048424448)
+      * [بول بوغبا](https://twitter.com/i/topics/733774467583746049)
+      * [رافاييل فاران](https://twitter.com/i/topics/828568057970712576)
       * [كريم بنزيما](https://twitter.com/i/topics/733774405948448768)
       * [كيليان مبابي](https://twitter.com/i/topics/733774119699779584)
     * كرواتيا
       * [لوكا مودريتش](https://twitter.com/i/topics/733774652439302144)
+    * ويلز
+      * [غاريث بيل](https://twitter.com/i/topics/733774612949934080)
   * دوري أبطال آسيا
     * [دوري أبطال آسيا](https://twitter.com/i/topics/733756527341797376)
     * [نادي الدحيل الرياضي](https://twitter.com/i/topics/731226246240043008)
@@ -657,7 +725,9 @@
       * [كيليان مبابي](https://twitter.com/i/topics/733774119699779584)
       * [نيمار](https://twitter.com/i/topics/733774105166548992)
     * [بايرن ميونخ](https://twitter.com/i/topics/731226192859172864)
-    * [بوروسيا دورتموند](https://twitter.com/i/topics/731226218155016192)
+    * بوروسيا دورتموند
+      * [بوروسيا دورتموند](https://twitter.com/i/topics/731226218155016192)
+      * [جيدون سانشو](https://twitter.com/i/topics/888393291682652161)
     * تشيلسي
       * [تشيلسي](https://twitter.com/i/topics/731226204225708033)
       * [حكيم زياش](https://twitter.com/i/topics/733773914317299712)
@@ -666,6 +736,8 @@
       * [إيسكو](https://twitter.com/i/topics/733774287480328192)
       * [توني كروس](https://twitter.com/i/topics/733774448533233665)
       * [تيبو كورتوا](https://twitter.com/i/topics/733773997557456896)
+      * [رافاييل فاران](https://twitter.com/i/topics/828568057970712576)
+      * [رودريغو غوس](https://twitter.com/i/topics/926943888018833408)
       * [زين الدين زيدان](https://twitter.com/i/topics/733774359341338625)
       * [سيرخيو راموس](https://twitter.com/i/topics/733774138054037504)
       * [كاسيميرو](https://twitter.com/i/topics/733773745114861568)
@@ -684,6 +756,8 @@
       * [إيفان راكيتيتش](https://twitter.com/i/topics/733774447895666688)
     * نادي برشلونة
       * [نادي برشلونة](https://twitter.com/i/topics/731226255836598272)
+      * [أنطوان غريزمان](https://twitter.com/i/topics/733774361048424448)
+      * [جوردي ألبا](https://twitter.com/i/topics/733774068994834436)
       * [جيرارد بيكيه](https://twitter.com/i/topics/733774580649594880)
       * [سيرجيو بوسكيتس](https://twitter.com/i/topics/733773962967048192)
       * [صامويل أومتيتي](https://twitter.com/i/topics/733773755470618624)
@@ -703,6 +777,7 @@
     * ألمانيا
       * [توني كروس](https://twitter.com/i/topics/733774448533233665)
     * إنجلترا
+      * [جيدون سانشو](https://twitter.com/i/topics/888393291682652161)
       * [رحيم ستيرلينغ](https://twitter.com/i/topics/733774473199915008)
       * [ماركوس راشفورد](https://twitter.com/i/topics/733774012434677760)
     * اتحاد البرازيل لكرة القدم
@@ -710,6 +785,7 @@
       * [نيمار](https://twitter.com/i/topics/733774105166548992)
     * اسبانيا
       * [ألفارو موراتا](https://twitter.com/i/topics/733774524194283520)
+      * [جوردي ألبا](https://twitter.com/i/topics/733774068994834436)
       * [سيرجيو بوسكيتس](https://twitter.com/i/topics/733773962967048192)
     * الأرجنتين
       * [ليونيل ميسي](https://twitter.com/i/topics/733774222305038337)
@@ -720,6 +796,7 @@
     * المملكة العربية السعودية
       * [سالم الدوسري](https://twitter.com/i/topics/733774136028225536)
       * [على البليهي](https://twitter.com/i/topics/899683230126792704)
+      * [محمد البريك](https://twitter.com/i/topics/733774699927232513)
       * [محمد العويس](https://twitter.com/i/topics/783084089972629505)
       * [هتان باهبري](https://twitter.com/i/topics/748794209658806272)
       * [ياسر الشهراني](https://twitter.com/i/topics/733774827455008769)
@@ -730,6 +807,9 @@
     * تونس
       * [فرجاني ساسي](https://twitter.com/i/topics/733774396804857856)
     * فرنسا
+      * [أنطوان غريزمان](https://twitter.com/i/topics/733774361048424448)
+      * [بول بوغبا](https://twitter.com/i/topics/733774467583746049)
+      * [رافاييل فاران](https://twitter.com/i/topics/828568057970712576)
       * [كريم بنزيما](https://twitter.com/i/topics/733774405948448768)
       * [كيليان مبابي](https://twitter.com/i/topics/733774119699779584)
     * كرواتيا
@@ -737,6 +817,8 @@
     * مصر
       * [طارق حامد](https://twitter.com/i/topics/733773756397584384)
       * [محمد الشناوي](https://twitter.com/i/topics/975716874842357760)
+    * ويلز
+      * [غاريث بيل](https://twitter.com/i/topics/733774612949934080)
   * [كأس الاتحاد الإنجليزي](https://twitter.com/i/topics/733756524527374337)
 * كرة المضرب
   * [كرة المضرب](https://twitter.com/i/topics/847903248933502976)

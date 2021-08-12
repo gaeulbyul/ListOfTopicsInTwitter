@@ -71,10 +71,23 @@
     * [रोहित शर्मा](https://twitter.com/i/topics/897829397742272512)
     * [विराट कोहली](https://twitter.com/i/topics/809501049715163136)
 * खेल-कुद प्रतियोगिता
+  * ओलंपिक खिलाडी
+    * [अमित पंघाल](https://twitter.com/i/topics/1397572063687106560)
+    * [दीपिका कुमारी](https://twitter.com/i/topics/1397222152961552384)
+    * [बजरंग पुनिया](https://twitter.com/i/topics/1410001881410150404)
+    * [मनप्रीत सिंह](https://twitter.com/i/topics/1410001679315988481)
+    * [मनु भाकर](https://twitter.com/i/topics/1410001824216539141)
+    * [मेरी कोम](https://twitter.com/i/topics/1397580056990388227)
+    * [रानी रामपाल](https://twitter.com/i/topics/1410001679966109699)
+    * [विनेश फौगाट](https://twitter.com/i/topics/1410001881410129923)
+    * [साइखोम मीराबाई चानू](https://twitter.com/i/topics/1410017194402926594)
   * [ओलंपिक तीरंदाजी](https://twitter.com/i/topics/1390293773754638338)
+  * [ओलंपिक बैडमिंटन](https://twitter.com/i/topics/1390314931963133955)
+  * [ओलंपिक मुक्केबाजी](https://twitter.com/i/topics/1390392525299490817)
   * [भारत ओलंपिक टीम](https://twitter.com/i/topics/1408486577420918787)
 * प्रसिद्ध खिलाडी
   * [सचिन तेंदुलकर](https://twitter.com/i/topics/809500398058762240)
+  * [सानिया मिर्जा](https://twitter.com/i/topics/809798787031961600)
 * फ़ुटबॉल
   * [फ़ुटबॉल](https://twitter.com/i/topics/733756536430809088)
   * [इंडियन सुपर लीग](https://twitter.com/i/topics/1098967470033911809)
@@ -293,4 +306,5 @@
       * [राजस्थान](https://twitter.com/i/topics/1298336021461909504)
       * [जयपुर](https://twitter.com/i/topics/1305823197317615616)
     * हरियाणा
+      * [हरियाणा](https://twitter.com/i/topics/1334649506101542912)
       * [चण्डीगढ़](https://twitter.com/i/topics/1318894091703234560)

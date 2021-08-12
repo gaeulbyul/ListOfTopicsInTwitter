@@ -250,13 +250,25 @@ Deportes
   * Juegos Olímpicos
     * [Juegos Olímpicos](https://twitter.com/i/topics/1237760060828213249)
     * Atletas Olímpicos
+      * [Alejandro Valverde](https://twitter.com/i/topics/1397200660848726016)
+      * [Caterine Ibargüen](https://twitter.com/i/topics/1395748589687566338)
       * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
       * [Diego Schwartzman](https://twitter.com/i/topics/1314526149309919233)
+      * [Hugo González](https://twitter.com/i/topics/1410001818529124360)
+      * [Javier Gomez Noya](https://twitter.com/i/topics/1397574661441867778)
+      * [Juan Sebastian Cabal](https://twitter.com/i/topics/1410001837126606849)
       * [Lydia Valentín](https://twitter.com/i/topics/1397189448618545152)
+      * [Marco Asensio](https://twitter.com/i/topics/733773743172898817)
+      * [Mariana Pajon](https://twitter.com/i/topics/1395752084859850753)
+      * [Mario Mola](https://twitter.com/i/topics/1396921692455198721)
       * [Mireia Belmonte](https://twitter.com/i/topics/1396922665571520513)
       * [Pau Gasol](https://twitter.com/i/topics/809849108663894017)
+      * [Paula Pareto](https://twitter.com/i/topics/1410024762252746756)
+      * [Robert Farah](https://twitter.com/i/topics/1410001837130874880)
       * [Sandra Sánchez](https://twitter.com/i/topics/1397192798860808192)
+      * [Santiago Raul Lange](https://twitter.com/i/topics/1410001651620925447)
       * [Saúl Craviotto](https://twitter.com/i/topics/1396923582060503041)
+      * [Yuberjén Martínez](https://twitter.com/i/topics/1410016938089058306)
     * [Atletismo olímpico](https://twitter.com/i/topics/1390302799515185159)
     * [Baloncesto olímpico](https://twitter.com/i/topics/1390331651188682753)
     * [Balonmano olímpico](https://twitter.com/i/topics/1390689133094342662)
@@ -264,6 +276,7 @@ Deportes
     * [Boxeo olímpico](https://twitter.com/i/topics/1390392525299490817)
     * [Buceo olímpico](https://twitter.com/i/topics/1392138213544796164)
     * [Bádminton olímpico](https://twitter.com/i/topics/1390314931963133955)
+    * [Ciclismo de montaña olímpico](https://twitter.com/i/topics/1392944816728600576)
     * [Ciclismo olimpico](https://twitter.com/i/topics/1392944904611930114)
     * [Equipo olímpico de Argentina](https://twitter.com/i/topics/1407038572574609412)
     * [Equipo olímpico de Brasil](https://twitter.com/i/topics/1407042278997184514)
@@ -285,6 +298,7 @@ Deportes
     * [Softbol olímpico](https://twitter.com/i/topics/1392949361781272576)
     * [Surf olímpico](https://twitter.com/i/topics/1392946273741725700)
     * [Taekwondo olímpico](https://twitter.com/i/topics/1392946428415074304)
+    * [Tenis de mesa olímpico](https://twitter.com/i/topics/1390700779233705985)
     * [Tenis olímpico](https://twitter.com/i/topics/1390697594955833350)
     * [Tiro al arco olímpico](https://twitter.com/i/topics/1390293773754638338)
     * [Tiro olimpico](https://twitter.com/i/topics/1392946020170944517)
@@ -896,6 +910,7 @@ Entretenimiento
     * Raperos famosos
       * [Raperos famosos](https://twitter.com/i/topics/1303721056910282752)
       * [Cardi B](https://twitter.com/i/topics/875059424255135744)
+      * [Kanye West](https://twitter.com/i/topics/806561823407239169)
       * [Megan Thee Stallion](https://twitter.com/i/topics/1129377028048744449)
       * [Nicki Minaj](https://twitter.com/i/topics/806590795469836288)
   * Estrellas de TV
@@ -929,6 +944,7 @@ Entretenimiento
       * [Zayn Malik](https://twitter.com/i/topics/806575584386039808)
     * Kardashian-Jenner
       * [Kardashian-Jenner](https://twitter.com/i/topics/1303718958520889345)
+      * [Kanye West](https://twitter.com/i/topics/806561823407239169)
       * [Kim Kardashian](https://twitter.com/i/topics/806570121959383040)
 * Creadores digitales
   * [Creadores digitales](https://twitter.com/i/topics/839543456678596608)
@@ -1121,8 +1137,10 @@ Entretenimiento
     * Series de comedia
       * Series de comedia dramática 
         * [Emily in Paris](https://twitter.com/i/topics/1313814075961339904)
+        * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
       * Sitcoms
         * [Friends](https://twitter.com/i/topics/1263277663868710912)
+        * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
     * Series de drama
       * Drama adolescente
         * [Riverdale](https://twitter.com/i/topics/1223188511358013440)
@@ -1343,6 +1361,7 @@ Música
     * [Batalla de Los Gallos](https://twitter.com/i/topics/1105081246193864705)
     * [C Tangana](https://twitter.com/i/topics/1104169731987189760)
     * [Cardi B](https://twitter.com/i/topics/875059424255135744)
+    * [Kanye West](https://twitter.com/i/topics/806561823407239169)
     * [Megan Thee Stallion](https://twitter.com/i/topics/1129377028048744449)
     * [Nicki Minaj](https://twitter.com/i/topics/806590795469836288)
   * Trap
@@ -1584,6 +1603,7 @@ Música
   * [Pabllo Vittar](https://twitter.com/i/topics/870280150125903873)
 * [Música clásica](https://twitter.com/i/topics/849674563310862337)
 * Música latina
+  * [Música latina](https://twitter.com/i/topics/1286088343671853057)
   * [Cumbia](https://twitter.com/i/topics/1255200196486561792)
   * Pop Latino
     * [Pop Latino](https://twitter.com/i/topics/849684576913940480)

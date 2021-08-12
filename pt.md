@@ -461,9 +461,11 @@ Entretenimento
         * [Brooklyn Nine-Nine](https://twitter.com/i/topics/1223678020487016449)
       * Sitcoms
         * [Friends](https://twitter.com/i/topics/1263277663868710912)
+        * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
       * Séries de comédia dramática 
         * [Cobra Kai](https://twitter.com/i/topics/1312121485587226628)
         * [Emily in Paris](https://twitter.com/i/topics/1313814075961339904)
+        * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
       * Séries de comédia romântica
         * [Love, Victor](https://twitter.com/i/topics/1273575271979814912)
     * Séries de drama
@@ -618,32 +620,52 @@ Esportes
   * Olimpíadas
     * [Olimpíadas](https://twitter.com/i/topics/1237760060828213249)
     * Atletas Olímpicos
+      * [Ana Sátila](https://twitter.com/i/topics/1395074341256138752)
       * [Debinha](https://twitter.com/i/topics/1113911488538861568)
       * [Douglas Souza](https://twitter.com/i/topics/1410017176627539969)
+      * [Duda Lisboa](https://twitter.com/i/topics/1395077940933627904)
+      * [Fernanda Garay](https://twitter.com/i/topics/1420010353052635136)
+      * [Flávia Saraiva](https://twitter.com/i/topics/1410001643354034177)
       * [Formiga](https://twitter.com/i/topics/1113910699531440128)
       * [Gabriel Medina](https://twitter.com/i/topics/849685868067422209)
       * [Gabriela Guimarães](https://twitter.com/i/topics/1410017176623345665)
       * [Italo Ferreira](https://twitter.com/i/topics/1202326616719781888)
       * [Leticia Bufoni](https://twitter.com/i/topics/1395735310831546368)
+      * [Ludmila Silva](https://twitter.com/i/topics/1113911804801851392)
       * [Marta](https://twitter.com/i/topics/1037771925236342784)
       * [Mayra Aguiar](https://twitter.com/i/topics/1410024761137131521)
+      * [Paulinho](https://twitter.com/i/topics/879231792997253121)
+      * [Pâmela Rosa](https://twitter.com/i/topics/1410001678992961540)
       * [Rebeca Andrade](https://twitter.com/i/topics/1410001644058660865)
+      * [Ricardo Lucarelli Souza](https://twitter.com/i/topics/1410017177307017217)
+      * [Robert Scheidt](https://twitter.com/i/topics/1395735902719156229)
+      * [Tandara Caixeta](https://twitter.com/i/topics/1410017177311137793)
+      * [Thiago Braz](https://twitter.com/i/topics/1395070661106696192)
+      * [Ágatha Bednarczuk](https://twitter.com/i/topics/1395075185758195713)
     * [Atletismo Olímpico](https://twitter.com/i/topics/1390302799515185159)
+    * [Basquete 3x3 Olímpico](https://twitter.com/i/topics/1390003427585892355)
     * [Basquete Olímpico](https://twitter.com/i/topics/1390331651188682753)
     * [Beisebol Olímpico](https://twitter.com/i/topics/1390328075775184900)
+    * [BMX Olímpico](https://twitter.com/i/topics/1392944716241530881)
     * [Boxe Olímpico](https://twitter.com/i/topics/1390392525299490817)
     * [Canoagem Olímpica](https://twitter.com/i/topics/1392944362166710272)
+    * [Ciclismo Mountain Bike](https://twitter.com/i/topics/1392944816728600576)
+    * [Ciclismo Olímpico](https://twitter.com/i/topics/1392944904611930114)
     * [Esgrima Olímpica](https://twitter.com/i/topics/1390693400827949059)
     * [Futebol Olímpico](https://twitter.com/i/topics/1392945361518403584)
     * [Ginástica Olímpica](https://twitter.com/i/topics/1390298740691329027)
     * [Handebol Olímpico](https://twitter.com/i/topics/1390689133094342662)
     * [Hipismo Olímpico](https://twitter.com/i/topics/1392945083654180864)
+    * [Hóquei em Campo Olímpico](https://twitter.com/i/topics/1392945498223353856)
     * [Judô Olímpico](https://twitter.com/i/topics/1392945588853886977)
     * [Karatê Olímpico](https://twitter.com/i/topics/1392945665068572673)
+    * [Levantamento de Peso Olímpico](https://twitter.com/i/topics/1392946744896360450)
     * [Mergulho Olímpico](https://twitter.com/i/topics/1392138213544796164)
     * [Natação Olímpica](https://twitter.com/i/topics/1392946342394167301)
+    * [Polo Aquático Olímpico](https://twitter.com/i/topics/1392946593809133568)
     * [Remo Olímpico](https://twitter.com/i/topics/1391865981748715521)
     * [Seleção olímpica da Argentina](https://twitter.com/i/topics/1407038572574609412)
+    * [Seleção olímpica da Colômbia](https://twitter.com/i/topics/1407045007459053569)
     * [Seleção olímpica da Espanha](https://twitter.com/i/topics/1407053491894308870)
     * [Seleção olímpica do Brasil](https://twitter.com/i/topics/1407042278997184514)
     * [Seleção olímpica do México](https://twitter.com/i/topics/1407047852048621569)
@@ -651,6 +673,7 @@ Esportes
     * [Softball Olímpico](https://twitter.com/i/topics/1392949361781272576)
     * [Taekwondo Olímpico](https://twitter.com/i/topics/1392946428415074304)
     * [Tiro com Arco Olímpico](https://twitter.com/i/topics/1390293773754638338)
+    * [Triatlo Olímpico](https://twitter.com/i/topics/1392946515652407296)
     * [Tênis de Mesa Olímpico](https://twitter.com/i/topics/1390700779233705985)
     * [Tênis olímpico](https://twitter.com/i/topics/1390697594955833350)
     * [Vela Olímpica](https://twitter.com/i/topics/1392945932916826113)
@@ -667,6 +690,8 @@ Esportes
   * [Futebol](https://twitter.com/i/topics/733756536430809088)
   * Bundesliga
     * [Bundesliga](https://twitter.com/i/topics/733756521230667776)
+    * Bayer Leverkusen
+      * [Paulinho](https://twitter.com/i/topics/879231792997253121)
     * Hertha Berlin
       * [Matheus Cunha](https://twitter.com/i/topics/881538345913819137)
   * Campeonato Brasileiro
@@ -766,6 +791,7 @@ Esportes
     * Seleção Brasileira Feminina de Futebol
       * [Debinha](https://twitter.com/i/topics/1113911488538861568)
       * [Formiga](https://twitter.com/i/topics/1113910699531440128)
+      * [Ludmila Silva](https://twitter.com/i/topics/1113911804801851392)
       * [Marta](https://twitter.com/i/topics/1037771925236342784)
   * Seleções nacionais masculinas de futebol
     * Alemanha
@@ -812,6 +838,8 @@ Esportes
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
   * UEFA Europa League
+    * Bayer Leverkusen
+      * [Paulinho](https://twitter.com/i/topics/879231792997253121)
     * Manchester United
       * [Manchester United](https://twitter.com/i/topics/731226183572934657)
       * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
@@ -1295,6 +1323,7 @@ Música
     * [Tecno Brega](https://twitter.com/i/topics/1004351994012680194)
     * [Os Barões da Pisadinha](https://twitter.com/i/topics/1360325613467226112)
 * Música latina
+  * [Música latina](https://twitter.com/i/topics/1286088343671853057)
   * Pop Latino
     * [Pop Latino](https://twitter.com/i/topics/849684576913940480)
     * [Lali](https://twitter.com/i/topics/1105087170002345984)

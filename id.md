@@ -24,6 +24,7 @@ Anime & manga
   * [Komik](https://twitter.com/i/topics/847521144173350912)
   * [Webcomics](https://twitter.com/i/topics/1308511162783334400)
 * Manga
+  * [Manga](https://twitter.com/i/topics/1283453704088084480)
   * [Webcomics](https://twitter.com/i/topics/1308511162783334400)
 
 Berita
@@ -43,6 +44,7 @@ Berita
     * [Jawa Tengah](https://twitter.com/i/topics/1359081777835347972)
     * [Jawa Timur](https://twitter.com/i/topics/1359086175101673478)
     * [Sulawesi Selatan](https://twitter.com/i/topics/1394940089965285377)
+    * [Sulawesi Tengah](https://twitter.com/i/topics/1395009938783576068)
     * Sumatera Barat
       * [Sumatera Barat](https://twitter.com/i/topics/1392054260498456578)
       * [Padang](https://twitter.com/i/topics/1395033403578150913)
@@ -53,6 +55,10 @@ Berita
 * [Berita musik](https://twitter.com/i/topics/1099779369357082624)
 * [Berita olahraga](https://twitter.com/i/topics/840160112325021696)
 * [Berita teknologi](https://twitter.com/i/topics/840160819388141570)
+* Berita terkini
+  * [COVID-19 : media & jurnalis](https://twitter.com/i/topics/1251676278064705536)
+  * [Covid-19: ahli kesehatan](https://twitter.com/i/topics/1251670280021225473)
+  * [COVID-19: pejabat pemerintah & publik](https://twitter.com/i/topics/1251674336542380033)
 * [Cuaca](https://twitter.com/i/topics/857083369514876928)
 
 Bisnis & keuangan
@@ -157,6 +163,7 @@ Hiburan
   * [Selebriti](https://twitter.com/i/topics/1095352268046495745)
   * Aktor
     * [Aktor](https://twitter.com/i/topics/1303715075421646849)
+    * [Aktor Indonesia](https://twitter.com/i/topics/1390196306765697024)
     * Aktor Korea
       * [Aktor Korea](https://twitter.com/i/topics/1303714639205642241)
       * [Kim Seonho](https://twitter.com/i/topics/1394591748567965700)
@@ -181,10 +188,6 @@ Karir
 * [Karir](https://twitter.com/i/topics/847544972781826048)
 * Bidang studi
   * [Sejarah](https://twitter.com/i/topics/1047111583309029381)
-* Koki
-  * [Koki](https://twitter.com/i/topics/1091055942249046016)
-  * Koki TV
-    * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
 * [Marketing](https://twitter.com/i/topics/857879016971186177)
 * Pendidikan
   * [Pendidikan](https://twitter.com/i/topics/847546154439000064)
@@ -205,11 +208,14 @@ Makanan
   * Koki TV
     * [Devina Hermawan](https://twitter.com/i/topics/1394640086063489029)
 * [Makanan cepat saji](https://twitter.com/i/topics/847865239886417922)
-* [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
+* Masak-memasak
+  * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
+  * [Inspirasi makanan](https://twitter.com/i/topics/859532072813158400)
 * Masakan
   * [Masakan Indonesia](https://twitter.com/i/topics/1331290088903372801)
 * Minuman
   * [Kopi](https://twitter.com/i/topics/1235272242193285120)
+* [Resep](https://twitter.com/i/topics/846736745517350912)
 
 Mode & kecantikan
 ==========
@@ -243,7 +249,10 @@ Musik
   * [K-pop](https://twitter.com/i/topics/888105153038958593)
   * [AB6IX](https://twitter.com/i/topics/1137087248803876864)
   * [ASTRO](https://twitter.com/i/topics/899695469646893056)
-  * [ATEEZ](https://twitter.com/i/topics/1085295439321001989)
+  * ATEEZ
+    * [ATEEZ](https://twitter.com/i/topics/1085295439321001989)
+    * [Kim Hongjoong](https://twitter.com/i/topics/1137076793884549120)
+  * [B.I (iKON)](https://twitter.com/i/topics/913153265017040896)
   * BIGBANG
     * [BIGBANG](https://twitter.com/i/topics/889743747742744577)
     * [Daesung](https://twitter.com/i/topics/908744234064216064)
@@ -268,6 +277,7 @@ Musik
   * ENHYPEN
     * [ENHYPEN](https://twitter.com/i/topics/1382718053020880899)
     * [Engene](https://twitter.com/i/topics/1384873289177174020)
+    * [Jake](https://twitter.com/i/topics/1417830932115968000)
     * [Sunghoon](https://twitter.com/i/topics/1384855651566845956)
   * EXO
     * [EXO](https://twitter.com/i/topics/889972468953128960)
@@ -290,6 +300,7 @@ Musik
   * [iKON](https://twitter.com/i/topics/894620779194621952)
   * [ITZY](https://twitter.com/i/topics/1136006605483364353)
   * [IZ*ONE](https://twitter.com/i/topics/1042460886760214529)
+  * [Loona](https://twitter.com/i/topics/939167651992965121)
   * Monsta X
     * [Monsta X](https://twitter.com/i/topics/892810724833083392)
     * [Minhyuk (Monsta X)](https://twitter.com/i/topics/908748434789638144)
@@ -343,6 +354,7 @@ Musik
     * [MARK (NCT)](https://twitter.com/i/topics/913452225002749952)
     * [RENJUN](https://twitter.com/i/topics/913452890718531584)
   * [OH MY GIRL](https://twitter.com/i/topics/898615660187602944)
+  * [Pentagon](https://twitter.com/i/topics/901174715653382144)
   * Red Velvet
     * [Red Velvet](https://twitter.com/i/topics/893521261027934208)
     * [IRENE](https://twitter.com/i/topics/979015931287429120)
@@ -387,7 +399,9 @@ Musik
     * [Soobin](https://twitter.com/i/topics/1085290348350324736)
     * [Taehyun](https://twitter.com/i/topics/1085929589124128768)
     * [Yeonjun](https://twitter.com/i/topics/1083399594313080832)
-  * [TREASURE](https://twitter.com/i/topics/1275168323332800512)
+  * TREASURE
+    * [TREASURE](https://twitter.com/i/topics/1275168323332800512)
+    * [Kim Jun-kyu](https://twitter.com/i/topics/1419986622943170561)
   * [TWICE](https://twitter.com/i/topics/894658146135793664)
   * Wanna One
     * [JISUNG](https://twitter.com/i/topics/913453270156247040)
@@ -397,6 +411,9 @@ Musik
     * [TEN (NCT)](https://twitter.com/i/topics/913453959330721793)
     * [WINWIN](https://twitter.com/i/topics/913453906297892864)
   * [Wonpil](https://twitter.com/i/topics/926124097767010304)
+  * X1
+    * [Cho Seungyoun](https://twitter.com/i/topics/1275172326204559360)
+  * [Young K](https://twitter.com/i/topics/926124033506025472)
 * [Musik dangdut](https://twitter.com/i/topics/1332247934113521666)
 * Pop
   * [Pop](https://twitter.com/i/topics/810938279801470977)
@@ -435,14 +452,34 @@ Olahraga
     * [Ukraina](https://twitter.com/i/topics/731226241089445888)
   * Olimpiade
     * [Olimpiade](https://twitter.com/i/topics/1237760060828213249)
+    * Atlit olimpiade
+      * [Anthony Sinisuka Ginting](https://twitter.com/i/topics/1277752707005083648)
+      * [Apriyani Rahayu](https://twitter.com/i/topics/1397216364985683968)
+      * [Gregoria Mariska Tunjung](https://twitter.com/i/topics/1397215532001103873)
+      * [Greysia Polii](https://twitter.com/i/topics/1397214923743121409)
+      * [Hendra Setiawan](https://twitter.com/i/topics/1397212406166614016)
+      * [Jonatan Christie](https://twitter.com/i/topics/1277753555374358530)
+      * [Kevin Sanjaya Sukamuljo](https://twitter.com/i/topics/1397206236496494592)
+      * [Marcus Gideon](https://twitter.com/i/topics/1397204921288597506)
+      * [Melati Daeva Oktavianti](https://twitter.com/i/topics/1397218091663183872)
+      * [Mohammad Ahsan](https://twitter.com/i/topics/1397210760690896896)
+      * [Nurul Akmal](https://twitter.com/i/topics/1410017196890234880)
+      * [Praveen Jordan](https://twitter.com/i/topics/1397217530079375361)
+    * [Olimpiade angkat besi](https://twitter.com/i/topics/1392946744896360450)
     * [Olimpiade Bulu tangkis](https://twitter.com/i/topics/1390314931963133955)
   * [Piala Dunia FIFA](https://twitter.com/i/topics/1304474187961044993)
+* Balap mobil
+  * [Balap mobil](https://twitter.com/i/topics/847900599387430912)
+  * [Formula 1](https://twitter.com/i/topics/854701577994616832)
 * [Berita olahraga](https://twitter.com/i/topics/840160112325021696)
 * Bola basket
   * [Bola basket](https://twitter.com/i/topics/706083902411055104)
   * [IBL Indonesia](https://twitter.com/i/topics/1350032094487998467)
   * [NBA](https://twitter.com/i/topics/706083889454813185)
-* [Bulu tangkis](https://twitter.com/i/topics/1068221474815668224)
+* Bulu tangkis
+  * [Bulu tangkis](https://twitter.com/i/topics/1068221474815668224)
+  * [Anthony Sinisuka Ginting](https://twitter.com/i/topics/1277752707005083648)
+  * [Jonatan Christie](https://twitter.com/i/topics/1277753555374358530)
 * Sepakbola
   * [Sepakbola](https://twitter.com/i/topics/733756536430809088)
   * Bundesliga
@@ -588,6 +625,8 @@ Permainan
 * Video Game
   * [Video Game](https://twitter.com/i/topics/1070028159964262400)
   * [Genshin Impact](https://twitter.com/i/topics/1310987643765678083)
+  * Minecraft
+    * [Dream SMP](https://twitter.com/i/topics/1390814121650647040)
   * [Mobile Legends](https://twitter.com/i/topics/1178803760472064000)
 
 Rumah & keluarga
@@ -597,7 +636,9 @@ Rumah & keluarga
 * Di rumah
   * [Belajar](https://twitter.com/i/topics/1397979707723845641)
   * [Hewan Peliharaan](https://twitter.com/i/topics/852262932607926273)
-  * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
+  * Masak-memasak
+    * [Masak-memasak](https://twitter.com/i/topics/831530561680191490)
+    * [Inspirasi makanan](https://twitter.com/i/topics/859532072813158400)
 * Keluarga
   * [Parenting](https://twitter.com/i/topics/847547282010497024)
   * [Pernikahan](https://twitter.com/i/topics/847896684638097408)
@@ -634,6 +675,7 @@ Seni & budaya
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
 * Seni
   * [Seni](https://twitter.com/i/topics/1265660441822281728)
+  * [Fotografi](https://twitter.com/i/topics/847869714860605440)
   * Seni visual
     * [Seni visual](https://twitter.com/i/topics/1046577790353428480)
     * Menggambar & ilustrasi
@@ -654,3 +696,4 @@ Teknologi
   * [Netflix](https://twitter.com/i/topics/10026367762)
   * [Samsung](https://twitter.com/i/topics/10026364234)
   * [Shopee](https://twitter.com/i/topics/1173620900249231360)
+  * [Xiaomi](https://twitter.com/i/topics/10041367948)
