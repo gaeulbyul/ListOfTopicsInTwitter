@@ -95,10 +95,13 @@ Eğlence
       * Dram
         * [Doğduğun Ev Kaderindir](https://twitter.com/i/topics/1377630101962072065)
         * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
+      * Suç draması 
+        * [La Casa de Papel](https://twitter.com/i/topics/1255912442166603776)
     * Fantastik bilim kurgu televizyon showları
       * [Loki](https://twitter.com/i/topics/1380084686442045442)
     * Komedi TV dizileri
       * İş yeri komedisi
+        * [Brooklyn Nine-Nine](https://twitter.com/i/topics/1223678020487016449)
         * [The Office](https://twitter.com/i/topics/1260620703973257216)
       * Komedi-dram dizileri
         * [Menajerimi Ara](https://twitter.com/i/topics/1381202763309228032)
@@ -160,7 +163,6 @@ Eğlence
       * [Akın Akınözü](https://twitter.com/i/topics/1418550113882951695)
       * [Alina Boz](https://twitter.com/i/topics/1392140714679537723)
       * [Alperen Durmaz](https://twitter.com/i/topics/1396833121895555074)
-      * [Aras Bulut İynemli](https://twitter.com/i/topics/1414573540846706689)
       * [Aras Bulut İynemli](https://twitter.com/i/topics/1390713673115586566)
       * [Ayça Ayşin Turan](https://twitter.com/i/topics/1418305534520741890)
       * [Bensu Soral](https://twitter.com/i/topics/1405127292850823170)
@@ -461,7 +463,9 @@ Spor
   * Copa Libertadores
     * [River Plate](https://twitter.com/i/topics/731226256599998464)
   * EFL Championship
-    * [Okay Yokuşlu](https://twitter.com/i/topics/733773900413206528)
+    * [EFL Championship](https://twitter.com/i/topics/733756525693440001)
+    * West Bromwich Albion
+      * [Okay Yokuşlu](https://twitter.com/i/topics/733773900413206528)
   * Erkek milli futbol takımları
     * [Erkek milli futbol takımları](https://twitter.com/i/topics/1100397500890996736)
     * Almanya
@@ -602,7 +606,6 @@ Spor
     * Barcelona FC
       * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
       * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
-      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
     * Getafe CF
       * [Enes Ünal](https://twitter.com/i/topics/733774682848006145)
     * Real Madrid CF
@@ -623,6 +626,7 @@ Spor
     * Paris Saint-Germain
       * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
       * [Kylian Mbappe](https://twitter.com/i/topics/733774119699779584)
+      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Marco Verratti](https://twitter.com/i/topics/733774417734459393)
     * Stade Rennais FC
       * [Jeremy Doku](https://twitter.com/i/topics/1067209828764856320)
@@ -673,8 +677,6 @@ Spor
       * [Pierre Hojbjerg](https://twitter.com/i/topics/733774264587812864)
     * West Ham United
       * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
-  * Primeira Liga
-    * [Valentin Rosier](https://twitter.com/i/topics/748794240562372608)
   * Serie A
     * [Serie A](https://twitter.com/i/topics/733756520261767169)
     * AC Milan
@@ -712,7 +714,7 @@ Spor
       * [Mert Müldür](https://twitter.com/i/topics/1025848632958844929)
   * Süper Lig
     * [Süper Lig](https://twitter.com/i/topics/733756526075121664)
-    * [Altay SK](https://twitter.com/i/topics/1397650338371424256)
+    * [Altay S.K.](https://twitter.com/i/topics/1397650338371424256)
     * Aytemiz Alanyaspor
       * [Aytemiz Alanyaspor](https://twitter.com/i/topics/756103897823928320)
       * [Efecan Karaca](https://twitter.com/i/topics/757611796840652801)
@@ -726,6 +728,7 @@ Spor
       * [Rachid Ghezzal](https://twitter.com/i/topics/733774328077025280)
       * [Rıdvan Yılmaz](https://twitter.com/i/topics/1068326702378414080)
       * [Sergen Yalçın](https://twitter.com/i/topics/733774680520200192)
+      * [Valentin Rosier](https://twitter.com/i/topics/748794240562372608)
       * [Vincent Aboubakar](https://twitter.com/i/topics/733774159822520320)
     * [Denizlispor](https://twitter.com/i/topics/1392212200874381313)
     * [Fatih Karagümrük S.K.](https://twitter.com/i/topics/1392198527032328192)
@@ -898,9 +901,6 @@ Spor
       * [Gianluigi Donnarumma](https://twitter.com/i/topics/733774118978363393)
       * [Hakan Çalhanoğlu](https://twitter.com/i/topics/733774021007839232)
       * [Simon Kjaer](https://twitter.com/i/topics/733774193670524928)
-    * Arsenal
-      * [Arsenal](https://twitter.com/i/topics/731226241894752257)
-      * [Bukayo Saka](https://twitter.com/i/topics/1068326513798373376)
     * AS Roma
       * [Bruno Peres](https://twitter.com/i/topics/733773862307954688)
       * [Leonardo Spinazzola](https://twitter.com/i/topics/733773735790972929)
@@ -925,8 +925,6 @@ Spor
       * [Luke Shaw](https://twitter.com/i/topics/733773805806460928)
       * [Marcus Rashford](https://twitter.com/i/topics/733774012434677760)
       * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
-    * Sporting CP
-      * [Valentin Rosier](https://twitter.com/i/topics/748794240562372608)
     * SSC Napoli
       * [Giovanni Di Lorenzo](https://twitter.com/i/topics/733773858650521600)
       * [Lorenzo Insigne](https://twitter.com/i/topics/733774047180263424)
@@ -944,7 +942,6 @@ Spor
     * Barcelona FC
       * [Barcelona FC](https://twitter.com/i/topics/731226255836598272)
       * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
-      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
     * [Bayern Münih](https://twitter.com/i/topics/731226192859172864)
     * Borussia Dortmund
       * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
@@ -980,6 +977,7 @@ Spor
     * Paris Saint-Germain
       * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
       * [Kylian Mbappe](https://twitter.com/i/topics/733774119699779584)
+      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Marco Verratti](https://twitter.com/i/topics/733774417734459393)
     * [RB Leipzig](https://twitter.com/i/topics/731226214627581952)
     * Real Madrid CF
@@ -1229,8 +1227,7 @@ Spor
     * [Çağla Büyükakçay](https://twitter.com/i/topics/1369395086736257025)
 * Voleybol
   * [Voleybol](https://twitter.com/i/topics/847903333297799169)
-  * Filenin Sultanları
-    * [Filenin Sultanları](https://twitter.com/i/topics/1401688793585885186)
+  * Avrupa Kadınlar Voleybol Şampiyonası
     * [Cansu Özbay](https://twitter.com/i/topics/1410017177734815744)
     * [Ebrar Karakurt](https://twitter.com/i/topics/1410017178300993536)
     * [Eda Erdem Dündar](https://twitter.com/i/topics/1401354985749639169)

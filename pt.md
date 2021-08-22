@@ -256,6 +256,7 @@ Entretenimento
       * [Ana Paula Renault](https://twitter.com/i/topics/1042477112249090048)
       * Estrelas do Big Brother Brasil
         * [Estrelas do Big Brother Brasil](https://twitter.com/i/topics/1354796903951601669)
+        * [Juliette Freire](https://twitter.com/i/topics/1354151475140718592)
         * [Sabrina Sato](https://twitter.com/i/topics/834936455378001920)
   * Estrelas do cinema
     * [Estrelas do cinema](https://twitter.com/i/topics/1303714924477128704)
@@ -381,6 +382,7 @@ Entretenimento
   * Serviços de streaming de TV
     * [Serviços de streaming de TV](https://twitter.com/i/topics/1397573214239289349)
     * [Amazon Prime Video](https://twitter.com/i/topics/10045512584)
+    * [Apple TV+](https://twitter.com/i/topics/1417473514433499141)
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [Globoplay](https://twitter.com/i/topics/1407400842030850057)
     * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
@@ -433,6 +435,7 @@ Entretenimento
           * [Big Brother Brasil](https://twitter.com/i/topics/1338927560911024128)
           * Estrelas do Big Brother Brasil
             * [Estrelas do Big Brother Brasil](https://twitter.com/i/topics/1354796903951601669)
+            * [Juliette Freire](https://twitter.com/i/topics/1354151475140718592)
             * [Sabrina Sato](https://twitter.com/i/topics/834936455378001920)
     * Programas de ficção científica & fantasia
       * [American Horror Story](https://twitter.com/i/topics/1223187794899505152)
@@ -461,6 +464,7 @@ Entretenimento
         * [Brooklyn Nine-Nine](https://twitter.com/i/topics/1223678020487016449)
       * Sitcoms
         * [Friends](https://twitter.com/i/topics/1263277663868710912)
+        * [Modern Family](https://twitter.com/i/topics/1272661112517885953)
         * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
       * Séries de comédia dramática 
         * [Cobra Kai](https://twitter.com/i/topics/1312121485587226628)
@@ -506,6 +510,7 @@ Entretenimento
   * [BANANA FISH](https://twitter.com/i/topics/1359965919921885184)
   * [Bob Esponja Calça Quadrada](https://twitter.com/i/topics/1012677353971912704)
   * [Dragon Ball](https://twitter.com/i/topics/1026525069474902017)
+  * [Esquadrão Suicida](https://twitter.com/i/topics/1424820969504313356)
   * [Grandmaster of Demonic Cultivation](https://twitter.com/i/topics/1369791419427164162)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * Harry Potter
@@ -537,6 +542,7 @@ Entretenimento
   * Serviços de streaming de TV
     * [Serviços de streaming de TV](https://twitter.com/i/topics/1397573214239289349)
     * [Amazon Prime Video](https://twitter.com/i/topics/10045512584)
+    * [Apple TV+](https://twitter.com/i/topics/1417473514433499141)
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [Globoplay](https://twitter.com/i/topics/1407400842030850057)
     * [HBO Max](https://twitter.com/i/topics/1188958316933730304)
@@ -639,6 +645,7 @@ Esportes
       * [Rebeca Andrade](https://twitter.com/i/topics/1410001644058660865)
       * [Ricardo Lucarelli Souza](https://twitter.com/i/topics/1410017177307017217)
       * [Robert Scheidt](https://twitter.com/i/topics/1395735902719156229)
+      * [Rosamaria](https://twitter.com/i/topics/1410017177302802432)
       * [Tandara Caixeta](https://twitter.com/i/topics/1410017177311137793)
       * [Thiago Braz](https://twitter.com/i/topics/1395070661106696192)
       * [Ágatha Bednarczuk](https://twitter.com/i/topics/1395075185758195713)
@@ -749,9 +756,7 @@ Esportes
   * La Liga
     * [La Liga](https://twitter.com/i/topics/733756520714752000)
     * [Atletico Madrid](https://twitter.com/i/topics/731226217395818496)
-    * Barcelona
-      * [Barcelona](https://twitter.com/i/topics/731226255836598272)
-      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * [Barcelona](https://twitter.com/i/topics/731226255836598272)
     * Real Madrid
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)
       * [Toni Kroos](https://twitter.com/i/topics/733774448533233665)
@@ -765,6 +770,7 @@ Esportes
     * [Ligue 1](https://twitter.com/i/topics/733756534648274945)
     * Paris Saint-Germain
       * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
+      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
   * [MLS](https://twitter.com/i/topics/733756531309613057)
   * NWSL
@@ -823,9 +829,7 @@ Esportes
   * UEFA Champions League
     * [UEFA Champions League](https://twitter.com/i/topics/733756536875454464)
     * [Atletico Madrid](https://twitter.com/i/topics/731226217395818496)
-    * Barcelona
-      * [Barcelona](https://twitter.com/i/topics/731226255836598272)
-      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * [Barcelona](https://twitter.com/i/topics/731226255836598272)
     * [FC Porto](https://twitter.com/i/topics/731226245392801792)
     * Juventus
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
@@ -833,6 +837,7 @@ Esportes
     * [Man City](https://twitter.com/i/topics/731226203856637952)
     * Paris Saint-Germain
       * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
+      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
     * Real Madrid
       * [Real Madrid](https://twitter.com/i/topics/731226239898259457)

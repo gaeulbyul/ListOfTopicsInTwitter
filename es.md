@@ -441,7 +441,6 @@ Deportes
     * Barcelona
       * [Barcelona](https://twitter.com/i/topics/731226255836598272)
       * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
-      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Marc-Andre ter Stegen](https://twitter.com/i/topics/733774048581148672)
       * [Ousmane Dembele](https://twitter.com/i/topics/733774411136831489)
       * [Sergi Roberto](https://twitter.com/i/topics/733773937339817984)
@@ -449,8 +448,9 @@ Deportes
     * [Cádiz CF](https://twitter.com/i/topics/731226203445592064)
     * [Eibar](https://twitter.com/i/topics/731226172072165378)
     * [Elche CF](https://twitter.com/i/topics/731226167068348416)
-    * [Huesca](https://twitter.com/i/topics/731226246546251778)
+    * [Espanyol](https://twitter.com/i/topics/731226230192672769)
     * [Levante](https://twitter.com/i/topics/731226165780746240)
+    * [Rayo Vallecano](https://twitter.com/i/topics/731226216535990272)
     * Real Betis
       * [Real Betis](https://twitter.com/i/topics/731226227722223616)
       * [Andres Guardado](https://twitter.com/i/topics/733774338919305216)
@@ -475,13 +475,13 @@ Deportes
     * Valencia
       * [Valencia](https://twitter.com/i/topics/731226260098015232)
       * [Jasper Cillessen](https://twitter.com/i/topics/733774525897146368)
-    * [Valladolid](https://twitter.com/i/topics/731226238946185217)
     * [Villarreal](https://twitter.com/i/topics/731226186265726976)
   * LaLiga 2
-    * [Espanyol](https://twitter.com/i/topics/731226230192672769)
+    * [Eibar](https://twitter.com/i/topics/731226172072165378)
     * [Girona](https://twitter.com/i/topics/731226207920881665)
+    * [Huesca](https://twitter.com/i/topics/731226246546251778)
     * [Leganes](https://twitter.com/i/topics/731226166250508288)
-    * [Rayo Vallecano](https://twitter.com/i/topics/731226216535990272)
+    * [Valladolid](https://twitter.com/i/topics/731226238946185217)
   * Liga de Campeones de la UEFA
     * [Liga de Campeones de la UEFA](https://twitter.com/i/topics/733756536875454464)
     * [Atalanta](https://twitter.com/i/topics/731226167089332224)
@@ -496,7 +496,6 @@ Deportes
     * Barcelona
       * [Barcelona](https://twitter.com/i/topics/731226255836598272)
       * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
-      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Marc-Andre ter Stegen](https://twitter.com/i/topics/733774048581148672)
       * [Ousmane Dembele](https://twitter.com/i/topics/733774411136831489)
       * [Sergi Roberto](https://twitter.com/i/topics/733773937339817984)
@@ -506,6 +505,7 @@ Deportes
     * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
     * Chelsea
       * [Petr Cech](https://twitter.com/i/topics/733774585208786944)
+      * [Romelu Lukaku](https://twitter.com/i/topics/733774465377566721)
     * Juventus
       * [Juventus](https://twitter.com/i/topics/731226195937779713)
       * [Alvaro Morata](https://twitter.com/i/topics/733774524194283520)
@@ -522,6 +522,7 @@ Deportes
       * [PSG](https://twitter.com/i/topics/731226166627966976)
       * [Keylor Navas](https://twitter.com/i/topics/733774331923206144)
       * [Kylian Mbappe](https://twitter.com/i/topics/733774119699779584)
+      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
     * RB Leipzig
       * [Dani Olmo](https://twitter.com/i/topics/733774241737244672)
@@ -595,6 +596,7 @@ Deportes
       * [PSG](https://twitter.com/i/topics/731226166627966976)
       * [Keylor Navas](https://twitter.com/i/topics/733774331923206144)
       * [Kylian Mbappe](https://twitter.com/i/topics/733774119699779584)
+      * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
   * MLS
     * [MLS](https://twitter.com/i/topics/733756531309613057)
@@ -611,6 +613,7 @@ Deportes
     * [Arsenal](https://twitter.com/i/topics/731226241894752257)
     * Chelsea
       * [Petr Cech](https://twitter.com/i/topics/733774585208786944)
+      * [Romelu Lukaku](https://twitter.com/i/topics/733774465377566721)
     * Everton
       * [Everton](https://twitter.com/i/topics/731226209913180160)
       * [James Rodriguez](https://twitter.com/i/topics/733774528728289280)
@@ -695,7 +698,6 @@ Deportes
     * Inter de Milán
       * [Inter de Milán](https://twitter.com/i/topics/731226185535881216)
       * [Arturo Vidal](https://twitter.com/i/topics/733774522462015488)
-      * [Romelu Lukaku](https://twitter.com/i/topics/733774465377566721)
     * Juventus
       * [Juventus](https://twitter.com/i/topics/731226195937779713)
       * [Alvaro Morata](https://twitter.com/i/topics/733774524194283520)
@@ -708,7 +710,6 @@ Deportes
   * UEFA Europa League
     * [UEFA Europa League](https://twitter.com/i/topics/733756530479140864)
     * [Ajax](https://twitter.com/i/topics/827104267047571457)
-    * [Arsenal](https://twitter.com/i/topics/731226241894752257)
     * [Manchester United](https://twitter.com/i/topics/731226183572934657)
     * Milán
       * [Milán](https://twitter.com/i/topics/731226162496593920)
@@ -996,6 +997,7 @@ Entretenimiento
   * [BANANA FISH](https://twitter.com/i/topics/1359965919921885184)
   * [Dragon Ball](https://twitter.com/i/topics/1026525069474902017)
   * [El Señor de los Anillos](https://twitter.com/i/topics/1012755727998337024)
+  * [Escuadrón Suicida](https://twitter.com/i/topics/1424820969504313356)
   * [Grandmaster of Demonic Cultivation](https://twitter.com/i/topics/1369791419427164162)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * Harry Potter
