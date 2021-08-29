@@ -496,6 +496,7 @@
     * دبليو دبليو إي
       * [دبليو دبليو إي](https://twitter.com/i/topics/852587148666589184)
       * [راسلمينيا](https://twitter.com/i/topics/1376548378075492355)
+* [الشطرنج](https://twitter.com/i/topics/847869150353440768)
 * [ركوب الدراجات](https://twitter.com/i/topics/847900751321997312)
 * [سباق الخيل والفروسية](https://twitter.com/i/topics/847901716024446977)
 * سباق سيارات
@@ -552,6 +553,9 @@
 * [كرة الطائرة](https://twitter.com/i/topics/847903333297799169)
 * كرة القدم
   * [كرة القدم](https://twitter.com/i/topics/733756536430809088)
+  * UEFA Europa Conference League
+    * [غاريث بيل](https://twitter.com/i/topics/733774612949934080)
+    * [هاري كين](https://twitter.com/i/topics/733773774323994624)
   * الدوري الألماني الدرجة الأولى
     * [الدوري الألماني الدرجة الأولى](https://twitter.com/i/topics/733756521230667776)
     * [باير 04 ليفركوزن](https://twitter.com/i/topics/731226215797784576)
@@ -562,19 +566,12 @@
   * الدوري الأوروبي
     * [إيه سي ميلان](https://twitter.com/i/topics/731226162496593920)
     * [باير 04 ليفركوزن](https://twitter.com/i/topics/731226215797784576)
-    * توتنهام هوتسبير
-      * [توتنهام هوتسبير](https://twitter.com/i/topics/731226239709515778)
-      * [غاريث بيل](https://twitter.com/i/topics/733774612949934080)
-      * [هاري كين](https://twitter.com/i/topics/733773774323994624)
     * [ليستر سيتي](https://twitter.com/i/topics/731226180259434496)
-    * مانشستر يونايتد
-      * [مانشستر يونايتد](https://twitter.com/i/topics/731226183572934657)
-      * [أنتوني مارسيال](https://twitter.com/i/topics/733773978586648576)
-      * [بول بوغبا](https://twitter.com/i/topics/733774467583746049)
-      * [ماركوس راشفورد](https://twitter.com/i/topics/733774012434677760)
-      * [هاري ماغواير](https://twitter.com/i/topics/733774444762554369)
-    * [نادي روما](https://twitter.com/i/topics/731226219417460736)
+    * نادي روما
+      * [نادي روما](https://twitter.com/i/topics/731226219417460736)
+      * [جوزيه مورينيو](https://twitter.com/i/topics/733774577839439872)
     * [نادي نابولي](https://twitter.com/i/topics/731226162530127872)
+    * [وست هام يونايتد](https://twitter.com/i/topics/731226245824815104)
   * الدوري الإسباني لكرة القدم
     * [الدوري الإسباني لكرة القدم](https://twitter.com/i/topics/733756520714752000)
     * [أتلتيكو مدريد](https://twitter.com/i/topics/731226217395818496)
@@ -648,7 +645,9 @@
     * [إنتر ميلان](https://twitter.com/i/topics/731226185535881216)
     * [إيه سي ميلان](https://twitter.com/i/topics/731226162496593920)
     * [نادي أتالانتا](https://twitter.com/i/topics/731226167089332224)
-    * [نادي روما](https://twitter.com/i/topics/731226219417460736)
+    * نادي روما
+      * [نادي روما](https://twitter.com/i/topics/731226219417460736)
+      * [جوزيه مورينيو](https://twitter.com/i/topics/733774577839439872)
     * [نادي نابولي](https://twitter.com/i/topics/731226162530127872)
     * يوفنتوس
       * [يوفنتوس](https://twitter.com/i/topics/731226195937779713)
@@ -775,6 +774,12 @@
       * [رحيم ستيرلينغ](https://twitter.com/i/topics/733774473199915008)
       * [رياض محرز](https://twitter.com/i/topics/733774568595185664)
       * [سيرخيو أغويرو](https://twitter.com/i/topics/733774374658957312)
+    * مانشستر يونايتد
+      * [مانشستر يونايتد](https://twitter.com/i/topics/731226183572934657)
+      * [أنتوني مارسيال](https://twitter.com/i/topics/733773978586648576)
+      * [بول بوغبا](https://twitter.com/i/topics/733774467583746049)
+      * [ماركوس راشفورد](https://twitter.com/i/topics/733774012434677760)
+      * [هاري ماغواير](https://twitter.com/i/topics/733774444762554369)
     * [نادي أتالانتا](https://twitter.com/i/topics/731226167089332224)
     * نادي إشبيلية
       * [نادي إشبيلية](https://twitter.com/i/topics/731226161779335169)

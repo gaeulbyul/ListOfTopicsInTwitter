@@ -515,7 +515,9 @@
     * [アニメ制作会社](https://twitter.com/i/topics/1339352163508600832)
     * [ufotable](https://twitter.com/i/topics/1339376895318638592)
     * [スタジオジブリ](https://twitter.com/i/topics/1115703486639788032)
-    * [ディズニー](https://twitter.com/i/topics/10037284711)
+    * ディズニー
+      * [ディズニー](https://twitter.com/i/topics/10037284711)
+      * [ディズニーのキャラクター](https://twitter.com/i/topics/1425519484371046403)
     * [ピクサー](https://twitter.com/i/topics/1270143733195915264)
     * [京都アニメーション](https://twitter.com/i/topics/1151834667982528513)
   * アニメ監督・プロデューサー・脚本家
@@ -523,6 +525,7 @@
     * [宮崎駿](https://twitter.com/i/topics/1062385593777192960)
     * [手塚治虫](https://twitter.com/i/topics/1339353291902226432)
     * [新海誠](https://twitter.com/i/topics/1132013015690178560)
+    * [細田守](https://twitter.com/i/topics/1133388462504046592)
   * イラストレーション
     * [イラストレーション](https://twitter.com/i/topics/847869251595542528)
     * [人気イラストレーター](https://twitter.com/i/topics/1297745907161509888)
@@ -623,8 +626,11 @@
     * [お笑い芸人](https://twitter.com/i/topics/1103358583696048128)
     * [3時のヒロイン](https://twitter.com/i/topics/1422966410167259138)
     * [ANZEN漫才](https://twitter.com/i/topics/1328790108376481792)
+    * [EXIT](https://twitter.com/i/topics/1425915027819622400)
+    * [NON STYLE](https://twitter.com/i/topics/1062418441158545408)
     * [あばれる君](https://twitter.com/i/topics/1062418441162747905)
     * [おいでやすこが](https://twitter.com/i/topics/1383083225124278273)
+    * [おかずクラブ](https://twitter.com/i/topics/1423357646397067264)
     * [おぎやはぎ](https://twitter.com/i/topics/1272604141257232384)
     * [かが屋](https://twitter.com/i/topics/1422679794781605892)
     * [かまいたち](https://twitter.com/i/topics/1062418440969838594)
@@ -643,6 +649,7 @@
     * [シソンヌ](https://twitter.com/i/topics/1408125208372727809)
     * [ジャングルポケット](https://twitter.com/i/topics/1062418434787405825)
     * [タモリ](https://twitter.com/i/topics/1012352840294002689)
+    * [ダウンタウン](https://twitter.com/i/topics/1272598623386140673)
     * [チョコレートプラネット](https://twitter.com/i/topics/1062418440969809921)
     * [トム・ブラウン](https://twitter.com/i/topics/1422672825442193410)
     * [ナインティナイン](https://twitter.com/i/topics/1382037590757363712)
@@ -651,6 +658,7 @@
     * [ハナコ](https://twitter.com/i/topics/1408137493891883009)
     * [ハライチ](https://twitter.com/i/topics/1420414534607532036)
     * [バナナマン](https://twitter.com/i/topics/1235252756660645889)
+    * [ブラックマヨネーズ](https://twitter.com/i/topics/1062418440974004225)
     * [マヂカルラブリー](https://twitter.com/i/topics/1408154263499329536)
     * [ミルクボーイ](https://twitter.com/i/topics/1422657376654487555)
     * [ロンドンブーツ1号2号](https://twitter.com/i/topics/1062418434783236098)
@@ -670,6 +678,7 @@
     * [岡村隆史](https://twitter.com/i/topics/1163552085335404544)
     * [岩井勇気](https://twitter.com/i/topics/1330943201440452608)
     * [川西賢志郎](https://twitter.com/i/topics/1328784791542538240)
+    * [平成ノブシコブシ](https://twitter.com/i/topics/1425936050313072643)
     * [昴生](https://twitter.com/i/topics/1333476623048327168)
     * [有吉弘行](https://twitter.com/i/topics/810761039801294848)
     * [木村祐一](https://twitter.com/i/topics/1070724836173856768)
@@ -684,6 +693,7 @@
     * [石田明](https://twitter.com/i/topics/1062418434774822912)
     * [秋山竜次](https://twitter.com/i/topics/1062418434779099138)
     * [空気階段](https://twitter.com/i/topics/1422682886944157699)
+    * [笑い飯](https://twitter.com/i/topics/1272947988961226752)
     * [笑福亭鶴瓶](https://twitter.com/i/topics/1157337456846364675)
     * [粗品](https://twitter.com/i/topics/1333405208815104006)
     * [藤井隆](https://twitter.com/i/topics/1333429738103218178)
@@ -949,14 +959,15 @@
   * [放送・制作会社](https://twitter.com/i/topics/1196447585004736512)
   * エンターテイメント会社
     * [サンリオ](https://twitter.com/i/topics/1038116841485303808)
-    * [ディズニー](https://twitter.com/i/topics/10037284711)
+    * ディズニー
+      * [ディズニー](https://twitter.com/i/topics/10037284711)
+      * [ディズニーのキャラクター](https://twitter.com/i/topics/1425519484371046403)
     * [吉本興業](https://twitter.com/i/topics/1035255226717036544)
   * テレビ局
     * [AbemaTV](https://twitter.com/i/topics/989515172690542593)
     * [NHK](https://twitter.com/i/topics/1034881250840915968)
     * [TBSテレビ](https://twitter.com/i/topics/1034890409514655745)
     * [TOKYO MX](https://twitter.com/i/topics/1034891798785617920)
-    * [WOWOW](https://twitter.com/i/topics/1273679509321945088)
     * [テレビ朝日](https://twitter.com/i/topics/1034874547688730624)
     * [テレビ東京](https://twitter.com/i/topics/1034877896068816896)
     * [フジテレビ](https://twitter.com/i/topics/1034889162371911680)
@@ -966,6 +977,7 @@
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [GYAO!](https://twitter.com/i/topics/1034893208998752256)
     * [Netflix](https://twitter.com/i/topics/10026367762)
+    * [WOWOW](https://twitter.com/i/topics/1273679509321945088)
 * 映画・テレビ
   * [映画・テレビ](https://twitter.com/i/topics/1276514328007467008)
   * テレビ
@@ -1172,6 +1184,7 @@
       * [教えてもらう前と後](https://twitter.com/i/topics/1392175382959247372)
       * [有吉の壁](https://twitter.com/i/topics/1407761676598870019)
       * [村上マヨネーズのツッコませて頂きます！](https://twitter.com/i/topics/1390416699376107528)
+      * [東北エリアローカル番組](https://twitter.com/i/topics/1420143928406208515)
       * [林先生が驚く 初耳学!](https://twitter.com/i/topics/1392220155548028929)
       * [櫻井・有吉THE夜会](https://twitter.com/i/topics/1392205093592653824)
       * [水曜どうでしょう](https://twitter.com/i/topics/1390392872185122820)
@@ -1206,6 +1219,7 @@
     * [Disney+](https://twitter.com/i/topics/1116734224898281473)
     * [GYAO!](https://twitter.com/i/topics/1034893208998752256)
     * [Netflix](https://twitter.com/i/topics/10026367762)
+    * [WOWOW](https://twitter.com/i/topics/1273679509321945088)
   * 映画
     * [映画](https://twitter.com/i/topics/1072936713134071808)
     * SF・ファンタジー映画
@@ -1247,6 +1261,7 @@
     * [手塚治虫](https://twitter.com/i/topics/1339353291902226432)
     * [新海誠](https://twitter.com/i/topics/1132013015690178560)
     * [浅沼晋太郎](https://twitter.com/i/topics/1161346885044453376)
+    * [細田守](https://twitter.com/i/topics/1133388462504046592)
     * [蜷川実花](https://twitter.com/i/topics/1136359839813103616)
   * 舞台裏
     * 映画会社
@@ -1991,6 +2006,7 @@
     * [FCバルセロナ](https://twitter.com/i/topics/731226255836598272)
     * Liverpool
       * [ユルゲン・クロップ](https://twitter.com/i/topics/733774752607674369)
+    * [Man Utd](https://twitter.com/i/topics/731226183572934657)
     * [アトレティコ・マドリード](https://twitter.com/i/topics/731226217395818496)
     * セビージャFC
       * [セビージャFC](https://twitter.com/i/topics/731226161779335169)
@@ -2004,11 +2020,11 @@
       * [レアル・マドリード](https://twitter.com/i/topics/731226239898259457)
       * [エデン・アザール](https://twitter.com/i/topics/733774079166046210)
       * [ジネディーヌ・ジダン](https://twitter.com/i/topics/733774359341338625)
+  * UEFAヨーロッパカンファレンスリーグ
+    * [トッテナム・ホットスパー](https://twitter.com/i/topics/731226239709515778)
   * UEFAヨーロッパリーグ
     * [ACミラン](https://twitter.com/i/topics/731226162496593920)
     * [AFCアヤックス](https://twitter.com/i/topics/827104267047571457)
-    * [Man Utd](https://twitter.com/i/topics/731226183572934657)
-    * [トッテナム・ホットスパー](https://twitter.com/i/topics/731226239709515778)
   * UEFA欧州選手権
     * ベルギー
       * [エデン・アザール](https://twitter.com/i/topics/733774079166046210)
@@ -2213,7 +2229,23 @@
       * [須崎優衣](https://twitter.com/i/topics/1410001878067277825)
       * [高橋英輝](https://twitter.com/i/topics/1409998818750320642)
     * [日本オリンピック代表](https://twitter.com/i/topics/1408523202934964224)
-  * [パラリンピック](https://twitter.com/i/topics/1300458642202742784)
+  * パラリンピック
+    * [パラリンピック](https://twitter.com/i/topics/1300458642202742784)
+    * [オーストラリアパラリンピック代表](https://twitter.com/i/topics/1425203415576039425)
+    * [パラリンピック　アーチェリー](https://twitter.com/i/topics/1423628712537333761)
+    * [パラリンピック　カヌー](https://twitter.com/i/topics/1423629232702246923)
+    * [パラリンピック　テコンドー](https://twitter.com/i/topics/1423630662909665286)
+    * [パラリンピック　トライアスロン](https://twitter.com/i/topics/1423630895949307911)
+    * [パラリンピック　ボート](https://twitter.com/i/topics/1423629887458316288)
+    * [パラリンピック　卓球](https://twitter.com/i/topics/1423630599919570950)
+    * [パラリンピック　競泳](https://twitter.com/i/topics/1423630540121329667)
+    * [パラリンピック　自転車](https://twitter.com/i/topics/1423629335521480706)
+    * [パラリンピック　車いすテニス](https://twitter.com/i/topics/1423631350003687425)
+    * [パラリンピック　車いすバスケットボール](https://twitter.com/i/topics/1423631026815832064)
+    * [パラリンピック　車いすフェンシング](https://twitter.com/i/topics/1423631156205871107)
+    * [パラリンピック　車いすラグビー](https://twitter.com/i/topics/1423631258895065090)
+    * [パラリンピック　陸上](https://twitter.com/i/topics/1423628881408319489)
+    * [日本パラリンピック代表](https://twitter.com/i/topics/1425203693691957248)
   * [七月場所](https://twitter.com/i/topics/1403454807248044032)
   * [五月場所](https://twitter.com/i/topics/1379466037993762816)
   * [全国高等学校野球選手権大会](https://twitter.com/i/topics/1376655892477734913)

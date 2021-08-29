@@ -8,6 +8,7 @@ Actividades al aire libre
   * [Perros](https://twitter.com/i/topics/853980498816679937)
   * [Pets](https://twitter.com/i/topics/852262932607926273)
   * [Pájaros](https://twitter.com/i/topics/857678661352251392)
+  * [Reptiles](https://twitter.com/i/topics/852638925591949314)
   * [Vida marina](https://twitter.com/i/topics/1129086092202860544)
 * [Ecologismo](https://twitter.com/i/topics/1248631349096767488)
 * [Escalada](https://twitter.com/i/topics/847901134601633792)
@@ -123,6 +124,7 @@ Deportes
 ==========
 
 * [Deportes](https://twitter.com/i/topics/847900493514891265)
+* [Ajedrez](https://twitter.com/i/topics/847869150353440768)
 * [Atletismo](https://twitter.com/i/topics/1046539629501902848)
 * Baloncesto
   * [Baloncesto](https://twitter.com/i/topics/706083902411055104)
@@ -306,6 +308,28 @@ Deportes
     * [Vela olímpica](https://twitter.com/i/topics/1392945932916826113)
     * [Voleibol de playa olímpico](https://twitter.com/i/topics/1390387866321055744)
     * [Voleibol olímpico](https://twitter.com/i/topics/1390337859480014848)
+  * Juegos Paralímpicos
+    * [Juegos Paralímpicos](https://twitter.com/i/topics/1300458642202742784)
+    * [Atletas Paralímpicos](https://twitter.com/i/topics/1423628881408319489)
+    * [Baloncesto en silla de ruedas](https://twitter.com/i/topics/1423631026815832064)
+    * [Ciclismo paralímpico](https://twitter.com/i/topics/1423629335521480706)
+    * [Equipo paralímpico de Argentina](https://twitter.com/i/topics/1425203758502354946)
+    * [Equipo paralímpico de Brasil](https://twitter.com/i/topics/1425203899988725762)
+    * [Equipo paralímpico de Colombia](https://twitter.com/i/topics/1425203963821887496)
+    * [Equipo paralímpico de España](https://twitter.com/i/topics/1425204080763301890)
+    * [Equipo paralímpico de Mexico](https://twitter.com/i/topics/1425204019887153152)
+    * [Fútbol 5 paralímpico](https://twitter.com/i/topics/1423629575137816576)
+    * [Goalball paralímpico](https://twitter.com/i/topics/1423629674903588870)
+    * [Halterofilia Paralímpica](https://twitter.com/i/topics/1423629810962636802)
+    * [Judo paralímpico](https://twitter.com/i/topics/1423629748786192385)
+    * [Natación paralímpica](https://twitter.com/i/topics/1423630540121329667)
+    * [Parabádminton](https://twitter.com/i/topics/1423629011436015622)
+    * [Parataekwondo](https://twitter.com/i/topics/1423630662909665286)
+    * [Remo paralímpico](https://twitter.com/i/topics/1423629887458316288)
+    * [Rugby en silla de ruedas paralímpico](https://twitter.com/i/topics/1423631258895065090)
+    * [Tenis de mesa paralímpico](https://twitter.com/i/topics/1423630599919570950)
+    * [Tenis en silla de ruedas paralímpico](https://twitter.com/i/topics/1423631350003687425)
+    * [Voleibol sentado paralímpico](https://twitter.com/i/topics/1423630461645979649)
   * [Tour de Francia](https://twitter.com/i/topics/1304499179339747328)
   * [Wrestlemania](https://twitter.com/i/topics/1376548378075492355)
 * Figuras del deporte
@@ -518,6 +542,7 @@ Deportes
       * [Man City](https://twitter.com/i/topics/731226203856637952)
       * [Bernardo Silva](https://twitter.com/i/topics/733773906872426496)
       * [Pep Guardiola](https://twitter.com/i/topics/733774535133028352)
+    * [Manchester United](https://twitter.com/i/topics/731226183572934657)
     * PSG
       * [PSG](https://twitter.com/i/topics/731226166627966976)
       * [Keylor Navas](https://twitter.com/i/topics/733774331923206144)
@@ -617,6 +642,7 @@ Deportes
     * Everton
       * [Everton](https://twitter.com/i/topics/731226209913180160)
       * [James Rodriguez](https://twitter.com/i/topics/733774528728289280)
+    * [Leeds United](https://twitter.com/i/topics/731226232184954880)
     * Liverpool
       * [Liverpool](https://twitter.com/i/topics/731226219002265600)
       * [Jurgen Klopp](https://twitter.com/i/topics/733774752607674369)
@@ -707,10 +733,12 @@ Deportes
       * [Milán](https://twitter.com/i/topics/731226162496593920)
       * [Zlatan Ibrahimovic](https://twitter.com/i/topics/733773808478232577)
     * [Napoli](https://twitter.com/i/topics/731226162530127872)
+  * UEFA Europa Conference League
+    * [Gareth Bale](https://twitter.com/i/topics/733774612949934080)
+    * [Sergio Reguilon](https://twitter.com/i/topics/788913196098740225)
   * UEFA Europa League
     * [UEFA Europa League](https://twitter.com/i/topics/733756530479140864)
     * [Ajax](https://twitter.com/i/topics/827104267047571457)
-    * [Manchester United](https://twitter.com/i/topics/731226183572934657)
     * Milán
       * [Milán](https://twitter.com/i/topics/731226162496593920)
       * [Zlatan Ibrahimovic](https://twitter.com/i/topics/733773808478232577)
@@ -718,9 +746,6 @@ Deportes
     * Real Sociedad
       * [Real Sociedad](https://twitter.com/i/topics/731226204074729472)
       * [David Silva](https://twitter.com/i/topics/733774489293459457)
-    * Tottenham
-      * [Gareth Bale](https://twitter.com/i/topics/733774612949934080)
-      * [Sergio Reguilon](https://twitter.com/i/topics/788913196098740225)
     * [Villarreal](https://twitter.com/i/topics/731226186265726976)
 * Fútbol americano
   * [Fútbol americano](https://twitter.com/i/topics/689566306014617600)
@@ -1122,6 +1147,7 @@ Entretenimiento
         * [Survivor México](https://twitter.com/i/topics/1356687403713368065)
       * Competición musical
         * [La Academia](https://twitter.com/i/topics/1299898014715113472)
+        * [La Voz Argentina](https://twitter.com/i/topics/1427712926035546112)
         * [La Voz México](https://twitter.com/i/topics/1299899551780798464)
         * [Mask Singer España](https://twitter.com/i/topics/1397257982153396226)
         * [Operación Triunfo](https://twitter.com/i/topics/1299890772381036544)
@@ -1141,6 +1167,7 @@ Entretenimiento
         * [Emily in Paris](https://twitter.com/i/topics/1313814075961339904)
         * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
       * Sitcoms
+        * [Sitcoms](https://twitter.com/i/topics/1281311675845447680)
         * [Friends](https://twitter.com/i/topics/1263277663868710912)
         * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
     * Series de drama

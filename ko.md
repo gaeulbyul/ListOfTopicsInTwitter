@@ -321,7 +321,9 @@ Only on Twitter
 * 스포츠인
   * [김연아](https://twitter.com/i/topics/907688166907191297)
 * 축구
-  * [대구FC](https://twitter.com/i/topics/1103040001783160832)
+  * K리그
+    * [대구FC](https://twitter.com/i/topics/1103040001783160832)
+  * [국제 남자축구 국가대표팀](https://twitter.com/i/topics/1100397500890996736)
 
 아웃도어
 ==========

@@ -66,6 +66,7 @@ Atividades ao ar livre
   * [Gatos](https://twitter.com/i/topics/852263859209478144)
   * [Passaros](https://twitter.com/i/topics/857678661352251392)
   * [Pets](https://twitter.com/i/topics/852262932607926273)
+  * [Répteis](https://twitter.com/i/topics/852638925591949314)
   * [Vida marinha](https://twitter.com/i/topics/1129086092202860544)
 * [Natureza](https://twitter.com/i/topics/1103294729079349250)
 * Surfe
@@ -235,6 +236,7 @@ Entretenimento
       * [Sabrina Sato](https://twitter.com/i/topics/834936455378001920)
       * [Tatá Werneck](https://twitter.com/i/topics/810932146227425280)
     * Atores em novelas
+      * [Atores em novelas](https://twitter.com/i/topics/1303717791946518528)
       * [Adriana Esteves](https://twitter.com/i/topics/913082511604908032)
       * [Alfonso Herrera](https://twitter.com/i/topics/1060263443624681472)
       * [Bruna Marquezine](https://twitter.com/i/topics/877965881468309505)
@@ -428,6 +430,7 @@ Entretenimento
         * [No Limite](https://twitter.com/i/topics/1391796182226137089)
       * Competição musical
         * [RuPaul’s Drag Race](https://twitter.com/i/topics/1263210403007324160)
+        * [The Masked Singer Brasil](https://twitter.com/i/topics/1425921639770820609)
         * [The Voice Brasil](https://twitter.com/i/topics/1300857417526206464)
       * Outras competições
         * [A Fazenda](https://twitter.com/i/topics/1300877051285483520)
@@ -463,6 +466,7 @@ Entretenimento
       * Comédias de escritório
         * [Brooklyn Nine-Nine](https://twitter.com/i/topics/1223678020487016449)
       * Sitcoms
+        * [Sitcoms](https://twitter.com/i/topics/1281311675845447680)
         * [Friends](https://twitter.com/i/topics/1263277663868710912)
         * [Modern Family](https://twitter.com/i/topics/1272661112517885953)
         * [Sex and the City](https://twitter.com/i/topics/1419981250308153345)
@@ -476,6 +480,7 @@ Entretenimento
       * Drama adolescente
         * [Elite](https://twitter.com/i/topics/1271360267478155264)
         * [Love, Victor](https://twitter.com/i/topics/1273575271979814912)
+        * [Outer Banks](https://twitter.com/i/topics/1255216568335609856)
         * [Riverdale](https://twitter.com/i/topics/1223188511358013440)
         * [Teen Wolf](https://twitter.com/i/topics/1267819024559161348)
         * [The Vampire Diaries](https://twitter.com/i/topics/1263580284965945349)
@@ -617,6 +622,26 @@ Esportes
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
   * [Copa do Mundo de Futebol Masculino FIFA](https://twitter.com/i/topics/1304474187961044993)
   * [Draft da NFL](https://twitter.com/i/topics/1373999048424759299)
+  * Jogos Paralímpicos
+    * [Jogos Paralímpicos](https://twitter.com/i/topics/1300458642202742784)
+    * [Atletas Paralímpicos](https://twitter.com/i/topics/1423628881408319489)
+    * [Boccia Paralímpica](https://twitter.com/i/topics/1423629135302168580)
+    * [Ciclismo Paralímpico](https://twitter.com/i/topics/1423629335521480706)
+    * [Esgrima em Cadeira de Rodas Paralímpico](https://twitter.com/i/topics/1423631156205871107)
+    * [Futebol de 5 Paralímpico](https://twitter.com/i/topics/1423629575137816576)
+    * [Goalball Paralímpico](https://twitter.com/i/topics/1423629674903588870)
+    * [Halterofilismo Paralímpico](https://twitter.com/i/topics/1423629810962636802)
+    * [Hipismo Paralímpico](https://twitter.com/i/topics/1423629509014691842)
+    * [Judô Paralímpico](https://twitter.com/i/topics/1423629748786192385)
+    * [Natação Paralímpica](https://twitter.com/i/topics/1423630540121329667)
+    * [Parabadminton](https://twitter.com/i/topics/1423629011436015622)
+    * [Rugby em Cadeira de Rodas Paralímpico](https://twitter.com/i/topics/1423631258895065090)
+    * [Seleção paralímpica do Brasil](https://twitter.com/i/topics/1425203899988725762)
+    * [Taekwondo Paralímpico](https://twitter.com/i/topics/1423630662909665286)
+    * [Triatlo Paralímpico](https://twitter.com/i/topics/1423630895949307911)
+    * [Tênis de Mesa Paralímpico](https://twitter.com/i/topics/1423630599919570950)
+    * [Tênis em Cadeira de Rodas Paralímpico](https://twitter.com/i/topics/1423631350003687425)
+    * [Voleibol Sentado Paralímpico](https://twitter.com/i/topics/1423630461645979649)
   * Liga Europa da UEFA
     * [Liga Europa da UEFA](https://twitter.com/i/topics/1384518599562301449)
     * Alemanha
@@ -781,6 +806,7 @@ Esportes
     * [Red Bull Bragantino](https://twitter.com/i/topics/731226177579274240)
   * Premier League
     * [Premier League](https://twitter.com/i/topics/733756526872006656)
+    * [Leeds United](https://twitter.com/i/topics/731226232184954880)
     * [Liverpool](https://twitter.com/i/topics/731226219002265600)
     * [Man City](https://twitter.com/i/topics/731226203856637952)
     * Manchester United
@@ -825,6 +851,8 @@ Esportes
     * Juventus
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
     * [Milão](https://twitter.com/i/topics/731226162496593920)
+    * Roma
+      * [José Mourinho](https://twitter.com/i/topics/733774577839439872)
   * [Transferências do futebol](https://twitter.com/i/topics/1294019337066438657)
   * UEFA Champions League
     * [UEFA Champions League](https://twitter.com/i/topics/733756536875454464)
@@ -835,6 +863,9 @@ Esportes
       * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
     * [Liverpool](https://twitter.com/i/topics/731226219002265600)
     * [Man City](https://twitter.com/i/topics/731226203856637952)
+    * Manchester United
+      * [Manchester United](https://twitter.com/i/topics/731226183572934657)
+      * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
     * Paris Saint-Germain
       * [Paris Saint-Germain](https://twitter.com/i/topics/731226166627966976)
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
@@ -845,10 +876,9 @@ Esportes
   * UEFA Europa League
     * Bayer Leverkusen
       * [Paulinho](https://twitter.com/i/topics/879231792997253121)
-    * Manchester United
-      * [Manchester United](https://twitter.com/i/topics/731226183572934657)
-      * [Alex Telles](https://twitter.com/i/topics/733773948794458112)
     * [Milão](https://twitter.com/i/topics/731226162496593920)
+    * Roma
+      * [José Mourinho](https://twitter.com/i/topics/733774577839439872)
     * [SL Benfica](https://twitter.com/i/topics/731226171661115392)
     * [Sporting CP](https://twitter.com/i/topics/731226229802569728)
 * Futebol americano
@@ -1549,6 +1579,7 @@ Tecnologia
   * [Apple](https://twitter.com/i/topics/10026364281)
   * [Google](https://twitter.com/i/topics/10026378521)
   * [Netflix](https://twitter.com/i/topics/10026367762)
+  * [Samsung](https://twitter.com/i/topics/10026364234)
   * Social media
     * [Facebook](https://twitter.com/i/topics/10029202045)
     * [TikTok](https://twitter.com/i/topics/1286296657135468545)

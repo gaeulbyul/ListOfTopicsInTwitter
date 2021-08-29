@@ -27,6 +27,8 @@
 ==========
 
 * [खाना](https://twitter.com/i/topics/825047692124442624)
+* क्विज़ीन
+  * [भारतीय क्विजिन](https://twitter.com/i/topics/1307145687067291649)
 
 खेल
 ==========
@@ -71,23 +73,30 @@
     * [रोहित शर्मा](https://twitter.com/i/topics/897829397742272512)
     * [विराट कोहली](https://twitter.com/i/topics/809501049715163136)
 * खेल-कुद प्रतियोगिता
-  * ओलंपिक खिलाडी
-    * [अमित पंघाल](https://twitter.com/i/topics/1397572063687106560)
-    * [दीपिका कुमारी](https://twitter.com/i/topics/1397222152961552384)
-    * [नीरज चोपड़ा](https://twitter.com/i/topics/1409998812676952066)
-    * [बजरंग पुनिया](https://twitter.com/i/topics/1410001881410150404)
-    * [मनप्रीत सिंह](https://twitter.com/i/topics/1410001679315988481)
-    * [मनु भाकर](https://twitter.com/i/topics/1410001824216539141)
-    * [मेरी कोम](https://twitter.com/i/topics/1397580056990388227)
-    * [रानी रामपाल](https://twitter.com/i/topics/1410001679966109699)
-    * [लवलीना बोरगोहेन](https://twitter.com/i/topics/1410001659061694468)
-    * [विनेश फौगाट](https://twitter.com/i/topics/1410001881410129923)
-    * [साइखोम मीराबाई चानू](https://twitter.com/i/topics/1410017194402926594)
-  * [ओलंपिक तीरंदाजी](https://twitter.com/i/topics/1390293773754638338)
-  * [ओलंपिक बैडमिंटन](https://twitter.com/i/topics/1390314931963133955)
-  * [ओलंपिक मुक्केबाजी](https://twitter.com/i/topics/1390392525299490817)
-  * [ओलम्पिक ट्रैक और फील्ड](https://twitter.com/i/topics/1390302799515185159)
-  * [भारत ओलंपिक टीम](https://twitter.com/i/topics/1408486577420918787)
+  * ओलम्पिक खेल
+    * [ओलम्पिक खेल](https://twitter.com/i/topics/1237760060828213249)
+    * ओलंपिक खिलाडी
+      * [अमित पंघाल](https://twitter.com/i/topics/1397572063687106560)
+      * [दीपिका कुमारी](https://twitter.com/i/topics/1397222152961552384)
+      * [नीरज चोपड़ा](https://twitter.com/i/topics/1409998812676952066)
+      * [बजरंग पुनिया](https://twitter.com/i/topics/1410001881410150404)
+      * [मनप्रीत सिंह](https://twitter.com/i/topics/1410001679315988481)
+      * [मनु भाकर](https://twitter.com/i/topics/1410001824216539141)
+      * [मेरी कोम](https://twitter.com/i/topics/1397580056990388227)
+      * [रवि कुमार दहिया](https://twitter.com/i/topics/1425786239764951040)
+      * [रानी रामपाल](https://twitter.com/i/topics/1410001679966109699)
+      * [लवलीना बोरगोहेन](https://twitter.com/i/topics/1410001659061694468)
+      * [विनेश फौगाट](https://twitter.com/i/topics/1410001881410129923)
+      * [साइखोम मीराबाई चानू](https://twitter.com/i/topics/1410017194402926594)
+    * [ओलंपिक तीरंदाजी](https://twitter.com/i/topics/1390293773754638338)
+    * [ओलंपिक बैडमिंटन](https://twitter.com/i/topics/1390314931963133955)
+    * [ओलंपिक मुक्केबाजी](https://twitter.com/i/topics/1390392525299490817)
+    * [ओलम्पिक ट्रैक और फील्ड](https://twitter.com/i/topics/1390302799515185159)
+    * [भारत ओलंपिक टीम](https://twitter.com/i/topics/1408486577420918787)
+  * पैरालिम्पिक्स
+    * [पैरालिम्पिक्स](https://twitter.com/i/topics/1300458642202742784)
+    * [पैरालंपिक एथलेटिक्स](https://twitter.com/i/topics/1423628881408319489)
+    * [भारत पैरालंपिक टीम](https://twitter.com/i/topics/1425200853284134913)
 * प्रसिद्ध खिलाडी
   * [सचिन तेंदुलकर](https://twitter.com/i/topics/809500398058762240)
   * [सानिया मिर्जा](https://twitter.com/i/topics/809798787031961600)
@@ -100,6 +109,8 @@
 ==========
 
 * [घर और परिवार](https://twitter.com/i/topics/847868745150119936)
+* At home
+  * [संरक्षण और पर्यावरणवाद](https://twitter.com/i/topics/1248631349096767488)
 
 पर्यटन और यात्रा
 ==========
@@ -137,6 +148,7 @@
 
 * [बाहर की गतिविधियाँ](https://twitter.com/i/topics/1277995430236680192)
 * [जानवर](https://twitter.com/i/topics/839543325212319744)
+* [संरक्षण और पर्यावरणवाद](https://twitter.com/i/topics/1248631349096767488)
 
 मनोरंजन
 ==========
@@ -238,6 +250,7 @@
 * [विज्ञान](https://twitter.com/i/topics/854692455005921281)
 * [कृषि](https://twitter.com/i/topics/1087759183565340673)
 * [मौसम](https://twitter.com/i/topics/857083369514876928)
+* [संरक्षण और पर्यावरणवाद](https://twitter.com/i/topics/1248631349096767488)
 
 व्यापार और वित्त
 ==========
