@@ -8,6 +8,7 @@ Only on Twitter
 게임
 ==========
 
+* [게임](https://twitter.com/i/topics/847527650667094017)
 * e스포츠
   * e스포츠
     * [Team One](https://twitter.com/i/topics/927940232573468675)
@@ -21,10 +22,12 @@ Only on Twitter
   * [제5인격](https://twitter.com/i/topics/1105532158465040384)
   * [테일즈위버](https://twitter.com/i/topics/1037757168294887424)
   * [파이어 엠블렘](https://twitter.com/i/topics/1128368363086929920)
+  * [포켓몬](https://twitter.com/i/topics/10045599546)
 
 뮤직
 ==========
 
+* [뮤직](https://twitter.com/i/topics/847524658970636288)
 * Hip hop
   * [박재범](https://twitter.com/i/topics/895670242256404481)
 * K-POP
@@ -323,7 +326,11 @@ Only on Twitter
 * 축구
   * K리그
     * [대구FC](https://twitter.com/i/topics/1103040001783160832)
+  * UEFA 유로파컨퍼런스리그
+    * [손흥민](https://twitter.com/i/topics/733773912060747777)
   * [국제 남자축구 국가대표팀](https://twitter.com/i/topics/1100397500890996736)
+  * 프리미어 리그
+    * [손흥민](https://twitter.com/i/topics/733773912060747777)
 
 아웃도어
 ==========
@@ -334,24 +341,37 @@ Only on Twitter
 에니메·만화
 ==========
 
-* [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
-* [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
-* [은혼](https://twitter.com/i/topics/1017779899019378689)
+* [에니메·만화](https://twitter.com/i/topics/1297951101136732160)
+* 만화
+  * [웹툰](https://twitter.com/i/topics/1308511162783334400)
+* 만화책
+  * [웹툰](https://twitter.com/i/topics/1308511162783334400)
+* 애니메
+  * [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
+  * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
+  * [은혼](https://twitter.com/i/topics/1017779899019378689)
+  * [포켓몬](https://twitter.com/i/topics/10045599546)
 
 엔터테인먼트
 ==========
 
+* [엔터테인먼트](https://twitter.com/i/topics/839544274442051584)
 * 엔터테인먼트 프렌차이즈
   * [마블 유니버스](https://twitter.com/i/topics/1002576732971384832)
   * [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
   * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
   * [은혼](https://twitter.com/i/topics/1017779899019378689)
+  * [포켓몬](https://twitter.com/i/topics/10045599546)
   * [해리포터](https://twitter.com/i/topics/933033311844286464)
 * 영화・TV
   * TV
-    * [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
-    * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
-    * [은혼](https://twitter.com/i/topics/1017779899019378689)
+    * 애니메
+      * [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
+      * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
+      * [은혼](https://twitter.com/i/topics/1017779899019378689)
+      * [포켓몬](https://twitter.com/i/topics/10045599546)
+    * 어린이·가족TV
+      * [포켓몬](https://twitter.com/i/topics/10045599546)
   * 영화
     * [해리포터](https://twitter.com/i/topics/933033311844286464)
 * 유명인
@@ -391,10 +411,13 @@ Only on Twitter
 예술・문화
 ==========
 
+* [예술・문화](https://twitter.com/i/topics/1280550787207147521)
 * SF
   * [해리포터](https://twitter.com/i/topics/933033311844286464)
 * 댄스
   * [발레](https://twitter.com/i/topics/1075097515064623104)
+* 만화
+  * [웹툰](https://twitter.com/i/topics/1308511162783334400)
 * 미술
   * [드로잉·일러스트](https://twitter.com/i/topics/847869251595542528)
 * 애니
@@ -403,7 +426,20 @@ Only on Twitter
     * [뱅드림!](https://twitter.com/i/topics/1004022548147798016)
     * [앙상블 스타즈](https://twitter.com/i/topics/855325348233269251)
     * [은혼](https://twitter.com/i/topics/1017779899019378689)
+    * [포켓몬](https://twitter.com/i/topics/10045599546)
 * [연극](https://twitter.com/i/topics/1047537435855319040)
+
+푸드
+==========
+
+* [푸드](https://twitter.com/i/topics/825047692124442624)
+* [도시락](https://twitter.com/i/topics/1395124735625764864)
+* [비거니즘 (Veganism)](https://twitter.com/i/topics/860145749463506944)
+* 요리
+  * [한식](https://twitter.com/i/topics/1395109820571656195)
+* 음료
+  * [차(茶)](https://twitter.com/i/topics/850450940213592064)
+  * [카페](https://twitter.com/i/topics/1418291134049120259)
 
 홈·패밀리
 ==========

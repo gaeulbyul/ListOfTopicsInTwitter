@@ -4,7 +4,10 @@ Anime & manga
 
 * [Anime & manga](https://twitter.com/i/topics/1297951101136732160)
 * Anime
+  * [Anime](https://twitter.com/i/topics/839543165002506240)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+  * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
+  * [Pokemon](https://twitter.com/i/topics/10045599546)
 
 Bilim
 ==========
@@ -25,13 +28,258 @@ Dış mekanlar
 * [Dış mekanlar](https://twitter.com/i/topics/1277995430236680192)
 * Hayvanlar
   * [Hayvanlar](https://twitter.com/i/topics/839543325212319744)
+  * [Evcil hayvanlar](https://twitter.com/i/topics/852262932607926273)
   * [Kediler](https://twitter.com/i/topics/852263859209478144)
   * [Köpekler](https://twitter.com/i/topics/853980498816679937)
+
+Etkinlikler
+==========
+
+* Eğlenceli etkinlikler
+  * Müzik etkinlikleri
+    * [Eurovision](https://twitter.com/i/topics/1389585940369199109)
+  * Sinema ve televizyon etkinlikleri
+    * Film festivalleri
+      * [Cannes Film Festivali](https://twitter.com/i/topics/1298178090057703424)
+      * [İstanbul Film Festivali](https://twitter.com/i/topics/1395725493740052481)
+    * [Oscar Ödülleri](https://twitter.com/i/topics/1222619725877796864)
+* Moda etkinlikleri
+  * [Met Gala](https://twitter.com/i/topics/1381646180157812736)
+* Spor etkinlikleri
+  * [Spor etkinlikleri](https://twitter.com/i/topics/1286401121641103360)
+  * [Copa América](https://twitter.com/i/topics/1304491707317141504)
+  * [EuroLeague Final Four](https://twitter.com/i/topics/1389996253405093889)
+  * [FIFA Dünya Kupası](https://twitter.com/i/topics/1304474187961044993)
+  * [Fransa Açık](https://twitter.com/i/topics/1304494995273969665)
+  * Olimpiyat Oyunları
+    * [Olimpiyat Oyunları](https://twitter.com/i/topics/1237760060828213249)
+    * [Olimpik Atletizm](https://twitter.com/i/topics/1390302799515185159)
+    * [Olimpik Atıcılık](https://twitter.com/i/topics/1392946020170944517)
+    * [Olimpik Badminton](https://twitter.com/i/topics/1390314931963133955)
+    * [Olimpik Basketbol](https://twitter.com/i/topics/1390331651188682753)
+    * [Olimpik Bisiklet](https://twitter.com/i/topics/1392944904611930114)
+    * [Olimpik Boks](https://twitter.com/i/topics/1390392525299490817)
+    * [Olimpik Cimnastik](https://twitter.com/i/topics/1390298740691329027)
+    * [Olimpik Eskrim](https://twitter.com/i/topics/1390693400827949059)
+    * [Olimpik Futbol](https://twitter.com/i/topics/1392945361518403584)
+    * [Olimpik Güreş](https://twitter.com/i/topics/1392946816426020864)
+    * [Olimpik Halter](https://twitter.com/i/topics/1392946744896360450)
+    * [Olimpik Hentbol](https://twitter.com/i/topics/1390689133094342662)
+    * [Olimpik Judo](https://twitter.com/i/topics/1392945588853886977)
+    * [Olimpik Karate](https://twitter.com/i/topics/1392945665068572673)
+    * [Olimpik Kürek](https://twitter.com/i/topics/1391865981748715521)
+    * [Olimpik Masa Tenisi](https://twitter.com/i/topics/1390700779233705985)
+    * [Olimpik Modern Pentatlon](https://twitter.com/i/topics/1391867835551342592)
+    * [Olimpik Okçuluk](https://twitter.com/i/topics/1390293773754638338)
+    * [Olimpik Sörf](https://twitter.com/i/topics/1392946273741725700)
+    * [Olimpik Tekvando](https://twitter.com/i/topics/1392946428415074304)
+    * [Olimpik Tenis](https://twitter.com/i/topics/1390697594955833350)
+    * [Olimpik Triatlon](https://twitter.com/i/topics/1392946515652407296)
+    * [Olimpik Voleybol](https://twitter.com/i/topics/1390337859480014848)
+    * [Olimpik Yelken](https://twitter.com/i/topics/1392945932916826113)
+    * [Olimpik Yüzme](https://twitter.com/i/topics/1392946342394167301)
+    * Olimpiyat atletleri
+      * [Olimpiyat atletleri](https://twitter.com/i/topics/1392932986035732481)
+      * [Adem Asil](https://twitter.com/i/topics/1400818486713016324)
+      * [Ahmet Önder](https://twitter.com/i/topics/1398574440586248195)
+      * [Ahmet Örken](https://twitter.com/i/topics/1410001718385864707)
+      * [Ali Sofuoğlu](https://twitter.com/i/topics/1401298113705299970)
+      * [Alican Kaynar](https://twitter.com/i/topics/1401309755642040320)
+      * [Ateş Çınar](https://twitter.com/i/topics/1401308108870221826)
+      * [Bayram Malkan](https://twitter.com/i/topics/1410001663998369792)
+      * [Beril Böcekler](https://twitter.com/i/topics/1401830095203954689)
+      * [Berkay Ömer Öğretir](https://twitter.com/i/topics/1401314338887983106)
+      * [Berke Saka](https://twitter.com/i/topics/1410017144910147586)
+      * [Beste Kaynakçı](https://twitter.com/i/topics/1401833684479614979)
+      * [Buse Naz Çakıroğlu](https://twitter.com/i/topics/1397162455705350145)
+      * [Busenaz Sürmeneli](https://twitter.com/i/topics/1397158922071379968)
+      * [Cansu Özbay](https://twitter.com/i/topics/1410017177734815744)
+      * [Defne Taçyıldız](https://twitter.com/i/topics/1410017144973062148)
+      * [Deniz Çınar](https://twitter.com/i/topics/1401303353070551041)
+      * [Dilara Uralp](https://twitter.com/i/topics/1410001649381253122)
+      * [Ebrar Karakurt](https://twitter.com/i/topics/1410017178300993536)
+      * [Ecem Güzel](https://twitter.com/i/topics/1401310982769545216)
+      * [Eda Erdem Dündar](https://twitter.com/i/topics/1401354985749639169)
+      * [Eda Tuğsuz](https://twitter.com/i/topics/1401291825751552003)
+      * [Emre Sakçı](https://twitter.com/i/topics/1401317854574649346)
+      * [Eray Şamdan](https://twitter.com/i/topics/1410001711637225476)
+      * [Esra Yıldız](https://twitter.com/i/topics/1401670114911522818)
+      * [Evin Demirhan](https://twitter.com/i/topics/1410001886497759234)
+      * [Ferhat Arıcan](https://twitter.com/i/topics/1400727558853861376)
+      * [Hakan Reçber](https://twitter.com/i/topics/1410017070922670081)
+      * [Hande Baladın](https://twitter.com/i/topics/1410017178292609032)
+      * [Hatice Kübra İlgün](https://twitter.com/i/topics/1401319827420061697)
+      * [İbrahim Çolak](https://twitter.com/i/topics/1397226508385615873)
+      * [İrem Karamete](https://twitter.com/i/topics/1397164450768035850)
+      * [Kerem Kamal](https://twitter.com/i/topics/1401360594083614722)
+      * [Meliha İsmailoğlu](https://twitter.com/i/topics/1410017178296877065)
+      * [Meltem Hocaoğlu Akyol](https://twitter.com/i/topics/1401300328033648641)
+      * [Merve Tuncel](https://twitter.com/i/topics/1410017144914411526)
+      * [Meryem Boz](https://twitter.com/i/topics/1410017178292686849)
+      * [Mete Gazoz](https://twitter.com/i/topics/1401583028997038082)
+      * [Mihael Zgank](https://twitter.com/i/topics/1410024760742866945)
+      * [Nafia Kuş](https://twitter.com/i/topics/1401319971196575744)
+      * [Naz Aydemir Akyol](https://twitter.com/i/topics/1401677165347762180)
+      * [Nazlı Savranbaşı](https://twitter.com/i/topics/1400818858437464065)
+      * [Neslihan Yiğit](https://twitter.com/i/topics/1409998796512120832)
+      * [Nur Tatar](https://twitter.com/i/topics/1401319442731048960)
+      * [Nuray Levent](https://twitter.com/i/topics/1410017197863309315)
+      * [Okyanus Arıkan](https://twitter.com/i/topics/1401827751032594436)
+      * [Onat Kazaklı](https://twitter.com/i/topics/1401667736795680769)
+      * [Onur Cavit Biriz](https://twitter.com/i/topics/1401928626442960900)
+      * [Paola Egonu](https://twitter.com/i/topics/1410017174907867138)
+      * [Ramil Guliyev](https://twitter.com/i/topics/1401340680232792064)
+      * [Rukiye Yıldırım](https://twitter.com/i/topics/1401319596410347520)
+      * [Rıza Kayaalp](https://twitter.com/i/topics/1397176670692339713)
+      * [Serap Özçelik Arapoğlu](https://twitter.com/i/topics/1401294396801261568)
+      * [Simge Aköz](https://twitter.com/i/topics/1410017177890004996)
+      * [Süleyman Atlı](https://twitter.com/i/topics/1410001886216744968)
+      * [Süleyman Karadeniz](https://twitter.com/i/topics/1410001886501998595)
+      * [Taha Akgül](https://twitter.com/i/topics/1397165539328360458)
+      * [Tuğba Şenoğlu](https://twitter.com/i/topics/1410017178582061059)
+      * [Yasemin Adar](https://twitter.com/i/topics/1401362471219122178)
+      * [Yasemin Can](https://twitter.com/i/topics/1401825587392520193)
+      * [Yasemin Ecem Anagöz](https://twitter.com/i/topics/1401657384620019713)
+      * [Zehra Güneş](https://twitter.com/i/topics/1410017177889951751)
+      * [Özkan Baltacı](https://twitter.com/i/topics/1401225525448699905)
+      * [Ümitcan Güreş](https://twitter.com/i/topics/1401316363986112513)
+      * [Şeyma Ercan](https://twitter.com/i/topics/1410017178296864769)
+    * [Türkiye Olimpiyat Takımı](https://twitter.com/i/topics/1414956998630678528)
+  * Paralimpik Oyunları
+    * [Paralimpik Oyunları](https://twitter.com/i/topics/1300458642202742784)
+    * [Türkiye Paralimpik Takımı](https://twitter.com/i/topics/1425204136232906756)
+    * [Yasmani Copello Escobar](https://twitter.com/i/topics/1401653690847490049)
+  * UEFA Avrupa Futbol Şampiyonası
+    * [UEFA Avrupa Futbol Şampiyonası](https://twitter.com/i/topics/1384518599562301449)
+    * Almanya
+      * [Almanya](https://twitter.com/i/topics/731226244096741376)
+      * [Mats Hummels](https://twitter.com/i/topics/733774537297289216)
+    * [Avusturya](https://twitter.com/i/topics/731226214627561472)
+    * Belçika
+      * [Belçika](https://twitter.com/i/topics/731226169207455744)
+      * [Jeremy Doku](https://twitter.com/i/topics/1067209828764856320)
+      * [Kevin De Bruyne](https://twitter.com/i/topics/733773989353422849)
+      * [Michy Batshuayi](https://twitter.com/i/topics/733774760035786752)
+    * Danimarka
+      * [Danimarka](https://twitter.com/i/topics/731226203034542080)
+      * [Christian Eriksen](https://twitter.com/i/topics/733774598093688833)
+      * [Kasper Dolberg](https://twitter.com/i/topics/757611825844203521)
+      * [Kasper Schmeichel](https://twitter.com/i/topics/733774317838696449)
+      * [Mikkel Damsgaard](https://twitter.com/i/topics/1010010467735986178)
+      * [Pierre Hojbjerg](https://twitter.com/i/topics/733774264587812864)
+      * [Simon Kjaer](https://twitter.com/i/topics/733774193670524928)
+    * [Finlandiya](https://twitter.com/i/topics/731226241882193921)
+    * Fransa
+      * [Fransa](https://twitter.com/i/topics/731226231832633344)
+      * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
+      * [Karim Benzema](https://twitter.com/i/topics/733774405948448768)
+      * [Kylian Mbappe](https://twitter.com/i/topics/733774119699779584)
+      * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
+    * Galler
+      * [Aaron Ramsey](https://twitter.com/i/topics/733774103778197505)
+    * Hollanda
+      * [Hollanda](https://twitter.com/i/topics/731226240288350208)
+      * [Patrick Van Aanholt](https://twitter.com/i/topics/733773832079581184)
+      * [Ryan Babel](https://twitter.com/i/topics/776161899104784384)
+    * Hırvatistan
+      * [Hırvatistan](https://twitter.com/i/topics/731226259695357952)
+      * [Ante Rebic](https://twitter.com/i/topics/733773823330242560)
+    * İngiltere
+      * [İngiltere](https://twitter.com/i/topics/731226163788402688)
+      * [Bukayo Saka](https://twitter.com/i/topics/1068326513798373376)
+      * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
+      * [Gareth Southgate](https://twitter.com/i/topics/781444472974417920)
+      * [Harry Kane](https://twitter.com/i/topics/733773774323994624)
+      * [Harry Maguire](https://twitter.com/i/topics/733774444762554369)
+      * [Jack Grealish](https://twitter.com/i/topics/733774810828791808)
+      * [John Stones](https://twitter.com/i/topics/733774236720857088)
+      * [Jordan Pickford](https://twitter.com/i/topics/733774566342823936)
+      * [Kalvin Phillips](https://twitter.com/i/topics/733773766258393088)
+      * [Kieran Trippier](https://twitter.com/i/topics/733774381508222976)
+      * [Kyle Walker](https://twitter.com/i/topics/733774336679534592)
+      * [Luke Shaw](https://twitter.com/i/topics/733773805806460928)
+      * [Marcus Rashford](https://twitter.com/i/topics/733774012434677760)
+      * [Mason Mount](https://twitter.com/i/topics/889797387132166144)
+      * [Phil Foden](https://twitter.com/i/topics/806350960108785664)
+      * [Raheem Sterling](https://twitter.com/i/topics/733774473199915008)
+    * İspanya
+      * [İspanya](https://twitter.com/i/topics/731226180259446784)
+      * [David De Gea](https://twitter.com/i/topics/733773869241131008)
+    * [İsveç](https://twitter.com/i/topics/731226252497952768)
+    * [İsviçre](https://twitter.com/i/topics/731226253282312192)
+    * İtalya
+      * [İtalya](https://twitter.com/i/topics/731226194067103744)
+      * [Andrea Belotti](https://twitter.com/i/topics/733774073105240065)
+      * [Ciro Immobile](https://twitter.com/i/topics/733774371966193664)
+      * [Gianluigi Donnarumma](https://twitter.com/i/topics/733774118978363393)
+      * [Giorgio Chiellini](https://twitter.com/i/topics/733774194828152832)
+      * [Giovanni Di Lorenzo](https://twitter.com/i/topics/733773858650521600)
+      * [Jorginho](https://twitter.com/i/topics/733774154906755072)
+      * [Leonardo Bonucci](https://twitter.com/i/topics/733774750325972992)
+      * [Leonardo Spinazzola](https://twitter.com/i/topics/733773735790972929)
+      * [Lorenzo Insigne](https://twitter.com/i/topics/733774047180263424)
+      * [Manuel Locatelli](https://twitter.com/i/topics/733774794450046977)
+      * [Marco Verratti](https://twitter.com/i/topics/733774417734459393)
+      * [Roberto Mancini](https://twitter.com/i/topics/733774720215044097)
+    * [Kuzey Makedonya](https://twitter.com/i/topics/731226221707567104)
+    * [Macaristan](https://twitter.com/i/topics/731226212828221440)
+    * Polonya
+      * [Polonya](https://twitter.com/i/topics/731226245858365440)
+      * [Robert Lewandowski](https://twitter.com/i/topics/733773741813960704)
+    * Portekiz
+      * [Portekiz](https://twitter.com/i/topics/731226180674715648)
+      * [Bruno Fernandes](https://twitter.com/i/topics/733774540707221504)
+      * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
+    * [Rusya](https://twitter.com/i/topics/731226172063801344)
+    * Slovakya
+      * [Slovakya](https://twitter.com/i/topics/731226186685124608)
+      * [Marek Hamsik](https://twitter.com/i/topics/733774339821068289)
+    * Türkiye
+      * [Türkiye](https://twitter.com/i/topics/1376507190584901633)
+      * [Abdülkadir Ömür](https://twitter.com/i/topics/733774650757419009)
+      * [Altay Bayındır](https://twitter.com/i/topics/1196200508429500416)
+      * [Burak Yılmaz](https://twitter.com/i/topics/733774472570802176)
+      * [Cengiz Ünder](https://twitter.com/i/topics/767284058229313537)
+      * [Dorukhan Toköz](https://twitter.com/i/topics/733774557861961728)
+      * [Efecan Karaca](https://twitter.com/i/topics/757611796840652801)
+      * [Enes Ünal](https://twitter.com/i/topics/733774682848006145)
+      * [Gökhan Akkan](https://twitter.com/i/topics/733774484675514369)
+      * [Hakan Çalhanoğlu](https://twitter.com/i/topics/733774021007839232)
+      * [Halil Akbunar](https://twitter.com/i/topics/885181268933058560)
+      * [Halil Dervişoğlu](https://twitter.com/i/topics/1212386597448011777)
+      * [İrfan Can Kahveci](https://twitter.com/i/topics/1364386028631433219)
+      * [Kaan Ayhan](https://twitter.com/i/topics/733774040561680385)
+      * [Kenan Karaman](https://twitter.com/i/topics/733774207859843073)
+      * [Kerem Aktürkoğlu](https://twitter.com/i/topics/1393214293236076552)
+      * [Mahmut Tekdemir](https://twitter.com/i/topics/733774413271687169)
+      * [Merih Demiral](https://twitter.com/i/topics/820373624104198144)
+      * [Mert Günok](https://twitter.com/i/topics/733774451364368384)
+      * [Mert Müldür](https://twitter.com/i/topics/1025848632958844929)
+      * [Okay Yokuşlu](https://twitter.com/i/topics/733773900413206528)
+      * [Orkun Kökçü](https://twitter.com/i/topics/986791084721242112)
+      * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
+      * [Ozan Tufan](https://twitter.com/i/topics/733774214457495552)
+      * [Rıdvan Yılmaz](https://twitter.com/i/topics/1068326702378414080)
+      * [Stefan Kuntz](https://twitter.com/i/topics/1437778136058318848)
+      * [Taylan Antalyalı](https://twitter.com/i/topics/748794245801123840)
+      * [Umut Meraş](https://twitter.com/i/topics/1134152595939872768)
+      * [Uğurcan Çakır](https://twitter.com/i/topics/748794257167622144)
+      * [Yusuf Yazıcı](https://twitter.com/i/topics/733774690632663040)
+      * [Zeki Çelik](https://twitter.com/i/topics/1195267736198250496)
+      * [Çağlar Söyüncü](https://twitter.com/i/topics/733774583006777344)
+      * [Şenol Güneş](https://twitter.com/i/topics/733774242035064832)
+    * [Ukrayna](https://twitter.com/i/topics/731226241089445888)
+    * Çekya
+      * [Çekya](https://twitter.com/i/topics/731226184348880897)
+      * [Patrik Schick](https://twitter.com/i/topics/733774056869089282)
+  * [Wimbledon](https://twitter.com/i/topics/1398025938214952960)
 
 Ev ve aile
 ==========
 
 * [Ev ve aile](https://twitter.com/i/topics/847868745150119936)
+* Evde
+  * [Evcil hayvanlar](https://twitter.com/i/topics/852262932607926273)
 
 Eğlence
 ==========
@@ -64,6 +312,8 @@ Eğlence
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * Marvel Sinematik Evreni
     * [Loki](https://twitter.com/i/topics/1380084686442045442)
+  * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
+  * [Pokemon](https://twitter.com/i/topics/10045599546)
   * [Star Wars](https://twitter.com/i/topics/986247671663898625)
 * Sinema ve televizyon
   * [Sinema ve televizyon](https://twitter.com/i/topics/1276514328007467008)
@@ -85,8 +335,13 @@ Eğlence
     * [Oscar Ödülleri](https://twitter.com/i/topics/1222619725877796864)
   * Televizyon
     * [Televizyon](https://twitter.com/i/topics/1072937043393560576)
+    * Aile ve nostalji
+      * [Pokemon](https://twitter.com/i/topics/10045599546)
     * Anime
+      * [Anime](https://twitter.com/i/topics/839543165002506240)
       * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+      * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
+      * [Pokemon](https://twitter.com/i/topics/10045599546)
     * [Bilgi yarışmaları](https://twitter.com/i/topics/1372667416342192129)
     * Dram dizileri
       * Aile draması
@@ -131,6 +386,7 @@ Eğlence
       * [Fatma](https://twitter.com/i/topics/1387082127125094400)
       * [Hercai](https://twitter.com/i/topics/1381909330828554243)
       * [Kardeşlerim](https://twitter.com/i/topics/1397649813328465921)
+      * [Kazara Aşk](https://twitter.com/i/topics/1438456014018207747)
       * [Kefaret](https://twitter.com/i/topics/1399128380084133891)
       * [Kuruluş Osman](https://twitter.com/i/topics/1383126510412857345)
       * [Kırmızı Oda](https://twitter.com/i/topics/1374342129913237507)
@@ -200,7 +456,12 @@ Eğlence
       * [Çağatay Ulusoy](https://twitter.com/i/topics/1367116541532102663)
       * [Özge Özpirinçci](https://twitter.com/i/topics/1394778655146921985)
   * Ünlü aileler
-    * [Zayn Malik](https://twitter.com/i/topics/806575584386039808)
+    * Hadid'ler
+      * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
+      * [Zayn Malik](https://twitter.com/i/topics/806575584386039808)
+    * Kardashian-Jenner ailesi
+      * [Kendall Jenner](https://twitter.com/i/topics/806576236583489536)
+      * [Kim Kardashian](https://twitter.com/i/topics/806570121959383040)
   * Ünlü müzisyenler
     * [Rihanna](https://twitter.com/i/topics/806558580715311104)
 
@@ -208,19 +469,23 @@ Fitness
 ==========
 
 * [Fitness](https://twitter.com/i/topics/847872878041219072)
-* Cardio
+* Kardiyo
   * [Bisiklet](https://twitter.com/i/topics/847900751321997312)
 
 Gaming
 ==========
 
 * [Gaming](https://twitter.com/i/topics/847527650667094017)
+* [Bilgisayar oyunları](https://twitter.com/i/topics/1174432578503204864)
 * E-spor
   * [E-spor](https://twitter.com/i/topics/839544337360801792)
   * E-spor ligleri
+    * [E-spor ligleri](https://twitter.com/i/topics/1272667416061861888)
     * [VALORANT Champions Tour](https://twitter.com/i/topics/1366454810371743744)
   * [E-spor oyuncuları](https://twitter.com/i/topics/1288168909422518272)
-  * [E-spor takımları](https://twitter.com/i/topics/1272667111932878848)
+  * E-spor takımları
+    * [E-spor takımları](https://twitter.com/i/topics/1272667111932878848)
+    * [SuperMassive Blaze](https://twitter.com/i/topics/1428425032179490816)
 * [Gaming haberleri](https://twitter.com/i/topics/1034501001544257536)
 * Gaming influencer'ları
   * [Gaming influencer'ları](https://twitter.com/i/topics/1146103171086819328)
@@ -239,6 +504,7 @@ Gaming
   * [CSGO](https://twitter.com/i/topics/10045347491)
   * [Genshin Impact](https://twitter.com/i/topics/1310987643765678083)
   * [League of Legends](https://twitter.com/i/topics/10047023523)
+  * [Pokemon](https://twitter.com/i/topics/10045599546)
   * [World of Warcraft](https://twitter.com/i/topics/10044802030)
 
 Haberler
@@ -269,6 +535,11 @@ Haberler
   * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
   * [Dogecoin](https://twitter.com/i/topics/1139229372198469633)
   * [Ethereum](https://twitter.com/i/topics/1007361429752594432)
+  * Kripto para borsaları
+    * [Kripto para borsaları](https://twitter.com/i/topics/1390680741206368263)
+    * [Binance](https://twitter.com/i/topics/1372588659346612225)
+    * [Coinbase](https://twitter.com/i/topics/1370436971940642819)
+  * [Litecoin](https://twitter.com/i/topics/1007351676301242369)
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Yatırım
   * [Hisse ve endeksler](https://twitter.com/i/topics/847894852779900928)
@@ -290,6 +561,10 @@ Moda ve güzellik
 * Moda
   * [Moda](https://twitter.com/i/topics/839543390668673024)
   * [Moda dergileri](https://twitter.com/i/topics/1255877953726017536)
+  * Moda etkinlikleri
+    * [Met Gala](https://twitter.com/i/topics/1381646180157812736)
+  * Moda mankenleri
+    * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
   * Tasarım kıyafetler 
     * [Louis Vuitton](https://twitter.com/i/topics/10040984321)
 
@@ -373,7 +648,10 @@ Sanat ve kültür
   * Animasyon stüdyoları
     * [Disney](https://twitter.com/i/topics/10037284711)
   * Anime
+    * [Anime](https://twitter.com/i/topics/839543165002506240)
     * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+    * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
+    * [Pokemon](https://twitter.com/i/topics/10045599546)
 * Edebiyat ve kitaplar
   * [Edebiyat ve kitaplar](https://twitter.com/i/topics/847519659179954178)
   * Yazarlar
@@ -403,19 +681,30 @@ Seyahat
 ==========
 
 * [Seyahat](https://twitter.com/i/topics/839159814991167489)
+* Hava yolculuğu
+  * [Hava yolculuğu](https://twitter.com/i/topics/849076200261603328)
+  * [Türk Hava Yolları](https://twitter.com/i/topics/865154676961853441)
 * [Müzeler](https://twitter.com/i/topics/1095348424499593216)
 * Seyahat edilecek yerler
+  * [Seyahat edilecek yerler](https://twitter.com/i/topics/857603051657482241)
   * Avrupa seyahati
     * [İstanbul](https://twitter.com/i/topics/1368938385650319360)
   * Orta Doğu seyahati
     * [İstanbul](https://twitter.com/i/topics/1368938385650319360)
 * Ulaşım
-  * [Otomobil markaları](https://twitter.com/i/topics/1196845866138533888)
+  * Otomobil markaları
+    * [Otomobil markaları](https://twitter.com/i/topics/1196845866138533888)
+    * [Audi](https://twitter.com/i/topics/10026403613)
+    * [BMW](https://twitter.com/i/topics/10026490686)
+    * [Mercedes-Benz](https://twitter.com/i/topics/10026364225)
+    * [Renault](https://twitter.com/i/topics/996822597961637888)
+    * [Tesla Motors](https://twitter.com/i/topics/10044199219)
 
 Spor
 ==========
 
 * [Spor](https://twitter.com/i/topics/847900493514891265)
+* [Amerikan futbolu](https://twitter.com/i/topics/689566306014617600)
 * Araba yarışı
   * [Araba yarışı](https://twitter.com/i/topics/847900599387430912)
   * Formula 1
@@ -463,7 +752,9 @@ Spor
     * [Milwaukee Bucks](https://twitter.com/i/topics/706083888871768064)
     * [NBA oyuncuları](https://twitter.com/i/topics/1265692717071265792)
     * [New York Knicks](https://twitter.com/i/topics/706083892525010946)
-    * [Philadelphia 76ers](https://twitter.com/i/topics/706083897759543298)
+    * Philadelphia 76ers
+      * [Philadelphia 76ers](https://twitter.com/i/topics/706083897759543298)
+      * [Furkan Korkmaz](https://twitter.com/i/topics/882417305547751424)
     * Portland Trail Blazers
       * [Enes Kanter](https://twitter.com/i/topics/809849106415767552)
 * [Bisiklet](https://twitter.com/i/topics/847900751321997312)
@@ -471,16 +762,19 @@ Spor
   * [Cimnastik](https://twitter.com/i/topics/875831678505074688)
   * Kadınlar Cimnastik 
     * [Ayşe Begüm Onbaşı](https://twitter.com/i/topics/1398767240665698307)
-* Combat sports
+* Dövüş sporları
   * UFC
     * [UFC](https://twitter.com/i/topics/852221476711186432)
     * [Conor McGregor](https://twitter.com/i/topics/809513770162601984)
 * E-spor
   * [E-spor](https://twitter.com/i/topics/839544337360801792)
   * E-spor ligleri
+    * [E-spor ligleri](https://twitter.com/i/topics/1272667416061861888)
     * [VALORANT Champions Tour](https://twitter.com/i/topics/1366454810371743744)
   * [E-spor oyuncuları](https://twitter.com/i/topics/1288168909422518272)
-  * [E-spor takımları](https://twitter.com/i/topics/1272667111932878848)
+  * E-spor takımları
+    * [E-spor takımları](https://twitter.com/i/topics/1272667111932878848)
+    * [SuperMassive Blaze](https://twitter.com/i/topics/1428425032179490816)
 * Futbol
   * [Futbol](https://twitter.com/i/topics/733756536430809088)
   * 2. Bundesliga
@@ -495,8 +789,11 @@ Spor
       * [Robert Lewandowski](https://twitter.com/i/topics/733773741813960704)
     * Borussia Dortmund
       * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
+      * [Erling Haaland](https://twitter.com/i/topics/827325580764815361)
       * [Mats Hummels](https://twitter.com/i/topics/733774537297289216)
+    * [Eintracht Frankfurt](https://twitter.com/i/topics/731226221481091072)
     * [RB Leipzig](https://twitter.com/i/topics/731226214627581952)
+    * [VfL Wolfsburg](https://twitter.com/i/topics/731226210722713600)
   * Copa Libertadores
     * [River Plate](https://twitter.com/i/topics/731226256599998464)
   * EFL Championship
@@ -627,6 +924,7 @@ Spor
       * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
       * [Ozan Tufan](https://twitter.com/i/topics/733774214457495552)
       * [Rıdvan Yılmaz](https://twitter.com/i/topics/1068326702378414080)
+      * [Stefan Kuntz](https://twitter.com/i/topics/1437778136058318848)
       * [Taylan Antalyalı](https://twitter.com/i/topics/748794245801123840)
       * [Umut Meraş](https://twitter.com/i/topics/1134152595939872768)
       * [Uğurcan Çakır](https://twitter.com/i/topics/748794257167622144)
@@ -730,6 +1028,7 @@ Spor
     * Manchester United
       * [Manchester United](https://twitter.com/i/topics/731226183572934657)
       * [Bruno Fernandes](https://twitter.com/i/topics/733774540707221504)
+      * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
       * [David De Gea](https://twitter.com/i/topics/733773869241131008)
       * [Harry Maguire](https://twitter.com/i/topics/733774444762554369)
       * [Luke Shaw](https://twitter.com/i/topics/733773805806460928)
@@ -750,6 +1049,8 @@ Spor
       * [West Ham United](https://twitter.com/i/topics/731226245824815104)
       * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
     * [Wolves](https://twitter.com/i/topics/731226230196822016)
+  * Rusya Premier Ligi
+    * [FC Zenit](https://twitter.com/i/topics/731226209556660224)
   * Serie A
     * [Serie A](https://twitter.com/i/topics/733756520261767169)
     * AC Milan
@@ -770,15 +1071,16 @@ Spor
     * Juventus FC
       * [Juventus FC](https://twitter.com/i/topics/731226195937779713)
       * [Aaron Ramsey](https://twitter.com/i/topics/733774103778197505)
-      * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
       * [Gianluigi Buffon](https://twitter.com/i/topics/733774324864143362)
       * [Giorgio Chiellini](https://twitter.com/i/topics/733774194828152832)
       * [Leonardo Bonucci](https://twitter.com/i/topics/733774750325972992)
       * [Merih Demiral](https://twitter.com/i/topics/820373624104198144)
     * SS Lazio
+      * [SS Lazio](https://twitter.com/i/topics/731226246546235392)
       * [Ciro Immobile](https://twitter.com/i/topics/733774371966193664)
       * [Vedat Muriqi](https://twitter.com/i/topics/748794265094938626)
     * SSC Napoli
+      * [SSC Napoli](https://twitter.com/i/topics/731226162530127872)
       * [Giovanni Di Lorenzo](https://twitter.com/i/topics/733773858650521600)
       * [Lorenzo Insigne](https://twitter.com/i/topics/733774047180263424)
     * Torino FC
@@ -819,6 +1121,7 @@ Spor
     * Fenerbahçe S.K.
       * [Fenerbahçe S.K.](https://twitter.com/i/topics/1357412483284103168)
       * [Altay Bayındır](https://twitter.com/i/topics/1196200508429500416)
+      * [Arda Güler](https://twitter.com/i/topics/1425921095593447424)
       * [Attila Szalai](https://twitter.com/i/topics/733774312126078977)
       * [Caner Erkin](https://twitter.com/i/topics/733773794544754688)
       * [Cedric Bakambu](https://twitter.com/i/topics/733774803585261569)
@@ -828,14 +1131,17 @@ Spor
       * [Luiz Gustavo](https://twitter.com/i/topics/733774610781462528)
       * [Marcel Tisserand](https://twitter.com/i/topics/733774614577315840)
       * [Mbwana Samatta](https://twitter.com/i/topics/733774828746874880)
+      * [Mert Hakan Yandaş](https://twitter.com/i/topics/885181625717239808)
       * [Mesut Özil](https://twitter.com/i/topics/733774013344845824)
       * [Min-Jae Kim](https://twitter.com/i/topics/902291746259820544)
+      * [Muhammet Gümüşkaya](https://twitter.com/i/topics/1428659412416167945)
       * [Ozan Tufan](https://twitter.com/i/topics/733774214457495552)
       * [Serdar Aziz](https://twitter.com/i/topics/733774158878806018)
     * Galatasaray S.K.
       * [Galatasaray S.K.](https://twitter.com/i/topics/731226251319369728)
       * [Alexandru Cicaldau](https://twitter.com/i/topics/733774478832848896)
       * [Arda Turan](https://twitter.com/i/topics/1156458102872367104)
+      * [DeAndre Yedlin](https://twitter.com/i/topics/733774619325292544)
       * [Fatih Terim](https://twitter.com/i/topics/733774033016094720)
       * [Fernando Muslera](https://twitter.com/i/topics/733774114079444994)
       * [Gedson Fernandes](https://twitter.com/i/topics/1021980345481101312)
@@ -991,6 +1297,7 @@ Spor
       * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
       * [Ozan Tufan](https://twitter.com/i/topics/733774214457495552)
       * [Rıdvan Yılmaz](https://twitter.com/i/topics/1068326702378414080)
+      * [Stefan Kuntz](https://twitter.com/i/topics/1437778136058318848)
       * [Taylan Antalyalı](https://twitter.com/i/topics/748794245801123840)
       * [Umut Meraş](https://twitter.com/i/topics/1134152595939872768)
       * [Uğurcan Çakır](https://twitter.com/i/topics/748794257167622144)
@@ -1010,13 +1317,6 @@ Spor
       * [Pierre Hojbjerg](https://twitter.com/i/topics/733774264587812864)
   * UEFA Avrupa Ligi
     * [UEFA Avrupa Ligi](https://twitter.com/i/topics/733756530479140864)
-    * AC Milan
-      * [AC Milan](https://twitter.com/i/topics/731226162496593920)
-      * [Ante Rebic](https://twitter.com/i/topics/733773823330242560)
-      * [Gianluigi Donnarumma](https://twitter.com/i/topics/733774118978363393)
-      * [Hakan Çalhanoğlu](https://twitter.com/i/topics/733774021007839232)
-      * [Simon Kjaer](https://twitter.com/i/topics/733774193670524928)
-    * [AFC Ajax](https://twitter.com/i/topics/827104267047571457)
     * AS Roma
       * [AS Roma](https://twitter.com/i/topics/731226219417460736)
       * [Bruno Peres](https://twitter.com/i/topics/733773862307954688)
@@ -1032,22 +1332,24 @@ Spor
       * [Cengiz Ünder](https://twitter.com/i/topics/767284058229313537)
       * [Kasper Schmeichel](https://twitter.com/i/topics/733774317838696449)
       * [Çağlar Söyüncü](https://twitter.com/i/topics/733774583006777344)
-    * LOSC
-      * [LOSC](https://twitter.com/i/topics/731226236186284032)
-      * [Burak Yılmaz](https://twitter.com/i/topics/733774472570802176)
-      * [Yusuf Yazıcı](https://twitter.com/i/topics/733774690632663040)
-      * [Zeki Çelik](https://twitter.com/i/topics/1195267736198250496)
     * SSC Napoli
+      * [SSC Napoli](https://twitter.com/i/topics/731226162530127872)
       * [Giovanni Di Lorenzo](https://twitter.com/i/topics/733773858650521600)
       * [Lorenzo Insigne](https://twitter.com/i/topics/733774047180263424)
     * [UEFA Avrupa Ligi transferleri](https://twitter.com/i/topics/1296430268203425793)
-    * [Villarreal CF](https://twitter.com/i/topics/731226186265726976)
     * West Ham United
       * [West Ham United](https://twitter.com/i/topics/731226245824815104)
       * [Declan Rice](https://twitter.com/i/topics/813454796225024000)
     * [Yeni Malatyaspor](https://twitter.com/i/topics/885103550690349056)
   * UEFA Şampiyonlar Ligi
     * [UEFA Şampiyonlar Ligi](https://twitter.com/i/topics/733756536875454464)
+    * AC Milan
+      * [AC Milan](https://twitter.com/i/topics/731226162496593920)
+      * [Ante Rebic](https://twitter.com/i/topics/733773823330242560)
+      * [Gianluigi Donnarumma](https://twitter.com/i/topics/733774118978363393)
+      * [Hakan Çalhanoğlu](https://twitter.com/i/topics/733774021007839232)
+      * [Simon Kjaer](https://twitter.com/i/topics/733774193670524928)
+    * [AFC Ajax](https://twitter.com/i/topics/827104267047571457)
     * [Atalanta BC](https://twitter.com/i/topics/731226167089332224)
     * Atletico Madrid
       * [Atletico Madrid](https://twitter.com/i/topics/731226217395818496)
@@ -1059,14 +1361,34 @@ Spor
     * Bayern Münih
       * [Bayern Münih](https://twitter.com/i/topics/731226192859172864)
       * [Robert Lewandowski](https://twitter.com/i/topics/733773741813960704)
+    * Beşiktaş J.K.
+      * [Beşiktaş J.K.](https://twitter.com/i/topics/731226221703356416)
+      * [Alex Teixeira](https://twitter.com/i/topics/733774543924256768)
+      * [Atiba Hutchinson](https://twitter.com/i/topics/733774666704117761)
+      * [Cenk Tosun](https://twitter.com/i/topics/733774005392412675)
+      * [Cyle Larin](https://twitter.com/i/topics/733774723935395840)
+      * [Dorukhan Toköz](https://twitter.com/i/topics/733774557861961728)
+      * [Georges-Kevin Nkoudou](https://twitter.com/i/topics/733774400521003008)
+      * [Josef de Souza](https://twitter.com/i/topics/733774283143417856)
+      * [Michy Batshuayi](https://twitter.com/i/topics/733774760035786752)
+      * [Rachid Ghezzal](https://twitter.com/i/topics/733774328077025280)
+      * [Rıdvan Yılmaz](https://twitter.com/i/topics/1068326702378414080)
+      * [Sergen Yalçın](https://twitter.com/i/topics/733774680520200192)
+      * [Valentin Rosier](https://twitter.com/i/topics/748794240562372608)
+      * [Vincent Aboubakar](https://twitter.com/i/topics/733774159822520320)
     * Borussia Dortmund
       * [Borussia Dortmund](https://twitter.com/i/topics/731226218155016192)
+      * [Erling Haaland](https://twitter.com/i/topics/827325580764815361)
       * [Mats Hummels](https://twitter.com/i/topics/733774537297289216)
     * Chelsea FC
       * [Chelsea FC](https://twitter.com/i/topics/731226204225708033)
       * [Jorginho](https://twitter.com/i/topics/733774154906755072)
       * [Mason Mount](https://twitter.com/i/topics/889797387132166144)
       * [Thomas Tuchel](https://twitter.com/i/topics/733774336121700353)
+    * [FC Zenit](https://twitter.com/i/topics/731226209556660224)
+    * Inter Milan
+      * [Inter Milan](https://twitter.com/i/topics/731226185535881216)
+      * [Christian Eriksen](https://twitter.com/i/topics/733774598093688833)
     * İstanbul Başakşehir
       * [İstanbul Başakşehir](https://twitter.com/i/topics/731226209103712256)
       * [Mahmut Tekdemir](https://twitter.com/i/topics/733774413271687169)
@@ -1074,7 +1396,6 @@ Spor
     * Juventus FC
       * [Juventus FC](https://twitter.com/i/topics/731226195937779713)
       * [Aaron Ramsey](https://twitter.com/i/topics/733774103778197505)
-      * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
       * [Gianluigi Buffon](https://twitter.com/i/topics/733774324864143362)
       * [Giorgio Chiellini](https://twitter.com/i/topics/733774194828152832)
       * [Leonardo Bonucci](https://twitter.com/i/topics/733774750325972992)
@@ -1082,6 +1403,11 @@ Spor
     * Liverpool FC
       * [Liverpool FC](https://twitter.com/i/topics/731226219002265600)
       * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
+    * LOSC
+      * [LOSC](https://twitter.com/i/topics/731226236186284032)
+      * [Burak Yılmaz](https://twitter.com/i/topics/733774472570802176)
+      * [Yusuf Yazıcı](https://twitter.com/i/topics/733774690632663040)
+      * [Zeki Çelik](https://twitter.com/i/topics/1195267736198250496)
     * Manchester City
       * [Manchester City](https://twitter.com/i/topics/731226203856637952)
       * [Fernandinho](https://twitter.com/i/topics/733774117128699905)
@@ -1093,6 +1419,7 @@ Spor
     * Manchester United
       * [Manchester United](https://twitter.com/i/topics/731226183572934657)
       * [Bruno Fernandes](https://twitter.com/i/topics/733774540707221504)
+      * [Cristiano Ronaldo](https://twitter.com/i/topics/733774146434269186)
       * [David De Gea](https://twitter.com/i/topics/733773869241131008)
       * [Harry Maguire](https://twitter.com/i/topics/733774444762554369)
       * [Luke Shaw](https://twitter.com/i/topics/733773805806460928)
@@ -1112,8 +1439,11 @@ Spor
       * [Zinedine Zidane](https://twitter.com/i/topics/733774359341338625)
     * [Sevilla FC](https://twitter.com/i/topics/731226161779335169)
     * SS Lazio
+      * [SS Lazio](https://twitter.com/i/topics/731226246546235392)
       * [Ciro Immobile](https://twitter.com/i/topics/733774371966193664)
       * [Vedat Muriqi](https://twitter.com/i/topics/748794265094938626)
+    * [VfL Wolfsburg](https://twitter.com/i/topics/731226210722713600)
+    * [Villarreal CF](https://twitter.com/i/topics/731226186265726976)
   * Çin Süper Ligi
     * [Marek Hamsik](https://twitter.com/i/topics/733774339821068289)
 * Spor etkinlikleri
@@ -1331,6 +1661,7 @@ Spor
       * [Ozan Kabak](https://twitter.com/i/topics/991054596540846080)
       * [Ozan Tufan](https://twitter.com/i/topics/733774214457495552)
       * [Rıdvan Yılmaz](https://twitter.com/i/topics/1068326702378414080)
+      * [Stefan Kuntz](https://twitter.com/i/topics/1437778136058318848)
       * [Taylan Antalyalı](https://twitter.com/i/topics/748794245801123840)
       * [Umut Meraş](https://twitter.com/i/topics/1134152595939872768)
       * [Uğurcan Çakır](https://twitter.com/i/topics/748794257167622144)
@@ -1355,9 +1686,11 @@ Spor
     * [Rafael Nadal](https://twitter.com/i/topics/809498405894373376)
     * [Roger Federer](https://twitter.com/i/topics/809505480577953792)
     * [Yankı Erel](https://twitter.com/i/topics/1369408612477505536)
+  * [Fransa Açık](https://twitter.com/i/topics/1304494995273969665)
   * Kadın tenisi
     * [Kadın tenisi](https://twitter.com/i/topics/1095424935726469120)
     * [Çağla Büyükakçay](https://twitter.com/i/topics/1369395086736257025)
+  * [Wimbledon](https://twitter.com/i/topics/1398025938214952960)
 * Voleybol
   * [Voleybol](https://twitter.com/i/topics/847903333297799169)
   * Avrupa Kadınlar Voleybol Şampiyonası
@@ -1390,6 +1723,7 @@ Spor
     * [Jose Mourinho](https://twitter.com/i/topics/733774577839439872)
     * [Roberto Mancini](https://twitter.com/i/topics/733774720215044097)
     * [Sergen Yalçın](https://twitter.com/i/topics/733774680520200192)
+    * [Stefan Kuntz](https://twitter.com/i/topics/1437778136058318848)
     * [Thomas Tuchel](https://twitter.com/i/topics/733774336121700353)
     * [Zinedine Zidane](https://twitter.com/i/topics/733774359341338625)
     * [Şenol Güneş](https://twitter.com/i/topics/733774242035064832)
@@ -1404,11 +1738,17 @@ Teknoloji
   * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
   * [Dogecoin](https://twitter.com/i/topics/1139229372198469633)
   * [Ethereum](https://twitter.com/i/topics/1007361429752594432)
+  * Kripto para borsaları
+    * [Kripto para borsaları](https://twitter.com/i/topics/1390680741206368263)
+    * [Binance](https://twitter.com/i/topics/1372588659346612225)
+    * [Coinbase](https://twitter.com/i/topics/1370436971940642819)
+  * [Litecoin](https://twitter.com/i/topics/1007351676301242369)
   * [NFT'ler](https://twitter.com/i/topics/1369311988040355840)
 * Teknoloji endüstrisi
   * [Apple](https://twitter.com/i/topics/10026364281)
   * [Microsoft](https://twitter.com/i/topics/10027232467)
   * [Netflix](https://twitter.com/i/topics/10026367762)
+  * [Sosyal medya](https://twitter.com/i/topics/1196446161223028736)
 * [Teknoloji haberleri](https://twitter.com/i/topics/840160819388141570)
 * Teknoloji kişilikleri
   * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
@@ -1421,5 +1761,6 @@ Yemek
 * [Yemek](https://twitter.com/i/topics/825047692124442624)
 * Dünya mutfakları 
   * [Türk mutfağı](https://twitter.com/i/topics/1347213999486615555)
+* [Veganlık](https://twitter.com/i/topics/860145749463506944)
 * Yemek blogger'ları
   * [Vedat Milor](https://twitter.com/i/topics/1367983667218280448)
