@@ -377,6 +377,7 @@
       * [आगरा](https://twitter.com/i/topics/1306647778580336640)
       * [कानपुर](https://twitter.com/i/topics/1306569684452483072)
       * [प्रयागराज](https://twitter.com/i/topics/1306658721821417473)
+      * [मुजफ्फरनगर](https://twitter.com/i/topics/1439933046816325634)
       * [लखनऊ](https://twitter.com/i/topics/1306242991795793920)
       * [वाराणसी](https://twitter.com/i/topics/1307966158797066241)
     * उत्तराखण्ड

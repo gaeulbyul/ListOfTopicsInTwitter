@@ -88,6 +88,7 @@ Arte & cultura
 * [Cómics](https://twitter.com/i/topics/847521144173350912)
 * Escrita
   * [Frases de inspiración](https://twitter.com/i/topics/1242158204751990788)
+  * [Poesía](https://twitter.com/i/topics/1087738701994573824)
 * Horóscopo
   * [Horóscopo](https://twitter.com/i/topics/1068226612380889088)
   * [Astrología](https://twitter.com/i/topics/1102600979491381248)
@@ -95,7 +96,10 @@ Arte & cultura
   * [Libros](https://twitter.com/i/topics/847519659179954178)
   * [Libros de ficción & fantasía](https://twitter.com/i/topics/859533542962757633)
   * [Literatura de ficción](https://twitter.com/i/topics/862404163057008640)
+  * [No ficción](https://twitter.com/i/topics/874731263185141761)
+  * [Poesía](https://twitter.com/i/topics/1087738701994573824)
 * Teatro
+  * [Teatro](https://twitter.com/i/topics/1047537435855319040)
   * [Broadway](https://twitter.com/i/topics/1277671069185261569)
   * [Musicales](https://twitter.com/i/topics/1035186638777802752)
   * [Ópera](https://twitter.com/i/topics/869649977676505088)
@@ -110,7 +114,9 @@ Ciencia
   * [Biología](https://twitter.com/i/topics/847896837532995585)
   * [Biotecnología & biomedicina](https://twitter.com/i/topics/847529984717537280)
 * [Cambio climático](https://twitter.com/i/topics/1265415402915393537)
-* [Clima](https://twitter.com/i/topics/857083369514876928)
+* Clima
+  * [Clima](https://twitter.com/i/topics/857083369514876928)
+  * [Volcanes](https://twitter.com/i/topics/1352693397153222656)
 * [Ecologismo](https://twitter.com/i/topics/1248631349096767488)
 * Espacio
   * [Espacio](https://twitter.com/i/topics/847899255880564736)
@@ -118,7 +124,9 @@ Ciencia
   * [Empresas & agencias espaciales](https://twitter.com/i/topics/1352681651516567553)
   * [Misiones espaciales](https://twitter.com/i/topics/1354066690909249536)
 * [Geografía](https://twitter.com/i/topics/857080369035661312)
-* [Geología](https://twitter.com/i/topics/847897009281355776)
+* Geología
+  * [Geología](https://twitter.com/i/topics/847897009281355776)
+  * [Volcanes](https://twitter.com/i/topics/1352693397153222656)
 * [Química](https://twitter.com/i/topics/847896929698668544)
 
 Comida
@@ -1003,6 +1011,7 @@ Entretenimiento
 * Creadores digitales
   * [Creadores digitales](https://twitter.com/i/topics/839543456678596608)
   * Creadores de contenido de juegos
+    * [Creadores de contenido de juegos](https://twitter.com/i/topics/1287879055191052288)
     * [aLexBY11](https://twitter.com/i/topics/832536272652546050)
     * [AuronPlay](https://twitter.com/i/topics/832595844939460608)
     * [El Rubius](https://twitter.com/i/topics/808724463621586946)
@@ -1102,6 +1111,8 @@ Entretenimiento
     * [Patty Jenkins](https://twitter.com/i/topics/972174052868603904)
     * [Shonda Rhimes](https://twitter.com/i/topics/897083035325038593)
     * [Stephen King](https://twitter.com/i/topics/811359363235397632)
+  * Entre bastidores
+    * [Críticas de cine](https://twitter.com/i/topics/1286395892208033792)
   * Eventos de cine y televisión
     * Festivales de cine
       * [Festival de Cannes](https://twitter.com/i/topics/1298178090057703424)
@@ -1261,6 +1272,7 @@ Eventos
     * [Premios Billboard Latino](https://twitter.com/i/topics/1300496940442898432)
 * Eventos de gaming
   * [Eventos de gaming](https://twitter.com/i/topics/1291094662682271744)
+  * [Campeonato mundial de League of Legends](https://twitter.com/i/topics/1394789549163782147)
   * [E3](https://twitter.com/i/topics/1394757814229168128)
 * Eventos deportivos
   * [Eventos deportivos](https://twitter.com/i/topics/1286401121641103360)
@@ -1433,6 +1445,7 @@ Gaming
     * [VALORANT Champions Tour](https://twitter.com/i/topics/1366454810371743744)
 * Eventos de gaming
   * [Eventos de gaming](https://twitter.com/i/topics/1291094662682271744)
+  * [Campeonato mundial de League of Legends](https://twitter.com/i/topics/1394789549163782147)
   * [E3](https://twitter.com/i/topics/1394757814229168128)
 * Industria de juegos
   * [Industria de juegos](https://twitter.com/i/topics/1070028312276127746)
@@ -1447,6 +1460,7 @@ Gaming
 * Influencers de gaming
   * [Influencers de gaming](https://twitter.com/i/topics/1146103171086819328)
   * Creadores de contenido de juegos
+    * [Creadores de contenido de juegos](https://twitter.com/i/topics/1287879055191052288)
     * [aLexBY11](https://twitter.com/i/topics/832536272652546050)
     * [AuronPlay](https://twitter.com/i/topics/832595844939460608)
     * [El Rubius](https://twitter.com/i/topics/808724463621586946)
@@ -2029,6 +2043,8 @@ Negocios &  finanzas
 ==========
 
 * [Negocios &  finanzas](https://twitter.com/i/topics/781974596148793345)
+* Businesses
+  * [Amazon](https://twitter.com/i/topics/10026792024)
 * Criptomonedas
   * [Criptomonedas](https://twitter.com/i/topics/913142676819648512)
   * [Bitcoin criptomoneda](https://twitter.com/i/topics/1007360414114435072)
@@ -2041,7 +2057,9 @@ Negocios &  finanzas
 Noticias
 ==========
 
-* [Clima](https://twitter.com/i/topics/857083369514876928)
+* Clima
+  * [Clima](https://twitter.com/i/topics/857083369514876928)
+  * [Volcanes](https://twitter.com/i/topics/1352693397153222656)
 * Noticias de entretenimiento
   * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
   * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
@@ -2088,6 +2106,7 @@ Tecnología
   * [Bitcoin criptomoneda](https://twitter.com/i/topics/1007360414114435072)
 * Marcas tecnológicas
   * [Marcas tecnológicas](https://twitter.com/i/topics/1196446727181500416)
+  * [Amazon](https://twitter.com/i/topics/10026792024)
   * [Apple](https://twitter.com/i/topics/10026364281)
   * [Google](https://twitter.com/i/topics/10026378521)
   * [Netflix](https://twitter.com/i/topics/10026367762)
