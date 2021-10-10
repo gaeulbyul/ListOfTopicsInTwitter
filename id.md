@@ -172,6 +172,9 @@ Bisnis & keuangan
   * [Blibli](https://twitter.com/i/topics/1177249682206023680)
   * [Shopee](https://twitter.com/i/topics/1173620900249231360)
   * [Tokopedia](https://twitter.com/i/topics/1173606069534248960)
+* Bisnis personality
+  * [Bisnis personality](https://twitter.com/i/topics/1166406108623163392)
+  * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
 * Cryptocurrency
   * [Cryptocurrency](https://twitter.com/i/topics/913142676819648512)
   * [Ada cryptocurrency](https://twitter.com/i/topics/1007356280296488961)
@@ -235,6 +238,7 @@ Hiburan
       * [Spider-Man](https://twitter.com/i/topics/1012672762442182657)
     * [Film animasi](https://twitter.com/i/topics/856976559529263104)
     * [Film dokumenter](https://twitter.com/i/topics/856976742166048769)
+    * [Film Drama](https://twitter.com/i/topics/856976804749258752)
     * [Film horror](https://twitter.com/i/topics/856976955819794432)
     * [Film romantis](https://twitter.com/i/topics/856977050619363328)
     * Film sci & fantasi
@@ -269,6 +273,7 @@ Hiburan
       * [Drama seri Korea](https://twitter.com/i/topics/1346749071000670209)
       * [D.P.](https://twitter.com/i/topics/1427996008995180544)
       * [Hometown Cha-Cha-Cha](https://twitter.com/i/topics/1430170607904194560)
+      * [Lovers of The Red Sky](https://twitter.com/i/topics/1440228977096806405)
       * [Vincenzo](https://twitter.com/i/topics/1365669572825653253)
     * Keluarga & nostalgia
       * [SpongeBob SquarePants](https://twitter.com/i/topics/1012677353971912704)
@@ -281,8 +286,10 @@ Hiburan
       * [TV drama](https://twitter.com/i/topics/1281304160487370752)
       * Dark drama
         * [D.P.](https://twitter.com/i/topics/1427996008995180544)
+        * [Squid Game](https://twitter.com/i/topics/1439901275856916484)
       * Drama romantis
         * [Ikatan Cinta](https://twitter.com/i/topics/1356969695165878272)
+        * [Lovers of The Red Sky](https://twitter.com/i/topics/1440228977096806405)
     * TV Sci-fi & fantasi
       * [TV Sci-fi & fantasi](https://twitter.com/i/topics/1283481070956998656)
       * [Loki](https://twitter.com/i/topics/1380084686442045442)
@@ -403,7 +410,9 @@ Karir
 * Pendidikan
   * [Pendidikan](https://twitter.com/i/topics/847546154439000064)
   * [Belajar](https://twitter.com/i/topics/1397979707723845641)
-  * [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
+  * Belajar bahasa
+    * [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
+    * [Belajar bahasa Inggris](https://twitter.com/i/topics/1357835469099134977)
   * [Kehidupan mahasiswa](https://twitter.com/i/topics/852219717016141824)
   * [Lulusan sekolah](https://twitter.com/i/topics/852247095461371904)
   * [Ujian masuk sekolah](https://twitter.com/i/topics/1188908088570470400)
@@ -496,7 +505,10 @@ Musik
   * [K-pop](https://twitter.com/i/topics/888105153038958593)
   * 2PM
     * [Taecyeon](https://twitter.com/i/topics/890278608639410177)
-  * [AB6IX](https://twitter.com/i/topics/1137087248803876864)
+  * AB6IX
+    * [AB6IX](https://twitter.com/i/topics/1137087248803876864)
+    * [Lee Daehwi](https://twitter.com/i/topics/897100491728986113)
+    * [Park Woojin](https://twitter.com/i/topics/897102315282350082)
   * ASTRO
     * [ASTRO](https://twitter.com/i/topics/899695469646893056)
     * [Cha Eunwoo (ASTRO)](https://twitter.com/i/topics/1111660206918762501)
@@ -569,6 +581,7 @@ Musik
     * [TAEYEON](https://twitter.com/i/topics/894975878492438528)
     * [Tiffany Young](https://twitter.com/i/topics/894976265576263681)
     * [YOONA](https://twitter.com/i/topics/923632569698066434)
+    * [YURI](https://twitter.com/i/topics/923632252256321537)
   * GOT7
     * [GOT7](https://twitter.com/i/topics/892035567948505088)
     * [iGOT7](https://twitter.com/i/topics/1086359983082549248)
@@ -587,6 +600,8 @@ Musik
   * [IU](https://twitter.com/i/topics/893184129461698560)
   * IZ*ONE
     * [IZ*ONE](https://twitter.com/i/topics/1042460886760214529)
+    * [An Yujin](https://twitter.com/i/topics/1138143035533942784)
+    * [Choi Yena](https://twitter.com/i/topics/1138142962527789056)
     * [Jang Wonyoung](https://twitter.com/i/topics/1138142402802143232)
   * [Loona](https://twitter.com/i/topics/939167651992965121)
   * Monsta X
@@ -713,6 +728,7 @@ Musik
     * [Yeonjun](https://twitter.com/i/topics/1083399594313080832)
   * TREASURE
     * [TREASURE](https://twitter.com/i/topics/1275168323332800512)
+    * [Choi Hyun Suk](https://twitter.com/i/topics/1437368760818561026)
     * [Hamada Asahi](https://twitter.com/i/topics/1437352307054637056)
     * [Kim Jun-kyu](https://twitter.com/i/topics/1419986622943170561)
     * [Mashiho](https://twitter.com/i/topics/1437690473389330434)
@@ -732,9 +748,13 @@ Musik
     * [Fajri](https://twitter.com/i/topics/1438069906075885571)
     * [Fenly](https://twitter.com/i/topics/1438067970010279937)
     * [Shandy](https://twitter.com/i/topics/1438063449506910212)
+  * Victon
+    * [Lee Daehwi](https://twitter.com/i/topics/897100491728986113)
   * Wanna One
     * [JISUNG](https://twitter.com/i/topics/913453270156247040)
+    * [Lee Daehwi](https://twitter.com/i/topics/897100491728986113)
     * [MINHYUN (NU'EST)](https://twitter.com/i/topics/897102840627208192)
+    * [Park Woojin](https://twitter.com/i/topics/897102315282350082)
   * WayV
     * [WayV](https://twitter.com/i/topics/1095439466544607232)
     * [KUN (NCT)](https://twitter.com/i/topics/1136366600452313088)
@@ -1047,7 +1067,9 @@ Perjalanan
 ==========
 
 * [Perjalanan](https://twitter.com/i/topics/839159814991167489)
-* [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
+* Belajar bahasa
+  * [Belajar bahasa](https://twitter.com/i/topics/852226935044194304)
+  * [Belajar bahasa Inggris](https://twitter.com/i/topics/1357835469099134977)
 * Destinasi
   * [Destinasi](https://twitter.com/i/topics/857603051657482241)
   * Perjalanan di Asia Pasifik
@@ -1071,6 +1093,8 @@ Permainan
 * Esports
   * [Esports](https://twitter.com/i/topics/839544337360801792)
   * [Tim esport](https://twitter.com/i/topics/1272667111932878848)
+* Penerbit game
+  * [Nintendo](https://twitter.com/i/topics/10026713294)
 * Video Game
   * [Video Game](https://twitter.com/i/topics/1070028159964262400)
   * [BanG Dream!](https://twitter.com/i/topics/1004022548147798016)
@@ -1180,3 +1204,5 @@ Teknologi
   * [Spotify](https://twitter.com/i/topics/10040276669)
   * [Xiaomi](https://twitter.com/i/topics/10041367948)
 * [Pemograman komputer](https://twitter.com/i/topics/848921413196984320)
+* Personality teknologi
+  * [Elon Musk](https://twitter.com/i/topics/808713037230157824)

@@ -289,8 +289,26 @@ Sport
 * Rugby
   * [Rugby](https://twitter.com/i/topics/847902509750407168)
   * Rugby à XV
-    * [Pro D2](https://twitter.com/i/topics/1434878725120614400)
-    * [Top 14](https://twitter.com/i/topics/1433804717847560197)
+    * Pro D2
+      * [Pro D2](https://twitter.com/i/topics/1434878725120614400)
+      * [Aviron Bayonnais](https://twitter.com/i/topics/1433830020221333506)
+      * [SUA LG](https://twitter.com/i/topics/1433816810256666631)
+    * Top 14
+      * [Top 14](https://twitter.com/i/topics/1433804717847560197)
+      * [ASM Rugby](https://twitter.com/i/topics/1434858287116156936)
+      * [BOPB Rugby](https://twitter.com/i/topics/1434889085844217865)
+      * [CABCL Rugby](https://twitter.com/i/topics/1434820907072036864)
+      * [Castres Olympique](https://twitter.com/i/topics/1434852210186153988)
+      * [LOU Rugby](https://twitter.com/i/topics/1433808770950328325)
+      * [Montpellier Rugby](https://twitter.com/i/topics/1434904167160549378)
+      * [Racing 92](https://twitter.com/i/topics/1435226383056195590)
+      * [RC Toulon](https://twitter.com/i/topics/1435230983540723724)
+      * [Section Paloise](https://twitter.com/i/topics/1435223274015711234)
+      * [Stade Français Paris](https://twitter.com/i/topics/1435228600727326723)
+      * [Stade Rochelais](https://twitter.com/i/topics/1434900049784279043)
+      * [Stade Toulousain](https://twitter.com/i/topics/1435233207201325056)
+      * [UBB Rugby](https://twitter.com/i/topics/1433835205475766272)
+      * [USAP Rugby](https://twitter.com/i/topics/1434893182290989062)
 * [Tennis](https://twitter.com/i/topics/847903248933502976)
 * Évènements sportifs
   * France

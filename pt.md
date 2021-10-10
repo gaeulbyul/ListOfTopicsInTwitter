@@ -47,6 +47,8 @@ Arte & cultura
   * [Artes visuais](https://twitter.com/i/topics/1046577790353428480)
   * [Fotografia](https://twitter.com/i/topics/847869714860605440)
 * [Casamentos](https://twitter.com/i/topics/847896684638097408)
+* Escrita
+  * [Poesia](https://twitter.com/i/topics/1087738701994573824)
 * Ficção científica & fantasia
   * Filmes de ficção científica & fantasia
     * [Filmes de ficção científica & fantasia](https://twitter.com/i/topics/856977093191647233)
@@ -59,11 +61,15 @@ Arte & cultura
 * [Horóscopo](https://twitter.com/i/topics/1068226612380889088)
 * Livros
   * [Livros](https://twitter.com/i/topics/847519659179954178)
+  * [Horror books](https://twitter.com/i/topics/859533953694187520)
   * [Literatura de ficção](https://twitter.com/i/topics/862404163057008640)
+  * [Livros de Aventura & Ação](https://twitter.com/i/topics/859530721588723713)
   * [Livros de ficção cientifica & fantasia](https://twitter.com/i/topics/859533542962757633)
   * [Livros de romance](https://twitter.com/i/topics/859533143795056640)
+  * [Poesia](https://twitter.com/i/topics/1087738701994573824)
 * [Quadrinhos](https://twitter.com/i/topics/847521144173350912)
 * Teatro
+  * [Teatro](https://twitter.com/i/topics/1047537435855319040)
   * [Musicais](https://twitter.com/i/topics/1035186638777802752)
 
 Atividades ao ar livre
@@ -93,12 +99,16 @@ Ciência
 * Biologia
   * [Biologia](https://twitter.com/i/topics/847896837532995585)
   * [Biotecnologia & biomedicina](https://twitter.com/i/topics/847529984717537280)
+* Clima
+  * [Vulcões](https://twitter.com/i/topics/1352693397153222656)
 * Espaço
   * [Espaço](https://twitter.com/i/topics/847899255880564736)
   * [Astronautas](https://twitter.com/i/topics/1284123966517334017)
   * [Missões espaciais](https://twitter.com/i/topics/1354066690909249536)
   * [Telescópios espaciais](https://twitter.com/i/topics/1355251872316051456)
 * [Geografia](https://twitter.com/i/topics/857080369035661312)
+* Geologia
+  * [Vulcões](https://twitter.com/i/topics/1352693397153222656)
 * [Química](https://twitter.com/i/topics/847896929698668544)
 
 Comida
@@ -245,6 +255,7 @@ Entretenimento
       * [Post Malone](https://twitter.com/i/topics/979116239246127105)
   * Estrelas da TV
     * Apresentadores de TV
+      * [Apresentadores de TV](https://twitter.com/i/topics/1303717886091907072)
       * [Ana Maria Braga](https://twitter.com/i/topics/847509446011912192)
       * [Fabio Porchat](https://twitter.com/i/topics/819540027994611712)
       * [Livia Andrade](https://twitter.com/i/topics/834941780764209153)
@@ -333,6 +344,7 @@ Entretenimento
 * Criadores digitais
   * [Criadores digitais](https://twitter.com/i/topics/839543456678596608)
   * Criadores de conteúdo gaming
+    * [Criadores de conteúdo gaming](https://twitter.com/i/topics/1287879055191052288)
     * [Alan Ferreira](https://twitter.com/i/topics/1140676021378637824)
   * [Streamers na Twitch](https://twitter.com/i/topics/1293615080622272512)
   * [TikTokers](https://twitter.com/i/topics/1293615157633982464)
@@ -363,6 +375,8 @@ Entretenimento
   * [San Diego Comic-Con](https://twitter.com/i/topics/1298181941208875009)
 * Filmes & TV
   * [Filmes & TV](https://twitter.com/i/topics/1276514328007467008)
+  * Bastidores
+    * [Resenhas de filmes](https://twitter.com/i/topics/1286395892208033792)
   * Diretores, Produtores & Escritores
     * [Diretores, Produtores & Escritores](https://twitter.com/i/topics/1166410125994708993)
     * [Patty Jenkins](https://twitter.com/i/topics/972174052868603904)
@@ -381,6 +395,7 @@ Entretenimento
       * [Filmes de ação](https://twitter.com/i/topics/856976360337661952)
       * [Homem-Aranha](https://twitter.com/i/topics/1012672762442182657)
     * [Filmes de comédia](https://twitter.com/i/topics/856976685916237824)
+    * [Filmes de comédia romântica](https://twitter.com/i/topics/1283051822597279744)
     * [Filmes de crime](https://twitter.com/i/topics/1287840544744329216)
     * [Filmes de drama](https://twitter.com/i/topics/856976804749258752)
     * Filmes de ficção científica & fantasia
@@ -979,7 +994,9 @@ Eventos
   * [San Diego Comic-Con](https://twitter.com/i/topics/1298181941208875009)
 * Eventos de games
   * [Eventos de games](https://twitter.com/i/topics/1291094662682271744)
+  * [Campeonato Mundial de League of Legends](https://twitter.com/i/topics/1394789549163782147)
   * [E3](https://twitter.com/i/topics/1394757814229168128)
+* [Eventos de moda](https://twitter.com/i/topics/845345515667566592)
 * Eventos esportivos
   * [Eventos esportivos](https://twitter.com/i/topics/1286401121641103360)
   * [Copa América](https://twitter.com/i/topics/1304491707317141504)
@@ -1132,6 +1149,7 @@ Gaming
     * [Vorax Liberty](https://twitter.com/i/topics/1346160095994867712)
 * Eventos de games
   * [Eventos de games](https://twitter.com/i/topics/1291094662682271744)
+  * [Campeonato Mundial de League of Legends](https://twitter.com/i/topics/1394789549163782147)
   * [E3](https://twitter.com/i/topics/1394757814229168128)
 * Indústria de gaming
   * [Indústria de gaming](https://twitter.com/i/topics/1070028312276127746)
@@ -1141,6 +1159,7 @@ Gaming
 * Influenciadores de gaming
   * [Influenciadores de gaming](https://twitter.com/i/topics/1146103171086819328)
   * Criadores de conteúdo gaming
+    * [Criadores de conteúdo gaming](https://twitter.com/i/topics/1287879055191052288)
     * [Alan Ferreira](https://twitter.com/i/topics/1140676021378637824)
   * [Jogadores de Esports](https://twitter.com/i/topics/1288168909422518272)
 * Jogos de mesa
@@ -1209,6 +1228,7 @@ Lar & família
 * Feriados
   * [Carnaval](https://twitter.com/i/topics/1395094481389584385)
   * [Halloween](https://twitter.com/i/topics/1296394094009151488)
+* [Namoros](https://twitter.com/i/topics/847896430605811712)
 
 Moda & beleza
 ==========
@@ -1217,8 +1237,10 @@ Moda & beleza
 * [Beleza](https://twitter.com/i/topics/850395585941086209)
 * Moda
   * [Moda](https://twitter.com/i/topics/839543390668673024)
+  * [Eventos de moda](https://twitter.com/i/topics/845345515667566592)
   * [Moda de designer](https://twitter.com/i/topics/1255950086699315200)
   * Modelos de moda
+    * [Modelos de moda](https://twitter.com/i/topics/845354777613512704)
     * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
     * [Hailey Bieber](https://twitter.com/i/topics/846390663105003520)
   * [Revista de moda](https://twitter.com/i/topics/1255877953726017536)
@@ -1744,6 +1766,8 @@ Negócios & finanças
 Notícias
 ==========
 
+* Clima
+  * [Vulcões](https://twitter.com/i/topics/1352693397153222656)
 * [Notícias de tecnologia](https://twitter.com/i/topics/840160819388141570)
 * Notícias esportivas
   * [Notícias esportivas](https://twitter.com/i/topics/840160112325021696)

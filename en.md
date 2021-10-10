@@ -1570,6 +1570,7 @@ Entertainment
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * [Hetalia](https://twitter.com/i/topics/1319391064311033856)
+  * [High School Musical](https://twitter.com/i/topics/1440404254993240068)
   * [Higurashi When They Cry](https://twitter.com/i/topics/1311766165065142273)
   * [His Dark Materials](https://twitter.com/i/topics/1323651721139113985)
   * [Hunter × Hunter](https://twitter.com/i/topics/1268927285739941888)
@@ -1901,6 +1902,7 @@ Entertainment
     * [Telugu cinema](https://twitter.com/i/topics/1404405503279525889)
     * [Telugu actors](https://twitter.com/i/topics/1404435718038978564)
     * [Telugu cinema news](https://twitter.com/i/topics/1427643244653862912)
+    * [Telugu directors, producers & writers](https://twitter.com/i/topics/1443203214531170307)
 * Movies & TV
   * [Movies & TV](https://twitter.com/i/topics/1276514328007467008)
   * Behind the scenes
@@ -2269,6 +2271,7 @@ Entertainment
         * [Nine Perfect Strangers](https://twitter.com/i/topics/1427603813960077313)
         * [Ozark](https://twitter.com/i/topics/1255915046196002817)
         * [Ratched](https://twitter.com/i/topics/1307033228004319232)
+        * [Squid Game](https://twitter.com/i/topics/1439901275856916484)
         * [The Boys](https://twitter.com/i/topics/1306573414300172293)
         * [The Flight Attendant](https://twitter.com/i/topics/1326514351545540608)
         * [The Handmaid's Tale](https://twitter.com/i/topics/1223188191072542720)
@@ -2280,11 +2283,13 @@ Entertainment
         * [Twin Peaks](https://twitter.com/i/topics/1271000350078558208)
         * [Utopia](https://twitter.com/i/topics/1312025451125112833)
         * [Wynonna Earp](https://twitter.com/i/topics/1285937328926584833)
+        * [You](https://twitter.com/i/topics/1223191458481524736)
       * Family drama
         * [A Million Little Things](https://twitter.com/i/topics/1301541409770463232)
         * [Eastenders](https://twitter.com/i/topics/1349721308641202177)
         * [Gilmore Girls](https://twitter.com/i/topics/1326649147953274880)
         * [I Know This Much Is True](https://twitter.com/i/topics/1362088797152808963)
+        * [La Brea](https://twitter.com/i/topics/1440320730646781962)
         * [Manifest](https://twitter.com/i/topics/1269768292937289728)
         * [Our Kind of People](https://twitter.com/i/topics/1430224530266415104)
         * [Pose](https://twitter.com/i/topics/1389984539183697923)
@@ -2333,6 +2338,7 @@ Entertainment
         * [All American](https://twitter.com/i/topics/1291022667781271553)
         * [Heels](https://twitter.com/i/topics/1427327194146115652)
       * Teen drama
+        * [Blood and Water](https://twitter.com/i/topics/1439966048120279043)
         * [Buffy the Vampire Slayer](https://twitter.com/i/topics/1397923157156139017)
         * [Chilling Adventures of Sabrina](https://twitter.com/i/topics/1270021897078497283)
         * [Dash & Lily](https://twitter.com/i/topics/1323720808288546816)
@@ -2349,6 +2355,7 @@ Entertainment
         * [The 100](https://twitter.com/i/topics/1273395555440357376)
         * [The Flash](https://twitter.com/i/topics/1263577937254572035)
         * [The Vampire Diaries](https://twitter.com/i/topics/1263580284965945349)
+        * [You](https://twitter.com/i/topics/1223191458481524736)
         * [Élite](https://twitter.com/i/topics/1271360267478155264)
     * Family & nostalgic
       * [Animaniacs](https://twitter.com/i/topics/1326120715947446272)
@@ -3735,6 +3742,7 @@ Music
   * Electronic music
     * [Electronic music](https://twitter.com/i/topics/849684313704611840)
     * [Björk](https://twitter.com/i/topics/877868040716558340)
+    * [Grimes](https://twitter.com/i/topics/1070731951735095296)
   * [Experimental music](https://twitter.com/i/topics/884805541129707521)
   * House
     * [House](https://twitter.com/i/topics/1219712196600418304)
@@ -5026,7 +5034,9 @@ News
         * [Ranchi](https://twitter.com/i/topics/1331634705435746305)
       * Karnataka
         * [Karnataka](https://twitter.com/i/topics/1295698560034324482)
-        * [Bengaluru](https://twitter.com/i/topics/1294318440673468416)
+        * Bengaluru
+          * [Bengaluru](https://twitter.com/i/topics/1294318440673468416)
+          * [Bengaluru tech scene](https://twitter.com/i/topics/1440985014787719174)
       * Kerala
         * [Kerala](https://twitter.com/i/topics/1334521844569792516)
         * [Thiruvananthapuram](https://twitter.com/i/topics/1334555300129464330)

@@ -95,6 +95,7 @@ Arte & cultura
 * Libros
   * [Libros](https://twitter.com/i/topics/847519659179954178)
   * [Libros de ficción & fantasía](https://twitter.com/i/topics/859533542962757633)
+  * [Libros de terror](https://twitter.com/i/topics/859533953694187520)
   * [Literatura de ficción](https://twitter.com/i/topics/862404163057008640)
   * [No ficción](https://twitter.com/i/topics/874731263185141761)
   * [Poesía](https://twitter.com/i/topics/1087738701994573824)
@@ -116,6 +117,7 @@ Ciencia
 * [Cambio climático](https://twitter.com/i/topics/1265415402915393537)
 * Clima
   * [Clima](https://twitter.com/i/topics/857083369514876928)
+  * [Terremotos](https://twitter.com/i/topics/1307153406289612800)
   * [Volcanes](https://twitter.com/i/topics/1352693397153222656)
 * [Ecologismo](https://twitter.com/i/topics/1248631349096767488)
 * Espacio
@@ -1101,8 +1103,11 @@ Entretenimiento
     * [Netflix](https://twitter.com/i/topics/10026367762)
     * [Paramount Plus](https://twitter.com/i/topics/1353783294551179264)
 * Noticias de entretenimiento
-  * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
-  * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
+  * [Noticias de entretenimiento](https://twitter.com/i/topics/840160477514612736)
+  * Noticias de cine
+    * [Noticias de cine](https://twitter.com/i/topics/1114213516271964160)
+    * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
+    * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
 * Películas & TV
   * [Películas & TV](https://twitter.com/i/topics/1276514328007467008)
   * Directores, Productores & Escritores
@@ -1144,6 +1149,7 @@ Entretenimiento
         * [Potterheads](https://twitter.com/i/topics/1272990394536431616)
       * [Star Wars](https://twitter.com/i/topics/986247671663898625)
     * [Películas de comedia](https://twitter.com/i/topics/856976685916237824)
+    * [Películas de Comedia romántica](https://twitter.com/i/topics/1283051822597279744)
     * [Películas de crimen](https://twitter.com/i/topics/1287840544744329216)
     * [Películas de drama](https://twitter.com/i/topics/856976804749258752)
     * [Películas de romance](https://twitter.com/i/topics/856977050619363328)
@@ -1203,7 +1209,9 @@ Entretenimiento
         * [Operación Triunfo](https://twitter.com/i/topics/1299890772381036544)
         * [RuPaul's Drag Race](https://twitter.com/i/topics/1263210403007324160)
       * Concurso de cocina
+        * [Bake Off Argentina](https://twitter.com/i/topics/1437434655255379974)
         * [Masterchef Argentina](https://twitter.com/i/topics/1390035592168099848)
+        * [MasterChef Colombia](https://twitter.com/i/topics/1433475983470829577)
         * [MasterChef España](https://twitter.com/i/topics/1299901172833112064)
         * [MasterChef México](https://twitter.com/i/topics/1299895593486045185)
       * Concurso de moda
@@ -1274,6 +1282,7 @@ Eventos
   * [Eventos de gaming](https://twitter.com/i/topics/1291094662682271744)
   * [Campeonato mundial de League of Legends](https://twitter.com/i/topics/1394789549163782147)
   * [E3](https://twitter.com/i/topics/1394757814229168128)
+* [Eventos de moda](https://twitter.com/i/topics/845345515667566592)
 * Eventos deportivos
   * [Eventos deportivos](https://twitter.com/i/topics/1286401121641103360)
   * [Abierto de Francia](https://twitter.com/i/topics/1304494995273969665)
@@ -1567,8 +1576,10 @@ Moda & belleza
 * [Belleza](https://twitter.com/i/topics/850395585941086209)
 * Moda
   * [Moda](https://twitter.com/i/topics/839543390668673024)
+  * [Eventos de moda](https://twitter.com/i/topics/845345515667566592)
   * [Moda de diseñador](https://twitter.com/i/topics/1255950086699315200)
   * Modelos de moda
+    * [Modelos de moda](https://twitter.com/i/topics/845354777613512704)
     * [Bella Hadid](https://twitter.com/i/topics/846376381428654080)
     * [Gigi Hadid](https://twitter.com/i/topics/809503919814504448)
     * [Hailey Bieber](https://twitter.com/i/topics/846390663105003520)
@@ -2059,10 +2070,14 @@ Noticias
 
 * Clima
   * [Clima](https://twitter.com/i/topics/857083369514876928)
+  * [Terremotos](https://twitter.com/i/topics/1307153406289612800)
   * [Volcanes](https://twitter.com/i/topics/1352693397153222656)
 * Noticias de entretenimiento
-  * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
-  * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
+  * [Noticias de entretenimiento](https://twitter.com/i/topics/840160477514612736)
+  * Noticias de cine
+    * [Noticias de cine](https://twitter.com/i/topics/1114213516271964160)
+    * [Críticas de cine](https://twitter.com/i/topics/1367822717810925573)
+    * [Tráilers de películas](https://twitter.com/i/topics/1338541950929006592)
 * [Noticias de games](https://twitter.com/i/topics/1034501001544257536)
 * [Noticias de música](https://twitter.com/i/topics/1099779369357082624)
 * [Noticias de tecnología](https://twitter.com/i/topics/840160819388141570)

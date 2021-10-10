@@ -14,7 +14,9 @@
   * कविता
     * [कविता](https://twitter.com/i/topics/1087738701994573824)
     * [हिंदी शायरी](https://twitter.com/i/topics/1318930251087372290)
-* [राशिफल](https://twitter.com/i/topics/1068226612380889088)
+* राशिफल
+  * [राशिफल](https://twitter.com/i/topics/1068226612380889088)
+  * [ज्योतिष](https://twitter.com/i/topics/1102600979491381248)
 * लेखन
   * [हिंदी शायरी](https://twitter.com/i/topics/1318930251087372290)
 
@@ -82,14 +84,17 @@
       * [राहुल तेवतिया](https://twitter.com/i/topics/1236283382415278080)
     * रॉयल चैलेंजर्स बैंगलोर
       * [रॉयल चैलेंजर्स बैंगलोर](https://twitter.com/i/topics/1235904901055524864)
+      * [युजवेन्द्र चहल](https://twitter.com/i/topics/897829398199492610)
       * [वाशिंगटन सुंदर](https://twitter.com/i/topics/1310926883136004098)
       * [विराट कोहली](https://twitter.com/i/topics/809501049715163136)
     * [सनराइजर्स हैदराबाद](https://twitter.com/i/topics/1235560409098121216)
   * पुरुषों की राष्ट्रीय क्रिकेट टीमें
-    * [महेंद्र सिंह धोनी](https://twitter.com/i/topics/897829401525485569)
-    * [रविंद्र जडेजा](https://twitter.com/i/topics/897829396681080832)
-    * [रोहित शर्मा](https://twitter.com/i/topics/897829397742272512)
-    * [विराट कोहली](https://twitter.com/i/topics/809501049715163136)
+    * [पुरुषों की राष्ट्रीय क्रिकेट टीमें](https://twitter.com/i/topics/1305489951593644033)
+    * भारत
+      * [महेंद्र सिंह धोनी](https://twitter.com/i/topics/897829401525485569)
+      * [रविंद्र जडेजा](https://twitter.com/i/topics/897829396681080832)
+      * [रोहित शर्मा](https://twitter.com/i/topics/897829397742272512)
+      * [विराट कोहली](https://twitter.com/i/topics/809501049715163136)
 * खेल-कुद प्रतियोगिता
   * ओलम्पिक खेल
     * [ओलम्पिक खेल](https://twitter.com/i/topics/1237760060828213249)
