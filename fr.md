@@ -8,6 +8,7 @@ Anime & manga
   * [Demon Slayer](https://twitter.com/i/topics/1201944708823433218)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
   * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+  * [L'Attaque des Titans](https://twitter.com/i/topics/1151828991109505025)
   * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
   * [Naruto](https://twitter.com/i/topics/1136329838350880768)
   * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
@@ -26,6 +27,7 @@ Arts & Culture
     * [Demon Slayer](https://twitter.com/i/topics/1201944708823433218)
     * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
     * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+    * [L'Attaque des Titans](https://twitter.com/i/topics/1151828991109505025)
     * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
     * [Naruto](https://twitter.com/i/topics/1136329838350880768)
     * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
@@ -36,6 +38,7 @@ Arts & Culture
 * [Comics, BD et romans graphiques](https://twitter.com/i/topics/847521144173350912)
 * [Livres](https://twitter.com/i/topics/847519659179954178)
 * Science-fiction & fantasy
+  * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * [Le Seigneur des anneaux](https://twitter.com/i/topics/1012755727998337024)
   * [Matrix](https://twitter.com/i/topics/1435643339051651075)
   * [Star Wars](https://twitter.com/i/topics/986247671663898625)
@@ -43,7 +46,11 @@ Arts & Culture
 Business et finance
 ==========
 
-* [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
+* Cryptomonnaie
+  * [Cryptomonnaie](https://twitter.com/i/topics/913142676819648512)
+  * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
+* PDG
+  * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
 
 Divertissement
 ==========
@@ -52,6 +59,7 @@ Divertissement
 * Célébrités
   * [Célébrités](https://twitter.com/i/topics/1095352268046495745)
   * Acteurs
+    * [Acteurs](https://twitter.com/i/topics/1303715075421646849)
     * Acteurs américains
       * [Zendaya](https://twitter.com/i/topics/808775355418841088)
     * Acteurs britanniques
@@ -63,6 +71,7 @@ Divertissement
   * Familles célèbres
     * [Kanye West](https://twitter.com/i/topics/806561823407239169)
   * [Nabilla](https://twitter.com/i/topics/1422140390354808833)
+  * [SqueeZie](https://twitter.com/i/topics/828568363056058368)
   * Stars du cinéma
     * [Tom Holland](https://twitter.com/i/topics/907607577294364672)
     * [Zendaya](https://twitter.com/i/topics/808775355418841088)
@@ -76,25 +85,35 @@ Divertissement
       * [Drake](https://twitter.com/i/topics/806566745565577216)
       * [Kanye West](https://twitter.com/i/topics/806561823407239169)
       * [Lil Nas X](https://twitter.com/i/topics/1121835842677305344)
+* Digital creators
+  * [Mcfly et Carlito](https://twitter.com/i/topics/1422123535263100932)
+  * [SqueeZie](https://twitter.com/i/topics/828568363056058368)
 * Films & télé
   * [Films & télé](https://twitter.com/i/topics/1276514328007467008)
   * Dans les coulisses
     * [Studio Ghibli](https://twitter.com/i/topics/1115703486639788032)
   * Films
-    * [Le Seigneur des anneaux](https://twitter.com/i/topics/1012755727998337024)
-    * [Matrix](https://twitter.com/i/topics/1435643339051651075)
-    * [Star Wars](https://twitter.com/i/topics/986247671663898625)
+    * Films d'action & aventure
+      * [James Bond](https://twitter.com/i/topics/1433864597069385729)
+    * Films de science-fiction et fantasy
+      * [Films de science-fiction et fantasy](https://twitter.com/i/topics/856977093191647233)
+      * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
+      * [Le Seigneur des anneaux](https://twitter.com/i/topics/1012755727998337024)
+      * [Matrix](https://twitter.com/i/topics/1435643339051651075)
+      * [Star Wars](https://twitter.com/i/topics/986247671663898625)
   * Réalisateurs, producteurs & scénaristes
     * [Denis Villeneuve](https://twitter.com/i/topics/1420768294588403719)
   * Services de streaming télé
     * [Netflix](https://twitter.com/i/topics/10026367762)
   * Télévision
+    * [Télévision](https://twitter.com/i/topics/1072937043393560576)
     * Anime
       * [Anime](https://twitter.com/i/topics/839543165002506240)
       * [Bleach](https://twitter.com/i/topics/1169396622020624384)
       * [Demon Slayer](https://twitter.com/i/topics/1201944708823433218)
       * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
       * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+      * [L'Attaque des Titans](https://twitter.com/i/topics/1151828991109505025)
       * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
       * [Naruto](https://twitter.com/i/topics/1136329838350880768)
       * [ONE PIECE](https://twitter.com/i/topics/1103042720212246528)
@@ -106,10 +125,13 @@ Divertissement
     * Séries dramatiques
       * [La Casa de Papel](https://twitter.com/i/topics/1255912442166603776)
 * Franchises multimedia
+  * [Franchises multimedia](https://twitter.com/i/topics/1074757527995277313)
   * [Bleach](https://twitter.com/i/topics/1169396622020624384)
   * [Demon Slayer](https://twitter.com/i/topics/1201944708823433218)
   * [Haikyu!!](https://twitter.com/i/topics/1154830821708070912)
+  * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
   * [Jujutsu Kaisen](https://twitter.com/i/topics/1346901380292775936)
+  * [L'Attaque des Titans](https://twitter.com/i/topics/1151828991109505025)
   * [Le Seigneur des anneaux](https://twitter.com/i/topics/1012755727998337024)
   * [Matrix](https://twitter.com/i/topics/1435643339051651075)
   * [My Hero Academia](https://twitter.com/i/topics/1207461450236563457)
@@ -162,6 +184,8 @@ Musique
 ==========
 
 * [Musique](https://twitter.com/i/topics/847524658970636288)
+* Afrobeat
+  * [Aya Nakamura](https://twitter.com/i/topics/1420750350802325518)
 * Hip hop
   * [Drake](https://twitter.com/i/topics/806566745565577216)
   * [Kanye West](https://twitter.com/i/topics/806561823407239169)
@@ -182,6 +206,7 @@ Musique
     * [SUGA](https://twitter.com/i/topics/895369555937157120)
     * [V (BTS)](https://twitter.com/i/topics/895369816558534656)
   * [EXO](https://twitter.com/i/topics/889972468953128960)
+  * [ITZY](https://twitter.com/i/topics/1136006605483364353)
   * [NCT](https://twitter.com/i/topics/897126481884659712)
   * [Stray Kids](https://twitter.com/i/topics/1062427352318173185)
   * [TOMORROW X TOGETHER](https://twitter.com/i/topics/1083397690140971008)
@@ -191,6 +216,8 @@ Musique
   * [Ariana Grande](https://twitter.com/i/topics/806557506851848192)
   * [Beyoncé](https://twitter.com/i/topics/806592879661445120)
   * [Britney Spears](https://twitter.com/i/topics/804412689682337796)
+  * [Doja Cat](https://twitter.com/i/topics/1222908639268098048)
+  * [Mylène Farmer](https://twitter.com/i/topics/1443864435118858243)
   * One Direction
     * [Harry Styles](https://twitter.com/i/topics/806572987033862144)
   * [Taylor Swift](https://twitter.com/i/topics/806225270591995904)
@@ -217,18 +244,25 @@ Sport
   * [Football](https://twitter.com/i/topics/733756536430809088)
   * Clubs de Serie A TIM
     * [Olivier Giroud](https://twitter.com/i/topics/733774232966955008)
+  * D1 Arkema
+    * [D1 Arkema](https://twitter.com/i/topics/1441054468015939595)
+    * [OL Féminin](https://twitter.com/i/topics/1299074153773891584)
+    * [PSG Féminines](https://twitter.com/i/topics/1299076567105110016)
   * La Liga
     * FC Barcelona
       * [FC Barcelona](https://twitter.com/i/topics/731226255836598272)
       * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
     * [Real Madrid CF](https://twitter.com/i/topics/731226239898259457)
   * Le Championnat d'Europe de l'UEFA
-    * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
-    * [Didier Deschamps](https://twitter.com/i/topics/733774484675534849)
-    * [Hugo Lloris](https://twitter.com/i/topics/733773967182286848)
-    * [Kylian Mbappé](https://twitter.com/i/topics/733774119699779584)
-    * [Olivier Giroud](https://twitter.com/i/topics/733774232966955008)
-    * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
+    * Belgique
+      * [Kevin de Bruyne](https://twitter.com/i/topics/733773989353422849)
+    * France
+      * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
+      * [Didier Deschamps](https://twitter.com/i/topics/733774484675534849)
+      * [Hugo Lloris](https://twitter.com/i/topics/733773967182286848)
+      * [Kylian Mbappé](https://twitter.com/i/topics/733774119699779584)
+      * [Olivier Giroud](https://twitter.com/i/topics/733774232966955008)
+      * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
   * Ligue 1
     * [Ligue 1](https://twitter.com/i/topics/733756534648274945)
     * [AS Monaco](https://twitter.com/i/topics/731226203449745408)
@@ -249,7 +283,9 @@ Sport
       * [FC Barcelona](https://twitter.com/i/topics/731226255836598272)
       * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
     * [Liverpool](https://twitter.com/i/topics/731226219002265600)
-    * [Man City](https://twitter.com/i/topics/731226203856637952)
+    * Man City
+      * [Man City](https://twitter.com/i/topics/731226203856637952)
+      * [Kevin de Bruyne](https://twitter.com/i/topics/733773989353422849)
     * Man Utd
       * [Man Utd](https://twitter.com/i/topics/731226183572934657)
       * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
@@ -259,6 +295,9 @@ Sport
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
       * [Neymar](https://twitter.com/i/topics/733774105166548992)
     * [Real Madrid CF](https://twitter.com/i/topics/731226239898259457)
+  * Ligue des champions féminine de l'UEFA
+    * [OL Féminin](https://twitter.com/i/topics/1299074153773891584)
+    * [PSG Féminines](https://twitter.com/i/topics/1299076567105110016)
   * Ligue Europa Conférence de l'UEFA
     * [Hugo Lloris](https://twitter.com/i/topics/733773967182286848)
   * Premier League
@@ -267,7 +306,9 @@ Sport
     * [Chelsea](https://twitter.com/i/topics/731226204225708033)
     * [Everton](https://twitter.com/i/topics/731226209913180160)
     * [Liverpool](https://twitter.com/i/topics/731226219002265600)
-    * [Man City](https://twitter.com/i/topics/731226203856637952)
+    * Man City
+      * [Man City](https://twitter.com/i/topics/731226203856637952)
+      * [Kevin de Bruyne](https://twitter.com/i/topics/733773989353422849)
     * Man Utd
       * [Man Utd](https://twitter.com/i/topics/731226183572934657)
       * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
@@ -277,6 +318,8 @@ Sport
   * Équipes nationales de football masculin
     * Argentine
       * [Lionel Messi](https://twitter.com/i/topics/733774222305038337)
+    * Belgique
+      * [Kevin de Bruyne](https://twitter.com/i/topics/733773989353422849)
     * France
       * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
       * [Didier Deschamps](https://twitter.com/i/topics/733774484675534849)
@@ -311,6 +354,8 @@ Sport
       * [USAP Rugby](https://twitter.com/i/topics/1434893182290989062)
 * [Tennis](https://twitter.com/i/topics/847903248933502976)
 * Évènements sportifs
+  * Belgique
+    * [Kevin de Bruyne](https://twitter.com/i/topics/733773989353422849)
   * France
     * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
     * [Didier Deschamps](https://twitter.com/i/topics/733774484675534849)
@@ -323,6 +368,7 @@ Technologie
 ==========
 
 * [Technologie](https://twitter.com/i/topics/848920371311001600)
+* [Composants PC](https://twitter.com/i/topics/1237004504219828224)
 * Cryptomonnaie
   * [Cryptomonnaie](https://twitter.com/i/topics/913142676819648512)
   * [Bitcoin](https://twitter.com/i/topics/1007360414114435072)
@@ -330,6 +376,8 @@ Technologie
   * [Apple](https://twitter.com/i/topics/10026364281)
   * [Netflix](https://twitter.com/i/topics/10026367762)
   * [Samsung](https://twitter.com/i/topics/10026364234)
+* Journalistes et professionnels de la technologie
+  * [Elon Musk](https://twitter.com/i/topics/808713037230157824)
 
 Voyage
 ==========
@@ -340,9 +388,12 @@ Voyage
 ==========
 
 * Le Championnat d'Europe de l'UEFA
-  * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
-  * [Didier Deschamps](https://twitter.com/i/topics/733774484675534849)
-  * [Hugo Lloris](https://twitter.com/i/topics/733773967182286848)
-  * [Kylian Mbappé](https://twitter.com/i/topics/733774119699779584)
-  * [Olivier Giroud](https://twitter.com/i/topics/733774232966955008)
-  * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)
+  * Belgique
+    * [Kevin de Bruyne](https://twitter.com/i/topics/733773989353422849)
+  * France
+    * [Antoine Griezmann](https://twitter.com/i/topics/733774361048424448)
+    * [Didier Deschamps](https://twitter.com/i/topics/733774484675534849)
+    * [Hugo Lloris](https://twitter.com/i/topics/733773967182286848)
+    * [Kylian Mbappé](https://twitter.com/i/topics/733774119699779584)
+    * [Olivier Giroud](https://twitter.com/i/topics/733774232966955008)
+    * [Paul Pogba](https://twitter.com/i/topics/733774467583746049)

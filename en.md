@@ -58,8 +58,6 @@ Anime & manga
 * Anime goods
   * [Anime goods](https://twitter.com/i/topics/1311345191362523136)
   * [Model figures](https://twitter.com/i/topics/1206704182717104128)
-  * Plastic models
-    * [Transformers](https://twitter.com/i/topics/1022485839232655360)
 * [Anime news](https://twitter.com/i/topics/1299365067415154689)
 * Comics
   * [Comics](https://twitter.com/i/topics/847521144173350912)
@@ -1625,6 +1623,8 @@ Entertainment
       * Disney characters
         * [Disney villains](https://twitter.com/i/topics/1431274431758827523)
         * [Toy Story](https://twitter.com/i/topics/1402188171765436420)
+    * Sanrio
+      * [Hello Kitty](https://twitter.com/i/topics/1443277565393719296)
   * Television networks
     * [ABC](https://twitter.com/i/topics/10046269163)
     * [Adult Swim](https://twitter.com/i/topics/1406896027676803075)
@@ -2063,6 +2063,8 @@ Entertainment
         * [Chicago Party Aunt](https://twitter.com/i/topics/1439946019597271045)
         * [Family Guy](https://twitter.com/i/topics/1255601767376515072)
         * [Final Space](https://twitter.com/i/topics/1371873532980858882)
+        * [Hazbin Hotel](https://twitter.com/i/topics/1444046743423762434)
+        * [Helluva Boss](https://twitter.com/i/topics/1444044792988459009)
         * [Rick and Morty](https://twitter.com/i/topics/1255599434479460352)
         * [South Park](https://twitter.com/i/topics/1263276345091428353)
         * [The Simpsons](https://twitter.com/i/topics/1223191069757562880)
@@ -2192,7 +2194,7 @@ Entertainment
         * [The Circle UK](https://twitter.com/i/topics/1372931928693690381)
       * Survival competition
         * [Survivor](https://twitter.com/i/topics/1267704593300914176)
-        * [Survivor Türkiye](https://twitter.com/i/topics/1349662971375439875)
+        * [Survivor Turkiye](https://twitter.com/i/topics/1349662971375439875)
     * Docu-series
       * [Dark Side of the Ring](https://twitter.com/i/topics/1270690588396892166)
       * [Inside Pixar](https://twitter.com/i/topics/1323636441927151616)
@@ -3489,6 +3491,7 @@ Gaming
   * [Mr Love: Queen's Choice](https://twitter.com/i/topics/1093263025140752384)
   * [NBA 2K](https://twitter.com/i/topics/10041635245)
   * [Need for Speed](https://twitter.com/i/topics/10041743184)
+  * [New World](https://twitter.com/i/topics/1437797911530598403)
   * [Nier: Automata](https://twitter.com/i/topics/1309272406897258496)
   * [No man's sky](https://twitter.com/i/topics/1301079398305558529)
   * [Overwatch](https://twitter.com/i/topics/10044801920)
@@ -3575,10 +3578,9 @@ Home & family
     * [Funko](https://twitter.com/i/topics/1137010313503551488)
     * [Model figures](https://twitter.com/i/topics/1206704182717104128)
     * [Pens & stationery](https://twitter.com/i/topics/1307117889183346689)
-    * Plastic models
-      * [Transformers](https://twitter.com/i/topics/1022485839232655360)
     * [Sports cards](https://twitter.com/i/topics/1392166833956917251)
     * [Stamp & coin collection](https://twitter.com/i/topics/847870025721495552)
+    * [Stuffed toys](https://twitter.com/i/topics/1441472383211114515)
     * [Tamagotchi](https://twitter.com/i/topics/1256292690309689344)
   * Cooking
     * [Cooking](https://twitter.com/i/topics/831530561680191490)

@@ -58,7 +58,9 @@ Arte & cultura
     * [Senhor dos Anéis](https://twitter.com/i/topics/1012755727998337024)
     * [Star Wars](https://twitter.com/i/topics/986247671663898625)
   * [Livros de ficção cientifica & fantasia](https://twitter.com/i/topics/859533542962757633)
-* [Horóscopo](https://twitter.com/i/topics/1068226612380889088)
+* Horóscopo
+  * [Horóscopo](https://twitter.com/i/topics/1068226612380889088)
+  * [Astrologia](https://twitter.com/i/topics/1102600979491381248)
 * Livros
   * [Livros](https://twitter.com/i/topics/847519659179954178)
   * [Horror books](https://twitter.com/i/topics/859533953694187520)
@@ -109,6 +111,7 @@ Ciência
 * [Geografia](https://twitter.com/i/topics/857080369035661312)
 * Geologia
   * [Vulcões](https://twitter.com/i/topics/1352693397153222656)
+* [Prêmio Nobel](https://twitter.com/i/topics/1352676864007958528)
 * [Química](https://twitter.com/i/topics/847896929698668544)
 
 Comida
@@ -549,6 +552,7 @@ Entretenimento
         * [Killing Eve](https://twitter.com/i/topics/1255215711644868608)
         * [Lovecraft Country](https://twitter.com/i/topics/1358746329384538112)
         * [O Gambito da Rainha](https://twitter.com/i/topics/1321104029368242178)
+        * [Round 6](https://twitter.com/i/topics/1439901275856916484)
         * [The Handmaid's Tale](https://twitter.com/i/topics/1223188191072542720)
     * [Séries turcas](https://twitter.com/i/topics/1287501285290201088)
   * [Trailers de filmes & TV](https://twitter.com/i/topics/1333475632651538432)
@@ -564,6 +568,7 @@ Entretenimento
   * Harry Potter
     * [Harry Potter](https://twitter.com/i/topics/933033311844286464)
     * [Potterheads](https://twitter.com/i/topics/1272990394536431616)
+  * [High School Musical](https://twitter.com/i/topics/1440404254993240068)
   * [His Dark Materials ](https://twitter.com/i/topics/1323651721139113985)
   * [Homem-Aranha](https://twitter.com/i/topics/1012672762442182657)
   * [Hunter × Hunter](https://twitter.com/i/topics/1268927285739941888)
@@ -1226,6 +1231,7 @@ Lar & família
 * Família
   * [Casamentos](https://twitter.com/i/topics/847896684638097408)
 * Feriados
+  * [Feriados](https://twitter.com/i/topics/847548225712119808)
   * [Carnaval](https://twitter.com/i/topics/1395094481389584385)
   * [Halloween](https://twitter.com/i/topics/1296394094009151488)
 * [Namoros](https://twitter.com/i/topics/847896430605811712)
@@ -1799,6 +1805,7 @@ Profissões
 * [Marketing](https://twitter.com/i/topics/857879016971186177)
 * Áreas de estudo
   * [História](https://twitter.com/i/topics/1047111583309029381)
+  * [Prêmio Nobel](https://twitter.com/i/topics/1352676864007958528)
 
 Só no Twitter
 ==========
